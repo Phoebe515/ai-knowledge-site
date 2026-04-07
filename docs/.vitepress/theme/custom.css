@@ -1,0 +1,94 @@
+/* 自定义样式 */
+
+/* 热点模块样式 */
+.hot-banner {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff8e53 100%);
+  border-radius: 16px;
+  padding: 28px;
+  margin-bottom: 36px;
+  color: white;
+  box-shadow: 0 8px 24px rgba(255, 107, 107, 0.3);
+}
+
+.hot-banner:hover {
+  box-shadow: 0 12px 32px rgba(255, 107, 107, 0.4);
+}
+
+.hot-badge {
+  background: rgba(255, 255, 255, 0.3);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* 难度标签 */
+.difficulty-beginner {
+  background: #e8f5e9;
+  color: #4caf50;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.difficulty-advanced {
+  background: #fff3e0;
+  color: #ff9800;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* 来源链接样式 */
+.source-link {
+  color: #667eea;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.source-link:hover {
+  text-decoration: underline;
+}
+
+/* 更新时间样式 */
+.update-time {
+  color: #999;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* 自定义容器 */
+.custom-block.tip {
+  border-color: #667eea;
+}
+
+.custom-block.warning {
+  border-color: #e7c000;
+}
+
+.custom-block.danger {
+  border-color: #cc0f35;
+}
+
+/* 暗色主题适配 */
+.dark .hot-banner {
+  box-shadow: 0 8px 24px rgba(255, 107, 107, 0.2);
+}
+
+.dark .difficulty-beginner {
+  background: #1b5e20;
+  color: #81c784;
+}
+
+.dark .difficulty-advanced {
+  background: #e65100;
+  color: #ffb74d;
+}

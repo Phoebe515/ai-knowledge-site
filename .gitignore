@@ -1,0 +1,34 @@
+# 依赖
+node_modules/
+package-lock.json
+
+# 构建输出
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# 日志
+logs
+*.log
+npm-debug.log*
+vitepress.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+.env.local
+.env.*.local
+
+# 敏感文件
+.env
+*.key
+*.pem
