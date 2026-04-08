@@ -145,6 +145,82 @@ def fetch_leiphone_rss():
         print(f"AI科技评论 RSS 获取失败: {e}")
     return news_list
 
+def fetch_mit_tech_review_rss():
+    """通过 RSS 获取 MIT Technology Review AI 新闻"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://www.technologyreview.com/topic/artificial-intelligence/feed/', headers=headers, timeout=15)
+        root = ET.fromstring(response.content)
+        
+        items = root.findall('.//item')[:5]
+        for item in items:
+            title_elem = item.find('title')
+            link_elem = item.find('link')
+            
+            if title_elem is not None and link_elem is not None:
+                title = title_elem.text
+                link = link_elem.text
+                news_list.append({
+                    'title': title,
+                    'url': link,
+                    'source': 'MIT Tech Review'
+                })
+                
+        print(f"MIT Tech Review: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"MIT Tech Review RSS 获取失败: {e}")
+    return news_list
+
+def fetch_theverge_ai():
+    """爬取 The Verge AI 页面获取新闻"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://www.theverge.com/ai-artificial-intelligence', headers=headers, timeout=15)
+        
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 查找文章链接
+        seen_urls = set()
+        all_links = soup.find_all('a', href=True)
+        
+        for link in all_links:
+            href = link.get('href', '')
+            text = link.get_text(strip=True)
+            
+            # 筛选 The Verge 自己的文章
+            if href and text and len(text) > 15:
+                # 匹配 /2026/ 格式的文章链接
+                if '/2026/' in href and 'theverge.com' not in href and not href.startswith('http'):
+                    full_url = 'https://www.theverge.com' + href
+                    if full_url not in seen_urls:
+                        seen_urls.add(full_url)
+                        news_list.append({
+                            'title': text,
+                            'url': full_url,
+                            'source': 'The Verge'
+                        })
+                elif 'theverge.com/2026/' in href and full_url not in seen_urls:
+                    seen_urls.add(href)
+                    news_list.append({
+                        'title': text,
+                        'url': href,
+                        'source': 'The Verge'
+                    })
+        
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"The Verge: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"The Verge 爬取失败: {e}")
+    return news_list
+
 def generate_news_detail_with_zhipu(title, source):
     """使用智谱 AI 生成单条新闻的详细内容"""
     prompt = f"""你是一个AI领域的专业编辑。请根据以下新闻标题，生成一段简短的新闻摘要（50-80字）。
@@ -336,6 +412,8 @@ def main():
     all_news.extend(fetch_infoq_rss())
     all_news.extend(fetch_qbitai_rss())
     all_news.extend(fetch_leiphone_rss())
+    all_news.extend(fetch_mit_tech_review_rss())
+    all_news.extend(fetch_theverge_ai())
     
     print(f"共获取到 {len(all_news)} 条新闻")
     
