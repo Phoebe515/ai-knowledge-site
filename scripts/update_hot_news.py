@@ -258,6 +258,49 @@ def generate_news_detail_with_zhipu(title, source):
         print(f"智谱AI调用失败: {e}")
         return "详情请查看原文链接"
 
+def translate_title_to_chinese(title, source):
+    """将英文标题翻译成中文（用于首页展示）"""
+    # 如果已经是中文，直接返回
+    if any('\u4e00' <= char <= '\u9fff' for char in title):
+        return title[:30]
+    
+    # 英文标题需要翻译
+    prompt = f"""请将以下AI新闻标题翻译成简洁的中文（不超过25个字）：
+
+原标题：{title}
+
+要求：
+1. 简洁准确，突出重点
+2. 不超过25个中文字
+3. 直接输出翻译结果，不要有其他内容"""
+
+    try:
+        headers = {
+            'Authorization': f'Bearer {ZHIPU_API_KEY}',
+            'Content-Type': 'application/json'
+        }
+        data = {
+            'model': 'glm-4-flash',
+            'messages': [
+                {'role': 'user', 'content': prompt}
+            ],
+            'temperature': 0.3,
+            'max_tokens': 100
+        }
+        
+        response = requests.post(ZHIPU_API_URL, headers=headers, json=data, timeout=30)
+        result = response.json()
+        
+        if 'choices' in result and len(result['choices']) > 0:
+            translated = result['choices'][0]['message']['content'].strip()
+            # 限制长度
+            return translated[:30] if len(translated) > 30 else translated
+        else:
+            return title[:25]
+    except Exception as e:
+        print(f"翻译失败: {e}")
+        return title[:25]
+
 def generate_summary_with_zhipu(news_items):
     """使用智谱 AI 生成热点摘要"""
     if not news_items:
@@ -360,6 +403,21 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
     markdown += """::: tip 提示
 热点内容每日早7点自动更新，确保信息的时效性和准确性。所有热点均标明来源，欢迎查阅原文。
 :::
+
+---
+
+## 🔗 更多AI媒体
+
+以下是我们未收录但值得关注的主流AI媒体，欢迎访问：
+
+| 媒体名称 | 简介 | 链接 |
+|---------|------|------|
+| 36氪 | 国内领先的科技商业媒体，覆盖AI创业、融资动态 | [访问官网](https://36kr.com) |
+| 机器之心 | 专业AI垂直媒体，深度技术解读 | [访问官网](https://www.jiqizhixin.com) |
+| 新智元 | AI领域头部社区，热点响应快 | [访问官网](https://www.jiqizhixin.com) |
+| The Verge | 国际顶级科技媒体，AI新闻覆盖广 | [访问官网](https://www.theverge.com/ai-artificial-intelligence) |
+| VentureBeat AI | 商业科技媒体，融资产品消息快 | [访问官网](https://venturebeat.com/category/ai/) |
+| Wired AI | 科技文化媒体，深度分析文章 | [访问官网](https://www.wired.com/tag/artificial-intelligence/) |
 """
     
     return markdown
@@ -374,8 +432,15 @@ def update_homepage(news_items):
     today = datetime.now().strftime('%Y年%m月%d日')
     today_short = datetime.now().strftime('%Y-%m-%d')
     
-    # 取前3条新闻作为首页展示
+    # 取前3条新闻作为首页展示，并翻译标题
     top_news = news_items[:3]
+    
+    print("正在翻译首页热点标题...")
+    translated_titles = []
+    for item in top_news:
+        translated = translate_title_to_chinese(item['title'], item['source'])
+        translated_titles.append(translated)
+        print(f"  {item['source']}: {item['title'][:30]} -> {translated}")
     
     # 更新 updateTime 和 hotNews
     content = re.sub(
@@ -384,11 +449,11 @@ def update_homepage(news_items):
         content
     )
     
-    # 更新热点数据
+    # 更新热点数据（使用翻译后的中文标题）
     new_hot_news = f"""const hotNews = ref([
-  {{ title: '{top_news[0]['title'][:25]}...', desc: '{top_news[0]['source']}', date: '{today_short}' }},
-  {{ title: '{top_news[1]['title'][:25]}...', desc: '{top_news[1]['source']}', date: '{today_short}' }},
-  {{ title: '{top_news[2]['title'][:25]}...', desc: '{top_news[2]['source']}', date: '{today_short}' }}
+  {{ title: '{translated_titles[0]}', desc: '{top_news[0]['source']}', date: '{today_short}' }},
+  {{ title: '{translated_titles[1]}', desc: '{top_news[1]['source']}', date: '{today_short}' }},
+  {{ title: '{translated_titles[2]}', desc: '{top_news[2]['source']}', date: '{today_short}' }}
 ])"""
     
     content = re.sub(
