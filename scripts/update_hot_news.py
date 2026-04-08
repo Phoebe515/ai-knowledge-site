@@ -1,118 +1,84 @@
 #!/usr/bin/env python3
 """
 AI 热点新闻爬取与摘要生成脚本
-爬取 36氪、TechCrunch、InfoQ 的 AI 相关新闻，使用智谱 AI 生成摘要
+通过 RSS 获取 TechCrunch、InfoQ 的 AI 相关新闻，使用智谱 AI 生成摘要
 """
 
 import os
 import re
 import json
 import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime
-from bs4 import BeautifulSoup
 
 # 智谱 AI API 配置
 ZHIPU_API_KEY = os.environ.get('ZHIPU_API_KEY')
 ZHIPU_API_URL = 'https://open.bigmodel.cn/api/paas/v4/chat/completions'
 
-# 新闻源配置
-NEWS_SOURCES = [
-    {
-        'name': '36氪',
-        'url': 'https://36kr.com/motif/327104038336',
-        'type': 'chinese'
-    },
-    {
-        'name': 'TechCrunch',
-        'url': 'https://techcrunch.com/category/artificial-intelligence/',
-        'type': 'english'
-    },
-    {
-        'name': 'InfoQ',
-        'url': 'https://www.infoq.cn/ai',
-        'type': 'chinese'
-    }
-]
-
-def fetch_36kr_news():
-    """爬取 36氪 AI 频道"""
+def fetch_techcrunch_rss():
+    """通过 RSS 获取 TechCrunch AI 新闻"""
     news_list = []
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
-        response = requests.get('https://36kr.com/motif/327104038336', headers=headers, timeout=15)
-        response.encoding = 'utf-8'
-        soup = BeautifulSoup(response.text, 'html.parser')
+        response = requests.get('https://techcrunch.com/feed/', headers=headers, timeout=15)
+        root = ET.fromstring(response.content)
         
-        # 查找文章链接
-        articles = soup.select('a.article-item-title')[:5]
-        for article in articles:
-            title = article.get_text(strip=True)
-            href = article.get('href', '')
-            if href and not href.startswith('http'):
-                href = 'https://36kr.com' + href
-            if title:
-                news_list.append({
-                    'title': title,
-                    'url': href,
-                    'source': '36氪'
-                })
+        items = root.findall('.//item')
+        for item in items:
+            title_elem = item.find('title')
+            link_elem = item.find('link')
+            categories = [c.text for c in item.findall('category')]
+            
+            # 筛选 AI 分类的文章
+            if title_elem is not None and link_elem is not None:
+                if 'AI' in categories or 'artificial intelligence' in str(categories).lower():
+                    title = title_elem.text
+                    link = link_elem.text
+                    news_list.append({
+                        'title': title,
+                        'url': link,
+                        'source': 'TechCrunch'
+                    })
+                    
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"TechCrunch: 获取到 {len(news_list)} 条 AI 新闻")
     except Exception as e:
-        print(f"36氪爬取失败: {e}")
+        print(f"TechCrunch RSS 获取失败: {e}")
     return news_list
 
-def fetch_techcrunch_news():
-    """爬取 TechCrunch AI 频道"""
+def fetch_infoq_rss():
+    """通过 RSS 获取 InfoQ 新闻"""
     news_list = []
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
-        response = requests.get('https://techcrunch.com/category/artificial-intelligence/', headers=headers, timeout=15)
-        soup = BeautifulSoup(response.text, 'html.parser')
+        response = requests.get('https://www.infoq.cn/feed', headers=headers, timeout=15)
+        root = ET.fromstring(response.content)
         
-        # 查找文章
-        articles = soup.select('h2 a[href*="/"]')[:5]
-        for article in articles:
-            title = article.get_text(strip=True)
-            href = article.get('href', '')
-            if title and href:
+        items = root.findall('.//item')[:8]
+        for item in items:
+            title_elem = item.find('title')
+            link_elem = item.find('link')
+            
+            if title_elem is not None and link_elem is not None:
+                title = title_elem.text
+                link = link_elem.text
+                # 清理链接中的追踪参数
+                if '?' in link:
+                    link = link.split('?')[0]
                 news_list.append({
                     'title': title,
-                    'url': href,
-                    'source': 'TechCrunch'
-                })
-    except Exception as e:
-        print(f"TechCrunch爬取失败: {e}")
-    return news_list
-
-def fetch_infoq_news():
-    """爬取 InfoQ AI 频道"""
-    news_list = []
-    try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        response = requests.get('https://www.infoq.cn/ai', headers=headers, timeout=15)
-        response.encoding = 'utf-8'
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # 查找文章
-        articles = soup.select('a[class*="title"]')[:5]
-        for article in articles:
-            title = article.get_text(strip=True)
-            href = article.get('href', '')
-            if href and not href.startswith('http'):
-                href = 'https://www.infoq.cn' + href
-            if title:
-                news_list.append({
-                    'title': title,
-                    'url': href,
+                    'url': link,
                     'source': 'InfoQ'
                 })
+                
+        print(f"InfoQ: 获取到 {len(news_list)} 条新闻")
     except Exception as e:
-        print(f"InfoQ爬取失败: {e}")
+        print(f"InfoQ RSS 获取失败: {e}")
     return news_list
 
 def generate_summary_with_zhipu(news_items):
@@ -208,21 +174,24 @@ title: AI 热点
     
     markdown += """---
 
-> 以上新闻来源于 36氪、TechCrunch、InfoQ，每日早 7:00 自动更新
+> 以上新闻来源于 TechCrunch、InfoQ，每日早 7:00 自动更新
 """
     
     return markdown
 
 def main():
-    print("开始爬取新闻...")
+    print("开始获取新闻...")
     
-    # 爬取各来源新闻
+    # 获取各来源新闻
     all_news = []
-    all_news.extend(fetch_36kr_news())
-    all_news.extend(fetch_techcrunch_news())
-    all_news.extend(fetch_infoq_news())
+    all_news.extend(fetch_techcrunch_rss())
+    all_news.extend(fetch_infoq_rss())
     
-    print(f"共爬取到 {len(all_news)} 条新闻")
+    print(f"共获取到 {len(all_news)} 条新闻")
+    
+    if not all_news:
+        print("未获取到任何新闻，跳过更新")
+        return
     
     # 生成摘要
     print("正在生成摘要...")
