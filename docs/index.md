@@ -22,8 +22,8 @@ import { ref, onMounted } from 'vue'
 
 const updateTime = ref('2026年04月08日 07:00')
 const hotNews = ref([
-  { title: '谷歌悄然推出离线AI语音助手', desc: 'TechCrunch', date: '2026-04-08' },
-  { title: '为开源小AI模型Arcee打call', desc: 'TechCrunch', date: '2026-04-08' },
+  { title: '谷歌悄然推出离线AI语音识别应用', desc: 'TechCrunch', date: '2026-04-08' },
+  { title: '开源小AI模型制作者Arcee获力挺', desc: 'TechCrunch', date: '2026-04-08' },
   { title: '南gate AI数据中心建商Firmus估值达55亿美元', desc: 'TechCrunch', date: '2026-04-08' }
 ])
 </script>
