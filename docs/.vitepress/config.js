@@ -5,9 +5,9 @@ export default defineConfig({
   description: '聚焦大语言模型、Agent、Skill与AI热点',
   lang: 'zh-CN',
   
-  // SEO优化：站点地图（部署后修改为实际域名）
+  // SEO优化：站点地图
   sitemap: {
-    hostname: 'https://your-site.vercel.app'
+    hostname: 'https://ai-knowledge-site-sage.vercel.app'
   },
   
   themeConfig: {
