@@ -404,6 +404,12 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 热点内容每日早7点自动更新，确保信息的时效性和准确性。所有热点均标明来源，欢迎查阅原文。
 :::
 
+::: warning 访问说明
+- **国内可访问**：InfoQ、量子位、AI科技评论
+- **需科学上网**：TechCrunch、MIT Tech Review
+- 建议优先阅读国内来源的热点内容
+:::
+
 ---
 
 ## 🔗 更多AI媒体
@@ -415,9 +421,11 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 | 36氪 | 国内领先的科技商业媒体，覆盖AI创业、融资动态 | [访问官网](https://36kr.com) |
 | 机器之心 | 专业AI垂直媒体，深度技术解读 | [访问官网](https://www.jiqizhixin.com) |
 | 新智元 | AI领域头部社区，热点响应快 | [访问官网](https://www.jiqizhixin.com) |
-| The Verge | 国际顶级科技媒体，AI新闻覆盖广 | [访问官网](https://www.theverge.com/ai-artificial-intelligence) |
-| VentureBeat AI | 商业科技媒体，融资产品消息快 | [访问官网](https://venturebeat.com/category/ai/) |
-| Wired AI | 科技文化媒体，深度分析文章 | [访问官网](https://www.wired.com/tag/artificial-intelligence/) |
+| The Verge | 国际顶级科技媒体，AI新闻覆盖广 | [访问官网](https://www.theverge.com/ai-artificial-intelligence) ⚠️ |
+| VentureBeat AI | 商业科技媒体，融资产品消息快 | [访问官网](https://venturebeat.com/category/ai/) ⚠️ |
+| Wired AI | 科技文化媒体，深度分析文章 | [访问官网](https://www.wired.com/tag/artificial-intelligence/) ⚠️ |
+
+> ⚠️ 标记的网站需要科学上网才能访问
 """
     
     return markdown
