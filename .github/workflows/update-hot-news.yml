@@ -17,16 +17,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '20'
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
           
       - name: Update hot news
+        env:
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
         run: |
-          # 这里可以添加更新热点的逻辑
-          # 例如：调用API获取最新AI新闻
-          echo "Updating hot news..."
+          python scripts/update_hot_news.py
           
       - name: Commit changes
         run: |
