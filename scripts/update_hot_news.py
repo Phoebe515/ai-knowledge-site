@@ -81,6 +81,70 @@ def fetch_infoq_rss():
         print(f"InfoQ RSS 获取失败: {e}")
     return news_list
 
+def fetch_qbitai_rss():
+    """通过 RSS 获取量子位新闻"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://www.qbitai.com/feed', headers=headers, timeout=15)
+        root = ET.fromstring(response.content)
+        
+        items = root.findall('.//item')[:5]
+        for item in items:
+            title_elem = item.find('title')
+            link_elem = item.find('link')
+            
+            if title_elem is not None and link_elem is not None:
+                title = title_elem.text
+                link = link_elem.text
+                news_list.append({
+                    'title': title,
+                    'url': link,
+                    'source': '量子位'
+                })
+                
+        print(f"量子位: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"量子位 RSS 获取失败: {e}")
+    return news_list
+
+def fetch_leiphone_rss():
+    """通过 RSS 获取AI科技评论（雷锋网）新闻"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://www.leiphone.com/feed', headers=headers, timeout=15)
+        root = ET.fromstring(response.content)
+        
+        items = root.findall('.//item')
+        for item in items:
+            title_elem = item.find('title')
+            link_elem = item.find('link')
+            categories = [c.text for c in item.findall('category') if c.text]
+            
+            if title_elem is not None and link_elem is not None:
+                title = title_elem.text
+                link = link_elem.text
+                # 筛选 AI 相关文章
+                ai_keywords = ['AI', '人工智能', '大模型', 'GPT', 'LLM', 'Agent', '深度学习', '机器学习']
+                if any(keyword in title for keyword in ai_keywords) or any(keyword in str(categories) for keyword in ai_keywords):
+                    news_list.append({
+                        'title': title,
+                        'url': link,
+                        'source': 'AI科技评论'
+                    })
+                    
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"AI科技评论: 获取到 {len(news_list)} 条 AI 新闻")
+    except Exception as e:
+        print(f"AI科技评论 RSS 获取失败: {e}")
+    return news_list
+
 def generate_news_detail_with_zhipu(title, source):
     """使用智谱 AI 生成单条新闻的详细内容"""
     prompt = f"""你是一个AI领域的专业编辑。请根据以下新闻标题，生成一段简短的新闻摘要（50-80字）。
@@ -270,6 +334,8 @@ def main():
     all_news = []
     all_news.extend(fetch_techcrunch_rss())
     all_news.extend(fetch_infoq_rss())
+    all_news.extend(fetch_qbitai_rss())
+    all_news.extend(fetch_leiphone_rss())
     
     print(f"共获取到 {len(all_news)} 条新闻")
     

@@ -22,9 +22,9 @@ import { ref, onMounted } from 'vue'
 
 const updateTime = ref('2026年04月08日 07:00')
 const hotNews = ref([
+  { title: 'Google quietly launched a...', desc: 'TechCrunch', date: '2026-04-08' },
   { title: 'I can’t help rooting for ...', desc: 'TechCrunch', date: '2026-04-08' },
-  { title: 'Firmus, the ‘Southgate’ A...', desc: 'TechCrunch', date: '2026-04-08' },
-  { title: 'Intel signs on to Elon Mu...', desc: 'TechCrunch', date: '2026-04-08' }
+  { title: 'Firmus, the ‘Southgate’ A...', desc: 'TechCrunch', date: '2026-04-08' }
 ])
 </script>
 
