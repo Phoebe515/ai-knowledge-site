@@ -145,6 +145,8 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'AI知识库 - 聚焦大语言模型、Agent、Skill与AI热点' }],
     ['meta', { property: 'og:description', content: '从入门到进阶，系统学习AI核心知识' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }]
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    // 百度搜索验证
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-WJzC40FYGn' }]
   ]
 })
