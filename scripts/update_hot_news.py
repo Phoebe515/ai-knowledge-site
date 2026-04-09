@@ -259,7 +259,7 @@ def generate_news_detail_with_zhipu(title, source):
         return "详情请查看原文链接"
 
 def translate_title_to_chinese(title, source):
-    """将英文标题翻译成中文（用于首页展示）"""
+    """将英文标题翻译成中文（用于首页展示），失败返回 None"""
     # 如果已经是中文，直接返回
     if any('\u4e00' <= char <= '\u9fff' for char in title):
         return title[:30]
@@ -293,13 +293,18 @@ def translate_title_to_chinese(title, source):
         
         if 'choices' in result and len(result['choices']) > 0:
             translated = result['choices'][0]['message']['content'].strip()
-            # 限制长度
-            return translated[:30] if len(translated) > 30 else translated
+            # 检查翻译结果是否包含中文
+            if any('\u4e00' <= char <= '\u9fff' for char in translated):
+                return translated[:30] if len(translated) > 30 else translated
+            else:
+                print(f"翻译结果不含中文: {translated}")
+                return None
         else:
-            return title[:25]
+            print(f"翻译API返回异常: {result}")
+            return None
     except Exception as e:
         print(f"翻译失败: {e}")
-        return title[:25]
+        return None
 
 def generate_summary_with_zhipu(news_items):
     """使用智谱 AI 生成热点摘要"""
@@ -431,7 +436,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
     return markdown
 
 def update_homepage(news_items):
-    """更新首页热点模块"""
+    """更新首页热点模块，翻译失败则跳过更新"""
     # 读取首页文件
     with open('docs/index.md', 'r', encoding='utf-8') as f:
         content = f.read()
@@ -445,14 +450,25 @@ def update_homepage(news_items):
     
     print("正在翻译首页热点标题...")
     translated_titles = []
+    translation_failed = False
+    
     for item in top_news:
         translated = translate_title_to_chinese(item['title'], item['source'])
-        translated_titles.append(translated)
-        print(f"  {item['source']}: {item['title'][:30]} -> {translated}")
+        if translated is None:
+            print(f"  ❌ 翻译失败: {item['source']}: {item['title'][:30]}")
+            translation_failed = True
+        else:
+            print(f"  ✅ {item['source']}: {item['title'][:30]} -> {translated}")
+            translated_titles.append(translated)
+    
+    # 如果翻译失败，跳过首页更新
+    if translation_failed or len(translated_titles) < 3:
+        print("⚠️ 翻译未完全成功，跳过首页更新，保留上次内容")
+        return False
     
     # 更新 updateTime 和 hotNews
     content = re.sub(
-        r"const updateTime = ref\('.*?'\)",
+        r"const updateTime = ref('.*?')",
         f"const updateTime = ref('{today} 07:00')",
         content
     )
@@ -474,7 +490,10 @@ def update_homepage(news_items):
     with open('docs/index.md', 'w', encoding='utf-8') as f:
         f.write(content)
     
-    print("首页热点模块已更新")
+    print("✅ 首页热点模块已更新")
+    return True
+
+
 
 def main():
     print("开始获取新闻...")
