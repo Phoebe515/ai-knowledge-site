@@ -22,9 +22,9 @@ import { ref, onMounted } from 'vue'
 
 const updateTime = ref('2026年04月09日 07:00')
 const hotNews = ref([
-  { title: 'Poke让AI助手使用像发短信一样简单', desc: 'TechCrunch', date: '2026-04-09' },
-  { title: 'AWS老板：双投AI巨头，冲突无妨', desc: 'TechCrunch', date: '2026-04-09' },
-  { title: 'Tubi成ChatGPT首个原生应用流媒体', desc: 'TechCrunch', date: '2026-04-09' }
+  { title: 'Poke makes using AI agent', desc: 'TechCrunch', date: '2026-04-09' },
+  { title: 'AWS boss explains why inv', desc: 'TechCrunch', date: '2026-04-09' },
+  { title: 'Tubi is the first streame', desc: 'TechCrunch', date: '2026-04-09' }
 ])
 </script>
 

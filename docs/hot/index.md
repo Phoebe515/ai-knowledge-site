@@ -20,7 +20,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Poke平台简化AI应用，用户可像发短信一样使用AI代理，提升交互便捷性。
+详情请查看原文链接
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
 
@@ -30,7 +30,7 @@ Poke平台简化AI应用，用户可像发短信一样使用AI代理，提升交
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊AWS负责人解释为何投资Anthropic和OpenAI存在利益冲突，称其看好两家公司的发展潜力。
+详情请查看原文链接
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
 
@@ -40,7 +40,7 @@ Poke平台简化AI应用，用户可像发短信一样使用AI代理，提升交
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Tubi成为首个在ChatGPT内推出原生应用的流媒体平台，标志着流媒体与AI融合新趋势。
+详情请查看原文链接
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
 
@@ -50,7 +50,7 @@ Tubi成为首个在ChatGPT内推出原生应用的流媒体平台，标志着流
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Astropad推出Workbench，重新定义远程桌面AI应用，为AI代理而非IT支持服务。
+详情请查看原文链接
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
 
@@ -60,9 +60,29 @@ Astropad推出Workbench，重新定义远程桌面AI应用，为AI代理而非IT
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布新安全蓝图，应对儿童性剥削风险上升。
+详情请查看原文链接
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)
+
+---
+
+### Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+详情请查看原文链接
+
+**来源：** [InfoQ](https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO)
+
+---
+
+### TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+详情请查看原文链接
+
+**来源：** [InfoQ](https://www.infoq.cn/article/r5EHCug4069tix7kDGLf)
 
 ---
 
@@ -70,29 +90,9 @@ OpenAI发布新安全蓝图，应对儿童性剥削风险上升。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI火焰图技术应用于亿级App，实现大前端性能优化新范式，助力QCon北京大会探讨前沿技术。
+详情请查看原文链接
 
 **来源：** [InfoQ](https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm)
-
----
-
-### 大规模替换数据库序列，保障百余个服务平稳运行
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-大规模替换数据库序列，保障百余个服务平稳运行，提升系统稳定性和数据安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/y7AbcVajoOEaglvkaDKU)
-
----
-
-### Swift 6.3 来了：不止 Android，C 互操作能力也更进一步
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Swift 6.3发布，增强Android和C互操作，提升跨平台开发效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/LgQEaumUJuPpdlAdYwHN)
 
 ---
 
