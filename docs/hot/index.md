@@ -9,60 +9,60 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月08日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月09日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月08
+## 2026年04月09
 
-### Google quietly launched an AI dictation app that works offline
+### AI agent Poke makes setting up automations as easy as sending a text
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌悄然推出一款离线AI语音输入应用。
+AI助手Poke简化自动化设置，用户可通过发送短信轻松实现。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
 
 ---
 
-### I can’t help rooting for tiny open source AI model maker Arcee
+### AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-开源AI模型初创公司Arcee备受关注，其小型AI模型备受赞誉。
+亚马逊CEO解释为何在Anthropic和OpenAI同时投资数十亿美元构成合理冲突。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
 
 ---
 
-### Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation
+### Tubi is the first streamer to launch a native app within ChatGPT
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Firmus，由Nvidia支持的“Southgate”AI数据中心建造商，估值达55亿美元。
+Tubi成为首个在ChatGPT内推出原生应用的流媒体平台，标志着流媒体与AI聊天工具的深度融合。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
 
 ---
 
-### Intel signs on to Elon Musk’s Terafab chips project
+### Astropad’s Workbench reimagines remote desktop for AI agents, not IT support
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-英特尔加入埃隆·马斯克的Terafab芯片项目。
+Astropad的Workbench重新定义远程桌面，专为AI代理而非IT支持设计，提高远程协作效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
 
 ---
 
-### Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative
+### OpenAI releases a new safety blueprint to address the rise in child sexual exploitation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic发布全新AI模型Mythos预览，用于网络安全新项目，强化防御能力。
+OpenAI发布新安全蓝图，应对儿童性剥削问题上升。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)
 
 ---
 
@@ -70,7 +70,7 @@ Anthropic发布全新AI模型Mythos预览，用于网络安全新项目，强化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub将利用Free、Pro和Pro+用户的Copilot交互数据训练AI模型，以提升代码生成能力。
+GitHub宣布将利用Free、Pro和Pro+用户的Copilot交互数据训练AI模型，以提升代码辅助工具的性能。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q)
 
@@ -80,7 +80,7 @@ GitHub将利用Free、Pro和Pro+用户的Copilot交互数据训练AI模型，以
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub利用AI重构反馈处理机制，提升代码审查效率，优化开发者体验。
+GitHub 利用AI技术重构反馈处理机制，提升代码审查效率，优化开发者体验。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy)
 
@@ -90,7 +90,7 @@ GitHub利用AI重构反馈处理机制，提升代码审查效率，优化开发
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Claude Code史诗级负优化，AI主管批深度思考暴跌，官方回应遭开发者炮轰，称其沦为“玩具”。
+Claude Code史诗级负优化，AI主管批思考深度暴跌，官方回应被开发者怒怼，称其沦为AI“玩具”。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax)
 
