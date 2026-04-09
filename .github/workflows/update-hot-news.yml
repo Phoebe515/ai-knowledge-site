@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/hot/index.md
+          git add docs/hot/index.md docs/index.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Update hot news - $(date '+%Y-%m-%d')"
           
       - name: Push changes
