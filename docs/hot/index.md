@@ -20,7 +20,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-详情请查看原文链接
+Poke简化AI应用，让使用AI代理如同发送短信般便捷。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
 
@@ -30,7 +30,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-详情请查看原文链接
+亚马逊云服务（AWS）首席执行官解释为何在Anthropic和OpenAI上投资数十亿美元存在潜在冲突，称这是对AI领域长期承诺的体现。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
 
@@ -40,7 +40,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-详情请查看原文链接
+Tubi成为首个在ChatGPT内推出原生应用的流媒体平台，标志着AI与流媒体融合的又一重要进展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
 
@@ -50,7 +50,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-详情请查看原文链接
+Astropad推出Workbench，重塑远程桌面，助力AI助手而非IT支持。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
 
@@ -60,9 +60,29 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-详情请查看原文链接
+OpenAI发布新安全蓝图，应对儿童性剥削风险上升。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)
+
+---
+
+### Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Spotify 2025 年度回顾揭示AI规模化叙事，同时引发隐私博弈，探讨AI在音乐推荐中的角色与挑战。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO)
+
+---
+
+### Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Pinterest采用自动内存重试技术，将Spark的OOM故障降低96%，显著提升系统稳定性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76)
 
 ---
 
@@ -70,29 +90,9 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-详情请查看原文链接
+Claude Code发布13种编程语言代码基准测试，结果显示动态语言在速度和成本上更具优势。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO)
-
----
-
-### TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-详情请查看原文链接
-
-**来源：** [InfoQ](https://www.infoq.cn/article/r5EHCug4069tix7kDGLf)
-
----
-
-### 大前端性能优化新范式：AI 火焰图在亿级 App 中的落地｜QCon北京
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-详情请查看原文链接
-
-**来源：** [InfoQ](https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm)
 
 ---
 
