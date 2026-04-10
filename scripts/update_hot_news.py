@@ -468,7 +468,7 @@ def update_homepage(news_items):
     
     # 更新 updateTime 和 hotNews
     content = re.sub(
-        r"const updateTime = ref('.*?')",
+        r"const updateTime = ref\('.*?'\)",
         f"const updateTime = ref('{today} 07:00')",
         content
     )
