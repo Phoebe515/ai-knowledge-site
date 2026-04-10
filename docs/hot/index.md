@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月09日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月10日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月09
+## 2026年04月10
 
-### Poke makes using AI agents as easy as sending a text
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Poke简化AI应用，让使用AI代理如同发送短信般便捷。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
-
----
-
-### AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict
+### ChatGPT finally offers $100/month Pro plan
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊云服务（AWS）首席执行官解释为何在Anthropic和OpenAI上投资数十亿美元存在潜在冲突，称这是对AI领域长期承诺的体现。
+ChatGPT推出每月100美元的专业版计划，提供更多功能和个性化服务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
 
 ---
 
-### Tubi is the first streamer to launch a native app within ChatGPT
+### Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Tubi成为首个在ChatGPT内推出原生应用的流媒体平台，标志着AI与流媒体融合的又一重要进展。
+佛罗里达州总检察长宣布调查OpenAI，涉及其ChatGPT在疑似枪击案中的角色。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
 
 ---
 
-### Astropad’s Workbench reimagines remote desktop for AI agents, not IT support
+### After data breach, $10B-valued startup Mercor is having a month
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Astropad推出Workbench，重塑远程桌面，助力AI助手而非IT支持。
+数据泄露后，价值100亿美元的初创公司Mercor面临严峻挑战，目前正经历艰难时刻。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
 
 ---
 
-### OpenAI releases a new safety blueprint to address the rise in child sexual exploitation
+### Meta AI app climbs to No. 5 on the App Store after Muse Spark launch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布新安全蓝图，应对儿童性剥削风险上升。
+Meta AI应用Muse Spark发布后，在App Store排名升至第5位。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
 
 ---
 
-### Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈
+### Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic限制Mythos发布，旨在保护互联网安全，引发行业关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+
+---
+
+### 从业务场景到组织体系，“龙虾” 如何走进企业
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Spotify 2025 年度回顾揭示AI规模化叙事，同时引发隐私博弈，探讨AI在音乐推荐中的角色与挑战。
+“龙虾”技术走进企业，从业务场景到组织体系，探讨其在企业中的应用与发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO)
-
----
-
-### Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Pinterest采用自动内存重试技术，将Spark的OOM故障降低96%，显著提升系统稳定性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76)
+**来源：** [InfoQ](https://www.infoq.cn/article/ooKcF9BdXrfJloHHNZpY)
 
 ---
 
-### Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本
+### 从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Claude Code发布13种编程语言代码基准测试，结果显示动态语言在速度和成本上更具优势。
+AI时代，软件架构迎来从云原生到Agent Engineering的跃迁，QCon北京大会聚焦技术趋势与未来挑战。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO)
+**来源：** [InfoQ](https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD)
+
+---
+
+### 谷歌开源实验性多智能体编排测试平台 Scion
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+谷歌开源多智能体编排测试平台Scion，旨在促进多智能体系统研究和开发。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM)
 
 ---
 
