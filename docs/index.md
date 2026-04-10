@@ -23,7 +23,7 @@ import { ref, onMounted } from 'vue'
 const updateTime = ref('2026年04月10日 07:00')
 const hotNews = ref([
   { title: 'ChatGPT推出每月100美元专业版', desc: 'TechCrunch', date: '2026-04-10' },
-  { title: '佛罗里达州总检察长调查OpenAI与ChatGPT涉枪案', desc: 'TechCrunch', date: '2026-04-10' },
+  { title: '佛罗里达州总检察长调查OpenAI涉ChatGPT射击事件', desc: 'TechCrunch', date: '2026-04-10' },
   { title: '数据泄露后，10亿估值初创公司Mercor遇困境', desc: 'TechCrunch', date: '2026-04-10' }
 ])
 </script>

@@ -20,7 +20,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT推出每月100美元的专业版计划，提供更多高级功能。
+ChatGPT推出每月100美元的专业计划，提供更多高级功能。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
 
@@ -30,7 +30,7 @@ ChatGPT推出每月100美元的专业版计划，提供更多高级功能。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-佛罗里达州总检察长宣布调查OpenAI，因涉嫌涉及ChatGPT的射击事件。
+佛罗里达州总检察长宣布调查OpenAI，涉及其产品ChatGPT在射击事件中的角色。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
 
@@ -40,7 +40,7 @@ ChatGPT推出每月100美元的专业版计划，提供更多高级功能。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-数据泄露后，价值100亿美元的初创公司Mercor面临一个月的困境。
+数据泄露后，价值100亿美元的初创公司Mercor面临严峻挑战，业绩陷入困境。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
 
@@ -50,7 +50,7 @@ ChatGPT推出每月100美元的专业版计划，提供更多高级功能。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta AI应用Muse Spark发布后，登顶App Store第五名。
+Meta AI应用在Muse Spark发布后，登顶App Store第5名。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
 
@@ -60,9 +60,19 @@ Meta AI应用Muse Spark发布后，登顶App Store第五名。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic限制Mythos发布以保护互联网安全，引发业界关注。
+Anthropic限制Mythos发布以保护互联网，引发对其动机的猜测。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+
+---
+
+### Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Istio新增多集群、环境模式和推理功能，助力应对AI时代挑战，提升服务网格灵活性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh)
 
 ---
 
@@ -70,7 +80,7 @@ Anthropic限制Mythos发布以保护互联网安全，引发业界关注。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic因npm源映射文件泄露导致Claude Code源码意外公开，引发安全担忧。
+Anthropic因npm源映射文件泄露，导致Claude Code源码意外公开。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi)
 
@@ -80,19 +90,9 @@ Anthropic因npm源映射文件泄露导致Claude Code源码意外公开，引发
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-“龙虾”作为新型企业服务，已从业务场景拓展至组织体系，助力企业实现数字化转型。
+“龙虾”技术如何融入企业业务场景和组织体系，InfoQ深入解析。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/ooKcF9BdXrfJloHHNZpY)
-
----
-
-### 从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在QCon北京，专家探讨AI时代软件架构的跃迁，从云原生到Agent Engineering，揭示技术发展趋势。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD)
 
 ---
 
