@@ -20,7 +20,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT推出每月100美元的专业计划，提供更多高级功能。
+ChatGPT推出每月100美元的专业版计划，提供更多高级功能和个性化服务。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
 
@@ -30,7 +30,7 @@ ChatGPT推出每月100美元的专业计划，提供更多高级功能。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-佛罗里达州总检察长宣布调查OpenAI，涉及其产品ChatGPT在射击事件中的角色。
+佛罗里达州总检察长宣布调查OpenAI，涉及其ChatGPT在射击事件中的责任。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
 
@@ -40,7 +40,7 @@ ChatGPT推出每月100美元的专业计划，提供更多高级功能。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-数据泄露后，价值100亿美元的初创公司Mercor面临严峻挑战，业绩陷入困境。
+数据泄露后，价值100亿美元的初创公司Mercor面临一个月困境。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
 
@@ -50,7 +50,7 @@ ChatGPT推出每月100美元的专业计划，提供更多高级功能。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta AI应用在Muse Spark发布后，登顶App Store第5名。
+Meta AI应用在Muse Spark发布后登上App Store第五名。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
 
@@ -60,9 +60,19 @@ Meta AI应用在Muse Spark发布后，登顶App Store第5名。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic限制Mythos发布以保护互联网，引发对其动机的猜测。
+Anthropic限制Mythos发布以保护互联网安全，或为自身利益？TechCrunch报道，此举引发行业关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+
+---
+
+### 开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Meta发布闭源AI项目，斥资143亿美金押注AI赛道，引发开源社区担忧。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT)
 
 ---
 
@@ -70,7 +80,7 @@ Anthropic限制Mythos发布以保护互联网，引发对其动机的猜测。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Istio新增多集群、环境模式和推理功能，助力应对AI时代挑战，提升服务网格灵活性。
+Istio新增多集群、环境模式及推理功能，助力应对AI时代挑战，提升服务网格性能与可扩展性。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh)
 
@@ -86,16 +96,6 @@ Anthropic因npm源映射文件泄露，导致Claude Code源码意外公开。
 
 ---
 
-### 从业务场景到组织体系，“龙虾” 如何走进企业
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-“龙虾”技术如何融入企业业务场景和组织体系，InfoQ深入解析。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/ooKcF9BdXrfJloHHNZpY)
-
----
-
 ::: tip 提示
 热点内容每日早7点自动更新，确保信息的时效性和准确性。所有热点均标明来源，欢迎查阅原文。
 :::
@@ -105,6 +105,19 @@ Anthropic因npm源映射文件泄露，导致Claude Code源码意外公开。
 - **需科学上网**：TechCrunch、MIT Tech Review
 - 建议优先阅读国内来源的热点内容
 :::
+
+---
+
+## 📚 历史热点
+
+想查看更多历史热点新闻？点击下方链接浏览：
+
+| 时间范围 | 说明 | 链接 |
+|---------|------|------|
+| 📅 最近七天 | 按日期详细展示 | [查看详情](/hot/history-demo.html#📅-最近七天) |
+| 📆 最近一个月 | 按周分组展示 | [查看详情](/hot/history-demo.html#📆-最近一个月) |
+| 📊 最近三个月 | 按月展示重大事件 | [查看详情](/hot/history-demo.html#📊-最近三个月) |
+| 🗓️ 三个月以上 | 按季度展示行业回顾 | [查看详情](/hot/history-demo.html#🗓️-三个月以上) |
 
 ---
 
