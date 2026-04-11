@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月10日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月11日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月10
+## 2026年04月11
+
+### Anthropic temporarily banned OpenClaw’s creator from accessing Claude
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic禁止OpenClaw的创造者访问Claude，TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+
+---
+
+### Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI旗下ChatGPT被指控助长施暴者幻想，受害者提起诉讼，指责其忽视警告。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
+
+---
+
+### TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch将赴东京，携Startup Battlefield同至。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
+
+---
+
+### Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Disrupt 2026门票现优惠，最高可省500美元。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
+
+---
 
 ### ChatGPT finally offers $100/month Pro plan
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT推出每月100美元的专业版计划，提供更多高级功能和个性化服务。
+ChatGPT推出每月100美元的专业订阅计划，提供更多高级功能。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
 
 ---
 
-### Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-佛罗里达州总检察长宣布调查OpenAI，涉及其ChatGPT在射击事件中的责任。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
-
----
-
-### After data breach, $10B-valued startup Mercor is having a month
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-数据泄露后，价值100亿美元的初创公司Mercor面临一个月困境。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
-
----
-
-### Meta AI app climbs to No. 5 on the App Store after Muse Spark launch
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta AI应用在Muse Spark发布后登上App Store第五名。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
-
----
-
-### Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic限制Mythos发布以保护互联网安全，或为自身利益？TechCrunch报道，此举引发行业关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
-
----
-
-### 开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心
+### Anthropic 推出多代理 Harness，重构长时 AI 编程流程
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Meta发布闭源AI项目，斥资143亿美金押注AI赛道，引发开源社区担忧。
+Anthropic发布多代理Harness，重构长时AI编程流程，提高开发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT)
-
----
-
-### Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Istio新增多集群、环境模式及推理功能，助力应对AI时代挑战，提升服务网格性能与可扩展性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh)
+**来源：** [InfoQ](https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6)
 
 ---
 
-### Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码
+### 神秘模型屠榜多日、碾压Seedance 2.0！背后竟是阿里大招：新部门首作实锤，引爆股价拉升   
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic因npm源映射文件泄露，导致Claude Code源码意外公开。
+神秘模型连续多日屠榜，背后为阿里新部门首作，引发股价上涨。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi)
+**来源：** [InfoQ](https://www.infoq.cn/article/H6Y6KmRbTKapOjYmTU63)
+
+---
+
+### 没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+顶级AI实验室无需KPI也能领先OpenAI，内部观察者揭示其运作之道。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck)
 
 ---
 
