@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月12
+## 2026年04月13
+
+### Trump officials may be encouraging banks to test Anthropic’s Mythos model
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特朗普政府官员可能正鼓励银行测试Anthropic的Mythos模型。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
+
+---
+
+### Apple reportedly testing four designs for upcoming smart glasses
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果公司正在测试四款即将推出的智能眼镜设计，据TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
+
+---
+
+### From LLMs to hallucinations, here’s a simple guide to common AI terms
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch发布指南，解读从LLMs到幻觉等常见AI术语。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+
+---
+
+### At the HumanX conference, everyone was talking about Claude
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+在HumanX会议上，Claude成为焦点，与会者热议其技术突破与未来影响。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)
+
+---
 
 ### Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Sam Altman就《纽约客》杂志攻击其住所的文章进行回应。
+Sam Altman就《纽约客》杂志对其家的攻击报道发表回应。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
 
 ---
 
-### Anthropic temporarily banned OpenClaw’s creator from accessing Claude
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic临时禁止OpenClaw开发者访问Claude，TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
-
----
-
-### Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-受害者起诉OpenAI，称ChatGPT助长施暴者幻觉，忽视其警告。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
-
----
-
-### TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch将进军东京，并携Startup Battlefield同往。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
-
----
-
-### Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026门票限时优惠，最高省500美元。抓住机会，速来抢购！
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
-
----
-
-### Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年
+### Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare发布EmDash，旨在助力WordPress迎接下一个十年发展，为用户提供更强大的安全与性能支持。
+Uber Hive联邦架构实现1.6万数据集、10PB数据去中心化，支持大规模分析零停机，助力高效数据处理。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S)
-
----
-
-### Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Tailwind CSS 4.2版发布，新增Webpack插件、新配色方案和逻辑属性工具类，优化开发体验。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9)
+**来源：** [InfoQ](https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ)
 
 ---
 
-### GitHub Actions 正式发布自定义 Runner 镜像
+### 首席工程师之路：培养领导力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub Actions发布自定义Runner镜像，支持用户构建和部署自定义工作流程。
+InfoQ报道，首席工程师需提升领导力，以适应不断变化的技术和管理挑战。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1)
+**来源：** [InfoQ](https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC)
+
+---
+
+### Aspire 13.2 正式发布，带来扩展版 CLI、预览版 TypeScript AppHost 及仪表盘改进
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Aspire 13.2发布，新增扩展版CLI、预览版TypeScript AppHost及仪表盘改进，提升开发体验。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/gXDZZmbAobi5TfwKUxLH)
 
 ---
 
