@@ -24,7 +24,7 @@ const updateTime = ref('2026年04月15日 07:00')
 const hotNews = ref([
   { title: 'Anthropic崛起，OpenAI投资者犹豫', desc: 'TechCrunch', date: '2026-04-15' },
   { title: 'Anthropic创始人确认向特朗普政府介绍Mythos', desc: 'TechCrunch', date: '2026-04-15' },
-  { title: '霍达克公司首颗脑内传感器准备就绪', desc: 'TechCrunch', date: '2026-04-15' }
+  { title: '霍达克公司首颗脑内传感器即将植入', desc: 'TechCrunch', date: '2026-04-15' }
 ])
 </script>
 
