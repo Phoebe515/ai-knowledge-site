@@ -221,6 +221,111 @@ def fetch_theverge_ai():
         print(f"The Verge 爬取失败: {e}")
     return news_list
 
+def fetch_hacker_news():
+    """通过 Hacker News API 获取 AI 相关热门文章"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        # AI 相关关键词
+        ai_keywords = ['AI', 'artificial intelligence', 'machine learning', 'deep learning', 
+                      'GPT', 'LLM', 'neural network', 'OpenAI', 'Anthropic', 'Claude',
+                      'ChatGPT', 'transformer', 'AGI', 'agent', 'LLMs']
+        
+        # 获取 Top Stories
+        response = requests.get('https://hacker-news.firebaseio.com/v0/topstories.json', 
+                              headers=headers, timeout=15)
+        story_ids = response.json()[:100]  # 检查前100个热门故事
+        
+        for story_id in story_ids:
+            try:
+                story_response = requests.get(
+                    f'https://hacker-news.firebaseio.com/v0/item/{story_id}.json',
+                    headers=headers, timeout=10
+                )
+                story = story_response.json()
+                
+                if story and 'title' in story and 'url' in story:
+                    title = story['title']
+                    # 检查标题是否包含 AI 关键词
+                    title_lower = title.lower()
+                    if any(keyword.lower() in title_lower for keyword in ai_keywords):
+                        news_list.append({
+                            'title': title,
+                            'url': story['url'],
+                            'source': 'Hacker News'
+                        })
+                        
+                if len(news_list) >= 5:
+                    break
+                    
+            except Exception:
+                continue
+                
+        print(f"Hacker News: 获取到 {len(news_list)} 条 AI 新闻")
+    except Exception as e:
+        print(f"Hacker News API 获取失败: {e}")
+    return news_list
+
+def fetch_reddit():
+    """通过 Reddit RSS 获取 AI 相关热门帖子"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        
+        # AI 相关子版块
+        subreddits = ['MachineLearning', 'artificial', 'OpenAI', 'ChatGPT', 'LocalLLaMA']
+        
+        for subreddit in subreddits:
+            try:
+                response = requests.get(
+                    f'https://www.reddit.com/r/{subreddit}/hot/.rss',
+                    headers=headers, timeout=15
+                )
+                
+                if response.status_code == 200:
+                    root = ET.fromstring(response.content)
+                    
+                    # Reddit RSS 使用 Atom 格式
+                    entries = root.findall('.//{http://www.w3.org/2005/Atom}entry')
+                    if not entries:
+                        entries = root.findall('.//item')
+                    
+                    for entry in entries[:3]:
+                        # Atom 格式
+                        title_elem = entry.find('{http://www.w3.org/2005/Atom}title')
+                        link_elem = entry.find('{http://www.w3.org/2005/Atom}link')
+                        
+                        if title_elem is not None:
+                            title = title_elem.text
+                            # 获取链接
+                            if link_elem is not None:
+                                link = link_elem.get('href', '')
+                            else:
+                                link = f'https://www.reddit.com/r/{subreddit}/'
+                            
+                            if title and link:
+                                news_list.append({
+                                    'title': title,
+                                    'url': link,
+                                    'source': f'Reddit r/{subreddit}'
+                                })
+                                
+            except Exception as e:
+                print(f"Reddit r/{subreddit} 获取失败: {e}")
+                continue
+                
+        # 限制总数
+        news_list = news_list[:8]
+        print(f"Reddit: 获取到 {len(news_list)} 条 AI 新闻")
+    except Exception as e:
+        print(f"Reddit RSS 获取失败: {e}")
+    return news_list
+
 def generate_news_detail_with_zhipu(title, source):
     """使用智谱 AI 生成单条新闻的详细内容"""
     prompt = f"""你是一个AI领域的专业编辑。请根据以下新闻标题，生成一段简短的新闻摘要（50-80字）。
@@ -519,6 +624,8 @@ def main():
     all_news.extend(fetch_leiphone_rss())
     all_news.extend(fetch_mit_tech_review_rss())
     all_news.extend(fetch_theverge_ai())
+    all_news.extend(fetch_hacker_news())
+    all_news.extend(fetch_reddit())
     
     print(f"共获取到 {len(all_news)} 条新闻")
     
