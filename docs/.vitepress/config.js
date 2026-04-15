@@ -17,6 +17,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '🔥 热点', link: '/hot/' },
+      { text: '📊 数据AI热点', link: '/data-hot/' },
       { 
         text: '入门科普', 
         items: [
@@ -41,6 +42,14 @@ export default defineConfig({
           text: '🔥 AI热点',
           items: [
             { text: '热点列表', link: '/hot/' }
+          ]
+        }
+      ],
+      '/data-hot/': [
+        {
+          text: '📊 数据AI热点',
+          items: [
+            { text: '数据AI热点列表', link: '/data-hot/' }
           ]
         }
       ],
