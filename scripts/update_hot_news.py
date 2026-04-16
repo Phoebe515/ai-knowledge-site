@@ -326,6 +326,168 @@ def fetch_reddit():
         print(f"Reddit RSS 获取失败: {e}")
     return news_list
 
+def fetch_ai_valley():
+    """爬取 AI Valley (theaivalley.com) 获取 AI 新闻"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://theaivalley.com', headers=headers, timeout=15)
+        
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 查找文章链接
+        seen_urls = set()
+        for link in soup.find_all('a', href=True):
+            href = link.get('href', '')
+            text = link.get_text(strip=True)
+            
+            # 筛选文章链接
+            if href and text and len(text) > 20 and '/p/' in href:
+                if href not in seen_urls:
+                    seen_urls.add(href)
+                    news_list.append({
+                        'title': text[:100],
+                        'url': href,
+                        'source': 'AI Valley'
+                    })
+                    
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"AI Valley: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"AI Valley 爬取失败: {e}")
+    return news_list
+
+def fetch_every():
+    """爬取 Every (every.to) 获取 AI 相关内容"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://every.to', headers=headers, timeout=15)
+        
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 查找文章链接
+        seen_urls = set()
+        for link in soup.find_all('a', href=True):
+            href = link.get('href', '')
+            text = link.get_text(strip=True)
+            
+            # 筛选文章链接
+            if href and text and len(text) > 15:
+                if href.startswith('/') and not href.startswith('//'):
+                    full_url = 'https://every.to' + href
+                elif href.startswith('https://every.to/'):
+                    full_url = href
+                else:
+                    continue
+                    
+                if full_url not in seen_urls and '/p/' in full_url or '/source-code/' in full_url or '/vibe-check/' in full_url:
+                    seen_urls.add(full_url)
+                    news_list.append({
+                        'title': text[:100],
+                        'url': full_url,
+                        'source': 'Every'
+                    })
+                    
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"Every: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"Every 爬取失败: {e}")
+    return news_list
+
+def fetch_google_blog():
+    """获取 Google The Keyword 博客的 AI 相关内容"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        # Google Blog 的 AI 分类页面
+        response = requests.get('https://blog.google/technology/ai/', headers=headers, timeout=15)
+        
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 查找文章链接
+        seen_urls = set()
+        for link in soup.find_all('a', href=True):
+            href = link.get('href', '')
+            text = link.get_text(strip=True)
+            
+            # 筛选文章链接
+            if href and text and len(text) > 15:
+                if href.startswith('/'):
+                    full_url = 'https://blog.google' + href
+                elif href.startswith('https://blog.google/'):
+                    full_url = href
+                else:
+                    continue
+                    
+                if full_url not in seen_urls and '/products/' not in full_url and '/technology/ai/' not in full_url.rstrip('/'):
+                    seen_urls.add(full_url)
+                    news_list.append({
+                        'title': text[:100],
+                        'url': full_url,
+                        'source': 'Google Blog'
+                    })
+                    
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"Google Blog: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"Google Blog 爬取失败: {e}")
+    return news_list
+
+def fetch_smol_ai_news():
+    """获取 AI News (news.smol.ai) 的内容"""
+    news_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get('https://news.smol.ai/', headers=headers, timeout=15)
+        
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 查找文章链接
+        seen_urls = set()
+        for link in soup.find_all('a', href=True):
+            href = link.get('href', '')
+            text = link.get_text(strip=True)
+            
+            # 筛选文章链接
+            if href and text and len(text) > 20:
+                if href.startswith('/'):
+                    full_url = 'https://news.smol.ai' + href
+                elif href.startswith('https://'):
+                    full_url = href
+                else:
+                    continue
+                    
+                if full_url not in seen_urls and 'issues' in full_url:
+                    seen_urls.add(full_url)
+                    news_list.append({
+                        'title': text[:100],
+                        'url': full_url,
+                        'source': 'AI News'
+                    })
+                    
+        # 限制数量
+        news_list = news_list[:5]
+        print(f"AI News: 获取到 {len(news_list)} 条新闻")
+    except Exception as e:
+        print(f"AI News 爬取失败: {e}")
+    return news_list
+
 def generate_news_detail_with_zhipu(title, source):
     """使用智谱 AI 生成单条新闻的详细内容"""
     prompt = f"""你是一个AI领域的专业编辑。请根据以下新闻标题，生成一段简短的新闻摘要（50-80字）。
@@ -626,6 +788,10 @@ def main():
     all_news.extend(fetch_theverge_ai())
     all_news.extend(fetch_hacker_news())
     all_news.extend(fetch_reddit())
+    all_news.extend(fetch_ai_valley())
+    all_news.extend(fetch_every())
+    all_news.extend(fetch_google_blog())
+    all_news.extend(fetch_smol_ai_news())
     
     print(f"共获取到 {len(all_news)} 条新闻")
     
