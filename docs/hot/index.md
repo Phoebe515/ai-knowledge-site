@@ -16,83 +16,83 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 ## 2026年04月16
 
-### OpenAI updates its Agents SDK to help enterprises build safer, more capable agents
+### Factory hits $1.5B valuation to build AI coding for enterprises
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI更新其Agents SDK，助力企业构建更安全、更强大的智能代理。
+工厂估值达15亿美元，专注于为企业打造AI编码技术。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
 
 ---
 
-### Hightouch reaches $100M ARR fueled by marketing tools powered by AI
+### Luma launches AI-powered production studio with faith-focused Wonder Project
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Hightouch实现1亿美元年度收入，AI驱动的营销工具助力增长。
+Luma推出信仰主题AI制作室“Wonder Project”，结合AI技术打造信仰内容。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
 
 ---
 
-### LinkedIn data shows AI isn’t to blame for hiring decline… yet
+### Upscale AI in talks to raise at $2B valuation, says report
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-LinkedIn数据显示，AI并非招聘下降的直接原因。
+Upscale AI正洽谈融资，估值达20亿美元，据TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
 
 ---
 
-### AI learning app Gizmo levels up with 13M users and a $22M investment
+### Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI学习应用Gizmo用户量突破1300万，获2200万美元投资，加速发展。
+机器人初创公司Physical Intelligence推出新型机器人大脑，可自主学习完成未 taught 的工作任务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
 
 ---
 
-### Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers
+### OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Thiel支持的初创公司称AI可评判新闻，但或致打压举报者。
+OpenAI推出增强版Codex，旨在超越Anthropic，赋予用户更多桌面操作权限。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
 
 ---
 
-### 设计企业级可观测性 Docker 扩展
+### 阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-设计企业级可观测性 Docker 扩展，助力容器化应用监控与调试。
+阿里“快乐马”团队推出世界模型HappyOyster，挑战谷歌Genie 3，展现中国AI技术实力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/op76T76AX55jqGIQdU6L)
-
----
-
-### Airbnb 将高吞吐指标采集管道迁移至 OpenTelemetry
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Airbnb将高吞吐指标采集管道迁移至OpenTelemetry，提升监控效率，优化数据处理。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/PegogtX4txhVdQmex0Og)
+**来源：** [InfoQ](https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF)
 
 ---
 
-### 亚马逊云科技推出可持续发展控制台，支持 API 访问及 Scope 1-3 碳排放报告
+### 压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊云科技发布可持续发展控制台，支持API访问及Scope 1-3碳排放报告，助力企业绿色转型。
+视频审核中台性能优化，通过架构演进与深度优化，将审核时间从280ms降至90ms，显著提升处理效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh)
+**来源：** [InfoQ](https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y)
+
+---
+
+### 3分钟，这个AI帮我手搓出带货视频！前钉钉副总裁创业：有人第一个月卖了10万美元
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI助力短视频制作，前钉钉副总裁创业，其平台助用户月销售额达10万美元。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/aabRtNR5WreQuo4Kt4h9)
 
 ---
 

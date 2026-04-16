@@ -22,9 +22,9 @@ import { ref, onMounted } from 'vue'
 
 const updateTime = ref('2026年04月16日 07:00')
 const hotNews = ref([
-  { title: 'OpenAI升级SDK，助力企业打造更安全智能代理', desc: 'TechCrunch', date: '2026-04-16' },
-  { title: 'AI驱动营销工具助Hightouch破亿收入', desc: 'TechCrunch', date: '2026-04-16' },
-  { title: 'LinkedIn数据：AI非招聘下滑主因', desc: 'TechCrunch', date: '2026-04-16' }
+  { title: '工厂估值15亿建企业AI编码', desc: 'TechCrunch', date: '2026-04-16' },
+  { title: 'Luma推AI制作室，聚焦信仰项目', desc: 'TechCrunch', date: '2026-04-16' },
+  { title: 'AI公司估值20亿，融资洽谈中', desc: 'TechCrunch', date: '2026-04-16' }
 ])
 </script>
 
