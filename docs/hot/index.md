@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月17
+## 2026年04月18
 
-### Factory hits $1.5B valuation to build AI coding for enterprises
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-工厂估值达15亿美元，专注于为企业构建AI编码技术。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
-
----
-
-### Luma launches AI-powered production studio with faith-focused Wonder Project
+### Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Luma推出AI赋能制作工作室“信仰项目”，聚焦宗教内容。
+Sam Altman的World项目计划扩大其人证业务，首站将进军Tinder。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
 
 ---
 
-### Upscale AI in talks to raise at $2B valuation, says report
+### Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-upscale AI正洽谈融资，估值达20亿美元，据TechCrunch报道。
+OpenAI继续精简团队，联合创始人Kevin Weil和Bill Peebles离职，专注核心业务发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)
 
 ---
 
-### Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught
+### Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-物理智能，一家热门机器人初创公司，宣布其新机器人大脑可自主完成未教授的任务。
+Cursor正洽谈融资超20亿美元，估值达500亿美元，企业增长迅猛。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/)
 
 ---
 
-### OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop
+### ‘Tokenmaxxing’ is making developers less productive than they think
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI升级Codex，增强对桌面控制力，挑战Anthropic。
+Tokenmaxxing导致开发者效率降低，TechCrunch报道称，该技术问题影响了开发者生产力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/)
 
 ---
 
-### Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”
+### Anthropic launches Claude Design, a new product for creating quick visuals
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic推出新工具Claude Design，用于快速创建视觉内容。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)
+
+---
+
+### 谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Zendesk表示，生成式AI将使代码资源丰富，研发瓶颈转向吸收能力提升。
+谷歌开源Gemma 4，基于Apache 2.0协议，融合多模态与智能体能力，助力人工智能发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG)
-
----
-
-### 针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-新型攻击Rowhammer可针对NVIDIA GPU实现系统完全控制，专家呼吁加强安全防护。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/pmteOlcag616Dap4zm8o)
+**来源：** [InfoQ](https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0)
 
 ---
 
-### 聚焦 Spring Framework 7 与 Spring Boot 4：Spring 团队专访
+### 借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Spring团队访谈聚焦Spring Framework 7与Spring Boot 4，探讨新版本特性及开发趋势。
+Cortex Code助力加速任务构建，全面开放，轻松应对复杂挑战，引领技术趋势。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/z4msV9uzNy7CXYFC4K2J)
+**来源：** [InfoQ](https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF)
+
+---
+
+### 试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+生成式AI与智能体AI试点迈向规模化盈利，探讨其ROI实现路径，揭示技术趋势。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG)
 
 ---
 
