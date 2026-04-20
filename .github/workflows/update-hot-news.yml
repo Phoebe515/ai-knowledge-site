@@ -2,20 +2,67 @@ name: Update AI Hot News
 
 on:
   schedule:
-    # 每天早上7点执行（UTC时间23:00，北京时间7:00）
+    # 主时间：每天早上7点执行（UTC时间23:00，北京时间7:00）
     - cron: '0 23 * * *'
+    # 备用时间1：每天早上8点执行（UTC时间0:00，北京时间8:00）
+    - cron: '0 0 * * *'
+    # 备用时间2：每天早上9点执行（UTC时间1:00，北京时间9:00）
+    - cron: '0 1 * * *'
   workflow_dispatch: # 支持手动触发
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    outputs:
+      should_update: ${{ steps.check.outputs.should_update }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Check if update needed
+        id: check
+        run: |
+          # 获取当前日期
+          TODAY=$(date '+%Y-%m-%d')
+          echo "Today: $TODAY"
+          
+          # 检查热点页面的更新日期
+          HOT_FILE="docs/hot/index.md"
+          if [ -f "$HOT_FILE" ]; then
+            LAST_UPDATE=$(grep -o "最近更新：[0-9年月日 ]*" "$HOT_FILE" | grep -o "[0-9]\{4\}年[0-9]\{2\}月[0-9]\{2\}日" | head -1)
+            echo "Last update in file: $LAST_UPDATE"
+            
+            # 转换为可比较的格式
+            LAST_DATE=$(echo "$LAST_UPDATE" | sed 's/年/-/g; s/月/-/g; s/日//g')
+            TODAY_FORMATTED=$(date '+%Y-%m-%d')
+            
+            if [ "$LAST_DATE" = "$TODAY_FORMATTED" ]; then
+              echo "Already updated today"
+              echo "should_update=false" >> $GITHUB_OUTPUT
+            else
+              echo "Need to update"
+              echo "should_update=true" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "File not found, need to update"
+            echo "should_update=true" >> $GITHUB_OUTPUT
+          fi
+
   update-hot-news:
+    needs: check-and-update
+    if: needs.check-and-update.outputs.should_update == 'true'
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
         
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,13 +80,44 @@ jobs:
           python scripts/update_hot_news.py
           
       - name: Commit changes
+        id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add docs/hot/index.md docs/index.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update hot news - $(date '+%Y-%m-%d')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update hot news - $(date '+%Y-%m-%d %H:%M')"
+          echo "committed=true" >> $GITHUB_OUTPUT
           
       - name: Push changes
+        id: push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+        
+      - name: Retry push if failed
+        if: steps.push.outcome == 'failure'
+        run: |
+          echo "First push failed, retrying..."
+          sleep 10
+          git pull --rebase origin main || true
+          git push origin main
+
+  create-issue-on-failure:
+    needs: update-hot-news
+    if: failure()
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Create issue for failure
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const date = new Date().toISOString().split('T')[0];
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ AI热点更新失败 - ${date}`,
+              body: `## 更新失败通知\n\n**时间**: ${new Date().toISOString()}\n**工作流**: Update AI Hot News\n\n请检查工作流日志并手动修复。\n\n[查看运行日志](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+              labels: ['automated', 'bug']
+            });
