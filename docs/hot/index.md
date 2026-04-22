@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月21
+## 2026年04月22
 
-### Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic获得亚马逊5亿美元投资，承诺未来10年云服务支出达1000亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
-
----
-
-### Google rolls out Gemini in Chrome in 7 new countries
+### Meta will record employees’ keystrokes and use it to train its AI models
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌在7个新国家推出Chrome内置的Gemini功能。
+Meta将记录员工按键以训练AI模型，引发隐私担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
 
 ---
 
-### It’s not just one thing — it’s another thing
+### Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch报道，多因素共同推动科技行业发展趋势，非单一因素所致。
+据TechCrunch报道，未经授权的团体涉嫌获取了Anthropic独家网络工具Mythos的访问权限。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
 
 ---
 
-### NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud
+### SpaceX is working with Cursor and has an option to buy the startup for $60B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国国家安全局使用Anthropic的Mythos，尽管与五角大楼存在争执。
+SpaceX与Cursor合作，拥有60亿美元收购该初创公司的选择权。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
 
 ---
 
-### CEO and CFO suddenly depart AI nuclear power upstart Fermi
+### Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI核能初创公司Fermi的CEO和CFO突然离职，具体原因尚不明确。
+苹果公司高级副总裁约翰·特恩斯将接任世界顶级公司职务，面临重重挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/)
 
 ---
 
-### Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗
+### AI research lab NeoCognition lands $40M seed to build agents that learn like humans
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI研究实验室NeoCognition获得4000万美元种子轮融资，致力于打造学习方式类似人类的智能体。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
+
+---
+
+### 为 AI 智能体设计记忆机制：揭秘 LinkedIn 的认知记忆智能体
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Claude封号潮失控，300万用户企业一夜断供，无理由、无回应，受害者抱团反抗。
+LinkedIn推出认知记忆智能体，旨在为AI设计记忆机制，提升智能体认知能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY)
-
----
-
-### 平台即产品：平衡相互冲突的优先事项并创造价值
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-平台即产品理念强调平衡冲突的优先事项，通过创新策略创造价值。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0)
+**来源：** [InfoQ](https://www.infoq.cn/article/SCh9qpVmgQ1ObT3eVR17)
 
 ---
 
-### OpenTelemetry 声明式配置迎来稳定性里程碑
+### 下一代数据工程：动态表与五大关键能力，重塑构建范式 ｜ 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-OpenTelemetry声明式配置稳定性取得重大进展，标志着其可观测性解决方案更趋成熟。
+下一代数据工程引入动态表，强调五大关键能力，重塑构建范式，引领技术趋势。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/z4MLOC3NU0xbYcYaVVQL)
+**来源：** [InfoQ](https://www.infoq.cn/article/tHiX6Qmxzmq6BGd9mQtb)
+
+---
+
+### 谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+谷歌发布Java版ADK 1.0，引入全新应用与插件架构及外部工具支持，提升开发效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA)
 
 ---
 
