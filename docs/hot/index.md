@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月22
+## 2026年04月23
 
-### Meta will record employees’ keystrokes and use it to train its AI models
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta将记录员工按键以训练AI模型，引发隐私担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
-
----
-
-### Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
+### India’s app market is booming — but global platforms are capturing most of the gains
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch报道，未经授权的团体涉嫌获取了Anthropic独家网络工具Mythos的访问权限。
+印度应用市场蓬勃发展，但全球平台占据大部分收益。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/)
 
 ---
 
-### SpaceX is working with Cursor and has an option to buy the startup for $60B
+### Tesla just increased its spending plan to $25B — here’s where the money is going
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX与Cursor合作，拥有60亿美元收购该初创公司的选择权。
+特斯拉将投资计划提升至250亿美元，资金主要用于研发、产能扩张和全球市场扩张。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/)
 
 ---
 
-### Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield
+### Google updates Workspace to make AI your new office intern
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果公司高级副总裁约翰·特恩斯将接任世界顶级公司职务，面临重重挑战。
+谷歌更新Workspace，引入AI功能，打造全新办公助手，提升工作效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
 
 ---
 
-### AI research lab NeoCognition lands $40M seed to build agents that learn like humans
+### Hands on with X’s new AI-powered custom feeds
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI研究实验室NeoCognition获得4000万美元种子轮融资，致力于打造学习方式类似人类的智能体。
+TechCrunch体验X公司全新AI智能定制推送功能，提升用户体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)
 
 ---
 
-### 为 AI 智能体设计记忆机制：揭秘 LinkedIn 的认知记忆智能体
+### How SpaceX preempted a $2B fundraise with a $60B buyout offer
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+SpaceX以600亿美元收购价抢购，成功阻止20亿美元融资。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
+
+---
+
+### 老板让你“忽悠”投资人，你敢发给龙虾吗？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-LinkedIn推出认知记忆智能体，旨在为AI设计记忆机制，提升智能体认知能力。
+老板要求员工“忽悠”投资人，引发职场道德争议。面对这一要求，员工如何抉择引发讨论。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/SCh9qpVmgQ1ObT3eVR17)
-
----
-
-### 下一代数据工程：动态表与五大关键能力，重塑构建范式 ｜ 技术趋势
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-下一代数据工程引入动态表，强调五大关键能力，重塑构建范式，引领技术趋势。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/tHiX6Qmxzmq6BGd9mQtb)
+**来源：** [InfoQ](https://www.infoq.cn/video/GK8pH4D6EKegYSLsZLgL)
 
 ---
 
-### 谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持
+### Gemini CLI 引入子代理机制，实现任务委派与并行代理工作流
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌发布Java版ADK 1.0，引入全新应用与插件架构及外部工具支持，提升开发效率。
+Gemini CLI新增子代理机制，支持任务委派与并行代理工作流，提升任务处理效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA)
+**来源：** [InfoQ](https://www.infoq.cn/article/50eZYcehCtQuxKoTcLhS)
+
+---
+
+### 清华系团队星工聚将完成数千万天使轮融资，轮式机器人拿下头部制造企业亿级大单
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+清华系团队星工聚完成数千万天使轮融资，轮式机器人项目获头部制造企业亿级订单。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/BSZXO0VGFlBkmIke18ht)
 
 ---
 
