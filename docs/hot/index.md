@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月23
+## 2026年04月24
 
-### India’s app market is booming — but global platforms are capturing most of the gains
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-印度应用市场蓬勃发展，但全球平台占据大部分收益。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/)
-
----
-
-### Tesla just increased its spending plan to $25B — here’s where the money is going
+### Bret Taylor’s Sierra buys YC-backed AI startup Fragment
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特斯拉将投资计划提升至250亿美元，资金主要用于研发、产能扩张和全球市场扩张。
+Bret Taylor的Sierra收购了由Y Combinator支持的AI初创公司Fragment。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
 
 ---
 
-### Google updates Workspace to make AI your new office intern
+### Meet Noscroll, an AI bot that does your doomscrolling for you
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌更新Workspace，引入AI功能，打造全新办公助手，提升工作效率。
+TechCrunch报道，新AI机器人Noscroll可代为用户进行无休止的滚动浏览，减轻信息过载压力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/)
 
 ---
 
-### Hands on with X’s new AI-powered custom feeds
+### Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch体验X公司全新AI智能定制推送功能，提升用户体验。
+Artisan创始人呼吁：停止招聘错误人才，而非停止招聘人类。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
 
 ---
 
-### How SpaceX preempted a $2B fundraise with a $60B buyout offer
+### OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX以600亿美元收购价抢购，成功阻止20亿美元融资。
+OpenAI发布GPT-5.5，距AI“超级应用”更近一步。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
 
 ---
 
-### 老板让你“忽悠”投资人，你敢发给龙虾吗？
+### Era raises $11M to build a software platform for AI gadgets
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Era完成1100万美元融资，开发AI设备软件平台，旨在推动智能硬件行业发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
+
+---
+
+### pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-老板要求员工“忽悠”投资人，引发职场道德争议。面对这一要求，员工如何抉择引发讨论。
+pnpm 11候选版发布，引入ESM分发、供应链默认设置和新存储格式，优化项目依赖管理。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/GK8pH4D6EKegYSLsZLgL)
-
----
-
-### Gemini CLI 引入子代理机制，实现任务委派与并行代理工作流
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Gemini CLI新增子代理机制，支持任务委派与并行代理工作流，提升任务处理效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/50eZYcehCtQuxKoTcLhS)
+**来源：** [InfoQ](https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A)
 
 ---
 
-### 清华系团队星工聚将完成数千万天使轮融资，轮式机器人拿下头部制造企业亿级大单
+### 银行业PDF表格提取方案重构：基于Java的分层方案
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-清华系团队星工聚完成数千万天使轮融资，轮式机器人项目获头部制造企业亿级订单。
+银行业PDF表格提取方案重构，采用Java分层方案，提升处理效率与准确性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/BSZXO0VGFlBkmIke18ht)
+**来源：** [InfoQ](https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx)
+
+---
+
+### GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+英伟达CEO黄仁勋内部信曝光，GPT-5.5击败Opus 4.7和Mythos，英伟达全员启用Codex。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY)
 
 ---
 
