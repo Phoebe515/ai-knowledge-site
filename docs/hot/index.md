@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月24
+## 2026年04月25
 
-### Bret Taylor’s Sierra buys YC-backed AI startup Fragment
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Bret Taylor的Sierra收购了由Y Combinator支持的AI初创公司Fragment。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
-
----
-
-### Meet Noscroll, an AI bot that does your doomscrolling for you
+### Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch报道，新AI机器人Noscroll可代为用户进行无休止的滚动浏览，减轻信息过载压力。
+Cohere收购德国初创公司，实现跨大西洋合并，打造AI领域巨头。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
 
 ---
 
-### Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says
+### Meta’s loss is Thinking Machines’ gain
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Artisan创始人呼吁：停止招聘错误人才，而非停止招聘人类。
+Meta裁员，人工智能公司Thinking Machines受益，招聘需求增加。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/)
 
 ---
 
-### OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’
+### ComfyUI hits $500M valuation as creators seek more control over AI-generated media
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布GPT-5.5，距AI“超级应用”更近一步。
+ComfyUI估值达5亿美元，创作者寻求对AI生成媒体有更多控制权。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
 
 ---
 
-### Era raises $11M to build a software platform for AI gadgets
+### Google to invest up to $40B in Anthropic in cash and compute
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Era完成1100万美元融资，开发AI设备软件平台，旨在推动智能硬件行业发展。
+谷歌计划以现金和计算资源投资至多400亿美元于Anthropic，以扩大其人工智能领域的影响力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
 
 ---
 
-### pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式
+### Marked-up Mac minis flood eBay amid shortages driven by AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+因AI需求激增，Mac mini短缺，翻新机在eBay热销。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
+
+---
+
+### Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-pnpm 11候选版发布，引入ESM分发、供应链默认设置和新存储格式，优化项目依赖管理。
+Cloudflare发布MCP架构方案，旨在解决企业安全与治理风险，提升网络安全防护能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A)
-
----
-
-### 银行业PDF表格提取方案重构：基于Java的分层方案
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-银行业PDF表格提取方案重构，采用Java分层方案，提升处理效率与准确性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx)
+**来源：** [InfoQ](https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh)
 
 ---
 
-### GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！
+### 复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-英伟达CEO黄仁勋内部信曝光，GPT-5.5击败Opus 4.7和Mythos，英伟达全员启用Codex。
+飞书项目通过“开放”实现项目管理“AI 友好”，为复杂项目管理提供解决方案。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY)
+**来源：** [InfoQ](https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2)
+
+---
+
+### Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Snowflake Cortex Code推动规范驱动开发，引入SDLC方法论，优化AI辅助工作流，提升开发效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd)
 
 ---
 
