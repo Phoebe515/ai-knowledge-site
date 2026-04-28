@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月27
+## 2026年04月28
 
-### To buy this Bay Area home, you’ll need Anthropic equity
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-湾区一豪宅售需Anthropic股权，科技巨头加持，价格或再创新高。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/)
-
----
-
-### Anthropic created a test marketplace for agent-on-agent commerce
+### OpenAI ends Microsoft legal peril over its $50B Amazon deal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic推出测试市场，实现智能体间商业交易。
+OpenAI与亚马逊50亿美元合作无法律风险，微软诉讼危机解除。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
 
 ---
 
-### Maine’s governor vetoes data center moratorium
+### DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-缅因州州长否决了数据中心禁令，维持该州数据中心建设政策不变。
+DeepMind的David Silver筹集1.1亿美元，研发无需人类数据的AI学习技术。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
 
 ---
 
-### OpenAI CEO apologizes to Tumbler Ridge community
+### Investors back Skye’s AI home screen app for iPhone ahead of launch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI CEO向加拿大Tumbler Ridge社区道歉，承认公司项目对当地环境和社会造成负面影响。
+投资者支持Skye推出iPhone AI家庭屏应用，即将上市。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/)
 
 ---
 
-### Why Cohere is merging with Aleph Alpha
+### Data center demand drives 66% surge in natural gas power plant costs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Cohere与Aleph Alpha宣布合并，旨在加强AI技术合作，推动行业创新。
+数据中心需求推动天然气发电厂成本激增66%。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/)
 
 ---
 
-### 摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地
+### China blocks Meta’s $2B Manus deal after months-long probe
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+中国经数月调查后，否决了Meta的20亿美元收购Manus交易。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/)
+
+---
+
+### 用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-摩尔线程最新财报显示，研发投入占比超86%，万卡级智算集群成功落地。
+Snowflake Cortex Agents助力释放结构化数据价值，实现高效数据管理和分析。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq)
-
----
-
-### 世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-蚂蚁集团开源LingBot-World-Fast，实现世界模型实时交互。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym)
+**来源：** [InfoQ](https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN)
 
 ---
 
-### 当云区域失效：地缘动荡环境下的高可用重构
+### Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-地缘动荡下，云区域失效风险增加，需重构高可用架构以保障业务连续性。
+Grafana重构Loki架构，发布命令行工具，引入编码代理可观测性，提升监控效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6)
+**来源：** [InfoQ](https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8)
+
+---
+
+### ClickHouse重构全文索引：对象存储上跑出高性能 Full-Text Search
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+ClickHouse成功重构全文索引，实现对象存储上的高性能全文搜索，优化数据检索效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW)
 
 ---
 
