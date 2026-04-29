@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月28
+## 2026年04月29
 
-### OpenAI ends Microsoft legal peril over its $50B Amazon deal
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI与亚马逊50亿美元合作无法律风险，微软诉讼危机解除。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
-
----
-
-### DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data
+### At his OpenAI trial, Musk relitigates an old friendship
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-DeepMind的David Silver筹集1.1亿美元，研发无需人类数据的AI学习技术。
+马斯克在OpenAI审判中重提旧友关系，引发法庭关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
 
 ---
 
-### Investors back Skye’s AI home screen app for iPhone ahead of launch
+### Amazon is already offering new OpenAI products on AWS
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-投资者支持Skye推出iPhone AI家庭屏应用，即将上市。
+亚马逊已在AWS上提供OpenAI新产品。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
 
 ---
 
-### Data center demand drives 66% surge in natural gas power plant costs
+### Amazon launches an AI-powered audio Q&A experience on product pages
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-数据中心需求推动天然气发电厂成本激增66%。
+亚马逊推出产品页面AI音频问答体验，助力消费者更直观了解产品信息。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
 
 ---
 
-### China blocks Meta’s $2B Manus deal after months-long probe
+### Google expands Pentagon’s access to its AI after Anthropic’s refusal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-中国经数月调查后，否决了Meta的20亿美元收购Manus交易。
+谷歌在Anthropic拒绝后，扩大了五角大楼对其AI的访问权限。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
 
 ---
 
-### 用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践
+### Lovable launches its vibe-coding app on iOS and Android
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Lovable推出全新 vibe-coding 应用，现已上线iOS和Android平台。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/)
+
+---
+
+### 从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Snowflake Cortex Agents助力释放结构化数据价值，实现高效数据管理和分析。
+90后华裔女高管回归Cursor，携手Claude开启日更模式，称token成本远低于工程师工资。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN)
-
----
-
-### Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Grafana重构Loki架构，发布命令行工具，引入编码代理可观测性，提升监控效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8)
+**来源：** [InfoQ](https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT)
 
 ---
 
-### ClickHouse重构全文索引：对象存储上跑出高性能 Full-Text Search
+### 从 Coding 到 Agent：QCon 北京 2026 全景复盘，优秀出品人 & 明星讲师名单揭晓
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-ClickHouse成功重构全文索引，实现对象存储上的高性能全文搜索，优化数据检索效率。
+QCon北京2026全景复盘揭晓，优秀出品人及明星讲师名单公布，回顾技术盛会精彩瞬间。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW)
+**来源：** [InfoQ](https://www.infoq.cn/article/E5IhQGg98wWEvMud0Mqt)
+
+---
+
+### 全链路支撑大模型国产化“Day 0适配”，商汤大装置构建全栈能力底座
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+商汤大装置实现全链路大模型国产化“Day 0适配”，构建全栈能力底座，助力国内大模型发展。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/2y3zZQcXbtyAM5wb0YjK)
 
 ---
 
