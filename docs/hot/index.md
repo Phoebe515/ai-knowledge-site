@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年04月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年04月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年04月29
+## 2026年04月30
 
-### At his OpenAI trial, Musk relitigates an old friendship
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-马斯克在OpenAI审判中重提旧友关系，引发法庭关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
-
----
-
-### Amazon is already offering new OpenAI products on AWS
+### SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊已在AWS上提供OpenAI新产品。
+软银打造数据中心机器人公司，目标百亿市值IPO。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)
 
 ---
 
-### Amazon launches an AI-powered audio Q&A experience on product pages
+### Amazon’s cloud business is surging — and so is its capital spending
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊推出产品页面AI音频问答体验，助力消费者更直观了解产品信息。
+亚马逊云计算业务强劲增长，资本支出同步上升。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/)
 
 ---
 
-### Google expands Pentagon’s access to its AI after Anthropic’s refusal
+### Sources: Anthropic could raise a new $50B round at a valuation of $900B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌在Anthropic拒绝后，扩大了五角大楼对其AI的访问权限。
+据TechCrunch报道，Anthropic可能在新一轮融资中估值达到9000亿美元，融资规模达500亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)
 
 ---
 
-### Lovable launches its vibe-coding app on iOS and Android
+### On the stand, Elon Musk can’t escape his own tweets
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Lovable推出全新 vibe-coding 应用，现已上线iOS和Android平台。
+在法庭上，埃隆·马斯克无法摆脱自己的推特言论。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/)
 
 ---
 
-### 从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！
+### Meta is still burning money on AR/VR
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta持续在AR/VR领域投入巨资，尽管面临财务压力。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/)
+
+---
+
+### Meta 收购 Manus 这事儿泡汤了
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-90后华裔女高管回归Cursor，携手Claude开启日更模式，称token成本远低于工程师工资。
+Meta收购Manus计划落空，原定交易因故取消。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT)
-
----
-
-### 从 Coding 到 Agent：QCon 北京 2026 全景复盘，优秀出品人 & 明星讲师名单揭晓
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-QCon北京2026全景复盘揭晓，优秀出品人及明星讲师名单公布，回顾技术盛会精彩瞬间。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/E5IhQGg98wWEvMud0Mqt)
+**来源：** [InfoQ](https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT)
 
 ---
 
-### 全链路支撑大模型国产化“Day 0适配”，商汤大装置构建全栈能力底座
+### 5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-商汤大装置实现全链路大模型国产化“Day 0适配”，构建全栈能力底座，助力国内大模型发展。
+GitHub 正在终结一代技术人的乌托邦，5.5万 Star 开源项目 Ghostty 被迫出走，引发开源社区关注。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/2y3zZQcXbtyAM5wb0YjK)
+**来源：** [InfoQ](https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK)
+
+---
+
+### 谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+谷歌开源“Agent Skill 超级工具箱”，全面打通云、库、引擎、AI，为开发者提供便捷的AI开发平台，引发行业热烈反响。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe)
 
 ---
 
