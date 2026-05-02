@@ -9,60 +9,60 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月01日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月02日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月01
+## 2026年05月02
+
+### Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Replit CEO Amjad Masad谈Cursor交易、对抗苹果及不愿出售原因。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
+
+---
+
+### Meta buys robotics startup to bolster its humanoid AI ambitions
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta收购机器人初创公司，加强其人形AI雄心。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
+
+---
+
+### Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国国防部与Nvidia、Microsoft和AWS签署协议，将在机密网络上部署人工智能。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
+
+---
+
+### Musk v. Altman is just getting started
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+马斯克与奥特曼的诉讼战才刚刚开始，双方在科技领域的较量愈发激烈。
+
+**来源：** [TechCrunch](https://techcrunch.com/video/musk-v-altman-is-just-getting-started/)
+
+---
 
 ### ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT Images 2.0在印度受热捧，但全球市场反响平平。
+ChatGPT Images 2.0在印度受到欢迎，但全球市场反响平平。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
-
----
-
-### Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic潜在价值900亿美元融资轮即将启动，或于两周内完成。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)
-
----
-
-### Apple was surprised by AI-driven demand for Macs
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果公司对AI驱动对Mac的需求增长感到意外，预计2024年第一季度出货量将超预期。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)
-
----
-
-### Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Legora估值达56亿美元，与Harvey的竞争加剧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
-
----
-
-### After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI因Anthropic限制Mythos而限制其访问，现亦对Cyber实施限制。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
 
 ---
 
@@ -70,7 +70,7 @@ OpenAI因Anthropic限制Mythos而限制其访问，现亦对Cyber实施限制。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-国产模型赶超闭源旗舰，企业AI编程挑战凸显。真正难题在于模型与业务融合、人才短缺。
+国产模型追上闭源旗舰，企业AI编程障碍显现，需突破技术瓶颈与生态构建难题。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu)
 
@@ -80,7 +80,7 @@ OpenAI因Anthropic限制Mythos而限制其访问，现亦对Cyber实施限制。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Mistral AI发布Workflows，助力企业编排AI工作流，提升AI应用效率。
+Mistral AI推出Workflows，助力企业编排AI工作流，提升数据处理效率。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag)
 
@@ -90,7 +90,7 @@ Mistral AI发布Workflows，助力企业编排AI工作流，提升AI应用效率
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-探讨布隆过滤器在理论与工程中的应用，并分析其在Go语言中的实现细节。
+本文探讨了布隆过滤器的理论、工程权衡，并介绍了其在Go语言中的实现方法。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE)
 
