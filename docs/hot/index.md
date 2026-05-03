@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月02日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月03日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月02
+## 2026年05月03
+
+### AI-generated actors and scripts are now ineligible for Oscars
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+奥斯卡奖新规：AI生成演员与剧本将不得参评。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
+
+---
+
+### The best AI dictation apps, tested and ranked
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch发布AI语音识别应用评测，多款应用经测试排名揭晓。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
+
+---
 
 ### Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Replit CEO Amjad Masad谈Cursor交易、对抗苹果及不愿出售原因。
+Replit CEO Amjad Masad谈Cursor交易、与苹果的竞争，表示更愿意保持独立。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 
@@ -30,7 +50,7 @@ Replit CEO Amjad Masad谈Cursor交易、对抗苹果及不愿出售原因。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta收购机器人初创公司，加强其人形AI雄心。
+Meta收购机器人初创公司，加强其人形AI发展野心。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
 
@@ -40,59 +60,39 @@ Meta收购机器人初创公司，加强其人形AI雄心。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国国防部与Nvidia、Microsoft和AWS签署协议，将在机密网络上部署人工智能。
+美国国防部与Nvidia、微软和AWS签订协议，将在机密网络部署人工智能。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
 
 ---
 
-### Musk v. Altman is just getting started
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-马斯克与奥特曼的诉讼战才刚刚开始，双方在科技领域的较量愈发激烈。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/musk-v-altman-is-just-getting-started/)
-
----
-
-### ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-ChatGPT Images 2.0在印度受到欢迎，但全球市场反响平平。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
-
----
-
-### 当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面
+### 微软警告称，AI 正在掏空初级开发者的培养渠道
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-国产模型追上闭源旗舰，企业AI编程障碍显现，需突破技术瓶颈与生态构建难题。
+微软警告，AI技术正威胁初级开发者培养渠道，呼吁行业关注人才培养问题。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu)
-
----
-
-### Mistral AI 推出 Workflows，用于编排企业 AI 工作流
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Mistral AI推出Workflows，助力企业编排AI工作流，提升数据处理效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag)
+**来源：** [InfoQ](https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4)
 
 ---
 
-### 布隆过滤器：理论、工程权衡与Go语言实现
+### Sauce Labs 推出 AI 智能体，实现测试创建自动化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-本文探讨了布隆过滤器的理论、工程权衡，并介绍了其在Go语言中的实现方法。
+Sauce Labs推出AI智能体，实现测试创建自动化，提高软件测试效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE)
+**来源：** [InfoQ](https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk)
+
+---
+
+### 使用AWS Lambda Extensions在响应后执行遥测刷写
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AWS Lambda Extensions支持在响应后执行遥测刷写，增强函数性能监控。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ)
 
 ---
 
