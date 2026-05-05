@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月04日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月05日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月04
+## 2026年05月05
 
-### ‘This is fine’ creator says AI startup stole his art
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-“这是正常的”创作者指控AI初创公司盗用其艺术作品。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
-
----
-
-### In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors
+### As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-哈佛研究显示，AI在急诊室诊断方面比两位人类医生更准确。
+Nvidia黄仁勋称AI创造大量就业，缓解员工担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
 
 ---
 
-### AI-generated actors and scripts are now ineligible for Oscars
+### OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-奥斯卡组委会宣布，AI生成的演员和剧本将无法获得奥斯卡奖项。
+Cerebras，OpenAI的亲密合作伙伴，正准备进行一次重磅IPO。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
 
 ---
 
-### The best AI dictation apps, tested and ranked
+### Image AI models now drive app growth, beating chatbot upgrades
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch评测并排名最佳AI语音识别应用，涵盖多款热门产品，助您高效转录。
+图像AI模型驱动应用增长，超越聊天机器人升级，成科技发展新趋势。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
 
 ---
 
-### Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell
+### Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Replit创始人Amjad Masad谈Cursor交易、对抗苹果及拒绝出售的决策。
+在OpenAI审判中，Elon Musk的唯一AI专家证人担忧通用人工智能（AGI）军备竞赛。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)
 
 ---
 
-### CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性
+### Sierra raises $950M as the race to own enterprise AI gets serious
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Sierra融资9.5亿美元，企业AI竞争加剧。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+
+---
+
+### Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-CNCF提醒，仅Kubernetes无法确保LLM工作负载安全，需加强综合防护措施。
+近期Java领域动态丰富，OpenJDK及Oracle发布关键补丁，Open Liberty、Testcontainers、IntelliJ IDEA等工具更新升级，推动生态发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl)
-
----
-
-### Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Cloudflare发布Agent Memory，提供AI智能体持久记忆托管服务，助力AI应用发展。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8)
+**来源：** [InfoQ](https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5)
 
 ---
 
-### GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置
+### Vercel 开源 Open Agents，支持后台运行 AI 编码工作流
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitLab推出固定费率代码审查服务、Free-Tier AI访问和支出上限设置，提升用户体验。
+Vercel开源Open Agents，支持后台运行AI编码工作流，助力开发者提升开发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX)
+**来源：** [InfoQ](https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN)
+
+---
+
+### Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Uber采用自动化代码转换，成功将75000多个测试类从JUnit 4迁移至JUnit 5，提升测试效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf)
 
 ---
 
