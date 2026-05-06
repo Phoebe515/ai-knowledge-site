@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月05日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月06日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月05
+## 2026年05月06
 
-### As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia黄仁勋称AI创造大量就业，缓解员工担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
-
----
-
-### OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO
+### Peter Sarlin’s QuTwo reaches $380M valuation in angel round
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Cerebras，OpenAI的亲密合作伙伴，正准备进行一次重磅IPO。
+Peter Sarlin的QuTwo在天使轮融资中估值达3.8亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/)
 
 ---
 
-### Image AI models now drive app growth, beating chatbot upgrades
+### Marc Lore says that AI will soon enable anyone open a restaurant
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-图像AI模型驱动应用增长，超越聊天机器人升级，成科技发展新趋势。
+马克·洛尔预测，人工智能将很快让任何人都能开设餐厅。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/)
 
 ---
 
-### Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race
+### SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-在OpenAI审判中，Elon Musk的唯一AI专家证人担忧通用人工智能（AGI）军备竞赛。
+SAP投资1.16亿美元于成立仅18个月的德国AI实验室，并确认收购NemoClaw。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
 
 ---
 
-### Sierra raises $950M as the race to own enterprise AI gets serious
+### Altara secures $7M to bridge the data gap that’s slowing down physical sciences
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Sierra融资9.5亿美元，企业AI竞争加剧。
+Altara获得700万美元融资，旨在弥合物理科学数据差距，加速研究进程。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/)
 
 ---
 
-### Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA
+### Apple plans to make iOS 27 a Choose Your Own Adventure of AI models
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果计划在iOS 27中引入个性化AI模型选择功能，让用户可根据需求定制智能体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/)
+
+---
+
+### OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-近期Java领域动态丰富，OpenJDK及Oracle发布关键补丁，Open Liberty、Testcontainers、IntelliJ IDEA等工具更新升级，推动生态发展。
+OpenChoreo 1.0发布，引入AI代理和GitOps技术，助力Kubernetes开发平台优化自动化流程。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5)
-
----
-
-### Vercel 开源 Open Agents，支持后台运行 AI 编码工作流
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Vercel开源Open Agents，支持后台运行AI编码工作流，助力开发者提升开发效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN)
+**来源：** [InfoQ](https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr)
 
 ---
 
-### Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5
+### “如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Uber采用自动化代码转换，成功将75000多个测试类从JUnit 4迁移至JUnit 5，提升测试效率。
+AI竞赛演变为资源战争，Token成为关键，不掌握更多Token将难以突破底层。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf)
+**来源：** [InfoQ](https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm)
+
+---
+
+### 5月更文挑战赛 | 5限热爱 · 码上开写
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+5月更文挑战赛启动，鼓励编程爱好者码上开写，激发创作热情。
+
+**来源：** [InfoQ](https://xie.infoq.cn/article/9982cb630686ecc8aea243fd1)
 
 ---
 
