@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月06日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月07日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月06
+## 2026年05月07
 
-### Peter Sarlin’s QuTwo reaches $380M valuation in angel round
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Peter Sarlin的QuTwo在天使轮融资中估值达3.8亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/)
-
----
-
-### Marc Lore says that AI will soon enable anyone open a restaurant
+### Five architects of the AI economy explain where the wheels are coming off
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马克·洛尔预测，人工智能将很快让任何人都能开设餐厅。
+五位AI经济建筑师剖析行业困境，指出AI经济车轮何处脱轨。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)
 
 ---
 
-### SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw
+### Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SAP投资1.16亿美元于成立仅18个月的德国AI实验室，并确认收购NemoClaw。
+巴里·迪勒信任山姆·阿尔特曼，但他认为随着通用人工智能（AGI）的临近，信任已无关紧要。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
 
 ---
 
-### Altara secures $7M to bridge the data gap that’s slowing down physical sciences
+### Snap says its $400M deal with Perplexity ‘amicably ended’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Altara获得700万美元融资，旨在弥合物理科学数据差距，加速研究进程。
+Snap宣布与Perplexity的4亿美元合作“友好结束”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
 
 ---
 
-### Apple plans to make iOS 27 a Choose Your Own Adventure of AI models
+### Is xAI a neocloud now?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果计划在iOS 27中引入个性化AI模型选择功能，让用户可根据需求定制智能体验。
+xAI被业界视为新一代云服务，有望引领新云浪潮。TechCrunch报道，xAI可能成为新云时代的代表。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
 
 ---
 
-### OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台
+### How Elon Musk left OpenAI, according to Greg Brockman
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特斯拉CEO马斯克离职OpenAI，原因及细节由公司前CTO Greg Brockman透露。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
+
+---
+
+### 马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-OpenChoreo 1.0发布，引入AI代理和GitOps技术，助力Kubernetes开发平台优化自动化流程。
+马斯克提供22万张GPU助Claude恢复，但Gary Marcus警告GPU将过剩贬值。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr)
-
----
-
-### “如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI竞赛演变为资源战争，Token成为关键，不掌握更多Token将难以突破底层。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm)
+**来源：** [InfoQ](https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG)
 
 ---
 
-### 5月更文挑战赛 | 5限热爱 · 码上开写
+### Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-5月更文挑战赛启动，鼓励编程爱好者码上开写，激发创作热情。
+Kubernetes被AI打回“半成品”，K8s之父警告：代码生成加速，程序员面临更大风险。
 
-**来源：** [InfoQ](https://xie.infoq.cn/article/9982cb630686ecc8aea243fd1)
+**来源：** [InfoQ](https://www.infoq.cn/article/7dyslCPBMAPyLporTATv)
+
+---
+
+### JobRunr 发布开源 Java AI 智能体 ClawRunr
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+JobRunr推出开源Java AI智能体ClawRunr，助力开发者构建智能应用。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh)
 
 ---
 
