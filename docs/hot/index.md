@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月07日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月08日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月07
+## 2026年05月08
 
-### Five architects of the AI economy explain where the wheels are coming off
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-五位AI经济建筑师剖析行业困境，指出AI经济车轮何处脱轨。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)
-
----
-
-### Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.
+### OpenAI launches new voice intelligence features in its API
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-巴里·迪勒信任山姆·阿尔特曼，但他认为随着通用人工智能（AGI）的临近，信任已无关紧要。
+OpenAI推出API新语音智能功能，提升交互体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
 
 ---
 
-### Snap says its $400M deal with Perplexity ‘amicably ended’
+### Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Snap宣布与Perplexity的4亿美元合作“友好结束”。
+斯德哥尔摩AI初创公司Pit成立，由Voi创始人创立，成为最新崛起的明星企业。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)
 
 ---
 
-### Is xAI a neocloud now?
+### OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-xAI被业界视为新一代云服务，有望引领新云浪潮。TechCrunch报道，xAI可能成为新云时代的代表。
+OpenAI推出“可信联系人”安全机制，应对潜在自伤情况。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/)
 
 ---
 
-### How Elon Musk left OpenAI, according to Greg Brockman
+### Perplexity’s Personal Computer is now available to everyone on Mac
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特斯拉CEO马斯克离职OpenAI，原因及细节由公司前CTO Greg Brockman透露。
+Perplexity的个人电脑现面向所有Mac用户开放。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/)
 
 ---
 
-### 马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱
+### Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+埃隆·马斯克起诉案聚焦OpenAI安全记录，引发行业关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/)
+
+---
+
+### 算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-马斯克提供22万张GPU助Claude恢复，但Gary Marcus警告GPU将过剩贬值。
+快手在AICon上海分享推荐系统池化探索与实践，提升算力新基建，推荐新智能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG)
-
----
-
-### Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Kubernetes被AI打回“半成品”，K8s之父警告：代码生成加速，程序员面临更大风险。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/7dyslCPBMAPyLporTATv)
+**来源：** [InfoQ](https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS)
 
 ---
 
-### JobRunr 发布开源 Java AI 智能体 ClawRunr
+### 像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-JobRunr推出开源Java AI智能体ClawRunr，助力开发者构建智能应用。
+像素绽放PixelBloom完成C轮融资，全面投入AI办公解决方案Agent开发，致力于提升办公效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh)
+**来源：** [InfoQ](https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig)
+
+---
+
+### 重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+重新审视AI TCO，每Token成本成为关键指标，强调全面考量AI应用成本的重要性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM)
 
 ---
 
