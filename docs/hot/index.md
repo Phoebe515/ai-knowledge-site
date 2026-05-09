@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月08日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月09日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月08
+## 2026年05月09
 
-### OpenAI launches new voice intelligence features in its API
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI推出API新语音智能功能，提升交互体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
-
----
-
-### Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm
+### Laid-off Oracle workers tried to negotiate better severance. Oracle said no. 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-斯德哥尔摩AI初创公司Pit成立，由Voi创始人创立，成为最新崛起的明星企业。
+被解雇的甲骨文员工试图协商更高赔偿，但甲骨文拒绝。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
 
 ---
 
-### OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm
+### Intel’s comeback story is even wilder than it seems
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI推出“可信联系人”安全机制，应对潜在自伤情况。
+英特尔复兴故事远比想象中更惊人，挑战持续升级。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
 
 ---
 
-### Perplexity’s Personal Computer is now available to everyone on Mac
+### Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Perplexity的个人电脑现面向所有Mac用户开放。
+Cloudflare表示，AI导致1100个工作岗位被淘汰，尽管其收入创历史新高。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
 
 ---
 
-### Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope
+### Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-埃隆·马斯克起诉案聚焦OpenAI安全记录，引发行业关注。
+TechCrunch Disrupt 2026第二张通行证最后24小时享受50%优惠。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/)
 
 ---
 
-### 算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海
+### The fax machine is the bottleneck in US healthcare, and VCs are starting to notice
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国医疗系统中传真机成为瓶颈，风险投资开始关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/)
+
+---
+
+### 技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-快手在AICon上海分享推荐系统池化探索与实践，提升算力新基建，推荐新智能。
+京东零售推出AIGC百亿素材供给实践，融合技术、艺术与算术，提升内容创作效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS)
-
----
-
-### 像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-像素绽放PixelBloom完成C轮融资，全面投入AI办公解决方案Agent开发，致力于提升办公效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig)
+**来源：** [InfoQ](https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q)
 
 ---
 
-### 重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标
+### Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-重新审视AI TCO，每Token成本成为关键指标，强调全面考量AI应用成本的重要性。
+Meta推出统一AI智能体，优化超大规模环境性能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM)
+**来源：** [InfoQ](https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr)
+
+---
+
+### 生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+快手在AICon上海分享生成式推荐引擎在线参数服务器性能与时延优化实践，实现性能提升和时延降低。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y)
 
 ---
 
