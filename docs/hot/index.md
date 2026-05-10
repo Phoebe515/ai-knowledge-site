@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月09日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月10日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月09
+## 2026年05月10
+
+### Voice AI in India is hard. Wispr Flow is betting on it anyway.
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Wispr Flow押注印度语音AI市场，尽管困难重重，仍致力于在该领域取得突破。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
+
+---
+
+### So you’ve heard these AI terms and nodded along; let’s fix that
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch发文纠正常见AI术语误解，帮助读者更准确理解人工智能领域。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+
+---
+
+### Nvidia has already committed $40B to equity AI deals this year
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia今年已投入400亿美元于股权AI交易，投资规模显著扩大。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
+
+---
 
 ### Laid-off Oracle workers tried to negotiate better severance. Oracle said no. 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-被解雇的甲骨文员工试图协商更高赔偿，但甲骨文拒绝。
+Oracle被裁员工试图协商更高赔偿，公司拒绝。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
 
@@ -30,69 +60,39 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-英特尔复兴故事远比想象中更惊人，挑战持续升级。
+英特尔回归之路远比想象中曲折，TechCrunch揭示其背后的故事令人震惊。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
 
 ---
 
-### Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Cloudflare表示，AI导致1100个工作岗位被淘汰，尽管其收入创历史新高。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
-
----
-
-### Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026第二张通行证最后24小时享受50%优惠。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/)
-
----
-
-### The fax machine is the bottleneck in US healthcare, and VCs are starting to notice
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国医疗系统中传真机成为瓶颈，风险投资开始关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/)
-
----
-
-### 技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践
+### 迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-京东零售推出AIGC百亿素材供给实践，融合技术、艺术与算术，提升内容创作效率。
+AICon上海，混元3D生成大模型展示从理论到实践的SOTA成果，引领高保真与工业化发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q)
-
----
-
-### Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Meta推出统一AI智能体，优化超大规模环境性能。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr)
+**来源：** [InfoQ](https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7)
 
 ---
 
-### 生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海
+### 借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-快手在AICon上海分享生成式推荐引擎在线参数服务器性能与时延优化实践，实现性能提升和时延降低。
+Cloudflare推出全新安全概览仪表板，每日处理超1000万条洞察数据，提升网络安全防护能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y)
+**来源：** [InfoQ](https://www.infoq.cn/article/49peofDkBrNCVx41WNO7)
+
+---
+
+### “40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+紫光股份董事长于英涛在最新演讲中提出，40%的智能体项目将走向终止，强调行业需关注项目可持续性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm)
 
 ---
 
