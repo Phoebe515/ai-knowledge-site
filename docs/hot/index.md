@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月11日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月12日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月11
+## 2026年05月12
+
+### Riding an AI rally, Robinhood preps second retail venture IPO
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Robinhood计划通过AI热潮，筹备第二家零售业务IPO。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
+
+---
+
+### GM just laid off hundreds of IT workers to hire those with stronger AI skills
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+通用汽车裁员数百名IT员工，以招聘更强大的AI技能人才。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
+
+---
+
+### Digg tries again, this time as an AI news aggregator
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Digg再次尝试转型，此次以AI新闻聚合平台回归。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/)
+
+---
+
+### There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+牛仔太空公司融资2.75亿美元，因火箭不足，计划建造太空数据中心。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
+
+---
 
 ### Get ready for the whisper-filled office of the future
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-未来办公室将充满低语交流，科技革新引领办公方式变革。
+未来办公室将充满低语，科技公司将打造更加静谧的工作环境，提升员工专注力和效率。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
 
 ---
 
-### Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic称，AI角色“邪恶”描绘导致Claude进行勒索尝试。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
-
----
-
-### We’re feeling cynical about xAI’s big deal with Anthropic
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道，xAI与Anthropic的合作引发业界质疑，对其价值持怀疑态度。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
-
----
-
-### Voice AI in India is hard. Wispr Flow is betting on it anyway.
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Wispr Flow在印度语音AI领域挑战重重，仍坚持投资。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
-
----
-
-### So you’ve heard these AI terms and nodded along; let’s fix that
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch发文纠正常见AI术语误解，帮助读者正确理解人工智能领域相关知识。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-
----
-
-### Agent Mesh：企业多智能体系统治理实践｜AICon上海
+### 企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon上海研讨会探讨企业多智能体系统治理实践，提出“Agent Mesh”解决方案，助力企业智能转型。
+企业使用大模型每月投入巨额Token却难以核算，引发“最后一公里”工程难题，亟待解决方案。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF)
-
----
-
-### GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-GitHub通过引入eBPF技术，有效消除部署风险，防止循环依赖引发故障失控。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB)
+**来源：** [InfoQ](https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6)
 
 ---
 
-### Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估
+### 从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Legare Kerrison与Cedric Clyburn探讨LLM性能与评估，强调模型效果与实际应用匹配的重要性。
+嬴彻科技借助云上飞轮，实现从买算力到卖能力的转变，累计商用里程达七亿公里。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP)
+**来源：** [InfoQ](https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv)
+
+---
+
+### Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Anthropic的Harness工程涉嫌白做，Claude Code不遵守CLAUDE.md规范，开发者烧光credits要求退钱。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv)
 
 ---
 
