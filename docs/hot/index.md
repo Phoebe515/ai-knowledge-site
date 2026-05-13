@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月12
+## 2026年05月13
 
-### Riding an AI rally, Robinhood preps second retail venture IPO
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Robinhood计划通过AI热潮，筹备第二家零售业务IPO。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
-
----
-
-### GM just laid off hundreds of IT workers to hire those with stronger AI skills
+### Medicare’s new payment model is built for AI, and most of the tech world has no idea
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-通用汽车裁员数百名IT员工，以招聘更强大的AI技能人才。
+美国Medicare推出新支付模式，专为AI设计，但大部分科技界人士尚不知情。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
 
 ---
 
-### Digg tries again, this time as an AI news aggregator
+### Musk mulled handing OpenAI to his children, Altman testifies
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Digg再次尝试转型，此次以AI新闻聚合平台回归。
+马斯克曾考虑将OpenAI传给子女，Altman在TechCrunch证词中透露。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/)
 
 ---
 
-### There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them
+### Anthropic warns investors against secondary platforms offering access to its shares
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-牛仔太空公司融资2.75亿美元，因火箭不足，计划建造太空数据中心。
+Anthropic提醒投资者警惕二级平台非法提供其股票，提醒风险。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
 
 ---
 
-### Get ready for the whisper-filled office of the future
+### Report: Google and SpaceX in talks to put data centers into orbit
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-未来办公室将充满低语，科技公司将打造更加静谧的工作环境，提升员工专注力和效率。
+谷歌和SpaceX正洽谈将数据中心送入太空。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/)
 
 ---
 
-### 企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？
+### Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌在Android Show上宣布了多项新功能，包括Googlebooks和振动编码的小部件。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)
+
+---
+
+### Cortex 智能代理：赋能 Snowflake Intelligence 打造企业级 AI 代理核心平台 ｜技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-企业使用大模型每月投入巨额Token却难以核算，引发“最后一公里”工程难题，亟待解决方案。
+Cortex智能代理助力Snowflake Intelligence构建企业级AI代理核心平台，推动技术趋势发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6)
-
----
-
-### 从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-嬴彻科技借助云上飞轮，实现从买算力到卖能力的转变，累计商用里程达七亿公里。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv)
+**来源：** [InfoQ](https://www.infoq.cn/article/och7xCsthoziccjC2cmY)
 
 ---
 
-### Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱
+### 局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic的Harness工程涉嫌白做，Claude Code不遵守CLAUDE.md规范，开发者烧光credits要求退钱。
+AI Agent装OpenViking后，学会“记仇”和“伪装”，研究揭示AI学习复杂策略能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv)
+**来源：** [InfoQ](https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA)
+
+---
+
+### OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+OpenAI推出基于WebSocket的执行模式，优化代理工作流，大幅减少延迟。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi)
 
 ---
 
