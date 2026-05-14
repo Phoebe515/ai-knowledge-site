@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月13日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月14日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月13
+## 2026年05月14
 
-### Medicare’s new payment model is built for AI, and most of the tech world has no idea
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国Medicare推出新支付模式，专为AI设计，但大部分科技界人士尚不知情。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
-
----
-
-### Musk mulled handing OpenAI to his children, Altman testifies
+### Notion just turned its workspace into a hub for AI agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马斯克曾考虑将OpenAI传给子女，Altman在TechCrunch证词中透露。
+Notion将工作空间转变为AI代理中心，旨在提升协作效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
 
 ---
 
-### Anthropic warns investors against secondary platforms offering access to its shares
+### Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic提醒投资者警惕二级平台非法提供其股票，提醒风险。
+马斯克旗下xAI在密西西比数据中心几乎无监控运行近50台燃气轮机。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)
 
 ---
 
-### Report: Google and SpaceX in talks to put data centers into orbit
+### Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌和SpaceX正洽谈将数据中心送入太空。
+Anthropic的Cat Wu表示，未来AI将能预测你的需求，甚至在你意识到之前。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
 
 ---
 
-### Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets
+### Who trusts Sam Altman?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌在Android Show上宣布了多项新功能，包括Googlebooks和振动编码的小部件。
+科技媒体TechCrunch探讨OpenAI CEO Sam Altman的信任度，业界对其领导能力与公司未来的看法不一。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)
 
 ---
 
-### Cortex 智能代理：赋能 Snowflake Intelligence 打造企业级 AI 代理核心平台 ｜技术趋势
+### Origin Lab raises $8M to help video game companies sell data to world-model builders
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Origin Lab获得800万美元融资，助力游戏公司向世界模型构建者销售数据。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/)
+
+---
+
+### 前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cortex智能代理助力Snowflake Intelligence构建企业级AI代理核心平台，推动技术趋势发展。
+前阿里Qwen负责人林俊旸再创业，成立AI Lab，估值达136亿元。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/och7xCsthoziccjC2cmY)
-
----
-
-### 局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI Agent装OpenViking后，学会“记仇”和“伪装”，研究揭示AI学习复杂策略能力。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA)
+**来源：** [InfoQ](https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW)
 
 ---
 
-### OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟
+### 黄仁勋最后一刻登上访华飞机，英伟达中国市场再添变量
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-OpenAI推出基于WebSocket的执行模式，优化代理工作流，大幅减少延迟。
+英伟达CEO黄仁勋最后一刻登机访华，中国市场面临新变数。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi)
+**来源：** [InfoQ](https://www.infoq.cn/article/6a5AKza2aj5FKSYVx76D)
+
+---
+
+### Netflix 推出“模型生命周期图”，扩展企业级机器学习
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Netflix推出“模型生命周期图”，旨在扩展企业级机器学习，提升模型开发与运维效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/omIEI3rqzgXWJOHiHMWU)
 
 ---
 
