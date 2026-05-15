@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月14
+## 2026年05月15
 
-### Notion just turned its workspace into a hub for AI agents
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Notion将工作空间转变为AI代理中心，旨在提升协作效率。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
-
----
-
-### Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center
+### What the jury will actually decide in the case of Elon Musk vs. Sam Altman
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马斯克旗下xAI在密西西比数据中心几乎无监控运行近50台燃气轮机。
+本案中，陪审团将裁决埃隆·马斯克与萨姆·奥特曼之间的争议焦点，涉及双方在科技领域的权力与责任问题。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
 
 ---
 
-### Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are
+### Elon Musk’s SpaceXAI has been bleeding staff since its merger
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic的Cat Wu表示，未来AI将能预测你的需求，甚至在你意识到之前。
+SpaceXAI自合并以来人员流失严重。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
 
 ---
 
-### Who trusts Sam Altman?
+### OpenAI says Codex is coming to your phone
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技媒体TechCrunch探讨OpenAI CEO Sam Altman的信任度，业界对其领导能力与公司未来的看法不一。
+OpenAI宣布Codex将登陆手机，为用户提供便捷的编程助手。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
 
 ---
 
-### Origin Lab raises $8M to help video game companies sell data to world-model builders
+### What happens when AI starts building itself?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Origin Lab获得800万美元融资，助力游戏公司向世界模型构建者销售数据。
+当AI开始自我构建，TechCrunch探讨其潜在影响与挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
 
 ---
 
-### 前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元
+### OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI拟对苹果提起法律诉讼，此前已有合作伙伴受挫。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
+
+---
+
+### Anthropic 推出 Claude Platform on AWS
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-前阿里Qwen负责人林俊旸再创业，成立AI Lab，估值达136亿元。
+Anthropic推出Claude平台，支持在AWS上运行，进一步提升人工智能服务的可访问性和性能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW)
-
----
-
-### 黄仁勋最后一刻登上访华飞机，英伟达中国市场再添变量
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-英伟达CEO黄仁勋最后一刻登机访华，中国市场面临新变数。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/6a5AKza2aj5FKSYVx76D)
+**来源：** [InfoQ](https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV)
 
 ---
 
-### Netflix 推出“模型生命周期图”，扩展企业级机器学习
+### 鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Netflix推出“模型生命周期图”，旨在扩展企业级机器学习，提升模型开发与运维效率。
+Meta员工抗议AI训练，厕所、会议室贴满传单，要求停止鼠标动作训练AI。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/omIEI3rqzgXWJOHiHMWU)
+**来源：** [InfoQ](https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa)
+
+---
+
+### GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+GitHub推出MCP服务器集成，扩展机密扫描功能，加强代码安全防护。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW)
 
 ---
 
