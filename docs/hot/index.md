@@ -9,60 +9,80 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月15日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月16日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月15
+## 2026年05月16
+
+### Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+硅谷度假胜地面临能源供应商短缺，AI推动价格上涨，需寻找新解决方案。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
+
+---
+
+### OpenAI launches ChatGPT for personal finance, will let you connect bank accounts
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI推出个人财务助手ChatGPT，支持连接银行账户，提供智能财务建议。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
+
+---
+
+### Runway started by helping filmmakers — now it wants to beat Google at AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Runway，一家起初助力电影制作的平台，现正致力于在AI领域超越谷歌。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)
+
+---
+
+### Osaurus brings both local and cloud AI models to your Mac
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Osaurus推出Mac端AI模型应用，支持本地和云端模型，提升Mac人工智能能力。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)
+
+---
 
 ### What the jury will actually decide in the case of Elon Musk vs. Sam Altman
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-本案中，陪审团将裁决埃隆·马斯克与萨姆·奥特曼之间的争议焦点，涉及双方在科技领域的权力与责任问题。
+本案中陪审团将裁决Elon Musk与Sam Altman之间的纠纷具体事项，涉及双方争议焦点及潜在法律后果。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
 
 ---
 
-### Elon Musk’s SpaceXAI has been bleeding staff since its merger
+### 记忆感知的大模型 KVCache 优化｜AICon上海
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-SpaceXAI自合并以来人员流失严重。
+AICon上海会上，MemorySense团队提出优化KVCache大模型，提升记忆感知能力，增强AI应用效果。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
-
----
-
-### OpenAI says Codex is coming to your phone
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI宣布Codex将登陆手机，为用户提供便捷的编程助手。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
+**来源：** [InfoQ](https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm)
 
 ---
 
-### What happens when AI starts building itself?
+### Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-当AI开始自我构建，TechCrunch探讨其潜在影响与挑战。
+Kubernetes v1.36发布，强化安全默认配置，AI工作负载支持成熟，提升容器编排能力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
-
----
-
-### OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI拟对苹果提起法律诉讼，此前已有合作伙伴受挫。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
+**来源：** [InfoQ](https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5)
 
 ---
 
@@ -70,29 +90,9 @@ OpenAI拟对苹果提起法律诉讼，此前已有合作伙伴受挫。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic推出Claude平台，支持在AWS上运行，进一步提升人工智能服务的可访问性和性能。
+Anthropic发布Claude平台，支持在AWS上运行，提供高效、可扩展的AI服务。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV)
-
----
-
-### 鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Meta员工抗议AI训练，厕所、会议室贴满传单，要求停止鼠标动作训练AI。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa)
-
----
-
-### GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-GitHub推出MCP服务器集成，扩展机密扫描功能，加强代码安全防护。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW)
 
 ---
 
