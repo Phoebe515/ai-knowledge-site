@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月17
+## 2026年05月18
+
+### Apple’s Siri revamp could include auto-deleting chats
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果正在对Siri进行重大更新，可能包括自动删除聊天记录功能。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
+
+---
+
+### Why trust is a big question at the Elon Musk-OpenAI trial
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+马斯克与OpenAI的法庭对决中，信任问题成为焦点，双方就合作与竞争关系展开激烈辩论。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
+
+---
+
+### If you’re giving a commencement speech in 2026, maybe don’t mention AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+2026年毕业典礼演讲，建议避免提及AI。TechCrunch指出，AI发展迅速，相关内容可能很快过时。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+
+---
+
+### TechCrunch Mobility: The AI skills arms race is coming for automotive
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+人工智能技能竞赛即将进入汽车行业，TechCrunch Mobility报道，自动驾驶与智能网联技术成为焦点。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)
+
+---
 
 ### The haves and have nots of the AI gold rush
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI热潮中，赢家和输家分化明显，科技巨头垄断资源，初创企业面临挑战。
+在AI热潮中，巨头与初创企业间的资源差距加剧，竞争激烈。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
 
 ---
 
-### Research repository ArXiv will ban authors for a year if they let AI do all the work
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-ArXiv研究库将禁止一年内让AI完成全部工作的作者投稿。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
-
----
-
-### OpenAI co-founder Greg Brockman takes charge of product strategy
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI联合创始人Greg Brockman将负责产品战略。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)
-
----
-
-### Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-硅谷度假胜地面临能源供应挑战，AI推动价格上涨，需寻找新能源供应商。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
-
----
-
-### OpenAI launches ChatGPT for personal finance, will let you connect bank accounts
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI推出个人财务助手ChatGPT，支持银行账户连接，为用户提供智能财务管理服务。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
-
----
-
-### AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海
+### Java新闻汇总：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon上海探讨下一代Agent中枢，聚焦本地执行与全场景硬件接入，实现AI的“最后一公里”。
+Java生态圈迎来多款新工具：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP发布，助力开发效率提升。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9)
-
----
-
-### ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-ChatGPT新功能可理财，却引发用户隐私担忧。用户表示：谢谢不用了。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8)
+**来源：** [InfoQ](https://www.infoq.cn/article/lMqQqYKIxvjYR1EvE80d)
 
 ---
 
-### 记忆感知的大模型 KVCache 优化｜AICon上海
+### 一个二十多年老兵的忧心：那条从Debug开始走向资深工程师的路，正在崩塌
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon上海会上，记忆感知大模型KVCache优化成果发布，提升模型推理效率。
+资深工程师之路面临崩塌，二十多年老兵忧心编程教育缺失，行业人才断层。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm)
+**来源：** [InfoQ](https://www.infoq.cn/article/YAp5zTKldz9fYuYkAuls)
+
+---
+
+### 从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+菜鸟在AICon上海分享其AI研发效能实践，涵盖Vibe Coding和需求托管交付Agent等创新技术。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl)
 
 ---
 
