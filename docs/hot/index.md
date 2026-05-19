@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月18日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月19日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月18
+## 2026年05月19
 
-### Apple’s Siri revamp could include auto-deleting chats
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果正在对Siri进行重大更新，可能包括自动删除聊天记录功能。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
-
----
-
-### Why trust is a big question at the Elon Musk-OpenAI trial
+### SandboxAQ brings its drug discovery models to Claude — no PhD in computing required
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马斯克与OpenAI的法庭对决中，信任问题成为焦点，双方就合作与竞争关系展开激烈辩论。
+SandboxAQ将药物发现模型引入Claude，无需计算专业背景。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)
 
 ---
 
-### If you’re giving a commencement speech in 2026, maybe don’t mention AI
+### Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-2026年毕业典礼演讲，建议避免提及AI。TechCrunch指出，AI发展迅速，相关内容可能很快过时。
+Anthropic收购了被OpenAI、谷歌和Cloudflare等公司使用的开发工具初创公司。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
 
 ---
 
-### TechCrunch Mobility: The AI skills arms race is coming for automotive
+### Elon Musk has lost his lawsuit against Sam Altman and OpenAI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-人工智能技能竞赛即将进入汽车行业，TechCrunch Mobility报道，自动驾驶与智能网联技术成为焦点。
+埃隆·马斯克败诉Sam Altman和OpenAI，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 
 ---
 
-### The haves and have nots of the AI gold rush
+### Amazon’s new Alexa+ powered feature can generate podcast episodes
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-在AI热潮中，巨头与初创企业间的资源差距加剧，竞争激烈。
+亚马逊推出全新Alexa+功能，可生成播客节目。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/)
 
 ---
 
-### Java新闻汇总：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP
+### South Korea’s LetinAR is building optics behind AI glasses
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+韩国LetinAR正在研发AI眼镜背后的光学技术。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
+
+---
+
+### Netflix借助Apache Druid中的区间感知缓存让84%的查询结果直接命中缓存
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Java生态圈迎来多款新工具：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP发布，助力开发效率提升。
+Netflix利用Apache Druid区间感知缓存，实现84%查询结果直接命中，显著提升查询效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/lMqQqYKIxvjYR1EvE80d)
-
----
-
-### 一个二十多年老兵的忧心：那条从Debug开始走向资深工程师的路，正在崩塌
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-资深工程师之路面临崩塌，二十多年老兵忧心编程教育缺失，行业人才断层。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/YAp5zTKldz9fYuYkAuls)
+**来源：** [InfoQ](https://www.infoq.cn/article/h9FlLwbtrwbF88BSISss)
 
 ---
 
-### 从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海
+### 小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-菜鸟在AICon上海分享其AI研发效能实践，涵盖Vibe Coding和需求托管交付Agent等创新技术。
+小红书Vibe coding平台（Muse）在AICon上海分享高可用人机共创Agentic系统架构实践，探索AI赋能内容创作新路径。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl)
+**来源：** [InfoQ](https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M)
+
+---
+
+### 时序存储：影响成本与性能的设计选择
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+时序存储设计需权衡成本与性能，选择合适的时序存储方案对系统至关重要。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/CADK5ijCqtBsfj2JLMOK)
 
 ---
 
