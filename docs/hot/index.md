@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月19日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月20日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月19
+## 2026年05月20
 
-### SandboxAQ brings its drug discovery models to Claude — no PhD in computing required
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-SandboxAQ将药物发现模型引入Claude，无需计算专业背景。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)
-
----
-
-### Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare
+### Google just declared itself a contender in AI design at IO 2026
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic收购了被OpenAI、谷歌和Cloudflare等公司使用的开发工具初创公司。
+谷歌在IO 2026大会上宣布进军AI设计领域，成为该领域的竞争者。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
 
 ---
 
-### Elon Musk has lost his lawsuit against Sam Altman and OpenAI
+### You can now talk to your Gmail inbox, as seen at Google IO 2026
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-埃隆·马斯克败诉Sam Altman和OpenAI，TechCrunch报道。
+在Google IO 2026上，谷歌推出全新功能：用户可语音与Gmail收件箱互动。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
 
 ---
 
-### Amazon’s new Alexa+ powered feature can generate podcast episodes
+### How to use Google’s new AI agents to go beyond your standard searches
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊推出全新Alexa+功能，可生成播客节目。
+Google新AI代理可拓展搜索功能，TechCrunch介绍其使用方法，助力用户深入探索信息。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
 
 ---
 
-### South Korea’s LetinAR is building optics behind AI glasses
+### From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-韩国LetinAR正在研发AI眼镜背后的光学技术。
+曾为青少年黑客的创业者，现成为Iron Dome研究专家，其公司获28M美元融资，致力于对抗AI钓鱼。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)
 
 ---
 
-### Netflix借助Apache Druid中的区间感知缓存让84%的查询结果直接命中缓存
+### Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特斯拉CEO马斯克称Sam Altman“窃取”了非营利组织，但审判显示两人目标相似。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/)
+
+---
+
+### 外行式 Vibe Coding 正跟专业的Agent 工程走向融合：最吓人的是，我们“摆烂”有正当理由了？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Netflix利用Apache Druid区间感知缓存，实现84%查询结果直接命中，显著提升查询效率。
+外行式Vibe Coding与专业Agent工程融合，赋予“摆烂”正当理由，推动人工智能领域创新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/h9FlLwbtrwbF88BSISss)
-
----
-
-### 小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-小红书Vibe coding平台（Muse）在AICon上海分享高可用人机共创Agentic系统架构实践，探索AI赋能内容创作新路径。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M)
+**来源：** [InfoQ](https://www.infoq.cn/article/uLLYdtZdZu9sCQSyUcst)
 
 ---
 
-### 时序存储：影响成本与性能的设计选择
+### 不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-时序存储设计需权衡成本与性能，选择合适的时序存储方案对系统至关重要。
+Cursor采用Composer 2.5更新Kimi底座，以1/10成本追平Opus 4.7，反击Claude Code。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/CADK5ijCqtBsfj2JLMOK)
+**来源：** [InfoQ](https://www.infoq.cn/article/WHlyjD6dQgPYxmcXWFzO)
+
+---
+
+### Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Snowflake Summit 26现开启Golden Question征集，邀请您分享AI落地难题，共探解决方案。
+
+**来源：** [InfoQ](https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94)
 
 ---
 
