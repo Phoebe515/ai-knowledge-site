@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月20日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月21日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月20
+## 2026年05月21
 
-### Google just declared itself a contender in AI design at IO 2026
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌在IO 2026大会上宣布进军AI设计领域，成为该领域的竞争者。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
-
----
-
-### You can now talk to your Gmail inbox, as seen at Google IO 2026
+### Clouted wants to take the guesswork out of making short videos go viral
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-在Google IO 2026上，谷歌推出全新功能：用户可语音与Gmail收件箱互动。
+Clouted旨在通过技术手段消除短视频爆红的偶然性，助力创作者高效制作热门内容。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/)
 
 ---
 
-### How to use Google’s new AI agents to go beyond your standard searches
+### xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google新AI代理可拓展搜索功能，TechCrunch介绍其使用方法，助力用户深入探索信息。
+xAI去年烧掉64亿美元，SpaceX的IPO文件显示其开支远未结束。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
 
 ---
 
-### From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing
+### Nvidia posts another record quarter, reveals $43B of holdings in startups
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-曾为青少年黑客的创业者，现成为Iron Dome研究专家，其公司获28M美元融资，致力于对抗AI钓鱼。
+Nvidia发布创纪录季度财报，持股初创企业价值达430亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/)
 
 ---
 
-### Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims
+### Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特斯拉CEO马斯克称Sam Altman“窃取”了非营利组织，但审判显示两人目标相似。
+马斯克旗下xAI因数据中心发电机被起诉，同时斥资28亿美元扩大业务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/)
 
 ---
 
-### 外行式 Vibe Coding 正跟专业的Agent 工程走向融合：最吓人的是，我们“摆烂”有正当理由了？
+### Anthropic will pay xAI $1.25B per month for compute
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic与xAI达成合作，每月支付1.25亿美元用于计算资源。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/)
+
+---
+
+### Cloudflare 推出支持确定性执行和 5 万个并发工作流的 Workflows V2
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-外行式Vibe Coding与专业Agent工程融合，赋予“摆烂”正当理由，推动人工智能领域创新。
+Cloudflare发布Workflows V2，支持确定性执行和5万个并发工作流，提升服务性能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uLLYdtZdZu9sCQSyUcst)
-
----
-
-### 不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Cursor采用Composer 2.5更新Kimi底座，以1/10成本追平Opus 4.7，反击Claude Code。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/WHlyjD6dQgPYxmcXWFzO)
+**来源：** [InfoQ](https://www.infoq.cn/article/6wOv9VbhvJ7D3tJAQHJH)
 
 ---
 
-### Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26
+### 对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Snowflake Summit 26现开启Golden Question征集，邀请您分享AI落地难题，共探解决方案。
+对话灵感实验室强调，业务现场在追求全帧率VLM、低成本与分层部署的同时，更需注重实用模型而非炫技。
 
-**来源：** [InfoQ](https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94)
+**来源：** [InfoQ](https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P)
+
+---
+
+### 10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+一人用10天打造全球AI爆款，获好莱坞导演青睐，游戏版备受期待，合作细节首次曝光。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ)
 
 ---
 
