@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月21
+## 2026年05月22
 
-### Clouted wants to take the guesswork out of making short videos go viral
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Clouted旨在通过技术手段消除短视频爆红的偶然性，助力创作者高效制作热门内容。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/)
-
----
-
-### xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over
+### Spotify and Universal Music strike deal allowing fan-made AI covers and remixes
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-xAI去年烧掉64亿美元，SpaceX的IPO文件显示其开支远未结束。
+Spotify与环球音乐达成协议，允许粉丝创作AI封面和混音作品。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
 
 ---
 
-### Nvidia posts another record quarter, reveals $43B of holdings in startups
+### How Elon Musk will increase his power through the SpaceX IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia发布创纪录季度财报，持股初创企业价值达430亿美元。
+马斯克计划通过SpaceX IPO提升个人权力，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/)
 
 ---
 
-### Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more
+### Six search engines worth trying now that Google isn’t really Google anymore
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马斯克旗下xAI因数据中心发电机被起诉，同时斥资28亿美元扩大业务。
+谷歌不再是原来的谷歌，以下六款搜索引擎值得一试。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 
 ---
 
-### Anthropic will pay xAI $1.25B per month for compute
+### Trump delays AI security executive order, saying language ‘could have been a blocker’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic与xAI达成合作，每月支付1.25亿美元用于计算资源。
+特朗普推迟签署AI安全行政命令，称语言可能构成障碍。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/)
 
 ---
 
-### Cloudflare 推出支持确定性执行和 5 万个并发工作流的 Workflows V2
+### Spotify takes on Google’s NotebookLM with its new app
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Spotify推出新应用，挑战谷歌的NotebookLM。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/)
+
+---
+
+### Fonttrio 发布：面向 shadcn/ui 的开源字体搭配注册表
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare发布Workflows V2，支持确定性执行和5万个并发工作流，提升服务性能。
+Fonttrio发布开源字体搭配注册表，助力shadcn/ui项目，提供一站式字体解决方案。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/6wOv9VbhvJ7D3tJAQHJH)
-
----
-
-### 对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-对话灵感实验室强调，业务现场在追求全帧率VLM、低成本与分层部署的同时，更需注重实用模型而非炫技。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P)
+**来源：** [InfoQ](https://www.infoq.cn/article/18Gjtm6SMtUzuylOEVab)
 
 ---
 
-### 10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露
+### Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-一人用10天打造全球AI爆款，获好莱坞导演青睐，游戏版备受期待，合作细节首次曝光。
+Pip 26.1正式发布，引入依赖冷却机制与实验性锁定文件功能，增强抵御供应链攻击能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ)
+**来源：** [InfoQ](https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1)
+
+---
+
+### 阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+阶跃星辰副总裁俞刚将出席AICon上海站，分享多模态生成与理解的架构演进，探讨AI技术前沿。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN)
 
 ---
 
