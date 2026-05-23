@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月22
+## 2026年05月23
 
-### Spotify and Universal Music strike deal allowing fan-made AI covers and remixes
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Spotify与环球音乐达成协议，允许粉丝创作AI封面和混音作品。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
-
----
-
-### How Elon Musk will increase his power through the SpaceX IPO
+### AI is being used to resurrect the voices of dead pilots
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马斯克计划通过SpaceX IPO提升个人权力，TechCrunch报道。
+AI技术被应用于复活已故飞行员的声音，以纪念和回顾历史事件，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
 
 ---
 
-### Six search engines worth trying now that Google isn’t really Google anymore
+### Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌不再是原来的谷歌，以下六款搜索引擎值得一试。
+谷歌推出新设计，以迪斯科球图标吸睛，引发网友热议：“你们真的还想要这个吗？”
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
 
 ---
 
-### Trump delays AI security executive order, saying language ‘could have been a blocker’
+### How VCs and founders use inflated ‘ARR’ to crown AI startups 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普推迟签署AI安全行政命令，称语言可能构成障碍。
+风险投资家和创始人通过夸大“年度经常性收入”（ARR）来吹捧AI初创公司，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
 
 ---
 
-### Spotify takes on Google’s NotebookLM with its new app
+### You can no longer Google the word ‘disregard’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Spotify推出新应用，挑战谷歌的NotebookLM。
+谷歌搜索已屏蔽“disregard”一词，用户无法搜索该词。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
 
 ---
 
-### Fonttrio 发布：面向 shadcn/ui 的开源字体搭配注册表
+### We tried Google’s AI glasses and they’re almost there
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌AI眼镜体验：功能接近成熟，有望引领智能眼镜新潮流。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)
+
+---
+
+### 华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Fonttrio发布开源字体搭配注册表，助力shadcn/ui项目，提供一站式字体解决方案。
+华为鸿蒙编程框架首席技术专家谢国将出席AICon上海站，分享AI时代跨平台框架演进，以鸿蒙为例。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/18Gjtm6SMtUzuylOEVab)
-
----
-
-### Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Pip 26.1正式发布，引入依赖冷却机制与实验性锁定文件功能，增强抵御供应链攻击能力。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1)
+**来源：** [InfoQ](https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1)
 
 ---
 
-### 阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进
+### 买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-阶跃星辰副总裁俞刚将出席AICon上海站，分享多模态生成与理解的架构演进，探讨AI技术前沿。
+企业购买Token无法直接提升生产力，引发AI基础设施新战场竞争。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN)
+**来源：** [InfoQ](https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p)
+
+---
+
+### Anthropic 推出 MCP 隧道，供私有代理访问内部系统
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Anthropic发布MCP隧道，为私有代理提供内部系统访问。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT)
 
 ---
 
