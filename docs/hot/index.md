@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月23
+## 2026年05月24
+
+### Ferrari is using IBM’s AI to create F1 superfans
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+法拉利携手IBM AI打造一级方程式超级粉丝，提升粉丝互动体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
+
+---
+
+### Elon Musk has given up on solar power (on Earth)
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特斯拉CEO埃隆·马斯克宣布放弃地球太阳能项目，转向太空太阳能探索。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
+
+---
 
 ### AI is being used to resurrect the voices of dead pilots
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI技术被应用于复活已故飞行员的声音，以纪念和回顾历史事件，TechCrunch报道。
+AI技术应用于复活已故飞行员声音，TechCrunch报道，此技术有望用于记录和重现历史人物的声音。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
 
@@ -30,7 +50,7 @@ AI技术被应用于复活已故飞行员的声音，以纪念和回顾历史事
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌推出新设计，以迪斯科球图标吸睛，引发网友热议：“你们真的还想要这个吗？”
+Google推出复古迪斯科球图标，引发网友热议：“你们真的还想要这个吗？”
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
 
@@ -40,59 +60,39 @@ AI技术被应用于复活已故飞行员的声音，以纪念和回顾历史事
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-风险投资家和创始人通过夸大“年度经常性收入”（ARR）来吹捧AI初创公司，TechCrunch报道。
+科技媒体TechCrunch报道，风险投资家和创始人通过夸大“年度经常性收入”（ARR）来提升AI初创企业估值。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
 
 ---
 
-### You can no longer Google the word ‘disregard’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌搜索已屏蔽“disregard”一词，用户无法搜索该词。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
-
----
-
-### We tried Google’s AI glasses and they’re almost there
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌AI眼镜体验：功能接近成熟，有望引领智能眼镜新潮流。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)
-
----
-
-### 华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进
+### 破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-华为鸿蒙编程框架首席技术专家谢国将出席AICon上海站，分享AI时代跨平台框架演进，以鸿蒙为例。
+飞猪在AICon上海分享跨端技术发展历程，强调拥抱AI变革，突破多端困境，展望未来技术发展趋势。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1)
-
----
-
-### 买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-企业购买Token无法直接提升生产力，引发AI基础设施新战场竞争。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p)
+**来源：** [InfoQ](https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO)
 
 ---
 
-### Anthropic 推出 MCP 隧道，供私有代理访问内部系统
+### 大规模工程支撑场景下的多智能体系统设计：Grab 实践案例
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic发布MCP隧道，为私有代理提供内部系统访问。
+Grab分享大规模工程支撑场景下多智能体系统设计实践，探讨系统架构与优化策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT)
+**来源：** [InfoQ](https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9)
+
+---
+
+### OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+OpenAI在InfoQ上详细介绍了其基于WebRTC的低延迟语音AI规模化架构，旨在提升语音交互的实时性和稳定性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q)
 
 ---
 
