@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月24
+## 2026年05月25
+
+### Everyone is navigating AI security in real time — even Google
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌等企业正实时应对AI安全问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
+
+---
+
+### Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Xreal，谷歌智能眼镜合作伙伴，认为其已掌握这一棘手的行业。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
+
+---
+
+### I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+亚马逊的Bee可穿戴设备体验：既好奇又感到一丝不安。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)
+
+---
 
 ### Ferrari is using IBM’s AI to create F1 superfans
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-法拉利携手IBM AI打造一级方程式超级粉丝，提升粉丝互动体验。
+法拉利与IBM合作，运用AI技术打造F1超级粉丝，提升赛事互动体验。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
 
@@ -30,69 +60,39 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特斯拉CEO埃隆·马斯克宣布放弃地球太阳能项目，转向太空太阳能探索。
+特斯拉CEO马斯克宣布放弃在地球开发太阳能业务。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
 
 ---
 
-### AI is being used to resurrect the voices of dead pilots
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI技术应用于复活已故飞行员声音，TechCrunch报道，此技术有望用于记录和重现历史人物的声音。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
-
----
-
-### Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Google推出复古迪斯科球图标，引发网友热议：“你们真的还想要这个吗？”
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
-
----
-
-### How VCs and founders use inflated ‘ARR’ to crown AI startups 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技媒体TechCrunch报道，风险投资家和创始人通过夸大“年度经常性收入”（ARR）来提升AI初创企业估值。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
-
----
-
-### 破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海
+### Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-飞猪在AICon上海分享跨端技术发展历程，强调拥抱AI变革，突破多端困境，展望未来技术发展趋势。
+Copilot创始工程师指出，当前多数AI编码效能过高，犹如“开着法拉利去买牛奶”。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO)
-
----
-
-### 大规模工程支撑场景下的多智能体系统设计：Grab 实践案例
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Grab分享大规模工程支撑场景下多智能体系统设计实践，探讨系统架构与优化策略。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9)
+**来源：** [InfoQ](https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6)
 
 ---
 
-### OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构
+### 人工智能无法加速软件交付
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-OpenAI在InfoQ上详细介绍了其基于WebRTC的低延迟语音AI规模化架构，旨在提升语音交互的实时性和稳定性。
+研究发现，人工智能技术并不能显著加速软件交付过程。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q)
+**来源：** [InfoQ](https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7)
+
+---
+
+### C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+C++之父表示，资深开发者宁愿退休也不愿使用AI生成的代码，引发AI Coding行业争议。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ)
 
 ---
 
