@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月25日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月26日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月25
+## 2026年05月26
+
+### What ClickUp’s mass layoff tells us about the future of work
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+ClickUp大规模裁员揭示远程办公和自动化对工作未来影响，行业面临转型挑战。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
+
+---
+
+### The pope’s AI encyclical isn’t really about AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+教皇的AI通谕并非真正探讨AI，而是强调人类价值观与技术伦理。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
+
+---
+
+### Startup Battlefield 200 applications close in days: Apply before May 27
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Startup Battlefield 200申请截止在即，5月27日前提交。科技创业者速来参加。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/)
+
+---
+
+### 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Disrupt 2026门票最后5天，价格即将上调，最高可省410美元。抓紧时间抢购！
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)
+
+---
 
 ### Everyone is navigating AI security in real time — even Google
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌等企业正实时应对AI安全问题。
+谷歌等公司正实时应对AI安全问题。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
 
 ---
 
-### Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Xreal，谷歌智能眼镜合作伙伴，认为其已掌握这一棘手的行业。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
-
----
-
-### I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-亚马逊的Bee可穿戴设备体验：既好奇又感到一丝不安。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)
-
----
-
-### Ferrari is using IBM’s AI to create F1 superfans
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-法拉利与IBM合作，运用AI技术打造F1超级粉丝，提升赛事互动体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
-
----
-
-### Elon Musk has given up on solar power (on Earth)
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-特斯拉CEO马斯克宣布放弃在地球开发太阳能业务。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
-
----
-
-### Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”
+### 如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Copilot创始工程师指出，当前多数AI编码效能过高，犹如“开着法拉利去买牛奶”。
+Cortex Code Agent SDK深度解析Snowflake上构建可编程AI Agent，揭示技术实践要点。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6)
-
----
-
-### 人工智能无法加速软件交付
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-研究发现，人工智能技术并不能显著加速软件交付过程。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7)
+**来源：** [InfoQ](https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG)
 
 ---
 
-### C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码
+### ClickHouse十大最佳实践技巧
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-C++之父表示，资深开发者宁愿退休也不愿使用AI生成的代码，引发AI Coding行业争议。
+InfoQ发布ClickHouse最佳实践，涵盖数据模型、查询优化、集群配置等十大技巧，助您高效利用ClickHouse。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ)
+**来源：** [InfoQ](https://www.infoq.cn/article/bp64ilutkRcpSEhh5fNX)
+
+---
+
+### AWS MCP服务器正式可用，全面适配API并支持IAM权限控制
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AWS MCP服务器正式上线，全面支持API调用及IAM权限控制，提升云服务安全性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7)
 
 ---
 
