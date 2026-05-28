@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月27
+## 2026年05月28
 
-### DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-DuckDuckGo安装量上涨30%，用户拒绝被“强制”使用谷歌AI搜索。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/)
-
----
-
-### OpenRouter more than doubles valuation to $1.3B in a year
+### Why Google’s AI can’t spell Google (or anything else)
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenRouter一年内估值翻倍，达到13亿美元。
+谷歌AI在拼写“Google”等词时出现错误，凸显AI在自然语言处理方面的局限性。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
 
 ---
 
-### This startup is betting India’s gig economy can train the world’s robots
+### In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-该初创公司押注印度零工经济能培养全球机器人人才。
+Snowflake与AWS签署6亿美元合作，将为AI提供定制CPU芯片，进一步拓展亚马逊云计算业务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)
 
 ---
 
-### Universal Music Group and TikTok renew agreement to combat unauthorized AI music
+### Payroll startup Remote says it grew revenue 50% per employee without adding headcount
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-环球音乐集团与TikTok续签协议，共同打击未经授权的AI音乐。
+远程薪酬初创公司Remote表示，其收入每人增长50%，未增加员工人数。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/)
 
 ---
 
-### TechCrunch Disrupt 2026 Early Bird ticket rates end May 29
+### Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026 Early Bird票务优惠将于5月29日截止。
+Meta推出Instagram、Facebook和WhatsApp订阅服务，并计划推出更多产品，包括AI相关项目。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
 
 ---
 
-### 基于 Snowflake Semantic View 构建自助式报表数据集市 ｜ 技术实践
+### AI coding startup Cognition raises $1B at $25B pre-money valuation
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+人工智能编码初创公司Cognition完成1亿美元融资，估值达到250亿美元。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
+
+---
+
+### 腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-基于Snowflake Semantic View构建自助式报表数据集市，实现高效数据处理与可视化分析。
+腾讯云DBbrain通过性能洞察与AI Skill化转型实践，提升数据库极致性能。DBTalk探讨DBbrain技术创新与实践。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/a4gbB5g49HBNl2mwXwXY)
-
----
-
-### 安全可靠！星环科技分布式数据库ArgoDB通过安全可靠测评！
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-星环科技分布式数据库ArgoDB通过安全可靠测评，验证其安全性及可靠性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/1w093X0R3Ul2u1RmbM44)
+**来源：** [InfoQ](https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp)
 
 ---
 
-### 中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产
+### 小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-中国提出半导体演进新原则“韬定律”，华为计划5年内实现等效1.4nm制程，麒麟、昇腾芯片将陆续量产。
+小红书AI工程架构师郝栩彬将出席AICon上海站，分享Self-GC多轮Agent上下文治理方案，探讨结合前缀缓存约束的技术创新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc)
+**来源：** [InfoQ](https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt)
+
+---
+
+### 「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI研习社推出CodeBuddy，助力开发者从零开始制作可上线小程序，规范AI应用行为。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU)
 
 ---
 
