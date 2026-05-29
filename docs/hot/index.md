@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月28
+## 2026年05月29
 
-### Why Google’s AI can’t spell Google (or anything else)
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌AI在拼写“Google”等词时出现错误，凸显AI在自然语言处理方面的局限性。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
-
----
-
-### In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips
+### The internet is being rebuilt for machines
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Snowflake与AWS签署6亿美元合作，将为AI提供定制CPU芯片，进一步拓展亚马逊云计算业务。
+互联网正被重新构建以适应机器，旨在提升机器间的通信效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
 
 ---
 
-### Payroll startup Remote says it grew revenue 50% per employee without adding headcount
+### Asana acquires no-code agent-builder StackAI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-远程薪酬初创公司Remote表示，其收入每人增长50%，未增加员工人数。
+Asana收购无代码智能体构建平台StackAI，拓展自动化功能，助力企业提升工作效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
 
 ---
 
-### Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans
+### Anthropic raises $65 billion, nears $1T valuation ahead of IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta推出Instagram、Facebook和WhatsApp订阅服务，并计划推出更多产品，包括AI相关项目。
+Anthropic融资65亿美元，估值近千亿美元，IPO在即。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
 
 ---
 
-### AI coding startup Cognition raises $1B at $25B pre-money valuation
+### Just like gold and oil, we’ll soon be able to trade AI token futures
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-人工智能编码初创公司Cognition完成1亿美元融资，估值达到250亿美元。
+即将推出AI代币期货交易，类似于黄金和石油，标志着AI资产化迈出新步伐。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/)
 
 ---
 
-### 腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk
+### In just 3 weeks, StrictlyVC is coming to Los Angeles
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+StrictlyVC将在三周后落户洛杉矶，TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/)
+
+---
+
+### 去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准 ｜ 原创文章
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯云DBbrain通过性能洞察与AI Skill化转型实践，提升数据库极致性能。DBTalk探讨DBbrain技术创新与实践。
+Snowflake发起OSI标准，我们率先支持。探讨其背后的原因，为去硅谷前提供行业洞察。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp)
-
----
-
-### 小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-小红书AI工程架构师郝栩彬将出席AICon上海站，分享Self-GC多轮Agent上下文治理方案，探讨结合前缀缓存约束的技术创新。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt)
+**来源：** [InfoQ](https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL)
 
 ---
 
-### 「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序
+### Agent 能用，为什么还是不好用？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI研习社推出CodeBuddy，助力开发者从零开始制作可上线小程序，规范AI应用行为。
+尽管Agent功能强大，但用户体验不佳，导致实际应用效果不佳。需优化交互界面和智能化程度，提高用户满意度。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU)
+**来源：** [InfoQ](https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi)
+
+---
+
+### 米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+米哈游烧掉200万元Token，高管质疑Token价值，引发行业对Token价值的反思。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt)
 
 ---
 
