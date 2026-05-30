@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年05月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月29
+## 2026年05月30
 
-### The internet is being rebuilt for machines
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-互联网正被重新构建以适应机器，旨在提升机器间的通信效率。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
-
----
-
-### Asana acquires no-code agent-builder StackAI
+### Coders are refusing to work without AI — and that could come back to bite them 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Asana收购无代码智能体构建平台StackAI，拓展自动化功能，助力企业提升工作效率。
+程序员拒绝不使用AI工作，此举可能反噬自身。TechCrunch报道，AI工具已成为开发人员日常工作的重要组成部分。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
 
 ---
 
-### Anthropic raises $65 billion, nears $1T valuation ahead of IPO
+### So you’ve heard these AI terms and nodded along; let’s fix that
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic融资65亿美元，估值近千亿美元，IPO在即。
+TechCrunch文章指出，许多人对AI术语一知半解，本文旨在纠正误解，提升对AI领域的理解。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 
 ---
 
-### Just like gold and oil, we’ll soon be able to trade AI token futures
+### What happens when companies become too AI-pilled?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-即将推出AI代币期货交易，类似于黄金和石油，标志着AI资产化迈出新步伐。
+科技公司过度依赖AI技术可能导致潜在风险，影响创新和企业竞争力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/)
+**来源：** [TechCrunch](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
 
 ---
 
-### In just 3 weeks, StrictlyVC is coming to Los Angeles
+### After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-StrictlyVC将在三周后落户洛杉矶，TechCrunch报道。
+AI芯片初创公司Groq在Nvidia20亿美元收购失败后，计划筹资6.5亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
 
 ---
 
-### 去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准 ｜ 原创文章
+### Cognition’s Scott Wu says AI coding agents shouldn’t replace humans
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Cognition公司Scott Wu认为，AI编码代理不应取代人类，强调人机协作的重要性。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
+
+---
+
+### 前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Snowflake发起OSI标准，我们率先支持。探讨其背后的原因，为去硅谷前提供行业洞察。
+谷歌前CEO被学生嘘AI，现CEO被问AI取代问题，两代掌门人AI信仰受质疑。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL)
-
----
-
-### Agent 能用，为什么还是不好用？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-尽管Agent功能强大，但用户体验不佳，导致实际应用效果不佳。需优化交互界面和智能化程度，提高用户满意度。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi)
+**来源：** [InfoQ](https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6)
 
 ---
 
-### 米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？
+### 对话罗剑岚：把机器人“部署”本身变成训练的一部分
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-米哈游烧掉200万元Token，高管质疑Token价值，引发行业对Token价值的反思。
+罗剑岚提出将机器人部署过程融入训练，以提高训练效果和效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt)
+**来源：** [InfoQ](https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe)
+
+---
+
+### OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+红帽年入20亿美元，虚拟化业务狂飙417%，市场重构后持续领跑，靠OpenShift等创新技术驱动增长。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV)
 
 ---
 
