@@ -9,12 +9,32 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年05月31日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月01日 07:00</span>
 </div>
 
 ---
 
-## 2026年05月31
+## 2026年06月01
+
+### Erin Brockovich takes aim at data center secrecy
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+环保活动家Erin Brockovich对数据中心保密性提出质疑，呼吁透明化运营。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
+
+---
+
+### Making sense of the debate over AI psychosis
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+关于人工智能引发的精神病争议，TechCrunch深入探讨了该话题，分析了技术进步与伦理挑战之间的矛盾。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)
+
+---
 
 ### SoftBank says it will invest up to €75 billion to build French data centers
 
@@ -40,59 +60,39 @@ GitHub Copilot新推出的基于令牌的计费模式引发开发者不满。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta正开发AI智能项链，旨在提供个性化健康监测与交互体验。
+Meta正研发AI智能项链，旨在提供个性化健康与生活服务。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
 
 ---
 
-### I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌全天候AI助手Gemini Spark试用体验良好，功能实用，提升工作效率。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/)
-
----
-
-### As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-2026年，浏览器大战升温，TechCrunch盘点热门Chrome和Safari替代品。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
-
----
-
-### 网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海
+### 谷歌推出适用于 Genkit 应用程序的中间件架构
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-网易智企在AICon上海展示多智能体中心建设与实践，从单点Agent到研发基础设施，推动智能化发展。
+谷歌推出适用于Genkit应用程序的中间件架构，旨在提升系统性能和扩展性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GlN4vSis105MkMajCcJz)
-
----
-
-### 腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-腾讯PCG质效团队技术负责人张晔将出席AICon上海站，分享测试智能体驱动质量工程新范式。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc)
+**来源：** [InfoQ](https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG)
 
 ---
 
-### 前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑
+### Snowflake 换了战场：守住数据之后，要管住AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌前CEO被嘘“别吹AI”，现CEO被问“会不会被AI取代”，两代掌门人的AI信仰遭遇质疑。
+Snowflake转型AI领域，致力于守护数据安全的同时，拓展AI应用管理服务。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6)
+**来源：** [InfoQ](https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY)
+
+---
+
+### 大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+阿里云PAI在AICon上海分享大模型云上训练突破，实现超大规模集群调度与容错实践。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy)
 
 ---
 
