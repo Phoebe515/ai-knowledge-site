@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月01日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月02日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月01
+## 2026年06月02
 
-### Erin Brockovich takes aim at data center secrecy
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-环保活动家Erin Brockovich对数据中心保密性提出质疑，呼吁透明化运营。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
-
----
-
-### Making sense of the debate over AI psychosis
+### Alphabet plans to raise $80B to pay for AI buildout
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-关于人工智能引发的精神病争议，TechCrunch深入探讨了该话题，分析了技术进步与伦理挑战之间的矛盾。
+Alphabet计划筹集800亿美元用于AI研发。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)
 
 ---
 
-### SoftBank says it will invest up to €75 billion to build French data centers
+### Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-软银宣布将投资高达750亿欧元建设法国数据中心。
+Nvidia携手微软、戴尔和惠普推出AI智能代理PC，瞄准2000亿美元CPU市场。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/)
 
 ---
 
-### ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs
+### Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-GitHub Copilot新推出的基于令牌的计费模式引发开发者不满。
+佛罗里达州首次就OpenAI和Sam Altman因暴力事件提起诉讼。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)
 
 ---
 
-### Meta is reportedly developing an AI pendant
+### Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta正研发AI智能项链，旨在提供个性化健康与生活服务。
+黑客通过诱骗Meta AI客服聊天机器人，成功入侵Instagram账户。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/)
 
 ---
 
-### 谷歌推出适用于 Genkit 应用程序的中间件架构
+### Water access is now a risk factor in SpaceX’s IPO
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+SpaceX首次公开募股（IPO）将水资源获取列为风险因素，关注其运营对环境的影响。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/)
+
+---
+
+### 构建云原生 Kafka：从分层存储迈向无盘未来
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌推出适用于Genkit应用程序的中间件架构，旨在提升系统性能和扩展性。
+构建云原生 Kafka，分层存储技术迈向无盘未来，助力高效数据处理与存储。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG)
-
----
-
-### Snowflake 换了战场：守住数据之后，要管住AI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake转型AI领域，致力于守护数据安全的同时，拓展AI应用管理服务。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY)
+**来源：** [InfoQ](https://www.infoq.cn/article/0o9rwjoo2XsSH7Noi7kw)
 
 ---
 
-### 大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海
+### 智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-阿里云PAI在AICon上海分享大模型云上训练突破，实现超大规模集群调度与容错实践。
+英特尔推出18A至强6+处理器，288核设计旨在主导AI调度市场，押注智能体技术提升CPU性能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy)
+**来源：** [InfoQ](https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT)
+
+---
+
+### 微软推出 MDASH，用于大规模 AI 漏洞研究
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+微软推出MDASH，一款用于大规模AI漏洞研究的工具，旨在提升AI系统的安全性和可靠性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6)
 
 ---
 
