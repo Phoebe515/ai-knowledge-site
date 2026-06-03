@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月02日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月03日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月02
+## 2026年06月03
 
-### Alphabet plans to raise $80B to pay for AI buildout
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Alphabet计划筹集800亿美元用于AI研发。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)
-
----
-
-### Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP
+### Cyera eyes $12B valuation at 80x ARR multiple despite operating losses
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia携手微软、戴尔和惠普推出AI智能代理PC，瞄准2000亿美元CPU市场。
+Cyera拟以120亿美元估值，尽管运营亏损，目标80倍年度经常性收入倍数。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
 
 ---
 
-### Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents
+### Uber caps employee AI spending after blowing through budget in 4 months
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-佛罗里达州首次就OpenAI和Sam Altman因暴力事件提起诉讼。
+Uber在四个月内超额消耗AI预算后，限制员工AI支出。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
 
 ---
 
-### Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access
+### New Microsoft tool lets devs spin up AI behavior tests using text descriptions
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-黑客通过诱骗Meta AI客服聊天机器人，成功入侵Instagram账户。
+微软推出新工具，开发者可通过文本描述快速启动AI行为测试。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)
 
 ---
 
-### Water access is now a risk factor in SpaceX’s IPO
+### Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX首次公开募股（IPO）将水资源获取列为风险因素，关注其运营对环境的影响。
+马丁·斯科塞斯成为最新、最意想不到的好莱坞AI声音代表。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)
 
 ---
 
-### 构建云原生 Kafka：从分层存储迈向无盘未来
+### Microsoft launches Scout, an OpenClaw-inspired personal assistant
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+微软推出灵感来源于OpenClaw的个性助理Scout。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)
+
+---
+
+### LinkedIn 如何发现导致系统反复死机的内核锁竞争问题
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-构建云原生 Kafka，分层存储技术迈向无盘未来，助力高效数据处理与存储。
+LinkedIn通过分析系统日志，识别出内核锁竞争导致系统频繁死机，并采取优化措施解决问题。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/0o9rwjoo2XsSH7Noi7kw)
-
----
-
-### 智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-英特尔推出18A至强6+处理器，288核设计旨在主导AI调度市场，押注智能体技术提升CPU性能。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT)
+**来源：** [InfoQ](https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK)
 
 ---
 
-### 微软推出 MDASH，用于大规模 AI 漏洞研究
+### 英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-微软推出MDASH，一款用于大规模AI漏洞研究的工具，旨在提升AI系统的安全性和可靠性。
+英伟达发布Cosmos 3全模态模型开源，推出Agent Tookit工具，助力物理AI发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6)
+**来源：** [InfoQ](https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8)
+
+---
+
+### Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Codex 500万用户福利引发争议，Claude Code涉嫌吃掉近九成Token，OpenAI因“小气”被指抢用户失败。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj)
 
 ---
 
