@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月03日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月04日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月03
+## 2026年06月04
 
-### Cyera eyes $12B valuation at 80x ARR multiple despite operating losses
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Cyera拟以120亿美元估值，尽管运营亏损，目标80倍年度经常性收入倍数。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
-
----
-
-### Uber caps employee AI spending after blowing through budget in 4 months
+### Lovable signs multiyear deal with Google Cloud to up usage 5x, source says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Uber在四个月内超额消耗AI预算后，限制员工AI支出。
+Lovable与谷歌云签订多年合作协议，预计使用量将增长5倍，消息人士透露。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
 
 ---
 
-### New Microsoft tool lets devs spin up AI behavior tests using text descriptions
+### Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软推出新工具，开发者可通过文本描述快速启动AI行为测试。
+Alphabet为谷歌AI业务筹资850亿美元，创纪录，显示市场对AI领域信心十足。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/)
 
 ---
 
-### Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI
+### Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马丁·斯科塞斯成为最新、最意想不到的好莱坞AI声音代表。
+Google发布全新AI工具Dreambeans，将用户生活转为卡通风格，带来独特视觉体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
 
 ---
 
-### Microsoft launches Scout, an OpenClaw-inspired personal assistant
+### Instagram is alerting users who were targeted by hackers during AI chatbot attacks
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软推出灵感来源于OpenClaw的个性助理Scout。
+Instagram向用户发出警告，提醒其可能遭受黑客利用AI聊天机器人攻击。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
 
 ---
 
-### LinkedIn 如何发现导致系统反复死机的内核锁竞争问题
+### Amazon will show AI product images when you search for some reason
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+亚马逊将展示AI生成的产品图片，搜索结果更直观。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)
+
+---
+
+### AI辅助迁移工具：数分钟完成ingress-nginx向Higress迁移
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-LinkedIn通过分析系统日志，识别出内核锁竞争导致系统频繁死机，并采取优化措施解决问题。
+AI辅助工具实现ingress-nginx向Higress快速迁移，仅需数分钟，提升运维效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK)
-
----
-
-### 英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-英伟达发布Cosmos 3全模态模型开源，推出Agent Tookit工具，助力物理AI发展。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8)
+**来源：** [InfoQ](https://www.infoq.cn/article/O8xvQlsgZ7OExQ7I9w3f)
 
 ---
 
-### Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？
+### Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Codex 500万用户福利引发争议，Claude Code涉嫌吃掉近九成Token，OpenAI因“小气”被指抢用户失败。
+Spring创始人回归一线打造AI框架，称其为人类选择的最后一代框架。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj)
+**来源：** [InfoQ](https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6)
+
+---
+
+### 10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Zig语言创始人宣布10年未更新1.0版本，全面禁止AI编程，坚持“反商业”生存法则。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD)
 
 ---
 
