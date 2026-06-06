@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月05日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月06日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月05
+## 2026年06月06
 
-### Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic CEO Daniela Amodei在IPO前夕，对AI投资回报表示乐观，无视外界疑虑。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)
-
----
-
-### Airbnb’s Brian Chesky plans to launch a new AI lab
+### Startup Battlefield 200 applications officially close in 3 days
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Airbnb创始人Brian Chesky计划成立新AI实验室，专注于人工智能研究。
+Startup Battlefield 200项目申请在3天内正式截止，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
 
 ---
 
-### Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18
+### Google will pay SpaceX $920M per month for compute
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-6月18日，StrictlyVC洛杉矶峰会上，国防科技、人工智能和融资成为焦点议题。
+谷歌将每月向SpaceX支付9200万美元用于计算服务，双方达成合作。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
 
 ---
 
-### Meta steals a tactic from Tesla and builds data centers in tents
+### The most interesting startups right now want to get you off your phone
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta借鉴特斯拉策略，在帐篷内建设数据中心，以降低成本和提升灵活性。
+当前最受欢迎的初创企业正致力于帮助用户减少手机依赖。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
+**来源：** [TechCrunch](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
 
 ---
 
-### Apple approves Poke as the first AI agent on its Messages for Business platform
+### Supabase doubles valuation to $10B in 8 months
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果批准Poke成为其Messages for Business平台首个AI代理。
+Supabase在8个月内估值翻倍，达到100亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/)
 
 ---
 
-### Node.js 从 27 版本开始改为每年发布一个大版本
+### The token bill comes due: Inside the industry scramble to manage AI’s runaway costs
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+科技行业为应对AI激增的成本，正积极寻求解决方案。Token化成为管理AI成本的关键手段。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/)
+
+---
+
+### 上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Node.js 27 版本起改为每年发布一个大版本，优化更新周期，提升社区活跃度。
+上海人工智能实验室胡侠将出席AICon上海站，分享书安智能体操作系统实践与思考。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh)
-
----
-
-### 我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake 2026 AI Summit上，专家指出企业AI未来发展方向在于AI经营系统，而非单一模型。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ)
+**来源：** [InfoQ](https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb)
 
 ---
 
-### 阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践
+### Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-阿里AAIG实验室AI红队负责人宋奇钊将出席AICon上海站，分享REAL智能体统一风险矩阵与自动化红队实践。
+Next.js 16.2发布，提升开发效率4倍，优化渲染性能，新增AI智能体开发工具，助力智能开发。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc)
+**来源：** [InfoQ](https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf)
+
+---
+
+### 架构变更案例：面向演进式架构的实用方法
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+本文介绍了面向演进式架构的实用方法，探讨了架构变更案例，为读者提供有益的参考。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB)
 
 ---
 
