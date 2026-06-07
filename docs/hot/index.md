@@ -9,12 +9,52 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月06日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月07日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月06
+## 2026年06月07
+
+### OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI推出Lockdown Mode，旨在防范敏感数据遭受提示注入攻击，提升数据安全性。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
+
+---
+
+### What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+2026年WWDC将带来Siri全面升级和苹果智能技术更新。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+
+---
+
+### Sriram Krishnan is leaving his role as White House AI advisor
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Sriram Krishnan即将辞去白宫AI顾问一职。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
+
+---
+
+### The Trump administration might take an equity stake in OpenAI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特朗普政府可能获得OpenAI股权。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
+
+---
 
 ### Startup Battlefield 200 applications officially close in 3 days
 
@@ -26,43 +66,13 @@ Startup Battlefield 200项目申请在3天内正式截止，TechCrunch报道。
 
 ---
 
-### Google will pay SpaceX $920M per month for compute
+### 得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌将每月向SpaceX支付9200万美元用于计算服务，双方达成合作。
+得物推荐AI Harness实现从“狂野代码”到“按目标生产”的突破，AICon上海展示其技术进步。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
-
----
-
-### The most interesting startups right now want to get you off your phone
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-当前最受欢迎的初创企业正致力于帮助用户减少手机依赖。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
-
----
-
-### Supabase doubles valuation to $10B in 8 months
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Supabase在8个月内估值翻倍，达到100亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/)
-
----
-
-### The token bill comes due: Inside the industry scramble to manage AI’s runaway costs
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技行业为应对AI激增的成本，正积极寻求解决方案。Token化成为管理AI成本的关键手段。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/)
+**来源：** [InfoQ](https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9)
 
 ---
 
@@ -80,19 +90,9 @@ Supabase在8个月内估值翻倍，达到100亿美元。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Next.js 16.2发布，提升开发效率4倍，优化渲染性能，新增AI智能体开发工具，助力智能开发。
+Next.js 16.2发布，开发提速4倍，渲染性能优化，新增AI智能体开发工具，助力开发者提升效率。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf)
-
----
-
-### 架构变更案例：面向演进式架构的实用方法
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-本文介绍了面向演进式架构的实用方法，探讨了架构变更案例，为读者提供有益的参考。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB)
 
 ---
 
