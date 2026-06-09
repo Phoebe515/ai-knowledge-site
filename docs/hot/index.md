@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月08日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月09日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月08
+## 2026年06月09
 
-### Is this the dawn of the Tokenpocalypse?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道，加密货币市场遭遇重大波动，引发“Tokenpocalypse”担忧。专家分析，市场调整或为长期发展必经之路。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
-
----
-
-### Notion restores access to Anthropic after service disruption
+### Why Apple’s slow-and-steady AI bet is starting to look pretty smart
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Notion恢复对Anthropic的服务访问，此前因服务中断导致用户访问受阻。
+苹果缓慢推进的AI战略逐渐显现成效，TechCrunch分析称，这种稳健策略正显现出其智慧之处。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
 
 ---
 
-### OpenAI is still working on that ‘super app’
+### Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI持续研发“超级应用”，旨在整合旗下多款产品，打造一站式服务平台。
+Mercor创始人Brendan Foody指责Sequoia“双重定价”估值手段，引发行业关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/)
 
 ---
 
-### OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
+### As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布Lockdown Mode，旨在防范敏感数据遭受提示注入攻击，增强数据安全性。
+OpenAI申请IPO之际，其CEO Sam Altman的眼动扫描公司进行裁员，据TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)
 
 ---
 
-### What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
+### Apple’s WWDC AI demos looked more real after $250M false ad settlement
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果2026年WWDC大会将带来Siri重大更新及Apple Intelligence更新。
+苹果WWDC展示的AI技术更真实，得益于2500万美元虚假广告和解金。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/)
 
 ---
 
-### ClickHouse 填平 Elasticsearch 护城河？日志分析新选择！
+### OpenAI files confidentially for IPO, following Anthropic
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI秘密提交IPO申请，继Anthropic之后加入科技巨头上市行列。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)
+
+---
+
+### Java 近期新闻： OpenJDK JEP、Hazelcast、Quarkus、Hibernate、Koog、JHipster 以及 Endive
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-ClickHouse有望成为日志分析的新选择，挑战Elasticsearch在数据检索领域的地位。
+近期Java领域动态：OpenJDK JEP发布，Hazelcast、Quarkus、Hibernate等开源项目更新，Koog、JHipster及Endive等工具备受关注。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/CumbxRGXIcmKRoZt6tAA)
-
----
-
-### 利用尾斜杠绕过 AWS API Gateway 授权
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-研究人员发现可利用尾斜杠绕过AWS API Gateway授权，影响API安全。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/A0yhe6dD2Vu3V2AmyoLu)
+**来源：** [InfoQ](https://www.infoq.cn/article/jc7BkJfDADvFbzKNGpDg)
 
 ---
 
-### 汤道生对谈姚顺雨：AI下半场，腾讯比什么？
+### 蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯AI布局下半场，汤道生与姚顺雨探讨竞争策略。
+蚂蚁数科在AICon上海展示Harness工程实践，实现AI Coding至可验收的研发闭环，提升研发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw)
+**来源：** [InfoQ](https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr)
+
+---
+
+### Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Anthropic为Claude Code项目聘请1000名工程师，时薪280美元，强调AI编程发展需真人支持。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF)
 
 ---
 
