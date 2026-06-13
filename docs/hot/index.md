@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月12
+## 2026年06月13
 
-### SpaceX officially prices shares at $135 in the largest IPO ever
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-SpaceX正式定价每股135美元，创下最大规模IPO记录。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/)
-
----
-
-### SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift
+### SpaceX IPO: Live updates on everything you need to know
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX投资者在IPO锁定期结束后才能了解其真实持股。
+SpaceX即将IPO，TechCrunch实时更新相关信息。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)
 
 ---
 
-### Deezer’s new tool can identify AI music from Spotify, Apple Music, and others
+### Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Deezer推出新工具，可识别Spotify、Apple Music等平台上的AI音乐。
+Meta AI部门工程师称，该部门如同劳改营，工作环境令人身心俱疲。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)
 
 ---
 
-### Pool’s new app turns your screenshots into something useful
+### Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Pool新应用将截图转换为实用工具，提升用户使用效率。
+谷歌起诉利用AI诈骗数万受害者的中国网络犯罪团伙。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
 
 ---
 
-### DoorDash’s new AI chatbot lets you order with prompts and photos
+### Mistral is rumored to be raising €3B at €20B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-DoorDash推出新AI聊天机器人，可利用提示和照片进行点餐。
+Mistral计划融资30亿欧元，估值达200亿欧元，消息来源TechCrunch。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/)
 
 ---
 
-### 硅谷大厂，员工人均月花5万养 AI
+### SpaceX, Anthropic, and OpenAI’s hot IPO summer
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+SpaceX、Anthropic和OpenAI近期热炒IPO，科技界迎来盛夏。
+
+**来源：** [TechCrunch](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)
+
+---
+
+### 我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-硅谷大厂员工人均月花5万用于AI研发，凸显AI技术投入之高。
+利用Cortex Code实现财务差异分析实时智能，转变传统工作流程，提升效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N)
-
----
-
-### OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-OpenAI秘密递表，寻求巨额融资，AI领域三巨头联手争夺资金，有望创下AI融资历史新高。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr)
+**来源：** [InfoQ](https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM)
 
 ---
 
-### Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代
+### 5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Arm神经技术与虚幻引擎MegaLights首登移动端，大幅提升手游画质，引领手游进入电影级视觉体验时代。
+小米MiMo Code开源两周，5名开发者调试出5.1k个星bug，开发者社区热议不断。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr)
+**来源：** [InfoQ](https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V)
+
+---
+
+### 智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+智源大会圆桌讨论认为，大模型发展无终局，具身智能有望成为中国AI领域的“AlphaGo时刻”。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937)
 
 ---
 
