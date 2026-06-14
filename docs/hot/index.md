@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月13日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月14日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月13
+## 2026年06月14
 
-### SpaceX IPO: Live updates on everything you need to know
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-SpaceX即将IPO，TechCrunch实时更新相关信息。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)
-
----
-
-### Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it
+### As Anthropic suspends access to new models, India debates its AI future
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta AI部门工程师称，该部门如同劳改营，工作环境令人身心俱疲。
+Anthropic暂停新模型访问，印度就AI未来展开讨论。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
 
 ---
 
-### Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google
+### Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌起诉利用AI诈骗数万受害者的中国网络犯罪团伙。
+Meta据称因北京要求解约Manus岛2亿美元投资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
 
 ---
 
-### Mistral is rumored to be raising €3B at €20B valuation
+### KPMG pulls report on AI usage due to apparent hallucinations
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Mistral计划融资30亿欧元，估值达200亿欧元，消息来源TechCrunch。
+KPMG因AI报告出现幻觉，撤回报告。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
 
 ---
 
-### SpaceX, Anthropic, and OpenAI’s hot IPO summer
+### Amazon CEO reportedly raised Anthropic model concerns before government crackdown
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX、Anthropic和OpenAI近期热炒IPO，科技界迎来盛夏。
+亚马逊CEO在政府打击前对Anthropic模型提出担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
 
 ---
 
-### 我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势
+### OpenAI faces investigation from state attorneys general
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国各州总检察长对OpenAI展开调查。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
+
+---
+
+### 蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-利用Cortex Code实现财务差异分析实时智能，转变传统工作流程，提升效率。
+蚂蚁数科在AICon上海发布企业级AGI研发体系，重塑实战应用场景，推动AI技术落地。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM)
-
----
-
-### 5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-小米MiMo Code开源两周，5名开发者调试出5.1k个星bug，开发者社区热议不断。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V)
+**来源：** [InfoQ](https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH)
 
 ---
 
-### 智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻
+### OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-智源大会圆桌讨论认为，大模型发展无终局，具身智能有望成为中国AI领域的“AlphaGo时刻”。
+OpenAI GPT-5.5 与 Codex 登陆 Amazon Bedrock，扩展人工智能服务应用场景。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937)
+**来源：** [InfoQ](https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c)
+
+---
+
+### 面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+面壁智能社区负责人井晨哲将在AICon上海站，探讨高效端侧大模型技术趋势及产业应用。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw)
 
 ---
 
