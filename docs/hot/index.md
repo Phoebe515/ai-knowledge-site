@@ -9,12 +9,32 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月14
+## 2026年06月15
+
+### Orbio raises $21 million to automate hiring and onboarding for frontline workers
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Orbio完成2100万美元融资，致力于自动化前线员工招聘与入职流程。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/)
+
+---
+
+### As AI companies race to go public, who else is along for the ride?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI公司竞相上市，投资者和分析师也纷纷加入这场盛宴。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
+
+---
 
 ### As Anthropic suspends access to new models, India debates its AI future
 
@@ -30,7 +50,7 @@ Anthropic暂停新模型访问，印度就AI未来展开讨论。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta据称因北京要求解约Manus岛2亿美元投资。
+Meta据称因北京要求，决定撤销20亿美元收购Manus交易。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
 
@@ -40,59 +60,39 @@ Meta据称因北京要求解约Manus岛2亿美元投资。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-KPMG因AI报告出现幻觉，撤回报告。
+KPMG因AI报告出现幻觉问题而撤回报告，引发业界关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
 
 ---
 
-### Amazon CEO reportedly raised Anthropic model concerns before government crackdown
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-亚马逊CEO在政府打击前对Anthropic模型提出担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
-
----
-
-### OpenAI faces investigation from state attorneys general
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国各州总检察长对OpenAI展开调查。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
-
----
-
-### 蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海
+### Swiggy通过实时机器学习排序提升搜索自动补全效果
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-蚂蚁数科在AICon上海发布企业级AGI研发体系，重塑实战应用场景，推动AI技术落地。
+Swiggy利用实时机器学习优化搜索自动补全，提升用户体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH)
-
----
-
-### OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-OpenAI GPT-5.5 与 Codex 登陆 Amazon Bedrock，扩展人工智能服务应用场景。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c)
+**来源：** [InfoQ](https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s)
 
 ---
 
-### 面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察
+### 写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-面壁智能社区负责人井晨哲将在AICon上海站，探讨高效端侧大模型技术趋势及产业应用。
+编程体验已升级为Vibe Coding，但办公环境却未能同步提升至Vibe Officing。探讨办公环境改进与员工体验提升。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw)
+**来源：** [InfoQ](https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92)
+
+---
+
+### Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+《Coding Agent 技术全景图》深度解析Context Engineering、Subagents与Harness，揭示一年内范式转移全貌。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ)
 
 ---
 
