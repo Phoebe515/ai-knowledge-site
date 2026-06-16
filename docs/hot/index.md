@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月15日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月16日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月15
+## 2026年06月16
 
-### Orbio raises $21 million to automate hiring and onboarding for frontline workers
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Orbio完成2100万美元融资，致力于自动化前线员工招聘与入职流程。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/)
-
----
-
-### As AI companies race to go public, who else is along for the ride?
+### Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI公司竞相上市，投资者和分析师也纷纷加入这场盛宴。
+谷歌CEO桑达尔·皮查伊在斯坦福毕业典礼上遭嘘声、罢课抗议，因其与谷歌与以色列、ICE的关系。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/)
 
 ---
 
-### As Anthropic suspends access to new models, India debates its AI future
+### The US government’s Anthropic models ban was never about an AI jailbreak
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic暂停新模型访问，印度就AI未来展开讨论。
+美国政府对Anthropic模型禁令并非针对AI越狱，而是出于对数据安全和隐私的考量。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
 
 ---
 
-### Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
+### Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta据称因北京要求，决定撤销20亿美元收购Manus交易。
+Meta在Facebook推出“AI模式”，从其平台收集公共信息以增强功能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/)
 
 ---
 
-### KPMG pulls report on AI usage due to apparent hallucinations
+### SpaceX is public: Everything you need to know post-IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-KPMG因AI报告出现幻觉问题而撤回报告，引发业界关注。
+SpaceX成功上市，TechCrunch全面解析IPO后公司动态及未来展望。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/)
 
 ---
 
-### Swiggy通过实时机器学习排序提升搜索自动补全效果
+### Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国网络安全专家抗议政府禁止使用Anthropic最强大模型，称其为“危险”之举。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/)
+
+---
+
+### 前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Swiggy利用实时机器学习优化搜索自动补全，提升用户体验。
+前OpenAI高管在清华演讲，指出AI时代我们面临的不确定感比失业更可怕。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s)
-
----
-
-### 写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-编程体验已升级为Vibe Coding，但办公环境却未能同步提升至Vibe Officing。探讨办公环境改进与员工体验提升。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92)
+**来源：** [InfoQ](https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI)
 
 ---
 
-### Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析
+### 腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-《Coding Agent 技术全景图》深度解析Context Engineering、Subagents与Harness，揭示一年内范式转移全貌。
+腾讯投资60亿助力“GPU四小龙”最后一龙过会，标志着中国GPU产业迈入新阶段。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ)
+**来源：** [InfoQ](https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg)
+
+---
+
+### Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+JDK 27收尾，JDK 28专家组成立，GlassFish、Infinispan更新，Kotlin持续发展。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/UkvVZm81ZerzhmEsTgHD)
 
 ---
 
