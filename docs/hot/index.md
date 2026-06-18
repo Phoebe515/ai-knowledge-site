@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月17
+## 2026年06月18
 
-### Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic与特朗普政府的最新冲突可能反而助力其销售，销售数据显示。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/)
-
----
-
-### SpaceX valuation balloons to $2.6T, briefly passes Amazon
+### Roelof Botha joins SpaceX’s board of directors
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX估值飙升至2.6万亿美元，短暂超越亚马逊。
+Roelof Botha加入SpaceX董事会，科技媒体TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/)
 
 ---
 
-### Android 17 launches with new multitasking tools as Google expands Gemini features
+### After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Android 17发布，引入全新多任务工具，Google同时拓展Gemini功能。
+Snap发布昂贵AR眼镜后，股价下跌。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/)
 
 ---
 
-### Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds
+### NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-调查显示，60%的美国消费者认为品牌宣传中的“AI”一词具有负面影响。
+NEA的Tiffany Luck指出，企业仍在探索AI投资回报率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)
+**来源：** [TechCrunch](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
 
 ---
 
-### SpaceX is public: Everything you need to know post-IPO
+### World leaders want American AI. They just don’t want America to be able to turn it off.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX上市后，TechCrunch全面解读公司最新动态，揭秘IPO后重要信息。
+全球领导人对美国AI技术感兴趣，但反对美国单方面关闭技术出口。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)
 
 ---
 
-### 微软开源用于数据库内持久执行的 PostgreSQL 扩展
+### Anthropic becomes first AI startup to join the Frontier carbon removal coalition
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic成为首个加入前沿碳移除联盟的人工智能初创公司，助力应对气候变化。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/)
+
+---
+
+### SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-微软开源了PostgreSQL扩展，支持数据库内持久执行，提升数据处理效率。
+SpaceX以600亿美元收购Cursor，马斯克直接购买“课代表”，扩大其教育科技版图。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx)
-
----
-
-### DeepSeek 融资交易曝光：腾讯、宁德时代等被锁5年，且没投票权，梁文锋绝对控制
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-DeepSeek融资交易曝光，腾讯、宁德时代等被锁5年且无投票权，梁文锋绝对控制。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/IRLrMM9Rifv5Dmqr2fYR)
+**来源：** [InfoQ](https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4)
 
 ---
 
-### IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理
+### 万亿估值前夜，OpenAI 被曝一年亏约 2600 亿
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-IBM Vault Enterprise 2.0推出，实现LDAP密钥管理自动化，提升企业身份安全性。
+OpenAI一年亏损约2600亿，估值却高达万亿，行业关注其盈利模式。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t)
+**来源：** [InfoQ](https://www.infoq.cn/article/XHlhul82geYax30TcJbP)
+
+---
+
+### 轻装上阵，能力不减：TDSQL 基础版的“小而美”之道 | 腾讯云数据库 DBTalk
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+腾讯云数据库TDSQL基础版轻装上阵，功能强大，实现“小而美”的优化升级，提升数据库处理效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/psxhwD4phyyE27DLXPZ7)
 
 ---
 
