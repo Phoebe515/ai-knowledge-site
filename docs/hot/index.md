@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月18日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月19日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月18
+## 2026年06月19
 
-### Roelof Botha joins SpaceX’s board of directors
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Roelof Botha加入SpaceX董事会，科技媒体TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/)
-
----
-
-### After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive
+### AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Snap发布昂贵AR眼镜后，股价下跌。
+AI推理初创公司Baseten在上一轮融资后数月，再次筹得15亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
 
 ---
 
-### NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI
+### Snap spins off AI video team into new company, Dotmo, due to costs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-NEA的Tiffany Luck指出，企业仍在探索AI投资回报率。
+Snap将其AI视频团队独立为Dotmo公司，以降低成本。
 
-**来源：** [TechCrunch](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
 
 ---
 
-### World leaders want American AI. They just don’t want America to be able to turn it off.
+### OpenAI is bringing on some big guns in the lead-up to its IPO 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-全球领导人对美国AI技术感兴趣，但反对美国单方面关闭技术出口。
+OpenAI为IPO筹备，招募多位行业资深人士。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
 
 ---
 
-### Anthropic becomes first AI startup to join the Frontier carbon removal coalition
+### Almost half of US singles feel negatively about AI in dating, Match says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic成为首个加入前沿碳移除联盟的人工智能初创公司，助力应对气候变化。
+据Match调查，近半美国单身人士对AI在约会中的应用持负面看法。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
 
 ---
 
-### SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表
+### Amazon hopes to challenge Nvidia more directly by selling its AI chips
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+亚马逊计划销售自家的AI芯片，以更直接地挑战英伟达。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+
+---
+
+### 创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-SpaceX以600亿美元收购Cursor，马斯克直接购买“课代表”，扩大其教育科技版图。
+光象科技CEO张涛透露，公司创业一年内已将机器人送入头部车企工作。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4)
-
----
-
-### 万亿估值前夜，OpenAI 被曝一年亏约 2600 亿
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-OpenAI一年亏损约2600亿，估值却高达万亿，行业关注其盈利模式。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/XHlhul82geYax30TcJbP)
+**来源：** [InfoQ](https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A)
 
 ---
 
-### 轻装上阵，能力不减：TDSQL 基础版的“小而美”之道 | 腾讯云数据库 DBTalk
+### 当 Token 成为商品，AI 基础设施会怎么变化？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯云数据库TDSQL基础版轻装上阵，功能强大，实现“小而美”的优化升级，提升数据库处理效率。
+Token化商品趋势下，AI基础设施将面临数据、算力、存储等方面挑战，需优化资源配置和提升效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/psxhwD4phyyE27DLXPZ7)
+**来源：** [InfoQ](https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd)
+
+---
+
+### Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Gemini联合负责人加盟OpenAI，引发业界对Google AI人才流失原因的关注。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW)
 
 ---
 
