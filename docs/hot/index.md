@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月19日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月20日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月19
+## 2026年06月20
 
-### AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI推理初创公司Baseten在上一轮融资后数月，再次筹得15亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
-
----
-
-### Snap spins off AI video team into new company, Dotmo, due to costs
+### Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Snap将其AI视频团队独立为Dotmo公司，以降低成本。
+加密、间谍软件再到Mythos，历史表明网络出口管制难以奏效。TechCrunch指出，技术进步和全球化的影响使传统控制手段失效。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 
 ---
 
-### OpenAI is bringing on some big guns in the lead-up to its IPO 
+### Is the US government’s Anthropic ban accidentally helping the brand?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI为IPO筹备，招募多位行业资深人士。
+美国政府对Anthropic的禁令意外提升了该品牌知名度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
 
 ---
 
-### Almost half of US singles feel negatively about AI in dating, Match says
+### Billionaire Ambani wants AI in every call, app, and home
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据Match调查，近半美国单身人士对AI在约会中的应用持负面看法。
+印度首富安巴尼欲将AI融入通话、应用和家庭，推动技术普及。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
 
 ---
 
-### Amazon hopes to challenge Nvidia more directly by selling its AI chips
+### The CEO of Allbirds’ new AI biz has a plan, but no team
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊计划销售自家的AI芯片，以更直接地挑战英伟达。
+Allbirds新AI业务CEO已制定计划，但尚未组建团队。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
 
 ---
 
-### 创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛
+### The US says ASML’s top chip tool may be in China, but how?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国称ASML顶级芯片设备可能已在中国，但具体途径不明。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
+
+---
+
+### AI 大模型驱动银行信贷业务的全链路变革｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-光象科技CEO张涛透露，公司创业一年内已将机器人送入头部车企工作。
+AICon上海探讨AI大模型在银行信贷全链路中的应用，推动金融行业变革。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A)
-
----
-
-### 当 Token 成为商品，AI 基础设施会怎么变化？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Token化商品趋势下，AI基础设施将面临数据、算力、存储等方面挑战，需优化资源配置和提升效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd)
+**来源：** [InfoQ](https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p)
 
 ---
 
-### Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？
+### 平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Gemini联合负责人加盟OpenAI，引发业界对Google AI人才流失原因的关注。
+平安人寿AI神盾平台在AICon上海展示，通过智能风控实践，提升金融生态风险管理效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW)
+**来源：** [InfoQ](https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG)
+
+---
+
+### Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Spring Boot 4.1发布，新增gRPC自动配置、SSRF防护功能，并支持Kotlin 2.3，提升开发效率和安全性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz)
 
 ---
 
