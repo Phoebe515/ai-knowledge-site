@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月22
+## 2026年06月23
 
-### When the Trump administration cracks down on Anthropic, who benefits?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-特朗普政府加强了对Anthropic的监管，此举可能使竞争对手从中获益。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)
-
----
-
-### Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27
+### The running list: major tech layoffs in 2026 where employers cited AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-iOS 27将带来多项实用AI功能，超越Siri，提升iPhone用户体验。
+2026年，多家科技公司因AI发展裁员，TechCrunch发布重大裁员名单。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 
 ---
 
-### Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’
+### OpenAI launches new initiative to help find and patch open-source bugs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Signal的Meredith Whittaker在TechCrunch上发表观点，强调AI聊天机器人“不是你的朋友”，提醒用户警惕其潜在风险。
+OpenAI推出新项目，旨在协助发现和修复开源软件漏洞。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
 
 ---
 
-### In the Weights is your new AI-centric vanity search
+### The AI world is getting ‘loopy’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-In the Weights推出全新AI中心化虚荣搜索，提供个性化信息查询服务。
+科技媒体TechCrunch报道，人工智能领域正迎来“循环”热潮，循环神经网络技术成为研究热点。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
 
 ---
 
-### Nobel laureate John Jumper is leaving DeepMind for rival Anthropic
+### AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-诺贝尔奖得主John Jumper宣布离开DeepMind加盟竞争对手Anthropic。
+AI芯片制造商Groq确认融资6.5亿美元，扩大团队规模，继Nvidia放弃20亿美元收购后。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
 
 ---
 
-### 从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海
+### Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia计划减少数据中心用水，但未解决AI整体水资源问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
+
+---
+
+### 探索 Snowflake 与 Postgres 之间的双向数据流动模式 ｜ 技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon上海会议探讨大模型与Agent驱动内容风控智能化升级，从“机审+人审”迈向“AI-Native”，提升内容审核效率。
+探讨Snowflake与Postgres间的双向数据流动，分享技术实践，实现高效数据交互。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb)
-
----
-
-### AI 大模型驱动银行信贷业务的全链路变革｜AICon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AICon上海探讨AI大模型在银行信贷业务全链路的应用，推动行业变革。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p)
+**来源：** [InfoQ](https://www.infoq.cn/article/wvtzppvWzOlKYDVRzlYN)
 
 ---
 
-### 平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海
+### 谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-平安人寿AI神盾平台在AICon上海展示金融生态智能风控实践，助力金融行业风险管理。
+谷歌推出LiteRT-LM模型，通过Gemma 4多Token预测，将本地推理速度提升最高2.2倍。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG)
+**来源：** [InfoQ](https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y)
+
+---
+
+### 2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+2026下半年中美AI创业机会聚焦技术红利与商业验证，AICon上海将探讨相关趋势。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X)
 
 ---
 
