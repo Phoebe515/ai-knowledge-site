@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月23
+## 2026年06月24
+
+### India’s MoEngage bets that the future of marketing is millions of AI agents
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+印度营销科技公司MoEngage押注未来营销趋势是百万AI代理。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
+
+---
+
+### Anthropic’s Claude Tag is learning your company, one Slack message at a time
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic的Claude Tag通过分析企业Slack消息，逐步学习公司文化。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)
+
+---
+
+### 4 days left to save up to $190 on TechCrunch Founder Summit 2026
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Founder Summit 2026报名倒计时，剩余4天，最高可节省190美元。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/)
+
+---
+
+### Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Fika Jobs获4M美元融资，打造以视频为主的AI面试招聘平台。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)
+
+---
 
 ### The running list: major tech layoffs in 2026 where employers cited AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-2026年，多家科技公司因AI发展裁员，TechCrunch发布重大裁员名单。
+2026年，多家科技公司因AI原因裁员，TechCrunch发布重大科技裁员名单。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 
 ---
 
-### OpenAI launches new initiative to help find and patch open-source bugs
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI推出新项目，旨在协助发现和修复开源软件漏洞。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
-
----
-
-### The AI world is getting ‘loopy’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技媒体TechCrunch报道，人工智能领域正迎来“循环”热潮，循环神经网络技术成为研究热点。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
-
----
-
-### AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI芯片制造商Groq确认融资6.5亿美元，扩大团队规模，继Nvidia放弃20亿美元收购后。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
-
----
-
-### Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia计划减少数据中心用水，但未解决AI整体水资源问题。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
-
----
-
-### 探索 Snowflake 与 Postgres 之间的双向数据流动模式 ｜ 技术实践
+### Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-探讨Snowflake与Postgres间的双向数据流动，分享技术实践，实现高效数据交互。
+Spring Boot、Security、Integration、Modulith发布增量版本，Spring AI 2.0正式发布，带来多项新特性和改进。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wvtzppvWzOlKYDVRzlYN)
-
----
-
-### 谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-谷歌推出LiteRT-LM模型，通过Gemma 4多Token预测，将本地推理速度提升最高2.2倍。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y)
+**来源：** [InfoQ](https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t)
 
 ---
 
-### 2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海
+### 全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-2026下半年中美AI创业机会聚焦技术红利与商业验证，AICon上海将探讨相关趋势。
+Meta紧急叫停员工训练AI，因AI泄露私聊内容引发员工不满，士气低落，员工怒骂高管。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X)
+**来源：** [InfoQ](https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk)
+
+---
+
+### 蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+蚂蚁集团副总裁周俊将出席AICon上海站，分享百灵2.6系统协同设计及挑战。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv)
 
 ---
 
