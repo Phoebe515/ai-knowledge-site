@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月24
+## 2026年06月25
 
-### India’s MoEngage bets that the future of marketing is millions of AI agents
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-印度营销科技公司MoEngage押注未来营销趋势是百万AI代理。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
-
----
-
-### Anthropic’s Claude Tag is learning your company, one Slack message at a time
+### Europe is pushing back on Washington’s chip war
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic的Claude Tag通过分析企业Slack消息，逐步学习公司文化。
+欧洲反对华盛顿的芯片战，寻求平衡半导体供应链。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
 
 ---
 
-### 4 days left to save up to $190 on TechCrunch Founder Summit 2026
+### Former Infosys chief has a new startup that wants to challenge the IT services world
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Founder Summit 2026报名倒计时，剩余4天，最高可节省190美元。
+前Infosys CEO创办新创业公司，欲挑战IT服务行业。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/)
 
 ---
 
-### Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates
+### Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Fika Jobs获4M美元融资，打造以视频为主的AI面试招聘平台。
+Cerebras股价下跌，CEO称利润预期被误解。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/)
 
 ---
 
-### The running list: major tech layoffs in 2026 where employers cited AI
+### AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-2026年，多家科技公司因AI原因裁员，TechCrunch发布重大科技裁员名单。
+新数据显示，尽管AI曾被预测将取代工程类工作，但实际就业韧性却超预期。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)
 
 ---
 
-### Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布
+### AI researchers continue to leave Google for its rivals
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌AI研究人员持续跳槽至竞争对手，寻求更好的发展机会。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)
+
+---
+
+### PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Spring Boot、Security、Integration、Modulith发布增量版本，Spring AI 2.0正式发布，带来多项新特性和改进。
+PostgreSQL 19 Beta版发布，新增SQL图查询和并发表重新打包功能，提升数据库性能与灵活性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t)
-
----
-
-### 全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Meta紧急叫停员工训练AI，因AI泄露私聊内容引发员工不满，士气低落，员工怒骂高管。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk)
+**来源：** [InfoQ](https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT)
 
 ---
 
-### 蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战
+### 上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-蚂蚁集团副总裁周俊将出席AICon上海站，分享百灵2.6系统协同设计及挑战。
+上海交通大学教授冷静文将出席AICon上海站，探讨Token经济下的全链路优化供给，分享评测到调度的策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv)
+**来源：** [InfoQ](https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr)
+
+---
+
+### Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Java近期推出A2A SDK 1.0、Jakarta EE 12等新版本，同时JNoSQL、GraalVM、Micrometer等工具也更新。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Ctbo8axuctQqNcJWQouI)
 
 ---
 
