@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月25日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月26日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月25
+## 2026年06月26
 
-### Europe is pushing back on Washington’s chip war
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-欧洲反对华盛顿的芯片战，寻求平衡半导体供应链。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
-
----
-
-### Former Infosys chief has a new startup that wants to challenge the IT services world
+### The White House is asking OpenAI to slow roll the release of its new model over safety concerns
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-前Infosys CEO创办新创业公司，欲挑战IT服务行业。
+白宫要求OpenAI放缓其新模型发布，以解决安全担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)
 
 ---
 
-### Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood
+### Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Cerebras股价下跌，CEO称利润预期被误解。
+Patronus AI获5000万美元投资，打造“数字世界”以测试AI代理。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)
 
 ---
 
-### AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient
+### Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-新数据显示，尽管AI曾被预测将取代工程类工作，但实际就业韧性却超预期。
+Anthropic的Claude在付费消费者市场赢得份额，挑战ChatGPT主导地位。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)
 
 ---
 
-### AI researchers continue to leave Google for its rivals
+### General Intuition’s $2.3B bet that video games can train AI agents for the real world
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌AI研究人员持续跳槽至竞争对手，寻求更好的发展机会。
+General Intuition投资2.3亿美元，押注游戏AI训练技术可应用于现实世界。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/)
 
 ---
 
-### PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能
+### Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Databricks前AI负责人提出，可通过技术创新将AI能耗降低1000倍。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/)
+
+---
+
+### GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-PostgreSQL 19 Beta版发布，新增SQL图查询和并发表重新打包功能，提升数据库性能与灵活性。
+GitHub推出Copilot桌面应用，支持并行Agent开发工作流，提升开发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT)
-
----
-
-### 上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-上海交通大学教授冷静文将出席AICon上海站，探讨Token经济下的全链路优化供给，分享评测到调度的策略。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr)
+**来源：** [InfoQ](https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG)
 
 ---
 
-### Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle
+### AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Java近期推出A2A SDK 1.0、Jakarta EE 12等新版本，同时JNoSQL、GraalVM、Micrometer等工具也更新。
+Uber与Auth0探讨AI智能体身份与权限挑战，重新思考访问控制策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Ctbo8axuctQqNcJWQouI)
+**来源：** [InfoQ](https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd)
+
+---
+
+### 最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+最大开源第一视角数据集EgoLive发布，名校支持，百家机构争相申请。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC)
 
 ---
 
