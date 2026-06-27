@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月26日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月27日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月26
+## 2026年06月27
 
-### The White House is asking OpenAI to slow roll the release of its new model over safety concerns
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-白宫要求OpenAI放缓其新模型发布，以解决安全担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)
-
----
-
-### Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents
+### Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Patronus AI获5000万美元投资，打造“数字世界”以测试AI代理。
+特朗普政府发布Anthropic Mythos，超100家美企机构将采用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
 
 ---
 
-### Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT
+### OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic的Claude在付费消费者市场赢得份额，挑战ChatGPT主导地位。
+OpenAI遵照政府请求限制GPT-5.6推广，称限制非常态。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
 
 ---
 
-### General Intuition’s $2.3B bet that video games can train AI agents for the real world
+### OpenAI poaches Uber India chief to lead its biggest market outside the US
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-General Intuition投资2.3亿美元，押注游戏AI训练技术可应用于现实世界。
+OpenAI挖角Uber印度区首席，将领导其除美国外最大市场。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
 
 ---
 
-### Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x
+### Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Databricks前AI负责人提出，可通过技术创新将AI能耗降低1000倍。
+多家科技公司如OpenAI和SpaceX正自主研发芯片，对Nvidia市场地位构成挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/)
+**来源：** [TechCrunch](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)
 
 ---
 
-### GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流
+### It’s not about Anthropic vs. OpenAI anymore
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+科技圈热议从Anthropic与OpenAI的对决转向行业合作，未来竞争格局或现新变化。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)
+
+---
+
+### .NET11第五个预览版：带来基于File的App改进、新C#特性与Blazor校验抖动效果
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub推出Copilot桌面应用，支持并行Agent开发工作流，提升开发效率。
+.NET11第五个预览版发布，引入文件应用改进、新C#特性和Blazor校验抖动效果。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG)
-
----
-
-### AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Uber与Auth0探讨AI智能体身份与权限挑战，重新思考访问控制策略。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd)
+**来源：** [InfoQ](https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv)
 
 ---
 
-### 最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请
+### Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-最大开源第一视角数据集EgoLive发布，名校支持，百家机构争相申请。
+Ky 2.0版本发布，重构Hooks，优化超时机制，新增Schema校验能力，提升开发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC)
+**来源：** [InfoQ](https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf)
+
+---
+
+### 像玩剧本杀一样，玩好 Agentic AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Agentic AI游戏化学习，借鉴剧本杀模式，提升用户体验和AI技能。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3)
 
 ---
 
