@@ -9,60 +9,80 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月27
+## 2026年06月28
 
-### Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies
+### SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普政府发布Anthropic Mythos，超100家美企机构将采用。
+软银CEO并非唯一质疑埃隆·马斯克轨道数据中心炒作之人，TechCrunch报道指出业界对此充满疑虑。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
+
+---
+
+### Apple Vision Pro exec is reportedly leaving for OpenAI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果Vision Pro项目负责人或将离职加入OpenAI。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
+
+---
+
+### The fittest founder in the room got cancer. Here’s how he used AI to fight back.
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+科技创业者战胜癌症，利用AI技术追踪病情，实现精准治疗。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)
+
+---
+
+### Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+亚洲AI初创公司推出类似Mythos模型，应对Anthropic出口禁令持续影响。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+
+---
+
+### Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国特朗普政府发布Anthropic Mythos，超过100家美企和机构将使用。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
 
 ---
 
-### OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
+### 苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-OpenAI遵照政府请求限制GPT-5.6推广，称限制非常态。
+苹果发布Core AI框架，旨在优化自研芯片在端侧生成式AI领域的性能表现。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
-
----
-
-### OpenAI poaches Uber India chief to lead its biggest market outside the US
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI挖角Uber印度区首席，将领导其除美国外最大市场。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
+**来源：** [InfoQ](https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U)
 
 ---
 
-### Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)
+### GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-多家科技公司如OpenAI和SpaceX正自主研发芯片，对Nvidia市场地位构成挑战。
+GitLab 19.0新增Agentic AI功能，强化凭证、合并请求及供应链安全。
 
-**来源：** [TechCrunch](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)
-
----
-
-### It’s not about Anthropic vs. OpenAI anymore
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技圈热议从Anthropic与OpenAI的对决转向行业合作，未来竞争格局或现新变化。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)
+**来源：** [InfoQ](https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA)
 
 ---
 
@@ -70,29 +90,9 @@ OpenAI挖角Uber印度区首席，将领导其除美国外最大市场。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-.NET11第五个预览版发布，引入文件应用改进、新C#特性和Blazor校验抖动效果。
+.NET 11第五个预览版发布，新增基于File的App改进、C#新特性和Blazor校验抖动效果。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv)
-
----
-
-### Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Ky 2.0版本发布，重构Hooks，优化超时机制，新增Schema校验能力，提升开发效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf)
-
----
-
-### 像玩剧本杀一样，玩好 Agentic AI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Agentic AI游戏化学习，借鉴剧本杀模式，提升用户体验和AI技能。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3)
 
 ---
 
