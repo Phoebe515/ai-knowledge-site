@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月28
+## 2026年06月29
+
+### Ford rehires ‘gray beard’ engineers after AI falls short
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+福特公司重新雇佣经验丰富的工程师，以应对人工智能应用不足的问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+
+---
+
+### Why Wall Street thinks US memory maker Micron is the next Nvidia
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+华尔街看好美国内存制造商美光科技，认为其将成为下一个英伟达。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
+
+---
 
 ### SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-软银CEO并非唯一质疑埃隆·马斯克轨道数据中心炒作之人，TechCrunch报道指出业界对此充满疑虑。
+软银CEO对埃隆·马斯克的轨道数据中心炒作表示质疑，业界对此亦存疑虑。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
 
@@ -30,7 +50,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果Vision Pro项目负责人或将离职加入OpenAI。
+苹果Vision Pro负责人据称将离职加入OpenAI。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
 
@@ -40,59 +60,39 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技创业者战胜癌症，利用AI技术追踪病情，实现精准治疗。
+科技创业者患癌，利用AI技术对抗病魔，展现科技力量在医疗领域的应用。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)
 
 ---
 
-### Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-亚洲AI初创公司推出类似Mythos模型，应对Anthropic出口禁令持续影响。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
-
----
-
-### Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国特朗普政府发布Anthropic Mythos，超过100家美企和机构将使用。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
-
----
-
-### 苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI
+### AWS Graviton5 正式发布，具备 192 个内核和经过正式验证的虚拟机隔离功能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-苹果发布Core AI框架，旨在优化自研芯片在端侧生成式AI领域的性能表现。
+AWS Graviton5发布，192内核，支持虚拟机隔离。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U)
-
----
-
-### GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-GitLab 19.0新增Agentic AI功能，强化凭证、合并请求及供应链安全。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA)
+**来源：** [InfoQ](https://www.infoq.cn/article/ONqpdtmlUXgF32G1vqT2)
 
 ---
 
-### .NET11第五个预览版：带来基于File的App改进、新C#特性与Blazor校验抖动效果
+### ML 模型投毒的机制及检测方法
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-.NET 11第五个预览版发布，新增基于File的App改进、C#新特性和Blazor校验抖动效果。
+ML模型投毒机制研究进展，专家提出新型检测方法，提高模型安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv)
+**来源：** [InfoQ](https://www.infoq.cn/article/GqFL7BV2JopihkBJWkt2)
+
+---
+
+### 不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+月之暗面Kimi出海，不依赖低价竞争，凭借技术实力硬刚海外AI“御三家”，力图在海外市场占据一席之地。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1)
 
 ---
 
