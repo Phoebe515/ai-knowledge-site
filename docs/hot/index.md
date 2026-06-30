@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年06月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月29
+## 2026年06月30
 
-### Ford rehires ‘gray beard’ engineers after AI falls short
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-福特公司重新雇佣经验丰富的工程师，以应对人工智能应用不足的问题。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
-
----
-
-### Why Wall Street thinks US memory maker Micron is the next Nvidia
+### The AI jobs debate just got messier
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-华尔街看好美国内存制造商美光科技，认为其将成为下一个英伟达。
+AI就业问题争议加剧，技术发展对劳动力市场的影响成为焦点。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
 
 ---
 
-### SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype
+### Vibe coding platform Base44 launches own model as AI startups seek defensibility
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-软银CEO对埃隆·马斯克的轨道数据中心炒作表示质疑，业界对此亦存疑虑。
+Vibe coding平台Base44推出自研模型，AI初创企业寻求防御性。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)
 
 ---
 
-### Apple Vision Pro exec is reportedly leaving for OpenAI
+### Gemini’s personalized AI image generation is now free for US users
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果Vision Pro负责人据称将离职加入OpenAI。
+Gemini推出个性化AI图像生成工具，现面向美国用户免费使用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)
 
 ---
 
-### The fittest founder in the room got cancer. Here’s how he used AI to fight back.
+### Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技创业者患癌，利用AI技术对抗病魔，展现科技力量在医疗领域的应用。
+Anthropic与加州州长纽森达成协议，加州政府可半价使用Claude。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/)
 
 ---
 
-### AWS Graviton5 正式发布，具备 192 个内核和经过正式验证的虚拟机隔离功能
+### South Korean tech giants commit over $550B to ease ‘RAMageddon’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+韩国科技巨头承诺投资超5500亿美元缓解“RAMageddon”危机。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
+
+---
+
+### Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AWS Graviton5发布，192内核，支持虚拟机隔离。
+Agent模型之争背后，实质是煤电博弈。Token狂吞现象揭示产业深层矛盾。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ONqpdtmlUXgF32G1vqT2)
-
----
-
-### ML 模型投毒的机制及检测方法
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-ML模型投毒机制研究进展，专家提出新型检测方法，提高模型安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/GqFL7BV2JopihkBJWkt2)
+**来源：** [InfoQ](https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw)
 
 ---
 
-### 不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？
+### Atlassian 揭秘 Forge 计费架构：如何在分布式环境下实现大规模用量计费
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-月之暗面Kimi出海，不依赖低价竞争，凭借技术实力硬刚海外AI“御三家”，力图在海外市场占据一席之地。
+Atlassian在InfoQ上公开Forge计费架构，详解如何在分布式环境中实现大规模用量计费。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1)
+**来源：** [InfoQ](https://www.infoq.cn/article/5a8OTMYRHj6XZIpOTVoo)
+
+---
+
+### 非科班出身技术Geek，被DeepSeek改写人生（上集）
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+非科班出身的技术爱好者通过DeepSeek平台实现职业转型，改写人生轨迹。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7)
 
 ---
 
