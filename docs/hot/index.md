@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年06月30日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月01日 07:00</span>
 </div>
 
 ---
 
-## 2026年06月30
+## 2026年07月01
 
-### The AI jobs debate just got messier
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI就业问题争议加剧，技术发展对劳动力市场的影响成为焦点。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
-
----
-
-### Vibe coding platform Base44 launches own model as AI startups seek defensibility
+### The “Father of the Internet” is finally retiring
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Vibe coding平台Base44推出自研模型，AI初创企业寻求防御性。
+互联网之父蒂姆·伯纳斯-李宣布退休，结束长达几十年的技术贡献。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 
 ---
 
-### Gemini’s personalized AI image generation is now free for US users
+### Trump drops restrictions on Anthropic’s Mythos and Fable models
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Gemini推出个性化AI图像生成工具，现面向美国用户免费使用。
+特朗普解除对Anthropic的Mythos和Fable模型的限制。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
 
 ---
 
-### Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price
+### Wayve launches $85M employee tender offer at $8.5B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic与加州州长纽森达成协议，加州政府可半价使用Claude。
+Wayve发起8.5亿美元估值下的8500万美元员工收购要约，旨在进一步巩固其在自动驾驶领域的地位。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
 
 ---
 
-### South Korean tech giants commit over $550B to ease ‘RAMageddon’
+### OpenClaw is finally available on Android and iOS
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-韩国科技巨头承诺投资超5500亿美元缓解“RAMageddon”危机。
+OpenClaw游戏正式登陆Android和iOS平台，玩家可尽情体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)
 
 ---
 
-### Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈
+### The DeepMind trio who built a poker AI are now making money for quant hedge funds
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+DeepMind前团队成员创立量化对冲基金，运用其构建的扑克AI盈利。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)
+
+---
+
+### Cloudflare 推出支持零信任部署和迁移的代理技能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Agent模型之争背后，实质是煤电博弈。Token狂吞现象揭示产业深层矛盾。
+Cloudflare推出支持零信任部署和迁移的代理技能，助力企业安全高效迁移至零信任架构。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw)
-
----
-
-### Atlassian 揭秘 Forge 计费架构：如何在分布式环境下实现大规模用量计费
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Atlassian在InfoQ上公开Forge计费架构，详解如何在分布式环境中实现大规模用量计费。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/5a8OTMYRHj6XZIpOTVoo)
+**来源：** [InfoQ](https://www.infoq.cn/article/fTk8yti9vUIP9hbP5Lcs)
 
 ---
 
-### 非科班出身技术Geek，被DeepSeek改写人生（上集）
+### 在企业内部构建欧洲云编排平台
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-非科班出身的技术爱好者通过DeepSeek平台实现职业转型，改写人生轨迹。
+企业内部构建欧洲云编排平台，以实现资源优化和自动化管理。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7)
+**来源：** [InfoQ](https://www.infoq.cn/article/WauDgmzsNkHocILNI86f)
+
+---
+
+### 8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+8人团队自研大模型年入超亿，迎战Cursor、Claude Code。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv)
 
 ---
 
