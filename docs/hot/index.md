@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月01日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月02日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月01
+## 2026年07月02
 
-### The “Father of the Internet” is finally retiring
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-互联网之父蒂姆·伯纳斯-李宣布退休，结束长达几十年的技术贡献。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
-
----
-
-### Trump drops restrictions on Anthropic’s Mythos and Fable models
+### SpaceX has an AI device prototype, and it sure sounds phone-ish
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普解除对Anthropic的Mythos和Fable模型的限制。
+SpaceX研发出AI设备原型，外观类似手机。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)
 
 ---
 
-### Wayve launches $85M employee tender offer at $8.5B valuation
+### Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Wayve发起8.5亿美元估值下的8500万美元员工收购要约，旨在进一步巩固其在自动驾驶领域的地位。
+演员Ashton Kutcher将离开Sound Ventures，与Morgan Beller共同创立新风险投资公司。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/)
 
 ---
 
-### OpenClaw is finally available on Android and iOS
+### Cloudflare’s new policy pushes AI companies to pay for publishers’ content
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenClaw游戏正式登陆Android和iOS平台，玩家可尽情体验。
+Cloudflare新政策要求AI公司为内容付费，推动出版商内容版权保护。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/)
 
 ---
 
-### The DeepMind trio who built a poker AI are now making money for quant hedge funds
+### Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-DeepMind前团队成员创立量化对冲基金，运用其构建的扑克AI盈利。
+Venice AI获6500万美元A轮融资，其以隐私优先的AI平台迅速崛起。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/)
 
 ---
 
-### Cloudflare 推出支持零信任部署和迁移的代理技能
+### Gemini Spark, Google’s agentic assistant, is now available on Mac
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌的Gemini Spark智能助手现已登陆Mac平台。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)
+
+---
+
+### 前后端一起消失：AI Coding 正在改写大厂工程师分工
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare推出支持零信任部署和迁移的代理技能，助力企业安全高效迁移至零信任架构。
+AI Coding技术兴起，导致前后端工程师分工逐渐消失，大厂工程师角色面临重塑。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fTk8yti9vUIP9hbP5Lcs)
-
----
-
-### 在企业内部构建欧洲云编排平台
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-企业内部构建欧洲云编排平台，以实现资源优化和自动化管理。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/WauDgmzsNkHocILNI86f)
+**来源：** [InfoQ](https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x)
 
 ---
 
-### 8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？
+### 有奖共建｜跑过数百万台服务器的AI运维系统开源了！提PR/报Bug/写体验，通通有奖
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-8人团队自研大模型年入超亿，迎战Cursor、Claude Code。
+AI运维系统开源，支持提PR、报Bug、写体验，奖励丰厚。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv)
+**来源：** [InfoQ](https://xie.infoq.cn/article/bc3d416caccb50b6dc6044c04)
+
+---
+
+### Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Argo CD 3.5发布，新增内部双向TLS与源码完整性校验，提升软件供应链安全。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB)
 
 ---
 
