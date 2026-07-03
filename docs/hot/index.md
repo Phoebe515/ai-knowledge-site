@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月02日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月03日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月02
+## 2026年07月03
 
-### SpaceX has an AI device prototype, and it sure sounds phone-ish
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-SpaceX研发出AI设备原型，外观类似手机。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)
-
----
-
-### Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller
+### Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-演员Ashton Kutcher将离开Sound Ventures，与Morgan Beller共同创立新风险投资公司。
+Facebook创始人扎克伯格表示，AI代理进展未达预期，进展速度不如他希望。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 
 ---
 
-### Cloudflare’s new policy pushes AI companies to pay for publishers’ content
+### Jersey Mike’s IPO illustrates how bad the AI hype has become
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Cloudflare新政策要求AI公司为内容付费，推动出版商内容版权保护。
+Jersey Mike’s IPO凸显AI炒作过热，TechCrunch报道指出，其上市表现揭示了当前AI市场的泡沫现象。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)
 
 ---
 
-### Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off
+### Meta quietly launches vibe-coded gaming app Pocket
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Venice AI获6500万美元A轮融资，其以隐私优先的AI平台迅速崛起。
+Meta悄然推出振动编码游戏应用Pocket，旨在提供更具沉浸感的游戏体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)
 
 ---
 
-### Gemini Spark, Google’s agentic assistant, is now available on Mac
+### Anthropic is discussing a new custom chip with Samsung
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌的Gemini Spark智能助手现已登陆Mac平台。
+Anthropic与三星洽谈定制芯片合作，旨在提升AI性能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
 
 ---
 
-### 前后端一起消失：AI Coding 正在改写大厂工程师分工
+### OpenAI proposed donating 5% of its equity to a US sovereign wealth fund
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI计划将其5%股权捐赠给美国主权财富基金，旨在推动人工智能发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)
+
+---
+
+### Java 实时系统扩容：事件驱动设计的隐性权衡
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI Coding技术兴起，导致前后端工程师分工逐渐消失，大厂工程师角色面临重塑。
+Java实时系统扩容需权衡事件驱动设计，InfoQ报道指出，高效性与复杂性并存，扩容策略需谨慎考量。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x)
-
----
-
-### 有奖共建｜跑过数百万台服务器的AI运维系统开源了！提PR/报Bug/写体验，通通有奖
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI运维系统开源，支持提PR、报Bug、写体验，奖励丰厚。
-
-**来源：** [InfoQ](https://xie.infoq.cn/article/bc3d416caccb50b6dc6044c04)
+**来源：** [InfoQ](https://www.infoq.cn/article/dbZRhCUeEqX4WdboztyG)
 
 ---
 
-### Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全
+### 一人公司创业，如何找对方法论、选准装备库？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Argo CD 3.5发布，新增内部双向TLS与源码完整性校验，提升软件供应链安全。
+一人公司创业需关注方法论与装备库选择，InfoQ探讨如何高效开展业务。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB)
+**来源：** [InfoQ](https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE)
+
+---
+
+### 用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Anthropic回应“用户太蠢不配用Fable”言论，称其拥有最贵模型却提供最憋屈体验。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/HDE9Hoe3RVyNlX3CCGzV)
 
 ---
 
