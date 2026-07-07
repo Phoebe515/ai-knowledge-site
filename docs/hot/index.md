@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月06日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月07日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月06
+## 2026年07月07
 
-### Amazon will stop accepting new customers for Mechanical Turk
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-亚马逊宣布将停止接受新用户注册Mechanical Turk平台。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
-
----
-
-### New Google commercial imagines a Declaration of Independence written with help from AI
+### The ‘first’ AI-run ransomware attack still needed a human
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌新广告想象AI协助撰写《独立宣言》，引发公众对AI创作能力的关注。
+首次AI驱动的勒索软件攻击仍需人类干预。TechCrunch报道，尽管攻击由AI主导，但最终仍需人类操作。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
 
 ---
 
-### Midjourney wants Hollywood studios to reveal the details of their AI usage
+### US investors will soon get access to SK Hynix, another memory maker riding the AI boom
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Midjourney呼吁好莱坞电影公司公开AI使用细节，以促进行业透明度。
+美国投资者将很快能够投资内存制造商SK Hynix，该公司正受益于AI行业繁荣。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
 
 ---
 
-### Alibaba reportedly bans employees from using Claude Code
+### Vercel CEO Guillermo Rauch on the fight to split off models from agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-阿里巴巴禁止员工使用Claude Code。
+Vercel CEO Guillermo Rauch在TechCrunch发表文章，探讨将模型与代理商分离的斗争。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
 
 ---
 
-### What is Mistral AI? Everything to know about the OpenAI competitor
+### You can now customize Siri’s pace and expressivity in the latest iOS 27 beta
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Mistral AI作为OpenAI竞争对手，备受关注。本文将为您全面解析Mistral AI的详细信息。
+最新iOS 27公测版允许用户自定义Siri语速和表达性。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
 
 ---
 
-### Windows平台安全与保护AI智能体的竞赛
+### Every major tech layoff in 2026 that has name-checked AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+2026年，多起大型科技公司裁员涉及AI领域，TechCrunch梳理相关事件。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+
+---
+
+### 1.5亿数据！蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，看得更懂、更准
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Windows平台安全领域展开AI智能体竞赛，旨在提升系统防护能力，促进AI技术在安全领域的应用与发展。
+蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，基于1.5亿数据，提升模型识别精度和准确性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ)
-
----
-
-### 73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI生成PR率达73%，Claude Code之父与Spotify对话，每日部署4500次，工程师地铁中也能提交代码。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS)
+**来源：** [InfoQ](https://www.infoq.cn/article/mqY10ihiZ874id2JDeXu)
 
 ---
 
-### 豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报
+### 亚马逊云科技发布用于成本分析和优化的 FinOps Agent 预览版
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-豆包、千问关停智能体功能；腾讯研发token额度1400元/月起步；美团限豆包、阿里禁Claude Code。
+亚马逊云科技发布FinOps Agent预览版，助力用户进行成本分析和优化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a)
+**来源：** [InfoQ](https://www.infoq.cn/article/OtPug093U3A6NXXhxdiW)
+
+---
+
+### Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Swift 6.4发布，新增语言特性并增强与XCTest的互操作性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i)
 
 ---
 
