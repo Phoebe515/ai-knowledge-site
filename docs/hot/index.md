@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月07日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月08日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月07
+## 2026年07月08
 
-### The ‘first’ AI-run ransomware attack still needed a human
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-首次AI驱动的勒索软件攻击仍需人类干预。TechCrunch报道，尽管攻击由AI主导，但最终仍需人类操作。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
-
----
-
-### US investors will soon get access to SK Hynix, another memory maker riding the AI boom
+### Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国投资者将很快能够投资内存制造商SK Hynix，该公司正受益于AI行业繁荣。
+Meta推出AI图像生成器Muse Image，用户对使用其照片表示担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
 
 ---
 
-### Vercel CEO Guillermo Rauch on the fight to split off models from agents
+### Why the rise of open source AI isn’t hurting Anthropic … yet
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Vercel CEO Guillermo Rauch在TechCrunch发表文章，探讨将模型与代理商分离的斗争。
+开源AI兴起未影响Anthropic，TechCrunch分析指出，尽管开源AI竞争激烈，Anthropic凭借独特技术优势和市场定位，仍保持增长势头。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
 
 ---
 
-### You can now customize Siri’s pace and expressivity in the latest iOS 27 beta
+### Microsoft joins AI cost-cutting trend by relying more on its own models
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-最新iOS 27公测版允许用户自定义Siri语速和表达性。
+微软加入AI成本削减潮流，将更多依赖自身模型以降低开支。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
 
 ---
 
-### Every major tech layoff in 2026 that has name-checked AI
+### Discord admits AI moderation bug wrongfully banned users over harmless images
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-2026年，多起大型科技公司裁员涉及AI领域，TechCrunch梳理相关事件。
+Discord承认AI审核错误，因无害图片错误封禁用户。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
 
 ---
 
-### 1.5亿数据！蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，看得更懂、更准
+### Claude Cowork expands to mobile and web
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Claude Cowork扩展至移动和网页端，为用户提供更便捷的协作体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)
+
+---
+
+### 虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，基于1.5亿数据，提升模型识别精度和准确性。
+专家在虚拟座谈会上解读AI威胁演变，探讨机器时代安全挑战。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/mqY10ihiZ874id2JDeXu)
-
----
-
-### 亚马逊云科技发布用于成本分析和优化的 FinOps Agent 预览版
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-亚马逊云科技发布FinOps Agent预览版，助力用户进行成本分析和优化。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/OtPug093U3A6NXXhxdiW)
+**来源：** [InfoQ](https://www.infoq.cn/article/LhZ4t3N4yxTm3ISZvUp5)
 
 ---
 
-### Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性
+### Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Swift 6.4发布，新增语言特性并增强与XCTest的互操作性。
+Target推出基于LLM的语义匹配系统，优化营销预测流程，提升效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i)
+**来源：** [InfoQ](https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5)
+
+---
+
+### 企业微信首款 AI 硬件：出门问问TicNote合作款正式发布
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+企业微信首款AI硬件——出门问问TicNote合作款正式发布，标志着企业微信在智能硬件领域的布局迈出重要一步。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/CiwPd7c4oYfzqBGMbotV)
 
 ---
 
