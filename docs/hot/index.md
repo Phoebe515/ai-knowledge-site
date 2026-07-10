@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月09日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月10日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月09
+## 2026年07月10
 
-### Lovable reportedly in talks to double its valuation to $13.2B
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Lovable与投资者洽谈，计划将其估值翻倍至132亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/)
-
----
-
-### Google’s deepfake detector system used to debunk McConnell hoax pic
+### OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌的深度伪造检测系统成功揭露了麦康奈尔虚假图片，TechCrunch报道。
+OpenAI宣布GPT 5.6为微软Copilot 365的“首选模型”，此时正值双方分手传闻频传。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/)
 
 ---
 
-### SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’
+### Fidji Simo steps down from OpenAI’s no. 2 role
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceXAI发布Grok 4.5，马斯克称其为“作品级模型”。
+Fidji Simo辞去OpenAI二号职位，具体原因未知。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
 
 ---
 
-### This startup thinks robotics is about to have its ChatGPT moment
+### OpenAI launches its new family of models with GPT-5.6
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技媒体TechCrunch报道，一家初创公司认为机器人技术即将迎来类似ChatGPT的突破时刻。
+OpenAI发布全新模型系列GPT-5.6，性能大幅提升，有望推动AI技术发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
 
 ---
 
-### Google Photos adds a new AI ‘Video Remix’ tool
+### An AI agent startup just let its agent run its $100M fundraise
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google Photos推出AI新工具“视频混剪”，利用人工智能技术，用户可轻松制作个性化视频。
+AI代理初创公司让其代理完成1亿美元融资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
 
 ---
 
-### 主权云争议持续，Cycle 推出欧盟专属控制平面
+### OpenAI is shutting down Atlas, but its AI browser ambitions are still growing
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI关闭Atlas项目，但AI浏览器野心持续增长。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/)
+
+---
+
+### InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cycle针对主权云争议推出欧盟专属控制平面，旨在加强数据主权和隐私保护。
+InfoQ与九章云极共同深入剖析Token Factory技术及其在产业发展中的应用，探讨行业趋势与挑战。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/DTwKHTqif2cUAF8Fy5aA)
-
----
-
-### 将平台开发从项目转向产品
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-InfoQ报道，我国将平台开发模式从项目转向产品，以提升平台开发效率和用户体验。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/IBeglXveqxZXVq8lhtvN)
+**来源：** [InfoQ](https://www.infoq.cn/video/6GH7lb3Ptfw7Pjgrl9Cs)
 
 ---
 
-### Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工
+### 当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Claude、Cursor、OpenClaw三款AI产品集体上手机，全天候工作，告别摸鱼请假，高效为你打工。
+AI智能体面临“至暗时刻”，企业需强化数据安全、算法优化和风险评估，构建坚实防线。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9)
+**来源：** [InfoQ](https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T)
+
+---
+
+### vLLM 针对多模态模型的推理优化实践｜AICon深圳
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AICon深圳探讨vLLM多模态模型推理优化实践，提升模型性能与效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F)
 
 ---
 
