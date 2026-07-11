@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月10日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月11日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月10
+## 2026年07月11
+
+### Meta removes controversial AI feature on Instagram after backlash
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta在Instagram上移除引发争议的AI功能，以平息用户反弹。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)
+
+---
+
+### Apple sues OpenAI over alleged trade secret theft
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果公司起诉OpenAI，指控其窃取商业机密。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)
+
+---
+
+### SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+SK Hynix以265亿美元创美国最大外国IPO，被敦促在美国建新厂。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
+
+---
+
+### Hugging Face’s CEO on why companies are done renting their AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Hugging Face CEO谈企业为何放弃租赁AI，认为自研AI更具竞争优势。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/)
+
+---
 
 ### OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI宣布GPT 5.6为微软Copilot 365的“首选模型”，此时正值双方分手传闻频传。
+OpenAI宣布GPT 5.6成为微软Copilot 365的“首选模型”，同时面临与微软分手传闻。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/)
 
 ---
 
-### Fidji Simo steps down from OpenAI’s no. 2 role
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Fidji Simo辞去OpenAI二号职位，具体原因未知。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
-
----
-
-### OpenAI launches its new family of models with GPT-5.6
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI发布全新模型系列GPT-5.6，性能大幅提升，有望推动AI技术发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
-
----
-
-### An AI agent startup just let its agent run its $100M fundraise
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI代理初创公司让其代理完成1亿美元融资。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
-
----
-
-### OpenAI is shutting down Atlas, but its AI browser ambitions are still growing
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI关闭Atlas项目，但AI浏览器野心持续增长。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/)
-
----
-
-### InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展
+### 从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-InfoQ与九章云极共同深入剖析Token Factory技术及其在产业发展中的应用，探讨行业趋势与挑战。
+在AICon深圳，探讨异构环境下的算力资源管理实践，从HAMi到HAMi-DRA，优化资源调度与利用。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/6GH7lb3Ptfw7Pjgrl9Cs)
-
----
-
-### 当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI智能体面临“至暗时刻”，企业需强化数据安全、算法优化和风险评估，构建坚实防线。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T)
+**来源：** [InfoQ](https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P)
 
 ---
 
-### vLLM 针对多模态模型的推理优化实践｜AICon深圳
+### Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨vLLM多模态模型推理优化实践，提升模型性能与效率。
+Airbnb在InfoQ上分享其基于Kubernetes的动态配置Sidecar Sitar-agent架构，优化微服务部署与配置管理。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F)
+**来源：** [InfoQ](https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV)
+
+---
+
+### AI时代最被低估的创业资本，不是技术，是你的“老本行”
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI创业，技术虽重要，但个人经验和行业知识更是不可忽视的资本。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/KAweBbBoUV2ufYlocaul)
 
 ---
 
