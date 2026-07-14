@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月13日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月14日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月13
+## 2026年07月14
 
-### OpenAI bets on families as ChatGPT goes deeper into households
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI将ChatGPT家庭化，深入家庭市场，TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)
-
----
-
-### Meta removes controversial AI feature on Instagram after backlash
+### Already rich, already successful, why the last wave of tech winners is grinding again
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta在Instagram上移除引发争议的AI功能，以平息用户反弹。
+科技巨头再创辉煌，为何最后一波赢家却陷入困境？TechCrunch分析科技行业最新动态。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/)
 
 ---
 
-### Apple sues OpenAI over alleged trade secret theft
+### Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果公司起诉OpenAI涉嫌窃取商业机密，双方纠纷引发业界关注。
+Uber产品负责人谈酒店、无人驾驶出租车业务，强调公司定位非“满足所有人需求”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/)
 
 ---
 
-### SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs
+### Video-generation startup PixVerse raises $439M, valuation soars past $2B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SK Hynix以265亿美元创下美国最大外国IPO纪录，获美政府敦促在美国建厂。
+视频生成初创公司PixVerse融资4.39亿美元，估值突破20亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
-
----
-
-### UniRL：统一多模态 RL 框架的 2.4X 端到端性能优化实践｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在AICon深圳，UniRL框架通过2.4倍端到端性能优化，实现统一多模态强化学习。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/jeAxpYI4tgewlBdvXZBJ)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/)
 
 ---
 
-### Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流
+### Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Circle CI发布Chunk Sidecars，将CI校验集成至AI编码流程，提升开发效率。
+Nous Research，Hermes代理商制造商，正洽谈新一轮1.5亿美元的融资。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR)
-
----
-
-### TSRX：一种与框架无关的JSX替代方案
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-TSRX推出，作为JSX的替代方案，实现与框架无关的组件渲染。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/Zd3aCWmlDJaAiwhEE4q6)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/)
 
 ---
 
-### 面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳
+### Satya Nadella has issued a shocking warning to companies using AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+微软CEO萨蒂亚·纳德拉警告：使用AI的公司面临风险。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)
+
+---
+
+### 从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳，面向Qwen系列模型线性注意力的高性能优化实践分享，探讨提升模型性能的关键技术。
+探讨Agent记忆系统工程化路径，介绍MemOS实践，实现从上下文到经验资产的转化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha)
+**来源：** [InfoQ](https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX)
+
+---
+
+### 可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+可复制的 AI Coding 全栈实战工具推出，轻量级设计，操作丝滑，超越OpenSpec，助力开发者提升编程效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj)
+
+---
+
+### 面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AICon深圳探讨面向Agentic负载的下一代LLM推理引擎设计实践，聚焦提升推理效率和准确性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy)
 
 ---
 
