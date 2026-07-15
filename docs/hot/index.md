@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月14
+## 2026年07月15
 
-### Already rich, already successful, why the last wave of tech winners is grinding again
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技巨头再创辉煌，为何最后一波赢家却陷入困境？TechCrunch分析科技行业最新动态。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/)
-
----
-
-### Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”
+### OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Uber产品负责人谈酒店、无人驾驶出租车业务，强调公司定位非“满足所有人需求”。
+OpenAI研究员Miles Wang正洽谈成立估值20亿美元的AI药物发现初创公司。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
 
 ---
 
-### Video-generation startup PixVerse raises $439M, valuation soars past $2B
+### Lorde says AI glasses are ‘not sexy’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-视频生成初创公司PixVerse融资4.39亿美元，估值突破20亿美元。
+新西兰歌手Lorde在TechCrunch表示，AI眼镜缺乏吸引力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
 
 ---
 
-### Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
+### OpenAI’s first hardware device is reportedly a screenless speaker that can move
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nous Research，Hermes代理商制造商，正洽谈新一轮1.5亿美元的融资。
+OpenAI首款硬件设备为无屏音箱，可移动。据TechCrunch报道，该设备将提供独特的交互体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)
 
 ---
 
-### Satya Nadella has issued a shocking warning to companies using AI
+### OpenAI pushes back on Apple trade secret lawsuit
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO萨蒂亚·纳德拉警告：使用AI的公司面临风险。
+OpenAI对苹果提起的侵犯商业秘密诉讼进行反击。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/)
 
 ---
 
-### 从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践
+### OpenAI’s new flagship model deletes files on its own, people keep warning
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI新旗舰模型自主删除文件，引发安全担忧，专家持续警告。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/)
+
+---
+
+### 当数据库的两端，都不再是人
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-探讨Agent记忆系统工程化路径，介绍MemOS实践，实现从上下文到经验资产的转化。
+数据库两端非人类交互趋势明显，AI与机器学习技术助力数据管理革新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX)
-
----
-
-### 可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-可复制的 AI Coding 全栈实战工具推出，轻量级设计，操作丝滑，超越OpenSpec，助力开发者提升编程效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj)
+**来源：** [InfoQ](https://www.infoq.cn/article/sDyPWhAWPHttlQJTUwq3)
 
 ---
 
-### 面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳
+### 当编码不再是瓶颈：跨越 Coding Agent 规模化后的流程与成本双困局｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨面向Agentic负载的下一代LLM推理引擎设计实践，聚焦提升推理效率和准确性。
+AICon深圳探讨编码瓶颈突破，分析跨越Coding Agent规模化后的流程与成本问题，寻求解决方案。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy)
+**来源：** [InfoQ](https://www.infoq.cn/article/1JIiNLEgyJ2UEPwS825r)
+
+---
+
+### Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Kubernetes AI辅助项目维护方案强调人为责任优先，确保系统稳定与安全。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/mKDCAL0Tr0AaaXJlPIrE)
 
 ---
 
