@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月15日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月16日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月15
+## 2026年07月16
 
-### OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI研究员Miles Wang正洽谈成立估值20亿美元的AI药物发现初创公司。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
-
----
-
-### Lorde says AI glasses are ‘not sexy’
+### Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-新西兰歌手Lorde在TechCrunch表示，AI眼镜缺乏吸引力。
+微软据称正培训销售人员贬低OpenAI和Anthropic，以推广自家产品。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
 
 ---
 
-### OpenAI’s first hardware device is reportedly a screenless speaker that can move
+### Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI首款硬件设备为无屏音箱，可移动。据TechCrunch报道，该设备将提供独特的交互体验。
+OpenAI在硬件法律纠纷中推出230美元的Codex键盘，旨在提升编程体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
 
 ---
 
-### OpenAI pushes back on Apple trade secret lawsuit
+### SpaceX falls to $135 IPO price ahead of Starship launch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI对苹果提起的侵犯商业秘密诉讼进行反击。
+SpaceX首次公开募股定价为135美元，低于预期，星船发射前夕市场情绪谨慎。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/)
 
 ---
 
-### OpenAI’s new flagship model deletes files on its own, people keep warning
+### Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI新旗舰模型自主删除文件，引发安全担忧，专家持续警告。
+人工智能公司Thinking Machines推出首个开源模型Inkling，旨在挑战一刀切的AI应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)
 
 ---
 
-### 当数据库的两端，都不再是人
+### Hack suggests AI music generator Suno scraped YouTube for training data
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI音乐生成器Suno涉嫌从YouTube窃取训练数据，TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/)
+
+---
+
+### 从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-数据库两端非人类交互趋势明显，AI与机器学习技术助力数据管理革新。
+AICon深圳探讨企业级人机协同研发范式演进，涵盖AI Coding至AI Native SDLC，推动研发效率变革。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sDyPWhAWPHttlQJTUwq3)
-
----
-
-### 当编码不再是瓶颈：跨越 Coding Agent 规模化后的流程与成本双困局｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AICon深圳探讨编码瓶颈突破，分析跨越Coding Agent规模化后的流程与成本问题，寻求解决方案。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/1JIiNLEgyJ2UEPwS825r)
+**来源：** [InfoQ](https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm)
 
 ---
 
-### Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则
+### Slack 推出智能体驱动型端到端测试，提升 UI 自动化测试稳定性
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Kubernetes AI辅助项目维护方案强调人为责任优先，确保系统稳定与安全。
+Slack发布智能体驱动测试技术，提升UI自动化测试稳定性，助力企业测试效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/mKDCAL0Tr0AaaXJlPIrE)
+**来源：** [InfoQ](https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2)
+
+---
+
+### IPO前夜，阶跃星辰想用一款 Agent 手机给市场吃一颗定心丸
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+阶跃星辰计划于IPO前夕推出Agent手机，以稳定市场信心。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/PuGOGJPBElTjpCGSwrAu)
 
 ---
 
