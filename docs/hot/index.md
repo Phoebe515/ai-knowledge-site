@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月16日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月17日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月16
+## 2026年07月17
 
-### Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-微软据称正培训销售人员贬低OpenAI和Anthropic，以推广自家产品。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
-
----
-
-### Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex
+### Google Vids now lets you star in your own AI videos
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI在硬件法律纠纷中推出230美元的Codex键盘，旨在提升编程体验。
+Google Vids新增AI视频功能，用户可亲自参与制作个性化AI视频。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)
 
 ---
 
-### SpaceX falls to $135 IPO price ahead of Starship launch
+### Roblox launches an AI-powered game-creation feature in its mobile app
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX首次公开募股定价为135美元，低于预期，星船发射前夕市场情绪谨慎。
+Roblox在移动应用中推出AI游戏创作功能，助力用户轻松制作游戏。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)
 
 ---
 
-### Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling
+### Google’s AI Mode now lets you link and interact with select apps
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-人工智能公司Thinking Machines推出首个开源模型Inkling，旨在挑战一刀切的AI应用。
+Google AI模式新增链接和交互功能，支持与部分应用联动。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/)
 
 ---
 
-### Hack suggests AI music generator Suno scraped YouTube for training data
+### Yes, you can now order DoorDash from the command line
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI音乐生成器Suno涉嫌从YouTube窃取训练数据，TechCrunch报道。
+DoorDash现已支持通过命令行下单，用户可轻松使用终端进行外卖点餐。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/)
 
 ---
 
-### 从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳
+### Why is OpenAI selling a ChatGPT basketball?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI出售ChatGPT篮球，原因成谜，TechCrunch报道引发关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/)
+
+---
+
+### SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨企业级人机协同研发范式演进，涵盖AI Coding至AI Native SDLC，推动研发效率变革。
+SwiftData迎来重大升级，查询能力增强，新增支持第三方类型持久化功能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm)
-
----
-
-### Slack 推出智能体驱动型端到端测试，提升 UI 自动化测试稳定性
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Slack发布智能体驱动测试技术，提升UI自动化测试稳定性，助力企业测试效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2)
+**来源：** [InfoQ](https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK)
 
 ---
 
-### IPO前夜，阶跃星辰想用一款 Agent 手机给市场吃一颗定心丸
+### 从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-阶跃星辰计划于IPO前夕推出Agent手机，以稳定市场信心。
+英伟达Vera Rubin推动AI工厂转型，利用GPU及Token技术，重构下一代AI生态系统。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/PuGOGJPBElTjpCGSwrAu)
+**来源：** [InfoQ](https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG)
+
+---
+
+### 从工具到引擎：AI重构分销增长新范式｜AICon深圳
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AICon深圳探讨AI从工具到引擎的角色转变，重构分销增长新范式。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e)
 
 ---
 
