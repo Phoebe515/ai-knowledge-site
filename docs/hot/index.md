@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月17
+## 2026年07月18
 
-### Google Vids now lets you star in your own AI videos
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Google Vids新增AI视频功能，用户可亲自参与制作个性化AI视频。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)
-
----
-
-### Roblox launches an AI-powered game-creation feature in its mobile app
+### Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Roblox在移动应用中推出AI游戏创作功能，助力用户轻松制作游戏。
+Vertu推出AI代理，要求高管支付6880美元，实际表现如何？TechCrunch报道，该代理功能强大，但价格昂贵。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
 
 ---
 
-### Google’s AI Mode now lets you link and interact with select apps
+### Databricks hits $188B valuation, extending its run as AI’s favorite second act
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google AI模式新增链接和交互功能，支持与部分应用联动。
+Databricks估值达1880亿美元，继续领跑AI领域第二股。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
 
 ---
 
-### Yes, you can now order DoorDash from the command line
+### The Zoom hack that says, ‘Don’t record me’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-DoorDash现已支持通过命令行下单，用户可轻松使用终端进行外卖点餐。
+TechCrunch报道，Zoom遭黑客入侵，可关闭“不要录制我”功能，影响用户隐私。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
 
 ---
 
-### Why is OpenAI selling a ChatGPT basketball?
+### Agility Robotics plants its flag in Tesla’s backyard
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI出售ChatGPT篮球，原因成谜，TechCrunch报道引发关注。
+Agility Robotics在特斯拉总部附近设立新基地，拓展机器人业务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
 
 ---
 
-### SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化
+### AI-driven memory crunch jolts India’s smartphone market
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI驱动内存短缺冲击印度智能手机市场，影响供应链及消费者购买意愿。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)
+
+---
+
+### 为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-SwiftData迎来重大升级，查询能力增强，新增支持第三方类型持久化功能。
+AICon深圳探讨AI Agent推理难题，聚焦可观测对象图语义层设计与开源实践，探索数据到推理的桥梁。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK)
-
----
-
-### 从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-英伟达Vera Rubin推动AI工厂转型，利用GPU及Token技术，重构下一代AI生态系统。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG)
+**来源：** [InfoQ](https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE)
 
 ---
 
-### 从工具到引擎：AI重构分销增长新范式｜AICon深圳
+### AI 智能体算力消耗过快，传统账单风控跟不上速度
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨AI从工具到引擎的角色转变，重构分销增长新范式。
+AI智能体算力消耗过快，传统账单风控技术难以适应，导致风控效率低下。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e)
+**来源：** [InfoQ](https://www.infoq.cn/article/secM60Za0CNxIYvQO47m)
+
+---
+
+### 豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+火山引擎重构多模态传输底座，助力豆包视频通话升级，引领Agent时代新变革。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM)
 
 ---
 
