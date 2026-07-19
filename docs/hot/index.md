@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月18日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月19日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月18
+## 2026年07月19
+
+### Kimi: Threat or menace?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Kimi：是威胁还是隐患？TechCrunch深入探讨了这款AI技术潜在的风险与挑战。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
+
+---
+
+### Neil Rimer thinks the AI money is coming back out
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI投资热潮或将卷土重来，Neil Rimer预测AI资金将重新流入市场。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
+
+---
 
 ### Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Vertu推出AI代理，要求高管支付6880美元，实际表现如何？TechCrunch报道，该代理功能强大，但价格昂贵。
+Vertu推出6880美元AI助理，实际表现如何？TechCrunch报道，该AI助手功能强大，但价格昂贵。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
 
@@ -30,7 +50,7 @@ Vertu推出AI代理，要求高管支付6880美元，实际表现如何？TechCr
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Databricks估值达1880亿美元，继续领跑AI领域第二股。
+Databricks估值达1880亿美元，延续AI领域第二大成功企业地位。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
 
@@ -40,59 +60,39 @@ Databricks估值达1880亿美元，继续领跑AI领域第二股。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch报道，Zoom遭黑客入侵，可关闭“不要录制我”功能，影响用户隐私。
+TechCrunch报道，一款名为“Don’t record me”的Zoom黑客工具可阻止他人录制会议，引发安全担忧。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
 
 ---
 
-### Agility Robotics plants its flag in Tesla’s backyard
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Agility Robotics在特斯拉总部附近设立新基地，拓展机器人业务。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
-
----
-
-### AI-driven memory crunch jolts India’s smartphone market
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI驱动内存短缺冲击印度智能手机市场，影响供应链及消费者购买意愿。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)
-
----
-
-### 为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳
+### 边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨AI Agent推理难题，聚焦可观测对象图语义层设计与开源实践，探索数据到推理的桥梁。
+安谋科技针对边端AI算力不足问题，将重构CPU、NPU、VPU及AI操作系统。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE)
-
----
-
-### AI 智能体算力消耗过快，传统账单风控跟不上速度
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI智能体算力消耗过快，传统账单风控技术难以适应，导致风控效率低下。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/secM60Za0CNxIYvQO47m)
+**来源：** [InfoQ](https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6)
 
 ---
 
-### 豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座
+### WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-火山引擎重构多模态传输底座，助力豆包视频通话升级，引领Agent时代新变革。
+阡视科技在WAIC 2026发布超节点系统，专为Token工厂设计，提升区块链处理效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM)
+**来源：** [InfoQ](https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61)
+
+---
+
+### 三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+云天励飞发布未来算力蓝图，推出三款AI推理芯片及超节点异构集群，旨在提升AI处理能力。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f)
 
 ---
 
