@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月19日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月20日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月19
+## 2026年07月20
+
+### What to watch for after Jensen Huang’s Japan visit
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+黄仁勋访日引关注，聚焦NVIDIA未来布局及中日合作。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/)
+
+---
+
+### Can an Apple lawsuit derail OpenAI’s hardware plans?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果诉讼可能影响OpenAI硬件计划，科技行业关注其走向。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)
+
+---
+
+### ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+《奥德赛》导演克里斯托弗·诺兰认为AI是明显的“特洛伊木马”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/)
+
+---
+
+### Nonprofit Current AI is racing to build the World Wide Web of AI, free for all
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nonprofit Current AI致力于构建免费开放的AI世界网，推动AI技术普及。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/)
+
+---
 
 ### Kimi: Threat or menace?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Kimi：是威胁还是隐患？TechCrunch深入探讨了这款AI技术潜在的风险与挑战。
+Kimi被指威胁或威胁，TechCrunch报道其技术引发行业关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
 
 ---
 
-### Neil Rimer thinks the AI money is coming back out
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI投资热潮或将卷土重来，Neil Rimer预测AI资金将重新流入市场。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
-
----
-
-### Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Vertu推出6880美元AI助理，实际表现如何？TechCrunch报道，该AI助手功能强大，但价格昂贵。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
-
----
-
-### Databricks hits $188B valuation, extending its run as AI’s favorite second act
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Databricks估值达1880亿美元，延续AI领域第二大成功企业地位。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
-
----
-
-### The Zoom hack that says, ‘Don’t record me’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道，一款名为“Don’t record me”的Zoom黑客工具可阻止他人录制会议，引发安全担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
-
----
-
-### 边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统
+### Grab构建安全的智能体AI工作负载平台
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-安谋科技针对边端AI算力不足问题，将重构CPU、NPU、VPU及AI操作系统。
+Grab推出智能体AI工作负载平台，强化安全性能，助力企业高效构建智能解决方案。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6)
-
----
-
-### WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-阡视科技在WAIC 2026发布超节点系统，专为Token工厂设计，提升区块链处理效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61)
+**来源：** [InfoQ](https://www.infoq.cn/article/yQb5j83sxQhXB1EDJrS1)
 
 ---
 
-### 三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图
+### Agent 会执行，但谁来帮它记住过去？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-云天励飞发布未来算力蓝图，推出三款AI推理芯片及超节点异构集群，旨在提升AI处理能力。
+AI代理执行任务时需记忆过去，但如何有效存储和利用历史数据成为难题。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f)
+**来源：** [InfoQ](https://www.infoq.cn/article/p0QuXLlwDxeg3Td9l67t)
+
+---
+
+### 为敏感的云系统设计连续授权
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+为应对敏感云系统安全挑战，研究人员提出连续授权设计，以提升系统访问控制和动态授权能力。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/1KqNGCc9UamMzojQYs9h)
 
 ---
 
