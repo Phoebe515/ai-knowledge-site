@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月20日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月21日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月20
+## 2026年07月21
 
-### What to watch for after Jensen Huang’s Japan visit
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-黄仁勋访日引关注，聚焦NVIDIA未来布局及中日合作。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/)
-
----
-
-### Can an Apple lawsuit derail OpenAI’s hardware plans?
+### Anthropic’s landmark $1.5B copyright settlement is approved
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果诉讼可能影响OpenAI硬件计划，科技行业关注其走向。
+Anthropic与版权方达成15亿美元和解协议，获法院批准。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/)
 
 ---
 
-### ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’
+### Trump’s latest AI czar has already resigned
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-《奥德赛》导演克里斯托弗·诺兰认为AI是明显的“特洛伊木马”。
+特朗普最新任命的AI总监已辞职，具体原因未知。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/)
 
 ---
 
-### Nonprofit Current AI is racing to build the World Wide Web of AI, free for all
+### Google is working on a new AI chip designed to make Gemini more efficient
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nonprofit Current AI致力于构建免费开放的AI世界网，推动AI技术普及。
+谷歌正在研发一款新AI芯片，旨在提升Gemini效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)
 
 ---
 
-### Kimi: Threat or menace?
+### AI’s most important protocol is getting a little bit easier to use
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Kimi被指威胁或威胁，TechCrunch报道其技术引发行业关注。
+AI核心协议使用门槛降低，TechCrunch报道，最新更新让操作更便捷。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/)
 
 ---
 
-### Grab构建安全的智能体AI工作负载平台
+### X relaunches a rebuilt Android app after year-long effort
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+X公司经过一年努力，全新推出重构的Android应用。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/)
+
+---
+
+### Java 近期新闻：TornadoVM 5、JHipster、Google ADK、OmniFish Build of Payara、Vidocq 发布
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Grab推出智能体AI工作负载平台，强化安全性能，助力企业高效构建智能解决方案。
+近期Java领域动态：TornadoVM 5发布，JHipster、Google ADK更新，OmniFish Build of Payara发布，Vidocq发布。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/yQb5j83sxQhXB1EDJrS1)
-
----
-
-### Agent 会执行，但谁来帮它记住过去？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI代理执行任务时需记忆过去，但如何有效存储和利用历史数据成为难题。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/p0QuXLlwDxeg3Td9l67t)
+**来源：** [InfoQ](https://www.infoq.cn/article/pwI9ti1vx0uPcSZRg9zL)
 
 ---
 
-### 为敏感的云系统设计连续授权
+### 业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-为应对敏感云系统安全挑战，研究人员提出连续授权设计，以提升系统访问控制和动态授权能力。
+Loop Engineering在AICon深圳分享基于事前-事中-事后架构的业务研发实践，探讨提升研发效率与质量的方法。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/1KqNGCc9UamMzojQYs9h)
+**来源：** [InfoQ](https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK)
+
+---
+
+### OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+OpenAI 利用崩溃调试技术修复了GNU libunwind存在18年的漏洞，为流行病学研究提供支持。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W)
 
 ---
 
