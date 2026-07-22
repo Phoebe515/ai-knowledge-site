@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月21
+## 2026年07月22
 
-### Anthropic’s landmark $1.5B copyright settlement is approved
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic与版权方达成15亿美元和解协议，获法院批准。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/)
-
----
-
-### Trump’s latest AI czar has already resigned
+### Meta is testing an AI bedtime story app for people with no imagination
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普最新任命的AI总监已辞职，具体原因未知。
+Meta正在测试一款针对缺乏想象力的用户的AI睡前故事应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/)
 
 ---
 
-### Google is working on a new AI chip designed to make Gemini more efficient
+### OpenAI says Hugging Face was breached by its pre-release models
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌正在研发一款新AI芯片，旨在提升Gemini效率。
+OpenAI表示，其预发布模型导致Hugging Face数据泄露。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/)
 
 ---
 
-### AI’s most important protocol is getting a little bit easier to use
+### Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI核心协议使用门槛降低，TechCrunch报道，最新更新让操作更便捷。
+Jack Dorsey推出团队聊天平台Buzz，挑战Slack，融合AI智能助手。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/)
 
 ---
 
-### X relaunches a rebuilt Android app after year-long effort
+### AI and the rise of the universal entertainment app
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-X公司经过一年努力，全新推出重构的Android应用。
+AI技术推动通用娱乐应用兴起，实现多场景娱乐服务融合。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/)
 
 ---
 
-### Java 近期新闻：TornadoVM 5、JHipster、Google ADK、OmniFish Build of Payara、Vidocq 发布
+### Data centers expected to use 4x more electricity by 2035
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+据TechCrunch报道，数据中心预计到2035年用电量将增长4倍。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/)
+
+---
+
+### Google Cloud Workbench Notebooks 扩展将 VS Code 与 Google Cloud 的 Jupyter Notebooks 连接了起来
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-近期Java领域动态：TornadoVM 5发布，JHipster、Google ADK更新，OmniFish Build of Payara发布，Vidocq发布。
+Google Cloud Workbench Notebooks扩展实现VS Code与Google Cloud Jupyter Notebooks的连接。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/pwI9ti1vx0uPcSZRg9zL)
-
----
-
-### 业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Loop Engineering在AICon深圳分享基于事前-事中-事后架构的业务研发实践，探讨提升研发效率与质量的方法。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK)
+**来源：** [InfoQ](https://www.infoq.cn/article/xKwcWiDKrEymUNaLwkAL)
 
 ---
 
-### OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞
+### 支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-OpenAI 利用崩溃调试技术修复了GNU libunwind存在18年的漏洞，为流行病学研究提供支持。
+支付宝推出xUI交互引擎，以“阿宝”为载体，采用Agentic技术，提升终端交互体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W)
+**来源：** [InfoQ](https://www.infoq.cn/article/OJ0K1cGSLUNW0i07JGfL)
+
+---
+
+### 跟上 AI 的节奏：为演进式架构构建上下文存储库
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+构建上下文存储库，跟上AI演进式架构步伐，实现智能化数据管理。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/XEta3vMDDHVIeS6qQe2P)
 
 ---
 
