@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月22
+## 2026年07月23
 
-### Meta is testing an AI bedtime story app for people with no imagination
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta正在测试一款针对缺乏想象力的用户的AI睡前故事应用。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/)
-
----
-
-### OpenAI says Hugging Face was breached by its pre-release models
+### After shocking quarter, IBM insists that AI isn’t killing the mainframe
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI表示，其预发布模型导致Hugging Face数据泄露。
+IBM在经历惊人季度后坚称，人工智能不会淘汰主机。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/)
 
 ---
 
-### Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents
+### Google justifies its massive AI spending with a booming cloud business
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Jack Dorsey推出团队聊天平台Buzz，挑战Slack，融合AI智能助手。
+谷歌以云业务繁荣为由，为其巨额AI投资正名。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/)
 
 ---
 
-### AI and the rise of the universal entertainment app
+### Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI技术推动通用娱乐应用兴起，实现多场景娱乐服务融合。
+美国财政部威胁对Moonshot实施制裁，因其涉嫌使用Anthropic的Fable技术。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/)
 
 ---
 
-### Data centers expected to use 4x more electricity by 2035
+### How OpenAI’s human mistake led to the AI-powered hack on Hugging Face
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch报道，数据中心预计到2035年用电量将增长4倍。
+OpenAI内部错误导致AI模型被用于Hugging Face平台，引发黑客攻击。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/)
 
 ---
 
-### Google Cloud Workbench Notebooks 扩展将 VS Code 与 Google Cloud 的 Jupyter Notebooks 连接了起来
+### Travis Kalanick’s robotics company raises $1.7B, led by a16z
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特拉维斯·卡兰尼克的机器人公司获得1.7亿美元融资，由a16z领投。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
+
+---
+
+### 从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Google Cloud Workbench Notebooks扩展实现VS Code与Google Cloud Jupyter Notebooks的连接。
+AICon深圳探讨系统与AI融合，应用智能化跃迁，从鸿蒙到AI Native，引领技术革新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xKwcWiDKrEymUNaLwkAL)
-
----
-
-### 支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-支付宝推出xUI交互引擎，以“阿宝”为载体，采用Agentic技术，提升终端交互体验。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/OJ0K1cGSLUNW0i07JGfL)
+**来源：** [InfoQ](https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24)
 
 ---
 
-### 跟上 AI 的节奏：为演进式架构构建上下文存储库
+### 从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-构建上下文存储库，跟上AI演进式架构步伐，实现智能化数据管理。
+Snowflake营销AI委员会从全球化组织转型为AI-Native团队，通过技术实践提升营销效果。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/XEta3vMDDHVIeS6qQe2P)
+**来源：** [InfoQ](https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV)
+
+---
+
+### 谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+谷歌联合多家企业发布Agentic Resource Discovery规范，旨在为AI Agent建立统一资源发现机制，推动AI技术发展。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R)
 
 ---
 
