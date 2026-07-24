@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月23
+## 2026年07月24
 
-### After shocking quarter, IBM insists that AI isn’t killing the mainframe
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-IBM在经历惊人季度后坚称，人工智能不会淘汰主机。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/)
-
----
-
-### Google justifies its massive AI spending with a booming cloud business
+### How AI guardrails are impeding the work of offensive cybersecurity researchers
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌以云业务繁荣为由，为其巨额AI投资正名。
+AI安全护栏正阻碍网络安全研究员进行攻击性研究，影响安全领域发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)
 
 ---
 
-### Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable
+### AMD takes on Nvidia with its Helios AI rack-scale system
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国财政部威胁对Moonshot实施制裁，因其涉嫌使用Anthropic的Fable技术。
+AMD推出Helios AI rack-scale系统，挑战Nvidia在AI领域的地位。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)
 
 ---
 
-### How OpenAI’s human mistake led to the AI-powered hack on Hugging Face
+### Anthropic updates Claude voice mode with more capable models
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI内部错误导致AI模型被用于Hugging Face平台，引发黑客攻击。
+Anthropic更新Claude语音模式，搭载更强大的模型，提升语音交互体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/)
 
 ---
 
-### Travis Kalanick’s robotics company raises $1.7B, led by a16z
+### AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特拉维斯·卡兰尼克的机器人公司获得1.7亿美元融资，由a16z领投。
+AegisAI获3600万美元融资，由前谷歌安全高管创立，致力于防止AI驱动的鱼叉式网络钓鱼攻击。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/)
 
 ---
 
-### 从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳
+### Runway launches AI model router as generative media gets crowded
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Runway推出AI模型路由器，应对生成式媒体竞争加剧。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/)
+
+---
+
+### 圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨系统与AI融合，应用智能化跃迁，从鸿蒙到AI Native，引领技术革新。
+圆桌访谈探讨具身智能商业闭环落地，聚焦哪些应用场景成功实现商业化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24)
-
----
-
-### 从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake营销AI委员会从全球化组织转型为AI-Native团队，通过技术实践提升营销效果。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV)
+**来源：** [InfoQ](https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q)
 
 ---
 
-### 谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制
+### 你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌联合多家企业发布Agentic Resource Discovery规范，旨在为AI Agent建立统一资源发现机制，推动AI技术发展。
+InfoQ推出AI数据准备框架，助您评估数据是否适合AI应用。框架涵盖数据质量、特征工程等关键要素，助力企业快速进入AI时代。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R)
+**来源：** [InfoQ](https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE)
+
+---
+
+### Agentic 浪潮袭来的当下，我们更需要追问：当 Agent 成为系统的“第一用户”，传统的数据库架构真的准备好了吗？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Agentic 浪潮下，Agent 成系统“第一用户”，对传统数据库架构提出挑战。探讨其准备情况，成为行业关注焦点。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/AwphwhFcWrhs76k5RWhy)
 
 ---
 
