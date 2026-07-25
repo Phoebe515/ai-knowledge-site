@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月24
+## 2026年07月25
 
-### How AI guardrails are impeding the work of offensive cybersecurity researchers
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI安全护栏正阻碍网络安全研究员进行攻击性研究，影响安全领域发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)
-
----
-
-### AMD takes on Nvidia with its Helios AI rack-scale system
+### I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AMD推出Helios AI rack-scale系统，挑战Nvidia在AI领域的地位。
+OpenAI发布新AI键盘，对部分程序员来说有趣，但对其他人来说则略显神秘。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
 
 ---
 
-### Anthropic updates Claude voice mode with more capable models
+### Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic更新Claude语音模式，搭载更强大的模型，提升语音交互体验。
+Prentis AI实验室，由Reid Hoffman和Mark Pincus共同创立，正洽谈融资1亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
 
 ---
 
-### AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
+### Why Cognition bought Poke: AI personality is becoming a competitive advantage
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AegisAI获3600万美元融资，由前谷歌安全高管创立，致力于防止AI驱动的鱼叉式网络钓鱼攻击。
+Why Cognition收购Poke，AI个性成为竞争优势。TechCrunch报道，认知科技公司通过收购Poke，强化其AI个性化服务，以应对市场竞争。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
 
 ---
 
-### Runway launches AI model router as generative media gets crowded
+### Anthropic launches Opus 5
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Runway推出AI模型路由器，应对生成式媒体竞争加剧。
+Anthropic发布大型语言模型Opus 5，进一步拓展AI领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/)
 
 ---
 
-### 圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？
+### As US weighs response to Chinese AI, industry urges against broad open-weight restrictions
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国考虑对华AI回应时，业界呼吁避免广泛开放重量限制。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/)
+
+---
+
+### 以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-圆桌访谈探讨具身智能商业闭环落地，聚焦哪些应用场景成功实现商业化。
+AICon深圳探讨以AI对抗AI，构建越用越强的Agent Runtime安全防线，提升智能系统安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q)
-
----
-
-### 你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-InfoQ推出AI数据准备框架，助您评估数据是否适合AI应用。框架涵盖数据质量、特征工程等关键要素，助力企业快速进入AI时代。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE)
+**来源：** [InfoQ](https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4)
 
 ---
 
-### Agentic 浪潮袭来的当下，我们更需要追问：当 Agent 成为系统的“第一用户”，传统的数据库架构真的准备好了吗？
+### GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Agentic 浪潮下，Agent 成系统“第一用户”，对传统数据库架构提出挑战。探讨其准备情况，成为行业关注焦点。
+GitHub Issues进行重大升级，引入缓存和预取技术，大幅提升页面加载速度。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/AwphwhFcWrhs76k5RWhy)
+**来源：** [InfoQ](https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5)
+
+---
+
+### 圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+在InfoQ圆桌访谈中，探讨AI创作门槛降低，引发对稀缺资源的思考。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ)
 
 ---
 
