@@ -9,40 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月24日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月25日 09:00</span>
 </div>
 
 ---
 
-## 2026年07月24
+## 2026年07月25
 
-### Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics
+### TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between 
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Mobileye CEO Amnon Shashua将离职，公司加大在自动驾驶出租车和机器人领域的投入，聚焦数据AI技术发展。
+TechCrunch Disrupt 2026新设Smart Money Stage，聚焦金融科技、支付、AI等前沿领域，深入探讨数据AI在金融领域的应用与创新。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/)
 
 ---
 
-### AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors 
+### India’s move against Jack Dorsey’s Bitchat sparks legal debate
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI芯片初创公司Etched获得知名投资者青睐，估值达103亿美元。
+印度对杰克·多西的Bitchat采取行动引发法律争议，涉及数据AI领域监管政策。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/)
 
 ---
 
-### Google’s Gemini nears billion-user milestone
+### Sam Altman’s biometric startup World raises $52.5M via crypto sale
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌Gemini用户数接近10亿，AI工具受欢迎程度持续增长。
+Sam Altman的生物识别公司World通过加密货币融资，筹集5250万美元，涉足数据AI领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/)
+
+---
+
+### 深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI Agent 真正落地，GPU 原生认知数据库成关键，提升AI处理效率和智能水平。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP)
 
 ---
 
@@ -50,9 +60,19 @@ AI芯片初创公司Etched获得知名投资者青睐，估值达103亿美元。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Agentic 时代，数据库定义将面临新挑战。InfoQ 精彩预告，探讨数据AI如何重新定义数据库。
+Agentic时代，数据库定义面临新挑战。InfoQ聚焦数据AI领域，探讨未来数据库发展方向。
 
 **来源：** [InfoQ](https://www.infoq.cn/video/AwphwhFcWrhs76k5RWhy)
+
+---
+
+### The quest to keep organs alive outside the body
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+MIT Tech Review报道，研究人员利用数据AI技术探索在体外维持器官活力，以解决器官移植难题。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/)
 
 ---
 
@@ -60,19 +80,9 @@ Agentic 时代，数据库定义将面临新挑战。InfoQ 精彩预告，探讨
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，猪成功移植超冷却肾脏，标志着器官移植领域的突破。该技术利用数据AI优化冷冻过程，为人类肾脏移植提供新方向。
+在MIT Tech Review报道中，研究人员成功将超冷却肾脏移植到猪体内，标志着器官移植领域的突破。该研究利用数据AI技术优化了器官保存与移植流程。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/)
-
----
-
-### The Download: AI hiring biases, and weather data sabotage
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，AI招聘存在偏见，且天气数据遭破坏，影响AI应用准确性。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/)
 
 ---
 
