@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月25日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月26日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月25
+## 2026年07月26
+
+### Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Monday.com等20家科技公司归咎AI导致裁员，AI引发职场变革引发关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+
+---
+
+### Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+图书馆员举办“避免AI”研讨会，为不满科技巨头的人士提供解决方案。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
+
+---
+
+### One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+电力线故障暴露AI数据中心数据安全问题，专家提出解决方案。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
+
+---
 
 ### I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布新AI键盘，对部分程序员来说有趣，但对其他人来说则略显神秘。
+OpenAI推出新AI键盘，对程序员来说有趣，但对其他人来说可能有些神秘。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
 
@@ -36,33 +66,13 @@ Prentis AI实验室，由Reid Hoffman和Mark Pincus共同创立，正洽谈融�
 
 ---
 
-### Why Cognition bought Poke: AI personality is becoming a competitive advantage
+### Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Why Cognition收购Poke，AI个性成为竞争优势。TechCrunch报道，认知科技公司通过收购Poke，强化其AI个性化服务，以应对市场竞争。
+Zilliz在AICon深圳分享，利用AI Agent实现超线性业务扩张，Agentic-Native增长模式助力企业智能化转型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
-
----
-
-### Anthropic launches Opus 5
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic发布大型语言模型Opus 5，进一步拓展AI领域。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/)
-
----
-
-### As US weighs response to Chinese AI, industry urges against broad open-weight restrictions
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国考虑对华AI回应时，业界呼吁避免广泛开放重量限制。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/)
+**来源：** [InfoQ](https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA)
 
 ---
 
@@ -70,7 +80,7 @@ Anthropic发布大型语言模型Opus 5，进一步拓展AI领域。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨以AI对抗AI，构建越用越强的Agent Runtime安全防线，提升智能系统安全性。
+AICon深圳探讨以AI对抗AI，构建越用越强的Agent Runtime安全防线，提升人工智能系统安全性。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4)
 
@@ -80,19 +90,9 @@ AICon深圳探讨以AI对抗AI，构建越用越强的Agent Runtime安全防线�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub Issues进行重大升级，引入缓存和预取技术，大幅提升页面加载速度。
+GitHub Issues进行优化，引入缓存和预取技术，页面加载速度提升数倍。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5)
-
----
-
-### 圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在InfoQ圆桌访谈中，探讨AI创作门槛降低，引发对稀缺资源的思考。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ)
 
 ---
 
