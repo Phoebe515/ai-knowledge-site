@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月26日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月27日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月26
+## 2026年07月27
+
+### Are brain waves the next unlock for physical AI?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+脑电波可能成为物理AI的解锁新途径，TechCrunch报道，这一技术有望提升人机交互体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
+
+---
+
+### Making sense of the panic over Chinese AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+科技媒体TechCrunch分析中国AI引发恐慌，指出需理性看待AI发展带来的机遇与挑战。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
+
+---
+
+### Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Hugging Face CEO呼吁“彻底透明”，回应OpenAI“前所未有的”黑客攻击。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
+
+---
 
 ### Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Monday.com等20家科技公司归咎AI导致裁员，AI引发职场变革引发关注。
+Monday.com等20家科技公司将裁员归咎于AI发展，TechCrunch报道。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 
@@ -30,69 +60,39 @@ Monday.com等20家科技公司归咎AI导致裁员，AI引发职场变革引发�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-图书馆员举办“避免AI”研讨会，为不满科技巨头的人士提供解决方案。
+图书管理员举办“避免AI”研讨会，助力大众对抗大型科技公司。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
 
 ---
 
-### One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-电力线故障暴露AI数据中心数据安全问题，专家提出解决方案。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
-
----
-
-### I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI推出新AI键盘，对程序员来说有趣，但对其他人来说可能有些神秘。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
-
----
-
-### Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Prentis AI实验室，由Reid Hoffman和Mark Pincus共同创立，正洽谈融资1亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
-
----
-
-### Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳
+### 支持版本控制的 SQL 数据库 Dolt 发布 2.0 版，新增自动存储清理和压缩功能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Zilliz在AICon深圳分享，利用AI Agent实现超线性业务扩张，Agentic-Native增长模式助力企业智能化转型。
+Dolt 2.0 版本发布，新增自动存储清理和压缩功能，支持版本控制的 SQL 数据库性能提升。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA)
-
----
-
-### 以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AICon深圳探讨以AI对抗AI，构建越用越强的Agent Runtime安全防线，提升人工智能系统安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4)
+**来源：** [InfoQ](https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt)
 
 ---
 
-### GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍
+### Snowflake CoCo 中的 Loop Engineering ｜ 技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub Issues进行优化，引入缓存和预取技术，页面加载速度提升数倍。
+Snowflake CoCo推出Loop Engineering技术实践，提升数据库性能和稳定性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5)
+**来源：** [InfoQ](https://www.infoq.cn/article/APthBQXkUJjM3BkaXZCy)
+
+---
+
+### 全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+全球首款2nm GPU发布，引发业界热议，OpenAI、Meta、微软集体站台，AMD有望挑战英伟达市场地位。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq)
 
 ---
 
