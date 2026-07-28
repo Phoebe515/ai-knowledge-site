@@ -9,50 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月27日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月28日 09:00</span>
 </div>
 
 ---
 
-## 2026年07月27
+## 2026年07月28
 
-### TechCrunch Mobility: Uber bets on its former CEO
+### Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Uber重拾前CEO，押注于数据AI战略，力图重振业务。
+亚马逊推出新卫星网络，旨在为手机提供服务，或将对SpaceX构成挑战，数据AI技术或推动通信卫星领域发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/)
 
 ---
 
-### Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
+### Enigma raises $71M to make controlling a robot as easy as adjusting the volume
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch报道，Elon Musk的Boring Company融资估值达200亿美元，资金将用于隧道建设及AI技术研发。
+Enigma获7100万美元融资，致力于让操控机器人变得像调整音量一样简单，涉及数据AI技术。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
-
----
-
-### Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-图书馆员举办“避免AI”研讨会，针对对大型科技公司不满的人群，倡导数据AI领域的反思与选择。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
-
----
-
-### TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between 
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026的Smart Money Stage聚焦金融科技、支付、AI等领域，探讨数据AI在金融领域的应用和创新。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)
 
 ---
 
@@ -60,19 +40,9 @@ TechCrunch Disrupt 2026的Smart Money Stage聚焦金融科技、支付、AI等�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Dolt 2.0版发布，支持版本控制的SQL数据库新增自动存储清理和压缩功能，提升数据AI处理效率。
+支持版本控制的 SQL 数据库 Dolt 2.0 版发布，新增自动存储清理和压缩功能，优化数据管理效率，助力数据AI应用。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt)
-
----
-
-### 深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI Agent落地需GPU原生认知数据库，以提升数据处理和认知能力，实现高效智能交互。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP)
 
 ---
 
@@ -80,7 +50,7 @@ AI Agent落地需GPU原生认知数据库，以提升数据处理和认知能力
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-麻省理工科技评论报道，研究人员利用数据AI技术，探索体外维持器官活力新方法，以降低器官移植风险。
+MIT Tech Review报道，研究人员利用数据AI技术探索在体外维持器官存活的新方法，以提升器官移植成功率。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/)
 
@@ -90,7 +60,7 @@ AI Agent落地需GPU原生认知数据库，以提升数据处理和认知能力
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，猪成功移植超冷却肾脏，为器官移植研究开辟新路径，数据AI技术助力精准匹配。
+MIT Tech Review报道，科学家成功将超冷却肾脏移植至猪体内，标志着器官移植领域一大突破，数据AI技术助力精准匹配。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/)
 
