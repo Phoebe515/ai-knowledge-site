@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月27
+## 2026年07月28
 
-### Are brain waves the next unlock for physical AI?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-脑电波可能成为物理AI的解锁新途径，TechCrunch报道，这一技术有望提升人机交互体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
-
----
-
-### Making sense of the panic over Chinese AI
+### Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技媒体TechCrunch分析中国AI引发恐慌，指出需理性看待AI发展带来的机遇与挑战。
+Anthropic首席执行官Dario Amodei回应，不反对开放权重模型，但对中国AI发展表示担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
 
 ---
 
-### Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
+### Satya Nadella says companies that trust one AI for everything may not survive
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Hugging Face CEO呼吁“彻底透明”，回应OpenAI“前所未有的”黑客攻击。
+微软CEO萨提亚·纳德拉警告，过度依赖单一AI技术的公司可能无法生存。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
 
 ---
 
-### Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+### PSA: Your Claude shared chats and Artifacts may have ended up on Google
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Monday.com等20家科技公司将裁员归咎于AI发展，TechCrunch报道。
+PSA： Claude共享聊天记录与作品可能已出现在谷歌。用户应关注个人隐私保护。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
 
 ---
 
-### Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
+### Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-图书管理员举办“避免AI”研讨会，助力大众对抗大型科技公司。
+微软发布首个网络安全模型，同时推出全新智能网络安全系统。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/)
 
 ---
 
-### 支持版本控制的 SQL 数据库 Dolt 发布 2.0 版，新增自动存储清理和压缩功能
+### OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI的Hugging Face数据泄露引发关于AI对齐与控制的讨论，凸显安全与伦理挑战。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)
+
+---
+
+### 1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Dolt 2.0 版本发布，新增自动存储清理和压缩功能，支持版本控制的 SQL 数据库性能提升。
+Agent Infra 负责人对话 InfoQ，分享心声、复盘、规划与思考，探讨人工智能发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt)
-
----
-
-### Snowflake CoCo 中的 Loop Engineering ｜ 技术实践
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake CoCo推出Loop Engineering技术实践，提升数据库性能和稳定性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/APthBQXkUJjM3BkaXZCy)
+**来源：** [InfoQ](https://www.infoq.cn/video/Cpw9ye57OyQNHSKpem7T)
 
 ---
 
-### 全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？
+### 从超级顾问到 Agent 蜂群：AI Native 人才服务组织的共生进化｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-全球首款2nm GPU发布，引发业界热议，OpenAI、Meta、微软集体站台，AMD有望挑战英伟达市场地位。
+AICon深圳探讨AI Native人才服务组织共生进化，从超级顾问到Agent蜂群，推动行业变革。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq)
+**来源：** [InfoQ](https://www.infoq.cn/article/2YUiVa3OsKab7LQ36LS9)
+
+---
+
+### 多区域架构中的权衡：延迟与成本
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+多区域架构在延迟与成本之间需权衡。本文深入探讨如何优化架构设计，以实现最佳性能和成本效益。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl)
 
 ---
 
