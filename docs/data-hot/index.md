@@ -9,40 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月28日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月29日 09:00</span>
 </div>
 
 ---
 
-## 2026年07月28
+## 2026年07月29
 
-### Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-亚马逊推出新卫星网络，旨在为手机提供服务，或将对SpaceX构成挑战，数据AI技术或推动通信卫星领域发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/)
-
----
-
-### Enigma raises $71M to make controlling a robot as easy as adjusting the volume
+### The robot NASA hired to lift a orbital telescope tumbled out of control
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Enigma获7100万美元融资，致力于让操控机器人变得像调整音量一样简单，涉及数据AI技术。
+NASA雇佣的用于提升轨道望远镜的机器人失控翻滚，引发数据AI领域关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)
-
----
-
-### 支持版本控制的 SQL 数据库 Dolt 发布 2.0 版，新增自动存储清理和压缩功能
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-支持版本控制的 SQL 数据库 Dolt 2.0 版发布，新增自动存储清理和压缩功能，优化数据管理效率，助力数据AI应用。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/)
 
 ---
 
@@ -50,19 +30,9 @@ Enigma获7100万美元融资，致力于让操控机器人变得像调整音量�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，研究人员利用数据AI技术探索在体外维持器官存活的新方法，以提升器官移植成功率。
+麻省理工学院研究团队利用数据AI技术，探索在体外保持器官活力，为器官移植提供新途径。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/)
-
----
-
-### Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，科学家成功将超冷却肾脏移植至猪体内，标志着器官移植领域一大突破，数据AI技术助力精准匹配。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/)
 
 ---
 
