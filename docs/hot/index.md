@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月28
+## 2026年07月29
 
-### Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic首席执行官Dario Amodei回应，不反对开放权重模型，但对中国AI发展表示担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
-
----
-
-### Satya Nadella says companies that trust one AI for everything may not survive
+### Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO萨提亚·纳德拉警告，过度依赖单一AI技术的公司可能无法生存。
+Cyera同意以10亿美元收购Oasis Security，以加强AI代理的安全防护。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/)
 
 ---
 
-### PSA: Your Claude shared chats and Artifacts may have ended up on Google
+### Bot-detection startup Spur nabs $200M from Insight
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-PSA： Claude共享聊天记录与作品可能已出现在谷歌。用户应关注个人隐私保护。
+Spur，一家Bot检测初创公司，获得 Insight 领投的2亿美元融资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/)
 
 ---
 
-### Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system
+### MCP startup Runlayer accuses Rippling of stealing its product idea
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软发布首个网络安全模型，同时推出全新智能网络安全系统。
+MCP初创公司Runlayer指控Rippling窃取其产品创意。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/)
 
 ---
 
-### OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+### Sam Altman is ready to decelerate
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI的Hugging Face数据泄露引发关于AI对齐与控制的讨论，凸显安全与伦理挑战。
+OpenAI首席执行官Sam Altman表示将放慢公司发展速度，以实现可持续发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/)
 
 ---
 
-### 1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考
+### Data centers may face temporary power cuts to prevent blackouts on largest US grid
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国最大电网可能为防止停电对数据中心实施临时限电。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/)
+
+---
+
+### “企业搞AI，老板要先用”！周鸿祎发布纳米Work，率先帮1000家小企业AI落地
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Agent Infra 负责人对话 InfoQ，分享心声、复盘、规划与思考，探讨人工智能发展。
+周鸿祎发布纳米Work，助千家小企业AI落地，强调企业AI应用需老板先行。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/Cpw9ye57OyQNHSKpem7T)
-
----
-
-### 从超级顾问到 Agent 蜂群：AI Native 人才服务组织的共生进化｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AICon深圳探讨AI Native人才服务组织共生进化，从超级顾问到Agent蜂群，推动行业变革。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/2YUiVa3OsKab7LQ36LS9)
+**来源：** [InfoQ](https://www.infoq.cn/article/Ey2MtxSL1FaYWesfqLGE)
 
 ---
 
-### 多区域架构中的权衡：延迟与成本
+### OpenSandbox：重新思考 Agent 时代的 Runtime
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-多区域架构在延迟与成本之间需权衡。本文深入探讨如何优化架构设计，以实现最佳性能和成本效益。
+OpenSandbox推出创新技术，重新定义Agent时代Runtime，推动AI领域发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl)
+**来源：** [InfoQ](https://www.infoq.cn/article/ZTpvXKGjyzpNUaS9Gp3b)
+
+---
+
+### 模型越来越强之后，Infra 将被 AI 接管？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+随着AI模型能力提升，Infra领域或将迎来AI接管变革。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/wJRP0eEsTxoCxgatkDms)
 
 ---
 
