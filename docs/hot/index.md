@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月29
+## 2026年07月30
 
-### Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Cyera同意以10亿美元收购Oasis Security，以加强AI代理的安全防护。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/)
-
----
-
-### Bot-detection startup Spur nabs $200M from Insight
+### Microsoft is openly competing with OpenAI, Anthropic more than ever
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Spur，一家Bot检测初创公司，获得 Insight 领投的2亿美元融资。
+微软正与OpenAI、Anthropic等在人工智能领域展开更激烈的竞争。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
 
 ---
 
-### MCP startup Runlayer accuses Rippling of stealing its product idea
+### Mark Zuckerberg predicts that billions of people will have personal AI agents in five years
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-MCP初创公司Runlayer指控Rippling窃取其产品创意。
+Facebook创始人扎克伯格预测，五年内数十亿人将拥有个人AI助手。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
 
 ---
 
-### Sam Altman is ready to decelerate
+### Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI首席执行官Sam Altman表示将放慢公司发展速度，以实现可持续发展。
+微软从Anthropic投资中获得32亿美元收益，但OpenAI表现参差不齐。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
 
 ---
 
-### Data centers may face temporary power cuts to prevent blackouts on largest US grid
+### Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国最大电网可能为防止停电对数据中心实施临时限电。
+Meta CEO扎克伯格表示，企业AI机会不仅限于代理，涵盖更广领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
 
 ---
 
-### “企业搞AI，老板要先用”！周鸿祎发布纳米Work，率先帮1000家小企业AI落地
+### Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+2026年TechCrunch Disrupt将探讨AI未来发展，涵盖SaaS市场调整与代理安全缺口等议题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
+
+---
+
+### 首个突破90%成功率的桌面操作智能体！从堆模型到拼工程，实在Agent登顶OSWorld双冠
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-周鸿祎发布纳米Work，助千家小企业AI落地，强调企业AI应用需老板先行。
+实在Agent成功登顶OSWorld双冠，突破90%成功率，标志着桌面操作智能体技术取得重大突破。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Ey2MtxSL1FaYWesfqLGE)
-
----
-
-### OpenSandbox：重新思考 Agent 时代的 Runtime
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-OpenSandbox推出创新技术，重新定义Agent时代Runtime，推动AI领域发展。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/ZTpvXKGjyzpNUaS9Gp3b)
+**来源：** [InfoQ](https://www.infoq.cn/article/4hUcQzeCeKm0wqkc4Zdc)
 
 ---
 
-### 模型越来越强之后，Infra 将被 AI 接管？
+### 情报虾：跨平台情报信息全掌握！用skills一键扫荡小红书+微博+B站
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-随着AI模型能力提升，Infra领域或将迎来AI接管变革。
+情报虾新功能发布，支持小红书、微博和B站，一键获取跨平台情报信息。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wJRP0eEsTxoCxgatkDms)
+**来源：** [InfoQ](https://www.infoq.cn/video/v1VMBH1RxmXyHvD6vo2d)
+
+---
+
+### 办公虾：秒级部署！用skills联动办公软件，效率翻倍
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+办公虾推出秒级部署功能，通过skills联动办公软件，大幅提升工作效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/s2ZOVJgO0ytfzxIAK7DB)
 
 ---
 
