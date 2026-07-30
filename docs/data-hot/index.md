@@ -9,30 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月29日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月30日 09:00</span>
 </div>
 
 ---
 
-## 2026年07月29
+## 2026年07月30
 
-### The robot NASA hired to lift a orbital telescope tumbled out of control
+### Mark Zuckerberg predicts that billions of people will have personal AI agents in five years
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-NASA雇佣的用于提升轨道望远镜的机器人失控翻滚，引发数据AI领域关注。
+Facebook创始人马克·扎克伯格预测，五年内数十亿人将拥有个人AI助手。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
 
 ---
 
-### The quest to keep organs alive outside the body
+### 深度访谈｜Agentic 时代，谁来重新定义数据库？
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-麻省理工学院研究团队利用数据AI技术，探索在体外保持器官活力，为器官移植提供新途径。
+在Agentic时代，InfoQ深度访谈探讨数据库的未来定义，专家们就数据AI在数据库领域的应用与发展展开讨论。
 
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/)
+**来源：** [InfoQ](https://www.infoq.cn/video/r4pZtYkEzaYWlFlwJXTk)
 
 ---
 
