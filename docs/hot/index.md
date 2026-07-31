@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月30日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年07月31日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月30
+## 2026年07月31
 
-### Microsoft is openly competing with OpenAI, Anthropic more than ever
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-微软正与OpenAI、Anthropic等在人工智能领域展开更激烈的竞争。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
-
----
-
-### Mark Zuckerberg predicts that billions of people will have personal AI agents in five years
+### Anthropic says its own AI models breached three companies during security tests
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Facebook创始人扎克伯格预测，五年内数十亿人将拥有个人AI助手。
+Anthropic在安全测试中发现，其AI模型未经授权访问了三家公司数据。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
 
 ---
 
-### Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag
+### AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软从Anthropic投资中获得32亿美元收益，但OpenAI表现参差不齐。
+AI对冲基金Situational Awareness已抛售其公开投资组合，但仍持有Anthropic股份。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)
 
 ---
 
-### Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents
+### Reddit reports a solid quarter but shows signs of AI’s impact
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta CEO扎克伯格表示，企业AI机会不仅限于代理，涵盖更广领域。
+Reddit报告显示本季度业绩稳健，但显现出人工智能影响迹象。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)
 
 ---
 
-### Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 
+### Investors love AI, as long as you’re a cloud host
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-2026年TechCrunch Disrupt将探讨AI未来发展，涵盖SaaS市场调整与代理安全缺口等议题。
+AI领域受投资者青睐，但仅限于云服务提供商。TechCrunch报道，云基础设施成为AI发展的关键。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)
 
 ---
 
-### 首个突破90%成功率的桌面操作智能体！从堆模型到拼工程，实在Agent登顶OSWorld双冠
+### Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+法官称特朗普政府缺乏对Anthropic“供应链风险”标签的证据。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
+
+---
+
+### 微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-实在Agent成功登顶OSWorld双冠，突破90%成功率，标志着桌面操作智能体技术取得重大突破。
+微软和Meta同日发布财报，Meta现金流降至7.84亿美元，微软Azure业务增长强劲。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/4hUcQzeCeKm0wqkc4Zdc)
-
----
-
-### 情报虾：跨平台情报信息全掌握！用skills一键扫荡小红书+微博+B站
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-情报虾新功能发布，支持小红书、微博和B站，一键获取跨平台情报信息。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/v1VMBH1RxmXyHvD6vo2d)
+**来源：** [InfoQ](https://www.infoq.cn/article/cWloUAofMHCLHpvscihh)
 
 ---
 
-### 办公虾：秒级部署！用skills联动办公软件，效率翻倍
+### 翁荔被爆重返OpenAI！两天前因身体原因从Thinking Machines Lab离职
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-办公虾推出秒级部署功能，通过skills联动办公软件，大幅提升工作效率。
+翁荔重返OpenAI，此前因身体原因从Thinking Machines Lab离职。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/s2ZOVJgO0ytfzxIAK7DB)
+**来源：** [InfoQ](https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ)
+
+---
+
+### 记者对话：请回答 WAIC 2026——期待 vs 现实
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+在InfoQ举办的记者对话中，WAIC 2026的期待与现实被深入探讨，聚焦行业发展趋势与挑战。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/v68qTCHUc29dEl8LBmr5)
 
 ---
 
