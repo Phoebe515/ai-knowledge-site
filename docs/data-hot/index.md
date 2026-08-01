@@ -9,30 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年07月31日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月01日 09:00</span>
 </div>
 
 ---
 
-## 2026年07月31
+## 2026年08月01
 
-### CareCloud begins to notify hundreds of thousands after hackers stole medical records
+### Rivian spinoff Also to start delivering e-bikes after months of delays
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-医疗健康平台CareCloud开始通知数十万用户，黑客窃取了其医疗记录，涉及数据AI领域安全问题。
+Rivian子公司Also宣布，在经历数月延迟后，将开始交付电动自行车，预计将推动数据AI在电动车领域的应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
 
 ---
 
-### Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag
+### SpaceX won’t remove all of xAI’s unpermitted turbines for another year
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-孤独AI可穿戴设备Friend更新，新增语音功能，价格大幅提升。
+SpaceX宣布将推迟一年移除xAI未获许可的风机，涉及数据AI领域设施建设。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/)
+
+---
+
+### Quick BI 数据分析智能体的可靠工程实践｜AICon深圳
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Quick BI 数据分析智能体在AICon深圳分享可靠工程实践，探讨数据AI领域的最新技术与发展趋势。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q)
+
+---
+
+### NVIDIA Vera Rubin 正式登场：从芯片卷到电网，只为压低每一个 Token 的成本
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+NVIDIA发布Vera Rubin，旨在降低Token成本，涵盖芯片到电网，强化数据AI处理效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/3gb6NlxK6c0A9or5Zfbt)
 
 ---
 
@@ -40,39 +60,19 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯云数据库DBTalk分享TencentDB Agent Memory开源之路，探讨团队记忆在共建中完善，助力数据AI领域发展。
+腾讯云数据库DBTalk发布TencentDB Agent Memory开源，旨在通过共建完善团队记忆，助力数据AI领域发展。
 
 **来源：** [InfoQ](https://www.infoq.cn/video/ylsc5EZdSya6DbkWwgdU)
 
 ---
 
-### 别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk
+### Montana’s new “right to try” law can’t come soon enough for some
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-腾讯云数据库DBTalk探讨如何通过AI Native团队资产基础设施，从研发上下文防止团队失忆，提升数据AI项目协同效率。
+蒙大拿州新“试药权”法律为某些患者带来希望，有望加速临床试验，助力数据AI在医疗领域的应用。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/YCKedQpovL6VPFGUALxZ)
-
----
-
-### 从个人记忆到团队资产：TencentDB Agent Memory 团队记忆版本解析 | 腾讯云数据库 DBTalk
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-腾讯云数据库DBTalk发布TencentDB Agent Memory团队记忆版本解析，探讨如何将个人记忆转化为团队资产，提升数据AI应用效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/1s7xwm0Y6GaN8ff5rVyO)
-
----
-
-### 告别 LEB128 的规范性陷阱，Bijou64 用结构设计解决安全问题
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Bijou64通过结构设计解决安全问题，告别LEB128规范性陷阱，为数据AI领域提供更安全的解决方案。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/bJwPR37hbb5stH238hyS)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/)
 
 ---
 
@@ -80,7 +80,7 @@ Bijou64通过结构设计解决安全问题，告别LEB128规范性陷阱，为�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州计划成为实验性医疗中心，人工智能和数据技术将在此发挥关键作用，推动医疗创新。
+蒙大拿州计划成为实验医疗中心取得进展，拟利用数据AI技术推动医疗创新。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/)
 
