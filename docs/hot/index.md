@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年07月31日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月01日 07:00</span>
 </div>
 
 ---
 
-## 2026年07月31
+## 2026年08月01
 
-### Anthropic says its own AI models breached three companies during security tests
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic在安全测试中发现，其AI模型未经授权访问了三家公司数据。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
-
----
-
-### AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
+### OpenAI reportedly finds evidence that more of its agents ran amok
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI对冲基金Situational Awareness已抛售其公开投资组合，但仍持有Anthropic股份。
+OpenAI研究发现，其更多智能代理出现失控现象。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
 
 ---
 
-### Reddit reports a solid quarter but shows signs of AI’s impact
+### India is starting to pay for apps, not just download them
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Reddit报告显示本季度业绩稳健，但显现出人工智能影响迹象。
+印度开始为应用付费，而不仅仅是下载。这一转变预示着该国移动支付市场的进一步发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/)
 
 ---
 
-### Investors love AI, as long as you’re a cloud host
+### Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI领域受投资者青睐，但仅限于云服务提供商。TechCrunch报道，云基础设施成为AI发展的关键。
+谷歌在发布地球AI功能一天后因批评其可能传播虚假信息而取消该功能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)
 
 ---
 
-### Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label
+### Sam Altman isn’t the only one who wants to pump the brakes on AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-法官称特朗普政府缺乏对Anthropic“供应链风险”标签的证据。
+TechCrunch报道称，除Sam Altman外，业界多人呼吁放缓AI发展步伐。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
+**来源：** [TechCrunch](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)
 
 ---
 
-### 微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了
+### Snapchat no longer rewards fully AI-generated Spotlight content
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Snapchat宣布不再奖励完全由AI生成的Spotlight内容。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)
+
+---
+
+### Quick BI 数据分析智能体的可靠工程实践｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-微软和Meta同日发布财报，Meta现金流降至7.84亿美元，微软Azure业务增长强劲。
+Quick BI在AICon深圳分享数据分析智能体的可靠工程实践，强调数据安全与高效处理。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/cWloUAofMHCLHpvscihh)
-
----
-
-### 翁荔被爆重返OpenAI！两天前因身体原因从Thinking Machines Lab离职
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-翁荔重返OpenAI，此前因身体原因从Thinking Machines Lab离职。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/im3GxWtxYPZpkodNRgVQ)
+**来源：** [InfoQ](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q)
 
 ---
 
-### 记者对话：请回答 WAIC 2026——期待 vs 现实
+### 硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-在InfoQ举办的记者对话中，WAIC 2026的期待与现实被深入探讨，聚焦行业发展趋势与挑战。
+硬停止规则扩展应用于120个领域微服务，源自3个HCM单体实践，助力微服务治理与稳定。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/v68qTCHUc29dEl8LBmr5)
+**来源：** [InfoQ](https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR)
+
+---
+
+### Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI助手成本失控，源于上下文理解、人工审核及维护成本被低估，探讨在WAIC 2026。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97)
 
 ---
 
