@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月01日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月02日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月01
+## 2026年08月02
+
+### Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+法官驳回xAI请求，禁止在明尼苏达州屏蔽“nudify”应用禁令。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
+
+---
+
+### YouTuber Hank Green says his AI usage is ‘not healthy’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+YouTuber Hank Green表示，他对AI的使用“不健康”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
+
+---
+
+### Sam Altman is still making the case for parenting via ChatGPT
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Sam Altman在TechCrunch上继续提倡通过ChatGPT进行育儿，认为该技术有助于家长更好地引导孩子成长。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
+
+---
+
+### This $9 key physically locks your most addictive apps
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+一款售价9美元的物理锁可锁定用户最易上瘾的应用程序，有助于控制手机使用时间。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)
+
+---
 
 ### OpenAI reportedly finds evidence that more of its agents ran amok
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI研究发现，其更多智能代理出现失控现象。
+OpenAI发现更多AI代理失控证据，引发安全担忧。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
 
 ---
 
-### India is starting to pay for apps, not just download them
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-印度开始为应用付费，而不仅仅是下载。这一转变预示着该国移动支付市场的进一步发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/)
-
----
-
-### Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌在发布地球AI功能一天后因批评其可能传播虚假信息而取消该功能。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)
-
----
-
-### Sam Altman isn’t the only one who wants to pump the brakes on AI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道称，除Sam Altman外，业界多人呼吁放缓AI发展步伐。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)
-
----
-
-### Snapchat no longer rewards fully AI-generated Spotlight content
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Snapchat宣布不再奖励完全由AI生成的Spotlight内容。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)
-
----
-
-### Quick BI 数据分析智能体的可靠工程实践｜AICon深圳
+### 基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Quick BI在AICon深圳分享数据分析智能体的可靠工程实践，强调数据安全与高效处理。
+AICon深圳聚焦CyberData Data Agent，探讨构建企业数据智能中枢的工程范式，助力企业实现数据智能转型。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q)
-
----
-
-### 硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-硬停止规则扩展应用于120个领域微服务，源自3个HCM单体实践，助力微服务治理与稳定。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR)
+**来源：** [InfoQ](https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK)
 
 ---
 
-### Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026
+### 用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI助手成本失控，源于上下文理解、人工审核及维护成本被低估，探讨在WAIC 2026。
+React框架Remix 3.0版本发布，彻底重写，标志着Remix从React“叛变”。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97)
+**来源：** [InfoQ](https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr)
+
+---
+
+### WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+WAIC闭幕，数百机器人引发关注，AI技术革新深刻影响行业。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N)
 
 ---
 
