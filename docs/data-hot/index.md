@@ -9,50 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月03日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月04日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月03
+## 2026年08月04
 
-### TechCrunch Mobility: Two roads diverged — for robotaxis
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Mobility报道，机器人出租车行业面临两难选择，数据AI应用成为关键。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/)
-
----
-
-### Rivian spinoff Also to start delivering e-bikes after months of delays
+### AWS is helping vibe-coding startup Superblocks, and the implications are big
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Rivian子公司Also延迟数月后开始交付电动自行车，AI技术助力电动车智能管理。
+亚马逊云科技助力Vibe-coding初创企业Superblocks，预示数据AI领域合作新趋势。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
-
----
-
-### Quick BI 数据分析智能体的可靠工程实践｜AICon深圳
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Quick BI 数据分析智能体在AICon深圳研讨可靠工程实践，聚焦数据AI领域，探讨提升智能体稳定性和效能。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
 
 ---
 
-### NVIDIA Vera Rubin 正式登场：从芯片卷到电网，只为压低每一个 Token 的成本
+### Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-NVIDIA推出Vera Rubin，旨在降低Token成本，涵盖芯片到电网，强化数据AI处理效率。
+Horizon3完成2亿美元估值，E轮融资2500万美元，AI威胁加剧。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/3gb6NlxK6c0A9or5Zfbt)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)
 
 ---
 
@@ -60,7 +40,7 @@ NVIDIA推出Vera Rubin，旨在降低Token成本，涵盖芯片到电网，强�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州新“权利尝试”法案迅速实施，为部分患者带来希望，数据AI技术助力新药研发，有望加速治疗进程。
+蒙大拿州新“试验权”法律即将实施，为某些患者带来希望，数据AI技术有望加速新药研发进程。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/)
 
@@ -70,7 +50,7 @@ NVIDIA推出Vera Rubin，旨在降低Token成本，涵盖芯片到电网，强�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州成为实验性医疗中心的计划获推进，计划利用数据AI技术提升医疗服务水平。
+蒙大拿州计划成为实验医疗中心，推进中。该项目将利用数据AI技术，提升医疗研究水平。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/)
 
