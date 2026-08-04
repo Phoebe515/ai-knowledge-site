@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月03日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月04日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月03
+## 2026年08月04
 
-### Sam Altman and AI’s decel debate
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Sam Altman在TechCrunch上就AI发展减速进行讨论，探讨其影响及应对策略。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)
-
----
-
-### Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps
+### After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-法官驳回xAI对明尼苏达州禁止“nudify”应用的禁令请求。
+Palantir CEO Alex Karp在业绩强劲增长后，将AI行业称为“马克思主义”，引发行业热议。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
 
 ---
 
-### YouTuber Hank Green says his AI usage is ‘not healthy’
+### AWS is helping vibe-coding startup Superblocks, and the implications are big
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-YouTube博主Hank Green自评AI使用“不健康”，TechCrunch报道。
+亚马逊云科技（AWS）助力编程教育平台Superblocks，双方合作意义重大。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
 
 ---
 
-### Sam Altman is still making the case for parenting via ChatGPT
+### Design Arena creators raise $7.9 million to bring taste to AI models
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Sam Altman继续倡导通过ChatGPT进行育儿，强调AI在教育中的潜力。
+Design Arena获得790万美元融资，旨在为AI模型注入审美能力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
 
 ---
 
-### This $9 key physically locks your most addictive apps
+### Influencers draw backlash for attending OpenAI’s first luxury trip
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-新型$9物理锁可锁定最易上瘾的应用，TechCrunch报道。
+OpenAI首场奢华之旅引发争议，多位网红因参加活动遭网友批评。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)
 
 ---
 
-### Cloudflare详解统一数据平台：计费工作负载占查询的53%
+### Apple finally fixed Siri. So why does it feel anticlimactic?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果修复了Siri，但改进似乎并不令人兴奋。TechCrunch分析为何这次更新缺乏预期效果。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)
+
+---
+
+### MUSA开发者大赛丨算子挑战赛S2赛季正式开启！
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare公布统一数据平台细节，显示计费工作负载占比达53%，凸显平台性能强大。
+MUSA开发者大赛算子挑战赛S2赛季正式开启，聚焦AI算子创新与应用，助力产业智能化升级。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LplzGjI7YFsYiz5hqfl8)
-
----
-
-### 浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-浙江大学软件学院周经森博士将出席AICon深圳，分享人工智能时代性能工程见解。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z)
+**来源：** [InfoQ](https://www.infoq.cn/article/ehgQiIVRtg3fyyz2wMh9)
 
 ---
 
-### 基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳
+### 中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨基于CyberData的Data Agent，构建企业数据智能中枢的工程范式，助力企业数据智能化转型。
+深开鸿CEO王成录博士将出席AICon深圳，分享“让AI拥有身体：从大模型迈向物理AI”主题演讲。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK)
+**来源：** [InfoQ](https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8)
+
+---
+
+### 给 Agent 装上方向盘和刹车，Harness 时代的工程新范式
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Harness 时代，Agent 获得方向盘和刹车，开启工程新范式，InfoQ 报道。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/QxdM6J3uFpZA0CXgNhDq)
 
 ---
 
