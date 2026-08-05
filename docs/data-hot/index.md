@@ -9,30 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月04日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月05日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月04
+## 2026年08月05
 
-### AWS is helping vibe-coding startup Superblocks, and the implications are big
+### TV Time co-founder launches Bingers to revive the beloved TV-tracking app
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊云科技助力Vibe-coding初创企业Superblocks，预示数据AI领域合作新趋势。
+TV Time联合创始人推出Bingers，旨在复活备受喜爱的电视追踪应用，利用数据AI技术提升用户体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/)
 
 ---
 
-### Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate
+### Hackers steal over $130M by exploiting bug in offline hardware wallets
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Horizon3完成2亿美元估值，E轮融资2500万美元，AI威胁加剧。
+黑客利用离线硬件钱包漏洞盗取超1.3亿美元，AI技术可助防范此类攻击。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/)
 
 ---
 
@@ -40,7 +40,7 @@ Horizon3完成2亿美元估值，E轮融资2500万美元，AI威胁加剧。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州新“试验权”法律即将实施，为某些患者带来希望，数据AI技术有望加速新药研发进程。
+蒙大拿州新“尝试权”法案对某些患者而言迫切需要，有望加速临床试验，促进数据AI在医疗领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/)
 
@@ -50,7 +50,7 @@ Horizon3完成2亿美元估值，E轮融资2500万美元，AI威胁加剧。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州计划成为实验医疗中心，推进中。该项目将利用数据AI技术，提升医疗研究水平。
+蒙大拿州成为实验性医疗中心计划获推进，拟利用数据AI技术提升医疗服务效率。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/)
 
