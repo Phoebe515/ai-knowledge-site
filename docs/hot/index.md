@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月04日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月05日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月04
+## 2026年08月05
 
-### After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Palantir CEO Alex Karp在业绩强劲增长后，将AI行业称为“马克思主义”，引发行业热议。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
-
----
-
-### AWS is helping vibe-coding startup Superblocks, and the implications are big
+### SpaceX has bought $329M worth of Tesla Megapacks so far this year
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊云科技（AWS）助力编程教育平台Superblocks，双方合作意义重大。
+SpaceX今年已购买3.29亿美元特斯拉Megapacks，用于其航天项目。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/)
 
 ---
 
-### Design Arena creators raise $7.9 million to bring taste to AI models
+### Open-weight AI models are catching up to the frontier. The safety gap remains. 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Design Arena获得790万美元融资，旨在为AI模型注入审美能力。
+Open-weight AI模型追赶前沿，安全差距仍存。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/)
 
 ---
 
-### Influencers draw backlash for attending OpenAI’s first luxury trip
+### Anthropic signs $10B deal with AI cloud startup Volta
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI首场奢华之旅引发争议，多位网红因参加活动遭网友批评。
+Anthropic与AI云公司Volta达成百亿美元合作，拓展AI云服务市场。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
 
 ---
 
-### Apple finally fixed Siri. So why does it feel anticlimactic?
+### Meet Wrinkles, an app that uncovers the hidden stories of the places around you
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果修复了Siri，但改进似乎并不令人兴奋。TechCrunch分析为何这次更新缺乏预期效果。
+Wrinkles应用解锁周边地点的隐藏故事，科技媒体TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/)
 
 ---
 
-### MUSA开发者大赛丨算子挑战赛S2赛季正式开启！
+### Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia在成立开放AI行业组一周后展示进展，显示其在AI领域的积极布局。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/)
+
+---
+
+### AI 根因分析从模型推理转向上下文工程
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-MUSA开发者大赛算子挑战赛S2赛季正式开启，聚焦AI算子创新与应用，助力产业智能化升级。
+AI根因分析转向上下文工程，强调模型与外部环境的互动，以提升模型解释性和可靠性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ehgQiIVRtg3fyyz2wMh9)
-
----
-
-### 中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-深开鸿CEO王成录博士将出席AICon深圳，分享“让AI拥有身体：从大模型迈向物理AI”主题演讲。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8)
+**来源：** [InfoQ](https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071)
 
 ---
 
-### 给 Agent 装上方向盘和刹车，Harness 时代的工程新范式
+### 从工具调用到生产级 Data Agent：Context 与治理闭环｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Harness 时代，Agent 获得方向盘和刹车，开启工程新范式，InfoQ 报道。
+AICon深圳探讨Data Agent发展，从工具调用迈向生产级，实现Context与治理闭环，推动数据智能应用。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/QxdM6J3uFpZA0CXgNhDq)
+**来源：** [InfoQ](https://www.infoq.cn/article/2djLJTOiQuAjeriOthao)
+
+---
+
+### FDE 又不够了
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+FDE（Full Disk Encryption）技术面临新挑战，安全专家呼吁加强数据保护措施。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y)
 
 ---
 
