@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月05日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月06日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月05
+## 2026年08月06
 
-### SpaceX has bought $329M worth of Tesla Megapacks so far this year
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-SpaceX今年已购买3.29亿美元特斯拉Megapacks，用于其航天项目。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/)
-
----
-
-### Open-weight AI models are catching up to the frontier. The safety gap remains. 
+### Meta launches Muse Code, an AI agent for large code bases
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Open-weight AI模型追赶前沿，安全差距仍存。
+Meta推出Muse Code，一款针对大型代码库的AI代理，旨在提升代码开发效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/)
 
 ---
 
-### Anthropic signs $10B deal with AI cloud startup Volta
+### Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic与AI云公司Volta达成百亿美元合作，拓展AI云服务市场。
+Klaviyo全资收购Elias Torres的营销机构，两位技术创始人实现圆满重逢。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)
 
 ---
 
-### Meet Wrinkles, an app that uncovers the hidden stories of the places around you
+### Jeff Dean and other top AI researchers are leaving Google to launch their own startup
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Wrinkles应用解锁周边地点的隐藏故事，科技媒体TechCrunch报道。
+Jeff Dean等顶尖AI研究人员离开谷歌，成立新创业公司。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
 
 ---
 
-### Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress
+### Shopify says AI search is driving more traffic and sales, not replacing Google
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia在成立开放AI行业组一周后展示进展，显示其在AI领域的积极布局。
+Shopify表示，AI搜索正推动更多流量和销售，而非取代谷歌。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/)
 
 ---
 
-### AI 根因分析从模型推理转向上下文工程
+### Hark previews its browser use agent for completing tasks
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Hark推出浏览器使用代理，可自动完成任务，提高效率。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/)
+
+---
+
+### AWS 推出免费沙箱环境，可直接体验 Workshop
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI根因分析转向上下文工程，强调模型与外部环境的互动，以提升模型解释性和可靠性。
+AWS推出免费沙箱环境，用户可免费体验Workshop，助力技术学习和实践。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071)
-
----
-
-### 从工具调用到生产级 Data Agent：Context 与治理闭环｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AICon深圳探讨Data Agent发展，从工具调用迈向生产级，实现Context与治理闭环，推动数据智能应用。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/2djLJTOiQuAjeriOthao)
+**来源：** [InfoQ](https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY)
 
 ---
 
-### FDE 又不够了
+### 从 Coding 到 Running：Al Native SRE Agent 的工程实践 （CloudQ ）｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-FDE（Full Disk Encryption）技术面临新挑战，安全专家呼吁加强数据保护措施。
+AICon深圳，Al Native SRE Agent的工程实践分享，探讨从Coding到Running的挑战与经验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y)
+**来源：** [InfoQ](https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB)
+
+---
+
+### 近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+卡帕西亲测Opus 5，两小时完成5500行代码，却因编程错误无法游玩自己作品，近300万人围观。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/YdQ7vD3WwZpib8yuzNfF)
 
 ---
 
