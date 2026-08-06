@@ -9,30 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月05日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月06日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月05
+## 2026年08月06
 
-### TV Time co-founder launches Bingers to revive the beloved TV-tracking app
+### Nikita Bier steps down as X’s head of product
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TV Time联合创始人推出Bingers，旨在复活备受喜爱的电视追踪应用，利用数据AI技术提升用户体验。
+Nikita Bier辞任X公司产品负责人，其曾主导多项数据AI产品研发。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/)
 
 ---
 
-### Hackers steal over $130M by exploiting bug in offline hardware wallets
+### TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals 
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-黑客利用离线硬件钱包漏洞盗取超1.3亿美元，AI技术可助防范此类攻击。
+TechCrunch Disrupt 2026的Real World AI舞台展示机器人、自动化工厂及复生灭绝动物，聚焦数据AI应用创新。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/)
+
+---
+
+### Trump EPA wrongly canceled $20B in climate funds, appeals court rules
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特朗普时期环保署错误取消200亿美元气候资金，上诉法院裁定。此决定或影响数据AI在环保领域的应用和资金支持。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/)
 
 ---
 
@@ -40,7 +50,7 @@ TV Time联合创始人推出Bingers，旨在复活备受喜爱的电视追踪应
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州新“尝试权”法案对某些患者而言迫切需要，有望加速临床试验，促进数据AI在医疗领域的应用。
+蒙大拿州新“尝试权”法律为部分患者带来希望，有望加速数据AI在医疗领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/)
 
@@ -50,7 +60,7 @@ TV Time联合创始人推出Bingers，旨在复活备受喜爱的电视追踪应
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州成为实验性医疗中心计划获推进，拟利用数据AI技术提升医疗服务效率。
+蒙大拿州计划成为实验性医疗中心，推动数据AI在医疗领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/)
 
