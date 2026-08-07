@@ -9,40 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月06日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月07日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月06
+## 2026年08月07
 
-### Nikita Bier steps down as X’s head of product
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nikita Bier辞任X公司产品负责人，其曾主导多项数据AI产品研发。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/)
-
----
-
-### TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals 
+### Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands 
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026的Real World AI舞台展示机器人、自动化工厂及复生灭绝动物，聚焦数据AI应用创新。
+TechCrunch Disrupt 2026展会，一展台备受瞩目，数千观众将见证数据AI领域的创新成果。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/)
-
----
-
-### Trump EPA wrongly canceled $20B in climate funds, appeals court rules
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-特朗普时期环保署错误取消200亿美元气候资金，上诉法院裁定。此决定或影响数据AI在环保领域的应用和资金支持。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
 
 ---
 
@@ -50,19 +30,9 @@ TechCrunch Disrupt 2026的Real World AI舞台展示机器人、自动化工厂�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-蒙大拿州新“尝试权”法律为部分患者带来希望，有望加速数据AI在医疗领域的应用。
+蒙大拿州新“尝试权”法律为某些患者带来希望，有望加速数据AI在医疗领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/)
-
----
-
-### Montana’s plan to become an experimental medical hub just pushed forward
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-蒙大拿州计划成为实验性医疗中心，推动数据AI在医疗领域的应用。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/)
 
 ---
 
