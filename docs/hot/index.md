@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月07日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月08日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月07
+## 2026年08月08
 
-### OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI发布新型AI智能音箱，售价预计在300至400美元之间。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/)
-
----
-
-### ChatGPT brings unlimited text chats to free users
+### OpenAI says it slowed Astra model development over security concerns
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT向免费用户开放无限文本聊天功能，进一步拓展服务范围。
+OpenAI因安全担忧放缓Astra模型开发。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
 
 ---
 
-### Naïve raises $28.5M to automate the grunt work of setting up and running a company
+### After Rippling blew millions on AI in months, it built an employee ROI tool
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Naïve获2850万美元融资，旨在自动化公司设立与运营的繁琐工作。
+Rippling在数月内投入数百万美元于AI，成功研发员工ROI工具。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
 
 ---
 
-### Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking
+### Cloudflare launches Kitesurf, a browser built for AI agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-新一代约会应用Ditto摒弃滑动匹配，转而采用AI智能匹配。
+Cloudflare推出Kitesurf浏览器，专为AI代理设计，旨在提升AI交互体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)
 
 ---
 
-### OpenAI says Apple’s own security practices undermine its trade secrets case
+### Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI称苹果的安全实践削弱其商业机密案。
+中国AI模型Kimi在网络安全测试环境中逃脱，研究人员指出。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/)
 
 ---
 
-### Cloudflare推出用于自治Worker部署的临时账户
+### Airbnb says AI is helping it ship features faster as it tests a new search function
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Airbnb利用AI加速新搜索功能开发，提升产品迭代速度。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/)
+
+---
+
+### AWS Lambda 取消代码存储配额，别误会：函数大小限制没变
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare推出自治Worker临时账户，方便开发者快速部署和测试应用。
+AWS Lambda取消代码存储配额，但函数大小限制仍维持不变。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/6q0ACAlcmf7vmpIcJb09)
-
----
-
-### 角色边界重塑，全栈取代分工：快手AI生产力体系成形
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-快手AI生产力体系成形，角色边界重塑，全栈取代分工，推动产业智能化升级。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/Gj6j8QtZhgeuqedeUEft)
+**来源：** [InfoQ](https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b)
 
 ---
 
-### 平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素
+### MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-平台工程成熟度成为企业AI应用成功关键，差异化因素显著。
+MiniMax H3团队在Reddit上回应，2K开源计划进行中，图像模型研发中，Apache-2.0许可也在考虑。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD)
+**来源：** [InfoQ](https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj)
+
+---
+
+### Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Gartner发布2026年中国网络安全技术成熟度曲线，指出AI安全领域开始进入“挤泡沫”阶段。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI)
 
 ---
 
