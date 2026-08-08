@@ -9,30 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月07日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月08日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月07
+## 2026年08月08
 
 ### Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands 
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026展会，一展台备受瞩目，数千观众将见证数据AI领域的创新成果。
+TechCrunch Disrupt 2026展会，数据AI展区备受瞩目，数千观众将现场体验前沿科技。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
-
----
-
-### Montana’s new “right to try” law can’t come soon enough for some
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-蒙大拿州新“尝试权”法律为某些患者带来希望，有望加速数据AI在医疗领域的应用。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/)
 
 ---
 
