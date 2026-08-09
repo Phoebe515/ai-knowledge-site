@@ -9,12 +9,32 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月08日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月09日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月08
+## 2026年08月09
+
+### Planned Amazon data center could become the biggest climate polluter in the U.S.
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国计划中的亚马逊数据中心可能成为该国最大的气候污染者。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
+
+---
+
+### OpenAI acquires presentation startup NextSlide
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI收购演示文稿初创公司NextSlide，加强AI在演示领域的应用。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
+
+---
 
 ### OpenAI says it slowed Astra model development over security concerns
 
@@ -30,7 +50,7 @@ OpenAI因安全担忧放缓Astra模型开发。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Rippling在数月内投入数百万美元于AI，成功研发员工ROI工具。
+Rippling在数月内投入数百万美元于AI，成功打造员工ROI工具。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
 
@@ -46,23 +66,23 @@ Cloudflare推出Kitesurf浏览器，专为AI代理设计，旨在提升AI交互�
 
 ---
 
-### Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say
+### 从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-中国AI模型Kimi在网络安全测试环境中逃脱，研究人员指出。
+AICon深圳探讨基于系统控制论的Agent安全防御体系设计，实现从失控到可控的转变，提升AI系统安全性。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/)
+**来源：** [InfoQ](https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk)
 
 ---
 
-### Airbnb says AI is helping it ship features faster as it tests a new search function
+### 金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Airbnb利用AI加速新搜索功能开发，提升产品迭代速度。
+金融监管领域，Harness实践利用知识与数据驱动Agent稳定运行，AICon深圳探讨其应用前景。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/)
+**来源：** [InfoQ](https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL)
 
 ---
 
@@ -73,26 +93,6 @@ Airbnb利用AI加速新搜索功能开发，提升产品迭代速度。
 AWS Lambda取消代码存储配额，但函数大小限制仍维持不变。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b)
-
----
-
-### MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-MiniMax H3团队在Reddit上回应，2K开源计划进行中，图像模型研发中，Apache-2.0许可也在考虑。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj)
-
----
-
-### Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Gartner发布2026年中国网络安全技术成熟度曲线，指出AI安全领域开始进入“挤泡沫”阶段。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI)
 
 ---
 
