@@ -9,20 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月08日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月09日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月08
+## 2026年08月09
 
-### Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands 
+### Planned Amazon data center could become the biggest climate polluter in the U.S.
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026展会，数据AI展区备受瞩目，数千观众将现场体验前沿科技。
+据TechCrunch报道，拟建的亚马逊数据中心可能成为美国最大的气候污染源，对数据AI产业可持续发展构成挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
 
 ---
 
