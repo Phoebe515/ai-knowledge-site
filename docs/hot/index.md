@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月09日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月10日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月09
+## 2026年08月10
+
+### Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Situational Awareness投资4000万美元于芯片初创公司Source Foundry，旨在推动芯片产业创新发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
+
+---
+
+### Anthropic is turning Claude Code’s auto mode on by default
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic宣布将Claude Code的自动模式默认开启，旨在提升用户体验和效率。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
+
+---
+
+### Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+历史学家Jill Lepore批评硅谷误解科幻作品，削弱民主根基。TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+
+---
+
+### The AI safety test is becoming a safety risk
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI安全测试反成安全风险，TechCrunch报道指出，当前测试方法可能加剧AI潜在风险。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/)
+
+---
 
 ### Planned Amazon data center could become the biggest climate polluter in the U.S.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国计划中的亚马逊数据中心可能成为该国最大的气候污染者。
+计划中的亚马逊数据中心可能成为美国最大的气候污染者。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
 
 ---
 
-### OpenAI acquires presentation startup NextSlide
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI收购演示文稿初创公司NextSlide，加强AI在演示领域的应用。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
-
----
-
-### OpenAI says it slowed Astra model development over security concerns
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI因安全担忧放缓Astra模型开发。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
-
----
-
-### After Rippling blew millions on AI in months, it built an employee ROI tool
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Rippling在数月内投入数百万美元于AI，成功打造员工ROI工具。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
-
----
-
-### Cloudflare launches Kitesurf, a browser built for AI agents
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Cloudflare推出Kitesurf浏览器，专为AI代理设计，旨在提升AI交互体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)
-
----
-
-### 从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳
+### 智能互动 Agent 在快手商业场景的落地实践｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨基于系统控制论的Agent安全防御体系设计，实现从失控到可控的转变，提升AI系统安全性。
+AICon深圳上，快手展示智能互动Agent在商业场景的落地实践，提升用户体验和运营效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk)
-
----
-
-### 金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-金融监管领域，Harness实践利用知识与数据驱动Agent稳定运行，AICon深圳探讨其应用前景。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL)
+**来源：** [InfoQ](https://www.infoq.cn/article/KCw3ZLsEJcNYFegzd7dx)
 
 ---
 
-### AWS Lambda 取消代码存储配额，别误会：函数大小限制没变
+### 微软发布搭载原生 Go 编译器的 TypeScript 7.0，构建速度提升 10 倍
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AWS Lambda取消代码存储配额，但函数大小限制仍维持不变。
+微软发布 TypeScript 7.0，集成原生 Go 编译器，构建速度提升 10 倍。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b)
+**来源：** [InfoQ](https://www.infoq.cn/article/ciQHX2larGoSlHspZ9VK)
+
+---
+
+### 宇树科技今日申购，或出一批90后千万富豪；字节拟训练超5万亿参数模型，张一鸣：反对蒸馏；数百管理层被裁难找下家，猎头：没那么多岗｜AI周报
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+宇树科技今日申购，字节跳动计划训练超5万亿参数模型，反对蒸馏技术；众多管理层被裁，猎头称岗位有限。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/xWWwhH3iPjwRakLOQiXQ)
 
 ---
 
