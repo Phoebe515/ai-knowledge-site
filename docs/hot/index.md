@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月10日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月11日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月10
+## 2026年08月11
 
-### Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Situational Awareness投资4000万美元于芯片初创公司Source Foundry，旨在推动芯片产业创新发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
-
----
-
-### Anthropic is turning Claude Code’s auto mode on by default
+### OpenAI reportedly completed a $7 billion employee tender offer
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic宣布将Claude Code的自动模式默认开启，旨在提升用户体验和效率。
+OpenAI完成70亿美元员工股权收购。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
 
 ---
 
-### Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy
+### As AI-led attacks multiply, OpenAI launches a new cyber model
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-历史学家Jill Lepore批评硅谷误解科幻作品，削弱民主根基。TechCrunch报道。
+OpenAI推出新型网络安全模型，应对日益增多的AI主导攻击。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
 
 ---
 
-### The AI safety test is becoming a safety risk
+### Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI安全测试反成安全风险，TechCrunch报道指出，当前测试方法可能加剧AI潜在风险。
+Facebook CEO扎克伯格的AI宣言引发争议，凸显公众对AI的担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/)
 
 ---
 
-### Planned Amazon data center could become the biggest climate polluter in the U.S.
+### Tech industry is buzzing after a Claude agent hacked into a gym
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-计划中的亚马逊数据中心可能成为美国最大的气候污染者。
+科技界热议：Claude代理黑客入侵健身房，引发行业关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/)
 
 ---
 
-### 智能互动 Agent 在快手商业场景的落地实践｜AICon深圳
+### Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta推出新AI模型Glimmer，预示扎克伯格个人智能愿景。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/)
+
+---
+
+### 企业 AI Native 研发流程升级与重塑｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳上，快手展示智能互动Agent在商业场景的落地实践，提升用户体验和运营效率。
+AICon深圳探讨企业AI研发流程升级与重塑，聚焦AI原生研发模式，推动产业智能化转型。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/KCw3ZLsEJcNYFegzd7dx)
-
----
-
-### 微软发布搭载原生 Go 编译器的 TypeScript 7.0，构建速度提升 10 倍
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-微软发布 TypeScript 7.0，集成原生 Go 编译器，构建速度提升 10 倍。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/ciQHX2larGoSlHspZ9VK)
+**来源：** [InfoQ](https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov)
 
 ---
 
-### 宇树科技今日申购，或出一批90后千万富豪；字节拟训练超5万亿参数模型，张一鸣：反对蒸馏；数百管理层被裁难找下家，猎头：没那么多岗｜AI周报
+### 开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-宇树科技今日申购，字节跳动计划训练超5万亿参数模型，反对蒸馏技术；众多管理层被裁，猎头称岗位有限。
+开源LangAlpha发布，金融领域Claude Code，自然语言驱动投研工作流。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xWWwhH3iPjwRakLOQiXQ)
+**来源：** [InfoQ](https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm)
+
+---
+
+### 当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+企业AI应用中，若“人机协作”演变为盲目确认，安全风险加大，企业需重新审视安全依赖。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/5qWsLD6JV8N2zDgGuhK9)
 
 ---
 
