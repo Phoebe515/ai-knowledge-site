@@ -9,30 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月10日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月11日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月10
+## 2026年08月11
 
-### TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire
+### OpenAI reportedly completed a $7 billion employee tender offer
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Zoox即将推出自动驾驶汽车，Uber加速扩张自动驾驶帝国，AI技术助力自动驾驶领域竞争加剧。
+OpenAI完成70亿美元员工股权收购，强化数据AI领域布局。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
 
 ---
 
-### Planned Amazon data center could become the biggest climate polluter in the U.S.
+### Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊计划建设的数据中心可能成为美国最大的气候污染者，引发对数据AI行业环境影响的关注。
+谷歌联合创始人布林投入1亿美元抗衡富豪税，涉及数据AI等科技领域税收改革。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/)
+
+---
+
+### These startups are chasing the next big thing in LLMs
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+多家初创企业正追逐LLM领域下一个大突破，致力于推动数据AI技术发展。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/)
 
 ---
 
