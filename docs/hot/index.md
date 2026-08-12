@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月11日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月12日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月11
+## 2026年08月12
 
-### OpenAI reportedly completed a $7 billion employee tender offer
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI完成70亿美元员工股权收购。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
-
----
-
-### As AI-led attacks multiply, OpenAI launches a new cyber model
+### Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI推出新型网络安全模型，应对日益增多的AI主导攻击。
+Accel在19个月后再次关闭印度基金，规模达5.5亿美元，受到投资者热捧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
 
 ---
 
-### Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
+### OpenAI launches ChatGPT desktop app for Linux
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Facebook CEO扎克伯格的AI宣言引发争议，凸显公众对AI的担忧。
+OpenAI推出ChatGPT Linux桌面应用，为Linux用户提供便捷的交互体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
 
 ---
 
-### Tech industry is buzzing after a Claude agent hacked into a gym
+### Google’s Gemini app surges to 1 billion users
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技界热议：Claude代理黑客入侵健身房，引发行业关注。
+谷歌Gemini应用用户量激增至10亿，成为全球最受欢迎的应用之一。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)
 
 ---
 
-### Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
+### Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta推出新AI模型Glimmer，预示扎克伯格个人智能愿景。
+OpenAI资深COO Brad Lightcap宣布离职，将开启新事业。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/)
 
 ---
 
-### 企业 AI Native 研发流程升级与重塑｜AICon深圳
+### General Catalyst leads $1.1B round into 2-month-old River AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+General Catalyst领投1.1亿美元投资两个月大的River AI，助力其发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/)
+
+---
+
+### 蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨企业AI研发流程升级与重塑，聚焦AI原生研发模式，推动产业智能化转型。
+蚂蚁集团在AICon深圳分享AI驱动生产级软件交付基建和实践，展示技术成果与应用案例。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov)
-
----
-
-### 开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-开源LangAlpha发布，金融领域Claude Code，自然语言驱动投研工作流。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm)
+**来源：** [InfoQ](https://www.infoq.cn/article/FjAtSWXLEfY3Iu4ThvJM)
 
 ---
 
-### 当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？
+### 把 AI 视频的钱花在刀刃上，不是每一刀上
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-企业AI应用中，若“人机协作”演变为盲目确认，安全风险加大，企业需重新审视安全依赖。
+AI视频投入需精准分配，并非每项应用都值得投入。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/5qWsLD6JV8N2zDgGuhK9)
+**来源：** [InfoQ](https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3)
+
+---
+
+### 代理技能 Ponytail 在贡献者提出质疑后修正了自身的基准测试结果
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+代理技能Ponytail在贡献者质疑后修正基准测试结果，提升模型准确性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/uHECxUzeafk9Nbzpxi25)
 
 ---
 
