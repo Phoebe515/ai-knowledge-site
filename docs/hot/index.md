@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月12
+## 2026年08月13
 
-### Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Accel在19个月后再次关闭印度基金，规模达5.5亿美元，受到投资者热捧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
-
----
-
-### OpenAI launches ChatGPT desktop app for Linux
+### Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI推出ChatGPT Linux桌面应用，为Linux用户提供便捷的交互体验。
+Anthropic新水印功能引发Claude用户不满，担忧其在工作或课堂使用时被识别。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
 
 ---
 
-### Google’s Gemini app surges to 1 billion users
+### Amazon will train on Twitch streamers’ content by default, unless they opt out
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌Gemini应用用户量激增至10亿，成为全球最受欢迎的应用之一。
+亚马逊默认使用Twitch主播内容进行训练，除非主播选择退出。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)
 
 ---
 
-### Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’
+### AI coding startup Cognition reportedly already in talks to raise at $40B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI资深COO Brad Lightcap宣布离职，将开启新事业。
+AI编程初创公司Cognition正洽谈融资，估值高达400亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
 
 ---
 
-### General Catalyst leads $1.1B round into 2-month-old River AI
+### As AI safety concerns mount, three pioneers make the case for staying open
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-General Catalyst领投1.1亿美元投资两个月大的River AI，助力其发展。
+面对人工智能安全担忧加剧，三位先驱在TechCrunch上发表文章，主张保持开放态度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/)
 
 ---
 
-### 蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳
+### OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI支持的企业级AI公司Thrive Holdings获得20亿美元融资，致力于将AI技术应用于企业。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
+
+---
+
+### 智象未来 (HiDream.ai)算法科学家潘滢炜博士确认出席AICon深圳，将分享“从 Token 预测到状态预测：迈向世界模型的原生全模态之路”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-蚂蚁集团在AICon深圳分享AI驱动生产级软件交付基建和实践，展示技术成果与应用案例。
+智象未来算法科学家潘滢炜博士将出席AICon深圳，分享“从 Token 预测到状态预测：迈向世界模型的原生全模态之路”。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/FjAtSWXLEfY3Iu4ThvJM)
-
----
-
-### 把 AI 视频的钱花在刀刃上，不是每一刀上
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI视频投入需精准分配，并非每项应用都值得投入。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3)
+**来源：** [InfoQ](https://www.infoq.cn/article/9d9Oik3uZpqfjbfElZaq)
 
 ---
 
-### 代理技能 Ponytail 在贡献者提出质疑后修正了自身的基准测试结果
+### 从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-代理技能Ponytail在贡献者质疑后修正基准测试结果，提升模型准确性。
+腾讯云重构Agent沙箱，实现亚百毫秒级启动至生产级部署，提升性能与稳定性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uHECxUzeafk9Nbzpxi25)
+**来源：** [InfoQ](https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI)
+
+---
+
+### Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Vercel推出新语言Zero，旨在让代码直接为AI编写，提升开发效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y)
 
 ---
 
