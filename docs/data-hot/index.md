@@ -9,50 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月12日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月13日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月12
+## 2026年08月13
 
-### FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures
+### Scientists just created female clones of male mice
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-FBI揭露，网络犯罪分子通过黑客手段入侵受害者在线账户，窃取私密照片，数据AI技术面临新型安全挑战。
+科学家成功克隆雄性小鼠的雌性副本，为生殖生物学和AI数据分析提供新模型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/)
-
----
-
-### Google’s Gemini app surges to 1 billion users
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Google旗下Gemini应用用户突破10亿，彰显其在数据AI领域的强大影响力。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)
-
----
-
-### An unreleased Anthropic model made progress on one of math’s biggest unsolved problems
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-未发布的Anthropic模型在数学重大未解问题上取得进展，展示数据AI在解决复杂问题上的潜力。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/)
-
----
-
-### North Korean remote IT staffer worked for US government agency, says FBI
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国FBI称，一名朝鲜远程IT工作人员曾为美国政府机构工作，涉及数据AI领域。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/)
 
 ---
 
@@ -60,7 +30,7 @@ Google旗下Gemini应用用户突破10亿，彰显其在数据AI领域的强大�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，下一代大型语言模型即将到来，AI学术研究正转向关注其影响。
+MIT Tech Review报道，下一代大型语言模型成为焦点，AI学术研究转向，数据AI领域迎来新变革。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/)
 
@@ -70,7 +40,7 @@ MIT Tech Review报道，下一代大型语言模型即将到来，AI学术研究
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-多家初创企业正追逐LLM领域的下一个重大突破，致力于推动人工智能技术发展。
+多家初创企业正致力于探索大型语言模型（LLMs）的下一个发展方向，以推动数据AI技术的创新与应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/)
 
