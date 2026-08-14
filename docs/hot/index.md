@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月13日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月14日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月13
+## 2026年08月14
 
-### Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic新水印功能引发Claude用户不满，担忧其在工作或课堂使用时被识别。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
-
----
-
-### Amazon will train on Twitch streamers’ content by default, unless they opt out
+### Writer introduces new AI model and upgraded harness to contain token costs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊默认使用Twitch主播内容进行训练，除非主播选择退出。
+作家推出新型AI模型及升级版工具，旨在降低代币成本。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)
 
 ---
 
-### AI coding startup Cognition reportedly already in talks to raise at $40B valuation
+### Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI编程初创公司Cognition正洽谈融资，估值高达400亿美元。
+Databricks融资达成，投资者欲估值150亿美元，最终以190亿美元估值达成50亿美元融资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/)
 
 ---
 
-### As AI safety concerns mount, three pioneers make the case for staying open
+### OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-面对人工智能安全担忧加剧，三位先驱在TechCrunch上发表文章，主张保持开放态度。
+OpenAI推出“Ultrafast”模式，GPT-5.6 Sol性能提升14倍。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
 
 ---
 
-### OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
+### IBM partners with OpenAI to bolster enterprise AI push
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI支持的企业级AI公司Thrive Holdings获得20亿美元融资，致力于将AI技术应用于企业。
+IBM与OpenAI合作，加强企业AI推进。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)
 
 ---
 
-### 智象未来 (HiDream.ai)算法科学家潘滢炜博士确认出席AICon深圳，将分享“从 Token 预测到状态预测：迈向世界模型的原生全模态之路”
+### Anthropic set AI agents loose on the same task. They started a turf war.
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic让AI代理在同一任务上竞争，引发“地盘战”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/)
+
+---
+
+### 涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-智象未来算法科学家潘滢炜博士将出席AICon深圳，分享“从 Token 预测到状态预测：迈向世界模型的原生全模态之路”。
+涛思数据创始人陶建辉博士将出席AICon深圳，分享大模型在工业场景落地的挑战与实践。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9d9Oik3uZpqfjbfElZaq)
-
----
-
-### 从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-腾讯云重构Agent沙箱，实现亚百毫秒级启动至生产级部署，提升性能与稳定性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI)
+**来源：** [InfoQ](https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp)
 
 ---
 
-### Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的
+### 从“开放模型”到“开放生态”，AI 开源进入下半场
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Vercel推出新语言Zero，旨在让代码直接为AI编写，提升开发效率。
+AI开源从“开放模型”迈向“开放生态”，进入下半场，标志着技术生态构建成为新焦点。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y)
+**来源：** [InfoQ](https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf)
+
+---
+
+### 微软 AI Gateway 新层级引热议：统一治理背后的权限隐忧
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+微软AI Gateway新层级引发热议，统一治理背后存在权限隐忧。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/zYYwyGD3opKVwhTKYqaM)
 
 ---
 
