@@ -9,12 +9,52 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月14
+## 2026年08月15
+
+### Google will now allow users to remove visible watermark from its AI generations
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌将允许用户从其AI生成内容中移除可见水印。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
+
+---
+
+### Does Mark Zuckerberg really believe AI is ‘for everyone’?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Facebook CEO马克·扎克伯格表示AI“属于每个人”，但TechCrunch质疑其信念的真实性。
+
+**来源：** [TechCrunch](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)
+
+---
+
+### Kog is going deeper to squeeze more inference out of GPUs
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Kog技术深入挖掘GPU潜力，提升推理效率。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)
+
+---
+
+### Hyperscalers might regret embracing natural gas if new forecast proves correct
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+科技媒体TechCrunch报道称，如果新预测准确，拥抱天然气的超大规模企业可能将追悔莫及。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/)
+
+---
 
 ### Writer introduces new AI model and upgraded harness to contain token costs
 
@@ -26,73 +66,33 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 ---
 
-### Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Databricks融资达成，投资者欲估值150亿美元，最终以190亿美元估值达成50亿美元融资。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/)
-
----
-
-### OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI推出“Ultrafast”模式，GPT-5.6 Sol性能提升14倍。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
-
----
-
-### IBM partners with OpenAI to bolster enterprise AI push
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-IBM与OpenAI合作，加强企业AI推进。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)
-
----
-
-### Anthropic set AI agents loose on the same task. They started a turf war.
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic让AI代理在同一任务上竞争，引发“地盘战”。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/)
-
----
-
-### 涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”
+### 33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-涛思数据创始人陶建辉博士将出席AICon深圳，分享大模型在工业场景落地的挑战与实践。
+Snowflake最新财报显示，AI落地难题下，公司实现33%增速和126%留存，营收增长迅猛，成为印钞机故事。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp)
-
----
-
-### 从“开放模型”到“开放生态”，AI 开源进入下半场
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI开源从“开放模型”迈向“开放生态”，进入下半场，标志着技术生态构建成为新焦点。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf)
+**来源：** [InfoQ](https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG)
 
 ---
 
-### 微软 AI Gateway 新层级引热议：统一治理背后的权限隐忧
+### Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-微软AI Gateway新层级引发热议，统一治理背后存在权限隐忧。
+Gemini 3.7 Flash发布，性能逼近旗舰，价格大幅下降；DeepMind新CEO调整性价比策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/zYYwyGD3opKVwhTKYqaM)
+**来源：** [InfoQ](https://www.infoq.cn/article/plZY01etBHv3ETOYG0af)
+
+---
+
+### AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI圈Codex、Claude Code负责人公开对喷，引发业界热议。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp)
 
 ---
 
