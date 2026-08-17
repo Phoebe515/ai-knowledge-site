@@ -20,11 +20,11 @@ hero:
 <script setup>
 import { ref, onMounted } from 'vue'
 
-const updateTime = ref('2026年08月16日 07:00')
+const updateTime = ref('2026年08月17日 07:00')
 const hotNews = ref([
-  { title: '继父用Grok变童年照为色情图', desc: 'TechCrunch', date: '2026-08-16' },
-  { title: 'Anthropic详解Claude新水印功能', desc: 'TechCrunch', date: '2026-08-16' },
-  { title: 'SpaceX完成Cursor收购', desc: 'TechCrunch', date: '2026-08-16' }
+  { title: 'Stripe拟以70亿美元收购AI网关初创公司OpenRou', desc: 'TechCrunch', date: '2026-08-17' },
+  { title: '扎克伯格AI未来不受欢迎', desc: 'TechCrunch', date: '2026-08-17' },
+  { title: 'AI反噬是信任危机', desc: 'TechCrunch', date: '2026-08-17' }
 ])
 </script>
 
