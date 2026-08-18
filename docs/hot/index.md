@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月17
+## 2026年08月18
 
-### Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Stripe拟以70亿美元收购AI网关初创公司OpenRouter，强化其在支付领域的AI技术布局。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
-
----
-
-### Why people aren’t buying Mark Zuckerberg’s AI future
+### Anthropic’s annualized revenue surges to $65B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-人们对马克·扎克伯格的AI未来持怀疑态度，担忧其可能带来风险。
+Anthropic年度营收激增至650亿美元，同比增长显著。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
 
 ---
 
-### Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
+### AI automation startup Relay shuts down, staff joins Google’s Chrome team
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic CEO认为AI反噬本质上是信任危机。
+AI自动化初创公司Relay宣布关闭，员工加入谷歌Chrome团队。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
 
 ---
 
-### Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+### Amazon, which started off selling books, is destroying rare texts to train AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-女子指控其继父利用Gro克软件将童年照片转换为色情图像。
+亚马逊为训练AI，正销毁稀有文本。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
 
 ---
 
-### Anthropic shares more details about how Claude’s new watermarks will work
+### Groq raises $350M to fuel its pivot from AI chips to neocloud
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic详细介绍了Claude新水印的工作机制，旨在提升模型可追溯性和安全性。
+Groq完成3.5亿美元融资，加速从AI芯片转向neocloud战略转型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)
 
 ---
 
-### 从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳
+### Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia投资15亿美元于软银数据中心开发商，后者参与OpenAI项目。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/)
+
+---
+
+### 当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon深圳探讨AI Coding在金融科技SDLC中的应用，实现从代码生成到研发闭环的落地实践。
+Snowflake借助FinOps为AI时代重新定义成本管理，通过技术趋势引领企业实现高效成本控制。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC)
-
----
-
-### 一份数据，多种用途：Spotify 用 RAP 打通分析与在线服务
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Spotify利用RAP技术实现数据分析与在线服务无缝对接，提升用户体验与业务效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl)
+**来源：** [InfoQ](https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk)
 
 ---
 
-### MCP 走向无状态，开发者追问：这不就又变回 API 了吗？
+### 技术风向变了？2026 年，数据库领域国际顶会都在研究什么？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-MCP转向无状态引发开发者疑问，认为其本质上是API，InfoQ报道该事件。
+2026年数据库领域国际顶会聚焦新型数据库技术、数据隐私保护与人工智能融合等前沿议题。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD)
+**来源：** [InfoQ](https://www.infoq.cn/article/UJt7EQIZJaWe1dFZkD6F)
+
+---
+
+### npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+npm推出分阶段发布功能，软件包上架前新增人工审核，加强软件包安全性和可靠性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/5bfbkX6WIN3iKO6FlJwO)
 
 ---
 
