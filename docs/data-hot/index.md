@@ -9,30 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月20日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月21日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月20
+## 2026年08月21
 
-### T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network
+### The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-T-Mobile通过切断网络连接，成功驱逐了中国黑客。此举涉及网络安全和数据保护，对数据AI领域具有重要启示。
+技术增强游戏公司遭遇重大损失，科技“兴奋剂”策略失败，亏损高达6000万美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
 
 ---
 
-### Rivian spinout Also raises another $150M
+### The next big thing in hydrogen could be underground
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-Rivian子公司筹集1500万美元，聚焦数据AI技术发展。
+MIT Tech Review报道，地下储氢技术可能成为氢能发展的新趋势，数据AI在优化储氢方案和预测性能方面发挥关键作用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/)
 
 ---
 
