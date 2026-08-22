@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月21
+## 2026年08月22
 
-### AI data startup Micro1 reaches $500M gross run rate amid AI training boom
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI数据初创公司Micro1在AI训练热潮中实现5亿美元总收入，增速迅猛。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)
-
----
-
-### OpenAI is gaining on Anthropic with business users, new data indicates
+### Anthropic’s Opus 4.6 is a smut-machine
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch最新数据，OpenAI在商业用户领域正逐步追赶Anthropic。
+Anthropic发布Opus 4.6，AI生成色情内容引发争议。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
 
 ---
 
-### ChatGPT can now send texts for you with new Apple Messages plug-in
+### Nvidia partners with data center developer Cloverleaf
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT推出苹果消息插件，可帮你发送文本，提升沟通效率。
+Nvidia与数据中心开发商Cloverleaf达成合作，共同推动数据中心技术创新。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)
 
 ---
 
-### OK, can we actually cool data centers with our pee?
+### Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技媒体TechCrunch报道，研究人员探索利用尿液冷却数据中心的可能性，以实现更环保和节能的数据中心管理。
+苹果公司据称将裁员数百人，涉及Siri和Vision Pro团队。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
 
 ---
 
-### Google gives publishers a new way to fight AI-driven traffic losses
+### Nvidia just showed that the harness, not the AI model, is now the real hero
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌推出新工具助出版商应对AI引发流量下降问题。
+Nvidia最新展示，AI模型之外，硬件设备才是真正英雄。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
 
 ---
 
-### Rust 再下一城：Astro 7 重写编译器与 Markdown 流水线
+### Starcloud raises $250 million for orbital data centers as launch options dry up
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+星云公司筹集2.5亿美元用于太空数据中心，因地面发射机会减少。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/)
+
+---
+
+### JetBrains详细阐述了控制AI支出快速增长的首批举措
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Rust语言团队成功重写Astro 7编译器与Markdown流水线，进一步提升性能与稳定性。
+JetBrains发布首批控制AI支出增长的举措，旨在优化资源分配，提升研发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/D6IBeGO6rqVCjBDv1qwj)
-
----
-
-### CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-KCD杭州站聚焦Agent时代技术趋势，探讨云原生、可观测性及大模型推理等议题。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo)
+**来源：** [InfoQ](https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy)
 
 ---
 
-### AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力
+### 神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-华尔街开始交易算力，AI Infra 或诞生石油期货，GPU 供应紧张推动算力市场崛起。
+神秘“Ox Alpha”性能超越Fable 5，引发全网猜测，疑似智谱或小米旗下产品。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq)
+**来源：** [InfoQ](https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY)
+
+---
+
+### DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+DeepSeek发布多模态模型“小鲸鱼”，赋予模型视觉感知能力，迈出迈向通用人工智能的重要一步。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5)
 
 ---
 
