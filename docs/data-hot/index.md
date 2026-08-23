@@ -9,50 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月22日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月23日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月22
+## 2026年08月23
+
+### OpenAI says California should strengthen its AI safety bill
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI呼吁加州加强AI安全法案，强调提升AI安全监管。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
+
+---
 
 ### Michael Polansky is training an AI model on skin that’s still alive
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Michael Polansky正在训练基于活体皮肤的人工智能模型，旨在提升皮肤疾病诊断准确率。
+Michael Polansky正在训练基于活体皮肤的人工智能模型，旨在提升皮肤疾病诊断的准确性。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
-
----
-
-### US government lab is probing Chinese lidar for security vulnerabilities
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国政府实验室正在调查中国激光雷达设备的安全漏洞，涉及数据AI领域。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/)
-
----
-
-### Starcloud raises $250 million for orbital data centers as launch options dry up
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Starcloud获得2.5亿美元投资，用于建设太空数据中心，以应对地面发射选项减少，助力数据AI领域发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/)
-
----
-
-### Senator asks US government watchdog to review how feds use hacking tools
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国参议员要求政府监察机构审查联邦政府使用黑客工具的情况，涉及数据AI领域安全与合规问题。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/)
 
 ---
 
@@ -60,7 +40,7 @@ Starcloud获得2.5亿美元投资，用于建设太空数据中心，以应对�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review探讨AI设计药物时，知识产权归属问题引发争议。数据AI在药物研发中扮演关键角色，其贡献如何界定成为焦点。
+MIT Tech Review探讨AI设计药物时，知识产权归属问题引发争议。数据AI在药物研发中扮演关键角色，但责任归属尚无明确标准。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)
 
@@ -70,7 +50,7 @@ MIT Tech Review探讨AI设计药物时，知识产权归属问题引发争议。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，地下氢储存技术可能成为氢能发展的新趋势，数据AI在优化储存效率和安全性方面发挥关键作用。
+MIT Tech Review报道称，氢能领域新进展或源于地下，数据AI技术助力优化氢能储存与利用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/)
 
