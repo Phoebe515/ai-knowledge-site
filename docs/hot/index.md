@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月22
+## 2026年08月23
+
+### Harvard’s $699 startup bootcamp offers AI avatars of its instructors
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+哈佛大学推出699美元的创业训练营，提供其讲师的AI虚拟形象教学。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
+
+---
+
+### Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Inherent公司AI“队友”在复现研究方面超越Anthropic和OpenAI，由DeepMind校友创立。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
+
+---
+
+### OpenAI says California should strengthen its AI safety bill
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI建议加州加强AI安全法案，强调对AI伦理和安全的重视。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
+
+---
+
+### Frontier AI labs still won’t say how they’d contain a rogue model
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Frontier AI labs未透露如何控制失控模型。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
+
+---
 
 ### Anthropic’s Opus 4.6 is a smut-machine
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic发布Opus 4.6，AI生成色情内容引发争议。
+Anthropic发布Opus 4.6，AI模型生成成人内容引发争议。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
 
 ---
 
-### Nvidia partners with data center developer Cloverleaf
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia与数据中心开发商Cloverleaf达成合作，共同推动数据中心技术创新。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)
-
----
-
-### Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果公司据称将裁员数百人，涉及Siri和Vision Pro团队。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
-
----
-
-### Nvidia just showed that the harness, not the AI model, is now the real hero
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia最新展示，AI模型之外，硬件设备才是真正英雄。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
-
----
-
-### Starcloud raises $250 million for orbital data centers as launch options dry up
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-星云公司筹集2.5亿美元用于太空数据中心，因地面发射机会减少。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/)
-
----
-
-### JetBrains详细阐述了控制AI支出快速增长的首批举措
+### 事故频发并不意味着可靠性下降
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-JetBrains发布首批控制AI支出增长的举措，旨在优化资源分配，提升研发效率。
+事故频发不等于可靠性下降，专家指出，系统设计、维护和应对措施是关键。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy)
-
----
-
-### 神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-神秘“Ox Alpha”性能超越Fable 5，引发全网猜测，疑似智谱或小米旗下产品。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY)
+**来源：** [InfoQ](https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S)
 
 ---
 
-### DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛
+### Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-DeepSeek发布多模态模型“小鲸鱼”，赋予模型视觉感知能力，迈出迈向通用人工智能的重要一步。
+Cloudflare发布Cache Response Rules，可在源站响应后进一步控制缓存，提升网站性能和响应速度。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5)
+**来源：** [InfoQ](https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu)
+
+---
+
+### Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare推出Agent Tracing，支持截断限制，不同框架的Payload默认记录策略存在差异。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf)
 
 ---
 
