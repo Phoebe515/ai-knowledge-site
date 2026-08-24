@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月23
+## 2026年08月24
+
+### Who’s behind the new ‘stealth model’ Ox Alpha?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch曝光了神秘公司Ox Alpha的“隐形模式”，引发业界关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
+
+---
+
+### Linkdaze’s smart calendar is built to run a household, not just track a schedule
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Linkdaze智能日历功能全面升级，不仅追踪日程，还能管理家务。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
+
+---
+
+### Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Flock CEO呼吁“妥协”，应对公司面临日益增长的反响。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/)
+
+---
+
+### Is it legal to train AI models on copyrighted books? It’s complicated
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI训练版权书籍合法性问题复杂，涉及版权、数据共享等法律争议。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)
+
+---
 
 ### Harvard’s $699 startup bootcamp offers AI avatars of its instructors
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-哈佛大学推出699美元的创业训练营，提供其讲师的AI虚拟形象教学。
+哈佛大学推出699美元的创业训练营，提供其导师的AI化身教学。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
 
 ---
 
-### Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Inherent公司AI“队友”在复现研究方面超越Anthropic和OpenAI，由DeepMind校友创立。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
-
----
-
-### OpenAI says California should strengthen its AI safety bill
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI建议加州加强AI安全法案，强调对AI伦理和安全的重视。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
-
----
-
-### Frontier AI labs still won’t say how they’d contain a rogue model
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Frontier AI labs未透露如何控制失控模型。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
-
----
-
-### Anthropic’s Opus 4.6 is a smut-machine
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic发布Opus 4.6，AI模型生成成人内容引发争议。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
-
----
-
-### 事故频发并不意味着可靠性下降
+### Cloudflare WriteGuard 为 MCP 服务器提供了精细化的安全控制
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-事故频发不等于可靠性下降，专家指出，系统设计、维护和应对措施是关键。
+Cloudflare推出WriteGuard，为MCP服务器提供精细化安全控制，加强数据保护。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S)
-
----
-
-### Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Cloudflare发布Cache Response Rules，可在源站响应后进一步控制缓存，提升网站性能和响应速度。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu)
+**来源：** [InfoQ](https://www.infoq.cn/article/1pa8asW4xOs6y2GYfl8T)
 
 ---
 
-### Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异
+### 亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare推出Agent Tracing，支持截断限制，不同框架的Payload默认记录策略存在差异。
+亚马逊云科技开源Dogwood，为AI智能体工具调用制定规范，旨在提升智能体间协作效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf)
+**来源：** [InfoQ](https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO)
+
+---
+
+### 向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+亚马逊云科技DynamoDB原生支持AI搜索，挑战向量数据库地位。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m)
 
 ---
 
