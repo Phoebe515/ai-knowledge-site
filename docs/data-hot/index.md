@@ -9,18 +9,28 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月23日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月24日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月23
+## 2026年08月24
+
+### TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Waymo采用定制芯片推动无人驾驶出租车发展，芯片优化算法提升自动驾驶性能，标志着数据AI在机器人出租车领域的应用迈上新台阶。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
+
+---
 
 ### OpenAI says California should strengthen its AI safety bill
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI呼吁加州加强AI安全法案，强调提升AI安全监管。
+OpenAI建议加州加强AI安全法案，强调数据AI安全重要性。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
 
@@ -30,9 +40,19 @@ OpenAI呼吁加州加强AI安全法案，强调提升AI安全监管。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Michael Polansky正在训练基于活体皮肤的人工智能模型，旨在提升皮肤疾病诊断的准确性。
+科学家Michael Polansky正在训练AI模型，使用活体皮肤数据，以提升皮肤疾病诊断的准确性。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
+
+---
+
+### 向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+亚马逊云科技DynamoDB原生支持AI搜索，向量数据库或面临被取代风险。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m)
 
 ---
 
@@ -40,7 +60,7 @@ Michael Polansky正在训练基于活体皮肤的人工智能模型，旨在提�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review探讨AI设计药物时，知识产权归属问题引发争议。数据AI在药物研发中扮演关键角色，但责任归属尚无明确标准。
+当AI设计药物时，谁应获得认可？MIT Tech Review探讨人工智能在药物研发中的角色与知识产权归属问题。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)
 
@@ -50,7 +70,7 @@ MIT Tech Review探讨AI设计药物时，知识产权归属问题引发争议。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道称，氢能领域新进展或源于地下，数据AI技术助力优化氢能储存与利用。
+MIT Tech Review报道，氢能地下储存技术或成下一个行业突破，数据AI在优化储存效率和安全性方面发挥关键作用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/)
 
