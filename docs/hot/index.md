@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月24
+## 2026年08月25
 
-### Who’s behind the new ‘stealth model’ Ox Alpha?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch曝光了神秘公司Ox Alpha的“隐形模式”，引发业界关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
-
----
-
-### Linkdaze’s smart calendar is built to run a household, not just track a schedule
+### Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Linkdaze智能日历功能全面升级，不仅追踪日程，还能管理家务。
+Situational Awareness AI hedge基金遭遇SEC调查，曾濒临崩溃。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
 
 ---
 
-### Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash
+### Trump bought SpaceX shares two weeks after blockbuster IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Flock CEO呼吁“妥协”，应对公司面临日益增长的反响。
+特朗普在SpaceX上市两周后购入其股份。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
 
 ---
 
-### Is it legal to train AI models on copyrighted books? It’s complicated
+### Amazon hikes hardware prices by 60%, blaming memory shortage
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI训练版权书籍合法性问题复杂，涉及版权、数据共享等法律争议。
+亚马逊因内存短缺，调高硬件价格60%。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
 
 ---
 
-### Harvard’s $699 startup bootcamp offers AI avatars of its instructors
+### Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-哈佛大学推出699美元的创业训练营，提供其导师的AI化身教学。
+Replit CEO兼联合创始人Amjad Masad将亮相TechCrunch Disrupt 2026 Disrupt舞台。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
 
 ---
 
-### Cloudflare WriteGuard 为 MCP 服务器提供了精细化的安全控制
+### Instinct’s powerful AI assistant is raising privacy and security concerns
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Instinct的人工智能助手引发隐私与安全问题，TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)
+
+---
+
+### SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare推出WriteGuard，为MCP服务器提供精细化安全控制，加强数据保护。
+SpaceXAI发布Grok Bot，面向自主AI智能代理，旨在提升AI交互能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/1pa8asW4xOs6y2GYfl8T)
-
----
-
-### 亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-亚马逊云科技开源Dogwood，为AI智能体工具调用制定规范，旨在提升智能体间协作效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO)
+**来源：** [InfoQ](https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ)
 
 ---
 
-### 向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索
+### Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊云科技DynamoDB原生支持AI搜索，挑战向量数据库地位。
+Next.js 16.3发布，引入即时导航功能，开发内存最高降低90%，构建速度显著提升。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m)
+**来源：** [InfoQ](https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07)
+
+---
+
+### 多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AgentCore推出持久计算，实现多个AI智能体在EC2上“同住”，突破资源限制，提升计算效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT)
 
 ---
 
