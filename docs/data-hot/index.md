@@ -9,40 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月24日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月25日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月24
+## 2026年08月25
+
+### Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Disrupt 2026现正接受初创企业参展，数据AI领域初创企业可预订展位，抓住展示机会。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+
+---
+
+### Uber faces fine of nearly $1B over automated driver suspensions
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Uber因自动化司机暂停系统面临近10亿美元罚款。涉数据AI领域，涉嫌滥用算法决策。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
+
+---
 
 ### TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Waymo采用定制芯片推动无人驾驶出租车发展，芯片优化算法提升自动驾驶性能，标志着数据AI在机器人出租车领域的应用迈上新台阶。
+TechCrunch Mobility报道，Waymo正开发定制芯片以提升其自动驾驶出租车性能，标志着数据AI在机器人出租车领域的又一重要进展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
-
----
-
-### OpenAI says California should strengthen its AI safety bill
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI建议加州加强AI安全法案，强调数据AI安全重要性。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
-
----
-
-### Michael Polansky is training an AI model on skin that’s still alive
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科学家Michael Polansky正在训练AI模型，使用活体皮肤数据，以提升皮肤疾病诊断的准确性。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
 
 ---
 
@@ -50,7 +50,7 @@ OpenAI建议加州加强AI安全法案，强调数据AI安全重要性。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊云科技DynamoDB原生支持AI搜索，向量数据库或面临被取代风险。
+亚马逊DynamoDB新增AI搜索功能，挑战传统向量数据库地位，数据AI领域再掀波澜。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m)
 
@@ -60,7 +60,7 @@ OpenAI建议加州加强AI安全法案，强调数据AI安全重要性。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-当AI设计药物时，谁应获得认可？MIT Tech Review探讨人工智能在药物研发中的角色与知识产权归属问题。
+AI在药物设计领域的应用引发版权争议，MIT Tech Review探讨AI设计药物时，知识产权归属问题。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)
 
@@ -70,7 +70,7 @@ OpenAI建议加州加强AI安全法案，强调数据AI安全重要性。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，氢能地下储存技术或成下一个行业突破，数据AI在优化储存效率和安全性方面发挥关键作用。
+MIT Tech Review报道称，氢能地下储存技术可能成为氢能应用的突破点，数据AI在优化地下氢能储存系统方面发挥关键作用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/)
 
