@@ -9,30 +9,60 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月26日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年08月27日 09:00</span>
 </div>
 
 ---
 
-## 2026年08月26
+## 2026年08月27
 
-### Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
+### Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Stability AI，图像生成器Stable Diffusion开发者，获7600万美元新一轮融资。
+医疗设备制造商波士顿科学表示，网络攻击导致其全球业务中断，可能影响数据AI应用及设备正常运行。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
 
 ---
 
-### 向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索
+### Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+比尔·盖茨提议实施机器人税和保留“人类专属”职位，以减轻人工智能带来的危害。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/)
+
+---
+
+### 英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-向量数据库面临挑战，亚马逊DynamoDB原生支持AI搜索，引领数据库AI化新趋势。
+英伟达发布Vera Rubin最新进展，推理、网络和定制芯片全面升级，强化数据AI处理能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m)
+**来源：** [InfoQ](https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD)
+
+---
+
+### The Download: the Kids issue arrives, and Bill Gates reveals his AI fears
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+《The Download》发布儿童特刊，比尔·盖茨表达对AI的担忧，强调数据AI伦理与监管的重要性。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/)
+
+---
+
+### Bill Gates says we’ve passed AI’s danger thresholds. Now what?
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+微软创始人比尔·盖茨在MIT Tech Review发表观点，称已越过AI危险阈值，呼吁关注AI安全与治理。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/)
 
 ---
 
