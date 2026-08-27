@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月26日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月27日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月26
+## 2026年08月27
 
-### Robotics startup Generalist reaches $3B valuation, sources say
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-据TechCrunch报道，机器人初创企业Generalist估值达到30亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
-
----
-
-### OpenAI loses a top data center exec, as stream of high-profile departures continues
+### Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI再次遭遇高管离职，数据中心负责人离职，高调离职潮持续。
+Instinct获3500万美元融资，估值25亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
 
 ---
 
-### Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
+### Amazon just tripled its order of Nvidia chips over ‘surging demand’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Stability AI获得7600万美元新融资，其旗下图像生成器Stable Diffusion备受关注。
+亚马逊因需求激增，将英伟达芯片订单量增至三倍。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/)
 
 ---
 
-### Claude Cowork finally remembers what you told the app in chat
+### Anthropic continues compute-gobbling streak in $45B deal with Nscale
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Claude Cowork更新后，能记住用户在聊天中告诉应用的内容。
+Anthropic与Nscale达成45亿美元合作，继续扩大计算能力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)
 
 ---
 
-### Gamma acquires Accel-backed design startup Lica
+### Google’s Gemini has a branding problem, and so does the rest of AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Gamma公司收购了由Accel投资的初创公司Lica，拓展设计领域业务。
+谷歌Gemini面临品牌问题，AI行业亦然。TechCrunch指出，AI品牌建设需加强。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/)
 
 ---
 
-### 主要前沿模型提供商采用水印技术以满足欧盟法规要求
+### How do we explain OpenAI’s executive exodus?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI高管接连离职，原因可能包括内部管理分歧、个人发展需求等。TechCrunch深入分析。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
+
+---
+
+### Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-主要模型提供商采用水印技术，遵守欧盟法规，确保AI模型可追溯。
+Flux 推出 Mirror 插件，强化 Kubernetes 集群安全，仅允许可信制品进入，提升容器化应用安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST)
-
----
-
-### Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Grafana发布gcx和MCP服务器，助力遥测智能代理开发，推动数据监控与可视化。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/9UoCxEhRcFG5ovFxTkXS)
+**来源：** [InfoQ](https://www.infoq.cn/article/p8qELFuWcdBic11PXG72)
 
 ---
 
-### Cloudflare 将 CI 管道转变为 TypeScript 工作流
+### 千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare宣布将CI管道转变为TypeScript工作流，提升开发效率和代码质量。
+千问办公推出Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%，优化AI办公体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd)
+**来源：** [InfoQ](https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc)
+
+---
+
+### ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+MiniMax发布第二份财报，营收超8亿美元，B端收入占比达80%，商业化验证时刻来临。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC)
 
 ---
 
