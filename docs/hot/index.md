@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月27
+## 2026年08月28
 
-### Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Instinct获3500万美元融资，估值25亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
-
----
-
-### Amazon just tripled its order of Nvidia chips over ‘surging demand’
+### Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊因需求激增，将英伟达芯片订单量增至三倍。
+Anthropic和OpenAI将亮相TechCrunch Disrupt 2026，共同探讨AI发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
 
 ---
 
-### Anthropic continues compute-gobbling streak in $45B deal with Nscale
+### Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic与Nscale达成45亿美元合作，继续扩大计算能力。
+Barret Zoph，曾因故离开Thinking Machines并加入OpenAI的联合创始人，现加盟谷歌。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
 
 ---
 
-### Google’s Gemini has a branding problem, and so does the rest of AI
+### OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌Gemini面临品牌问题，AI行业亦然。TechCrunch指出，AI品牌建设需加强。
+OpenAI、Anthropic、谷歌等110家公司呼吁采取行动，共同应对恶意AI威胁。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
 
 ---
 
-### How do we explain OpenAI’s executive exodus?
+### Google’s AI Mode can now track flight prices, help book hotels, and more
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI高管接连离职，原因可能包括内部管理分歧、个人发展需求等。TechCrunch深入分析。
+谷歌AI助手新增追踪航班价格、预订酒店等功能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)
 
 ---
 
-### Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群
+### Hugging Face is selling a cute $399 open source duck robot, Microduck
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Hugging Face推出开源机器人Microduck，售价399美元，集成了人工智能与开源技术。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/)
+
+---
+
+### 从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Flux 推出 Mirror 插件，强化 Kubernetes 集群安全，仅允许可信制品进入，提升容器化应用安全性。
+世界人工智能开源大赛（GOAI）复赛作品提交正式开启，标志着从方案走向运行阶段。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/p8qELFuWcdBic11PXG72)
-
----
-
-### 千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-千问办公推出Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%，优化AI办公体验。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc)
+**来源：** [InfoQ](https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J)
 
 ---
 
-### ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻
+### Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-MiniMax发布第二份财报，营收超8亿美元，B端收入占比达80%，商业化验证时刻来临。
+Cloudflare推出Kitesurf，一款针对AI智能体的浏览器引擎，旨在提升智能体在Web环境中的交互能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC)
+**来源：** [InfoQ](https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a)
+
+---
+
+### 从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+腾讯云数据库DBTalk探讨云原生数据库与数据基础设施的架构、弹性及智能化演进，展现腾讯云在数据领域的创新与布局。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H)
 
 ---
 
