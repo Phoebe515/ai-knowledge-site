@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月28
+## 2026年08月29
 
-### Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic和OpenAI将亮相TechCrunch Disrupt 2026，共同探讨AI发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
-
----
-
-### Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google
+### Neocloud Lambda secures $1B in debt to buy more chips
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Barret Zoph，曾因故离开Thinking Machines并加入OpenAI的联合创始人，现加盟谷歌。
+Neocloud Lambda成功融资10亿美元债务，用于购买更多芯片。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
 
 ---
 
-### OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI
+### An Anthropic researcher just gave us a peek at self-improving AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI、Anthropic、谷歌等110家公司呼吁采取行动，共同应对恶意AI威胁。
+An Anthropic研究员展示了自我改进AI的进展，为AI领域带来新视角。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
 
 ---
 
-### Google’s AI Mode can now track flight prices, help book hotels, and more
+### Open-weight AI companies are the Valley’s hottest acquisition targets
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌AI助手新增追踪航班价格、预订酒店等功能。
+Open-weight AI公司成为硅谷最热门的收购目标，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
 
 ---
 
-### Hugging Face is selling a cute $399 open source duck robot, Microduck
+### Anthropic gets its first court win over the Pentagon’s supply-chain risk label
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Hugging Face推出开源机器人Microduck，售价399美元，集成了人工智能与开源技术。
+Anthropic赢得首场针对五角大楼供应链风险标签的诉讼，法院判定其标签不妥。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
 
 ---
 
-### 从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启
+### Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta高管离职加入OpenAI，社交媒体巨头在印度面临日益严格审查。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/)
+
+---
+
+### 下一层抽象：从UX角度思考Agentic OS的样貌
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-世界人工智能开源大赛（GOAI）复赛作品提交正式开启，标志着从方案走向运行阶段。
+从UX视角探讨Agentic OS设计，分析其抽象层次，以提升用户体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J)
-
----
-
-### Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Cloudflare推出Kitesurf，一款针对AI智能体的浏览器引擎，旨在提升智能体在Web环境中的交互能力。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a)
+**来源：** [InfoQ](https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop)
 
 ---
 
-### 从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk
+### DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯云数据库DBTalk探讨云原生数据库与数据基础设施的架构、弹性及智能化演进，展现腾讯云在数据领域的创新与布局。
+DuckDB v2.0重磅发布，实现从嵌入式数据库到分布式架构的跨越，扩展性能与功能，助力大数据处理。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H)
+**来源：** [InfoQ](https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1)
+
+---
+
+### 圆桌讨论：研究型人才培养与数据库未来发展方向
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+圆桌讨论聚焦研究型人才培养与数据库未来，探讨数据库技术发展趋势与教育融合。
+
+**来源：** [InfoQ](https://www.infoq.cn/video/kJ0ARKZePg80FpGY1J3Y)
 
 ---
 
