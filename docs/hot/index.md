@@ -9,60 +9,80 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月29
+## 2026年08月30
+
+### Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+索尼音乐和华纳音乐起诉Anthropic，指控其进行“大胆的知识产权盗窃”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
+
+---
+
+### At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+在TechBBQ上，欧洲AI讨论聚焦：谁真正掌控AI？
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
+
+---
+
+### “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+知名投资人Vijay Pande表示，在管理40亿美元资金后，他将减少对初创公司的投资，每年仅投3-5个项目。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
+
+---
+
+### Nvidia’s AI advantage is moving beyond the GPU
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia AI优势拓展至GPU之外，TechCrunch报道，Nvidia正将AI技术应用于更多领域，推动行业创新。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+
+---
 
 ### Neocloud Lambda secures $1B in debt to buy more chips
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Neocloud Lambda成功融资10亿美元债务，用于购买更多芯片。
+Neocloud Lambda成功融资10亿美元用于购买更多芯片，以扩大业务规模。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
 
 ---
 
-### An Anthropic researcher just gave us a peek at self-improving AI
+### 一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-An Anthropic研究员展示了自我改进AI的进展，为AI领域带来新视角。
+HarmonyOS7视觉AI实现一句话找图及低清图增强，走进真实应用场景。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
-
----
-
-### Open-weight AI companies are the Valley’s hottest acquisition targets
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Open-weight AI公司成为硅谷最热门的收购目标，TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
+**来源：** [InfoQ](https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J)
 
 ---
 
-### Anthropic gets its first court win over the Pentagon’s supply-chain risk label
+### Agent 时代，为什么有人开始重新造 Google？
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic赢得首场针对五角大楼供应链风险标签的诉讼，法院判定其标签不妥。
+随着Agent时代的到来，有人开始重新构想Google，以应对个性化搜索和AI技术的发展需求。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
-
----
-
-### Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta高管离职加入OpenAI，社交媒体巨头在印度面临日益严格审查。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/)
+**来源：** [InfoQ](https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR)
 
 ---
 
@@ -70,29 +90,9 @@ Meta高管离职加入OpenAI，社交媒体巨头在印度面临日益严格审�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-从UX视角探讨Agentic OS设计，分析其抽象层次，以提升用户体验。
+从UX视角探讨Agentic OS设计，聚焦抽象层次与用户体验。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop)
-
----
-
-### DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-DuckDB v2.0重磅发布，实现从嵌入式数据库到分布式架构的跨越，扩展性能与功能，助力大数据处理。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1)
-
----
-
-### 圆桌讨论：研究型人才培养与数据库未来发展方向
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-圆桌讨论聚焦研究型人才培养与数据库未来，探讨数据库技术发展趋势与教育融合。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/kJ0ARKZePg80FpGY1J3Y)
 
 ---
 
