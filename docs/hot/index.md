@@ -9,12 +9,32 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月30日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年08月31日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月30
+## 2026年08月31
+
+### Musk’s faster path to more gas turbines comes with pollution problem
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+马斯克推动更快部署燃气轮机，却引发环境污染问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
+
+---
+
+### Caterpillar is bringing to AI deployment what it learned from automating mining
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+卡特彼勒借鉴自动化采矿经验，将AI技术应用于部署，推动智能化转型。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)
+
+---
 
 ### Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
 
@@ -30,7 +50,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-在TechBBQ上，欧洲AI讨论聚焦：谁真正掌控AI？
+在TechBBQ上，欧洲AI讨论反复聚焦：谁真正掌控AI？
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
 
@@ -40,29 +60,9 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-知名投资人Vijay Pande表示，在管理40亿美元资金后，他将减少对初创公司的投资，每年仅投3-5个项目。
+Vijay Pande表示，在管理40亿美元资金后，他将减少投资赌注数量，每年不超过30次。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
-
----
-
-### Nvidia’s AI advantage is moving beyond the GPU
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia AI优势拓展至GPU之外，TechCrunch报道，Nvidia正将AI技术应用于更多领域，推动行业创新。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
-
----
-
-### Neocloud Lambda secures $1B in debt to buy more chips
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Neocloud Lambda成功融资10亿美元用于购买更多芯片，以扩大业务规模。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
 
 ---
 
@@ -70,7 +70,7 @@ Neocloud Lambda成功融资10亿美元用于购买更多芯片，以扩大业务
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-HarmonyOS7视觉AI实现一句话找图及低清图增强，走进真实应用场景。
+HarmonyOS7视觉AI技术实现一句话找图及低清图增强，迈向真实应用场景。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J)
 
@@ -80,7 +80,7 @@ HarmonyOS7视觉AI实现一句话找图及低清图增强，走进真实应用�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-随着Agent时代的到来，有人开始重新构想Google，以应对个性化搜索和AI技术的发展需求。
+在Agent时代，部分企业重新构建Google，旨在实现更智能的信息检索与个性化服务。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR)
 
@@ -90,7 +90,7 @@ HarmonyOS7视觉AI实现一句话找图及低清图增强，走进真实应用�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-从UX视角探讨Agentic OS设计，聚焦抽象层次与用户体验。
+从UX视角探讨Agentic OS设计，探讨其抽象层次与用户体验关系。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop)
 
