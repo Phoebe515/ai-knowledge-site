@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年08月31日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月01日 07:00</span>
 </div>
 
 ---
 
-## 2026年08月31
+## 2026年09月01
 
-### Musk’s faster path to more gas turbines comes with pollution problem
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-马斯克推动更快部署燃气轮机，却引发环境污染问题。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
-
----
-
-### Caterpillar is bringing to AI deployment what it learned from automating mining
+### Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-卡特彼勒借鉴自动化采矿经验，将AI技术应用于部署，推动智能化转型。
+苹果公司向OpenAI泄露数据的前员工被控，TechCrunch曝光“惊人证据”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/)
 
 ---
 
-### Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft
+### The Pentagon now has its own version of ChatGPT and Grok
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-索尼音乐和华纳音乐起诉Anthropic，指控其进行“大胆的知识产权盗窃”。
+美国国防部推出自研AI聊天机器人，类似ChatGPT和Grok，用于信息处理和数据分析。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
 
 ---
 
-### At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?
+### Instagram puts new limits on undisclosed AI profiles
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-在TechBBQ上，欧洲AI讨论反复聚焦：谁真正掌控AI？
+Instagram对未披露的AI账号实施新限制，旨在提升平台安全与透明度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
 
 ---
 
-### “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z
+### Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Vijay Pande表示，在管理40亿美元资金后，他将减少投资赌注数量，每年不超过30次。
+哈佛法学院辍学生筹集600万美元创立Blue Voice，旨在打造“警察版的Harvey”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)
 
 ---
 
-### 一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用
+### Clipto uses AI to search terabytes of video and is now valued at $250M
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Clipto利用AI技术搜索海量视频，估值达2.5亿美元。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)
+
+---
+
+### 智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-HarmonyOS7视觉AI技术实现一句话找图及低清图增强，迈向真实应用场景。
+Uber公开AI软件工厂省钱方法：智能体请求暴增9.4倍，token账单却没涨。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J)
-
----
-
-### Agent 时代，为什么有人开始重新造 Google？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在Agent时代，部分企业重新构建Google，旨在实现更智能的信息检索与个性化服务。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR)
+**来源：** [InfoQ](https://www.infoq.cn/article/WGj2Jx0K2sbP3dhUXeC5)
 
 ---
 
-### 下一层抽象：从UX角度思考Agentic OS的样貌
+### 从出片到出海：AI MediaKit 重塑短剧全链路生产力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-从UX视角探讨Agentic OS设计，探讨其抽象层次与用户体验关系。
+AI MediaKit助力短剧全链路生产力提升，实现从出片到出海的全新变革。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop)
+**来源：** [InfoQ](https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ)
+
+---
+
+### AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+小红书 Muse 探索 Agentic 架构，提升 AI 写代码效率，但交付速度未见显著提升。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/l88X1azz8wfwphDyECoP)
 
 ---
 
