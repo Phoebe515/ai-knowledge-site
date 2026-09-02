@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月01日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月02日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月01
+## 2026年09月02
 
-### Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果公司向OpenAI泄露数据的前员工被控，TechCrunch曝光“惊人证据”。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/)
-
----
-
-### The Pentagon now has its own version of ChatGPT and Grok
+### AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国国防部推出自研AI聊天机器人，类似ChatGPT和Grok，用于信息处理和数据分析。
+AfterQuery成为Y Combinator最快独角兽，估值达32亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
 
 ---
 
-### Instagram puts new limits on undisclosed AI profiles
+### OpenAI’s Astra model is on the way — and very good at breaking into computer systems
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Instagram对未披露的AI账号实施新限制，旨在提升平台安全与透明度。
+OpenAI的Astra模型即将推出，擅长破解计算机系统。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
 
 ---
 
-### Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
+### Google’s Android update tackles motion sickness, accessibility, and more
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-哈佛法学院辍学生筹集600万美元创立Blue Voice，旨在打造“警察版的Harvey”。
+谷歌Android更新解决晕动症、无障碍性等问题，提升用户体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/)
 
 ---
 
-### Clipto uses AI to search terabytes of video and is now valued at $250M
+### Anthropic’s new Fable release is cheaper, less restrictive
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Clipto利用AI技术搜索海量视频，估值达2.5亿美元。
+Anthropic发布新版本Fable，价格更低，限制更少，提供更灵活的使用体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/)
 
 ---
 
-### 智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法
+### Google’s answer to Canva is an AI tool where you prompt instead of design
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌推出AI设计工具，用户仅需输入提示即可生成设计，类似于Canva。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)
+
+---
+
+### 云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Uber公开AI软件工厂省钱方法：智能体请求暴增9.4倍，token账单却没涨。
+云原生弹性成为Agent时代数据基座能力之一，探讨迁移策略及其重要性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/WGj2Jx0K2sbP3dhUXeC5)
-
----
-
-### 从出片到出海：AI MediaKit 重塑短剧全链路生产力
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI MediaKit助力短剧全链路生产力提升，实现从出片到出海的全新变革。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ)
+**来源：** [InfoQ](https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D)
 
 ---
 
-### AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践
+### OpenClaw 迎来史上最大更新：933 名贡献者、超 1.6万次 PR 提交！打开浏览器就能用
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-小红书 Muse 探索 Agentic 架构，提升 AI 写代码效率，但交付速度未见显著提升。
+OpenClaw发布重大更新，吸引933名贡献者，累计PR提交超1.6万次，实现浏览器访问。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/l88X1azz8wfwphDyECoP)
+**来源：** [InfoQ](https://www.infoq.cn/article/9RS84kmpRvz4IqRUbNoe)
+
+---
+
+### 3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+三名开发者副业项目半年吸引4万人，亚马逊云科技开源内部Agent工作台。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Um4rVTweSFXAiwdGLFVB)
 
 ---
 
