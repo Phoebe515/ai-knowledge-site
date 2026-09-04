@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月03日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月04日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月03
+## 2026年09月04
 
-### The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Builders Stage在TechCrunch Disrupt 2026上分享扩大初创公司的实用策略。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/)
-
----
-
-### Palo Alto Networks paid $500M for Thrive-backed Console, sources say
+### Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-网络安全公司Palo Alto Networks斥资5亿美元收购Thrive-backed Console，消息人士透露。
+Accel洽谈领投10亿美元融资，估值400亿美元，助力Thinking Machines发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
 
 ---
 
-### TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals 
+### Abliteration.ai is making a business out of removing AI guardrails
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026新增“真实世界AI舞台”，展示Nvidia、机器人及灭绝动物应用。
+Abliteration.ai以去除AI限制为业务，致力于释放AI潜能，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
 
 ---
 
-### OpenAI’s new reasoning technique alarms AI safety experts
+### Meta is paying to peek at how you use their latest AI model
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI推出新型推理技术，引发AI安全专家担忧。
+Meta向用户支付费用以了解其最新AI模型的使用情况。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
 
 ---
 
-### Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
+### OpenAI launches Astra, its powerful (and controversial) new model
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Pangram CEO Max Spero在TechCrunch上表示，AI检测难度大于“真伪”判断，因为AI生成内容在风格和结构上难以与人类写作区分。
+OpenAI发布Astra模型，功能强大备受争议，引发行业关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
 
 ---
 
-### Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器
+### Ollie is betting its focus on privacy can help it win the AI assistant race
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Ollie聚焦隐私保护，以赢得AI助手竞赛。TechCrunch报道，该公司通过强化隐私功能，试图在竞争激烈的市场中脱颖而出。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
+
+---
+
+### 当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Nuxt 4.5发布，引入实验性SSR流式传输、Vite 8和基于Rsbuild的Rspack构建器，提升开发效率和性能。
+WorkBuddy 推出朋友圈功能，打破App限制，实现社交圈向外拓展，提升用户体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/kggVXP7XclvALPskmSdq)
-
----
-
-### 当 AI 开始重写负载，数据库该如何重新设计？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI技术发展促使数据库重设计，需适应负载重写，以优化性能与数据管理。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu)
+**来源：** [InfoQ](https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy)
 
 ---
 
-### Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0
+### 从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Java领域近期动态：JDK 27-RC1发布，OpenJDK JEPs更新，Jakarta EE进展，BellSoft、Helidon、Micrometer等库更新，Tika 4.0版发布。
+Kiro Crew从内部Side Project发展至3.9万开发者使用，创造者分享开发幕后。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP)
+**来源：** [InfoQ](https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9)
+
+---
+
+### 当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+华为云重构数据基础设施，应对Agent“吃数据”需求，传统湖仓不足，推动数据治理和AI应用升级。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx)
 
 ---
 
