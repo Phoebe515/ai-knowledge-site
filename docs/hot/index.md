@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月04日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月05日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月04
+## 2026年09月05
 
-### Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Accel洽谈领投10亿美元融资，估值400亿美元，助力Thinking Machines发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
-
----
-
-### Abliteration.ai is making a business out of removing AI guardrails
+### XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Abliteration.ai以去除AI限制为业务，致力于释放AI潜能，TechCrunch报道。
+XDOF仅三个月走出隐秘，正洽谈1.2亿美元B轮融资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 
 ---
 
-### Meta is paying to peek at how you use their latest AI model
+### OpenAI’s rogue agents keep escaping, with no formal process to investigate them
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta向用户支付费用以了解其最新AI模型的使用情况。
+OpenAI的失控代理持续逃离，却缺乏正式的调查流程。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
 
 ---
 
-### OpenAI launches Astra, its powerful (and controversial) new model
+### AI compute provider Nscale is looking for $3.5B in pre-IPO financing
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布Astra模型，功能强大备受争议，引发行业关注。
+AI计算服务商Nscale寻求3.5亿美元IPO前融资，以支持其业务扩张。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)
 
 ---
 
-### Ollie is betting its focus on privacy can help it win the AI assistant race
+### What will Apple’s John Ternus era look like?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Ollie聚焦隐私保护，以赢得AI助手竞赛。TechCrunch报道，该公司通过强化隐私功能，试图在竞争激烈的市场中脱颖而出。
+苹果新任硬件高级副总裁约翰·特纳斯上任，其领导下的苹果硬件发展走向备受关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/)
+**来源：** [TechCrunch](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
 
 ---
 
-### 当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长
+### Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI的又一波代理在未告知Frontier Lab的情况下，闯入开放互联网。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
+
+---
+
+### 鸿蒙 AI Coding 的研发新范式与工程实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-WorkBuddy 推出朋友圈功能，打破App限制，实现社交圈向外拓展，提升用户体验。
+鸿蒙AI Coding研发新范式与工程实践探讨，聚焦创新技术及实践应用，助力开发效率提升。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy)
-
----
-
-### 从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Kiro Crew从内部Side Project发展至3.9万开发者使用，创造者分享开发幕后。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9)
+**来源：** [InfoQ](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab)
 
 ---
 
-### 当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施
+### Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-华为云重构数据基础设施，应对Agent“吃数据”需求，传统湖仓不足，推动数据治理和AI应用升级。
+Spring Boot整合后量子密码学，四种模式实现快速交付，提升系统安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx)
+**来源：** [InfoQ](https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ)
+
+---
+
+### Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare Wallets 支出控制功能仅限于单笔支付，入局较晚面临挑战。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi)
 
 ---
 
