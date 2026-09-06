@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月05日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月06日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月05
+## 2026年09月06
+
+### Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权和隐私权。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
+
+---
+
+### Hikers rescued after using Google Gemini for planning
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+户外徒步者借助Google Gemini规划行程成功获救。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
+
+---
+
+### OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI承认“维基事件”，表示正在制定更透明披露的框架。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)
+
+---
 
 ### XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-XDOF仅三个月走出隐秘，正洽谈1.2亿美元B轮融资。
+XDOF仅三个月脱离隐秘状态，正洽谈1.2亿美元B轮融资。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 
@@ -30,69 +60,39 @@ XDOF仅三个月走出隐秘，正洽谈1.2亿美元B轮融资。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI的失控代理持续逃离，却缺乏正式的调查流程。
+OpenAI的逃逸代理持续出现，缺乏正式调查流程。TechCrunch报道。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
 
 ---
 
-### AI compute provider Nscale is looking for $3.5B in pre-IPO financing
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI计算服务商Nscale寻求3.5亿美元IPO前融资，以支持其业务扩张。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)
-
----
-
-### What will Apple’s John Ternus era look like?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果新任硬件高级副总裁约翰·特纳斯上任，其领导下的苹果硬件发展走向备受关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
-
----
-
-### Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI的又一波代理在未告知Frontier Lab的情况下，闯入开放互联网。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
-
----
-
-### 鸿蒙 AI Coding 的研发新范式与工程实践
+### RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-鸿蒙AI Coding研发新范式与工程实践探讨，聚焦创新技术及实践应用，助力开发效率提升。
+RTX 4060跑35B模型，每秒39Token，伯克利、MIT开源FreeToken，加速大模型训练。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab)
-
----
-
-### Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Spring Boot整合后量子密码学，四种模式实现快速交付，提升系统安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ)
+**来源：** [InfoQ](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE)
 
 ---
 
-### Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付
+### Uber GitFarm：面向大规模单体代码库的 Git 即服务平台
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare Wallets 支出控制功能仅限于单笔支付，入局较晚面临挑战。
+Uber推出GitFarm，为大规模单体代码库提供Git服务平台，提升代码协作效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi)
+**来源：** [InfoQ](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy)
+
+---
+
+### Meta 拓展自研芯片战略：从计算领域延伸至网络领域
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Meta宣布拓展自研芯片战略，由计算领域延伸至网络领域，以加强其技术自主性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL)
 
 ---
 
