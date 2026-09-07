@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月06日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月07日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月06
+## 2026年09月07
+
+### Authors push back as publishers and agents make claims on Anthropic settlement
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+作家反对出版商和代理商对Anthropic和解金提出索赔，TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
+
+---
+
+### Travis Kalanick’s Atoms might be getting into the robotaxi business
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Travis Kalanick旗下公司Atoms可能进军机器人出租车领域。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
+
+---
 
 ### Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权和隐私权。
+《西雅图时报》和《新闻日报》最新起诉OpenAI和微软，指控其侵犯版权。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
 
@@ -30,7 +50,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-户外徒步者借助Google Gemini规划行程成功获救。
+徒步者利用Google Gemini规划路线成功获救，科技助力户外安全。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
 
@@ -40,59 +60,39 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI承认“维基事件”，表示正在制定更透明披露的框架。
+OpenAI确认“维基事件”，称正在制定更透明披露框架。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)
 
 ---
 
-### XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-XDOF仅三个月脱离隐秘状态，正洽谈1.2亿美元B轮融资。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
-
----
-
-### OpenAI’s rogue agents keep escaping, with no formal process to investigate them
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI的逃逸代理持续出现，缺乏正式调查流程。TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
-
----
-
-### RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken
+### 微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-RTX 4060跑35B模型，每秒39Token，伯克利、MIT开源FreeToken，加速大模型训练。
+微软Foundry模型路由扩容至28个覆盖区域，并更新模型池，提升AI服务能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE)
-
----
-
-### Uber GitFarm：面向大规模单体代码库的 Git 即服务平台
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Uber推出GitFarm，为大规模单体代码库提供Git服务平台，提升代码协作效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy)
+**来源：** [InfoQ](https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE)
 
 ---
 
-### Meta 拓展自研芯片战略：从计算领域延伸至网络领域
+### FlexGanttFX 正式开源
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Meta宣布拓展自研芯片战略，由计算领域延伸至网络领域，以加强其技术自主性。
+FlexGanttFX 框架正式开源，提供丰富的甘特图功能，助力项目管理和可视化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL)
+**来源：** [InfoQ](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8)
+
+---
+
+### 蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+开发者调查蓝牙耳机断连问题，发现阿里全球速卖通播放静音导致连接异常。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP)
 
 ---
 
