@@ -9,18 +9,28 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月07日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月08日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月07
+## 2026年09月08
+
+### Opaque recurrence, and other AI terms that you should probably know
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch一文解析AI领域常见术语，如“Opaque recurrence”，助读者深入了解人工智能相关知识。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+
+---
 
 ### Authors push back as publishers and agents make claims on Anthropic settlement
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-作家反对出版商和代理商对Anthropic和解金提出索赔，TechCrunch报道。
+作家对出版商和代理商在Anthropic和解中索要权利表示反对。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
 
@@ -30,7 +40,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Travis Kalanick旗下公司Atoms可能进军机器人出租车领域。
+Travis Kalanick的Atom公司可能进军robotaxi行业。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
 
@@ -40,7 +50,7 @@ Travis Kalanick旗下公司Atoms可能进军机器人出租车领域。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-《西雅图时报》和《新闻日报》最新起诉OpenAI和微软，指控其侵犯版权。
+西雅图时报和新闻日报最新起诉OpenAI和微软，指控其侵犯版权。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
 
@@ -50,49 +60,39 @@ Travis Kalanick旗下公司Atoms可能进军机器人出租车领域。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-徒步者利用Google Gemini规划路线成功获救，科技助力户外安全。
+徒步者借助Google Gemini规划路线成功获救。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
 
 ---
 
-### OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI确认“维基事件”，称正在制定更透明披露框架。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)
-
----
-
-### 微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池
+### HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-微软Foundry模型路由扩容至28个覆盖区域，并更新模型池，提升AI服务能力。
+HCP Terraform定位为AI驱动基础设施控制平面，旨在通过人工智能技术优化基础设施管理。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE)
-
----
-
-### FlexGanttFX 正式开源
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-FlexGanttFX 框架正式开源，提供丰富的甘特图功能，助力项目管理和可视化。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8)
+**来源：** [InfoQ](https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm)
 
 ---
 
-### 蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”
+### 从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-开发者调查蓝牙耳机断连问题，发现阿里全球速卖通播放静音导致连接异常。
+阿福Agent小队在QCon上海分享，如何通过Harness到Loop的流程处理线上Badcase，确保持续稳定运行。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP)
+**来源：** [InfoQ](https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp)
+
+---
+
+### 利用 Workload Identity Federation 清除 GCP 中长期有效的凭据
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+GCP通过Workload Identity Federation清除长期有效凭据，提升云安全。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/bEwEWltvchcPZUACt36w)
 
 ---
 
