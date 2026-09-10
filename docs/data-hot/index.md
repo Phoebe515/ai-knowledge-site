@@ -9,40 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月10日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月10日 14:00</span>
 </div>
 
 ---
 
 ## 2026年09月10
 
-### 当 Agent 开始写应用，数据库也得换一套打法
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI应用Agent兴起，推动数据库技术革新，传统数据库需适应智能化需求。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh)
-
----
-
-### 面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-腾讯云数据库DBTalk发布面向Agent开发的新范式，强化数据库与AI的融合，提升智能数据处理能力。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf)
-
----
-
-### This geneticist’s age-reversal tech could help restore sight
+### God told them to sell crypto. Their investors lost everything.
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT科技评论报道，一位遗传学家开发出有望逆转衰老的科技，该技术可能有助于恢复视力，涉及数据AI在基因编辑中的应用。
+MIT Tech Review报道，一宗教团体听从“上帝旨意”投资加密货币，投资者损失惨重，凸显数据AI在投资风险评估中的重要性。
 
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
+
+---
+
+### Healthcare AI’s next test is integration
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+MIT Tech Review指出，医疗AI的下一步挑战在于与现有医疗系统的整合。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
 
 ---
 
