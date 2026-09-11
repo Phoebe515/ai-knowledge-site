@@ -9,18 +9,38 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月10日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月11日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月10
+## 2026年09月11
+
+### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+马克·沃尔伯格将亮相TechCrunch Disrupt 2026，聚焦听众工作，探讨数据AI领域创新。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
+
+---
+
+### Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌与印度初创企业Mitti Labs签署最大规模稻米-甲烷碳信用交易，利用AI技术推动可持续能源发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
+
+---
 
 ### God told them to sell crypto. Their investors lost everything.
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一宗教团体听从“上帝旨意”投资加密货币，投资者损失惨重，凸显数据AI在投资风险评估中的重要性。
+一家宗教信仰者创办的加密货币基金，声称获得神启指导，但最终投资者损失惨重，AI分析揭示投资决策存在重大缺陷。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
 
@@ -30,7 +50,7 @@ MIT Tech Review报道，一宗教团体听从“上帝旨意”投资加密货�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review指出，医疗AI的下一步挑战在于与现有医疗系统的整合。
+MIT Tech Review指出，医疗AI的下一步挑战在于整合，需解决数据共享和算法协同问题。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
 
