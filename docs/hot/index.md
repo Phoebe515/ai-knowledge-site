@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月10日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月11日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月10
+## 2026年09月11
 
-### AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Listen Labs放弃15亿美元融资，转与Salesforce洽谈合作。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)
-
----
-
-### OpenAI adds a prominent AI doomer to its board of directors
+### Jensen Huang explains why Nvidia will grow an astounding 70% next year
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI宣布加入知名AI悲观派人士至董事会，加强AI安全监管。
+Nvidia CEO黄仁勋在TechCrunch解释，公司明年将实现惊人的70%增长。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/)
 
 ---
 
-### Massachusetts hits data centers with new clean power rules
+### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马萨诸塞州发布新规，要求数据中心使用清洁能源。
+马克·沃尔伯格将出席TechCrunch Disrupt 2026，分享观众工作心得，而非个人经历。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
 
 ---
 
-### Apple Watch’s new AI features are normalizing the idea that technology is always listening
+### OpenAI puts Pro subscriptions on hold due to Astra demand
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果手表新增AI功能，推动“总在监听”观念的普及。
+OpenAI因Astra需求激增，暂停推出专业订阅服务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
 
 ---
 
-### Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch
+### Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果秋季发布会发布折叠iPhone、持续聆听的Apple Watch等新产品。
+Anthropic分享来自阿里巴巴、Moonshot AI和DeepSeek的模型蒸馏案例，探讨模型压缩与优化技术。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
 
 ---
 
-### 从 Harness 到 Loop 的持续进化
+### Meta’s AI agent Muse is now the No. 2 app in the US
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta的AI代理Muse在美国应用商店排名上升至第二位。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/)
+
+---
+
+### 2026 腾讯云大数据年度精选技术实践指南
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Harness 演进至 Loop，持续优化AI模型训练与推理效率，提升AI应用性能。
+《2026腾讯云大数据年度精选技术实践指南》发布，涵盖大数据领域最新技术实践，助力企业数字化转型。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5)
-
----
-
-### 技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在9.20 FDE活动现场，探讨技术落地难题，企业面临技术与应用脱节挑战。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu)
+**来源：** [InfoQ](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX)
 
 ---
 
-### Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式
+### Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Kubernetes 推广 KYAML，作为更安全、一致的配置清单处理方式，提升容器化部署的安全性。
+Snowflake中国落地两年，迈向智能体企业时代，强调上下文在关键作用。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u)
+**来源：** [InfoQ](https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt)
+
+---
+
+### 破除人形崇拜！京东用“狼族”军团重做物理AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+京东以“狼族”军团重构物理AI，破除人形崇拜，探索新型智能体发展路径。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ)
 
 ---
 
