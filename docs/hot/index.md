@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月11日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月12日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月11
+## 2026年09月12
 
-### Jensen Huang explains why Nvidia will grow an astounding 70% next year
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia CEO黄仁勋在TechCrunch解释，公司明年将实现惊人的70%增长。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/)
-
----
-
-### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
+### Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马克·沃尔伯格将出席TechCrunch Disrupt 2026，分享观众工作心得，而非个人经历。
+Mecka AI在Sequoia领投的融资中估值接近5亿美元，机器人训练数据需求激增。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
 
 ---
 
-### OpenAI puts Pro subscriptions on hold due to Astra demand
+### Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI因Astra需求激增，暂停推出专业订阅服务。
+Y Combinator合伙人Garry Tan呼吁美国开放重量级AI实验室也应“提炼”前沿模型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
 ---
 
-### Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek
+### OpenAI’s feud with mathematicians is only escalating
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic分享来自阿里巴巴、Moonshot AI和DeepSeek的模型蒸馏案例，探讨模型压缩与优化技术。
+OpenAI与数学家的争执不断升级，双方在人工智能与数学领域的观点分歧日益显著。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
 
 ---
 
-### Meta’s AI agent Muse is now the No. 2 app in the US
+### One week left to book your exhibit table at TechCrunch Disrupt 2026
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta的AI代理Muse在美国应用商店排名上升至第二位。
+TechCrunch Disrupt 2026展会预订倒计时一周，展位抢订从速。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
 
 ---
 
-### 2026 腾讯云大数据年度精选技术实践指南
+### Final, final, final call for TechCrunch Disrupt 2026 Side Events
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Disrupt 2026侧活动报名截止在即，错过不再！
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
+
+---
+
+### AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-《2026腾讯云大数据年度精选技术实践指南》发布，涵盖大数据领域最新技术实践，助力企业数字化转型。
+快手柯南AI实践探讨AI Coding提速后的稳定性提升，关注如何补上“最后一公里”。
 
-**来源：** [InfoQ](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX)
-
----
-
-### Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake中国落地两年，迈向智能体企业时代，强调上下文在关键作用。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt)
+**来源：** [InfoQ](https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz)
 
 ---
 
-### 破除人形崇拜！京东用“狼族”军团重做物理AI
+### 怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-京东以“狼族”军团重构物理AI，破除人形崇拜，探索新型智能体发展路径。
+Kotlin“J神”怒斥加密货币是旁氏骗局，认为AI将使工程师成为可替换齿轮，即使放弃80%就业机会也不愿AI写代码。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ)
+**来源：** [InfoQ](https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM)
+
+---
+
+### “我们在拿生命做赌注”：造AI的人为何开始密集预警？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI领域专家密集预警，称在拿生命做赌注，引发业界关注。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX)
 
 ---
 
