@@ -9,30 +9,60 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月11日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月12日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月11
+## 2026年09月12
+
+### Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Y Combinator合伙人Garry Tan呼吁美国开放权重AI实验室“提炼”前沿模型，推动AI技术发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+
+---
+
+### One week left to book your exhibit table at TechCrunch Disrupt 2026
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+仅剩一周，抢订TechCrunch Disrupt 2026展会数据AI展区展位，共襄数据AI行业盛会。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
+
+---
+
+### Final, final, final call for TechCrunch Disrupt 2026 Side Events
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Disrupt 2026 Side Events最后招募阶段，数据AI领域专家学者及项目积极投稿。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
+
+---
 
 ### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-马克·沃尔伯格将出席TechCrunch Disrupt 2026，聚焦观众工作，探讨数据AI领域创新。
+马克·沃尔伯格将出席TechCrunch Disrupt 2026，分享数据AI工作心得，聚焦行业创新。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
 
 ---
 
-### Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs
+### The Download: biotech’s future and cheaper, cleaner steel
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-Google与印度初创公司Mitti Labs签署最大规模水稻甲烷碳信用交易，利用数据AI技术助力减排。
+MIT Tech Review报道，生物科技未来与低成本、环保型钢材研发备受关注，数据AI在优化生物技术和钢材生产中发挥重要作用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 
 ---
 
@@ -40,7 +70,7 @@ Google与印度初创公司Mitti Labs签署最大规模水稻甲烷碳信用交�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，多位35岁以下青年在生物科技领域崭露头角，利用数据AI技术推动创新，引领未来生物科技发展。
+MIT Tech Review报道，全球35岁以下的生物科技领军人物正在推动行业发展，他们利用数据AI技术，为医疗健康领域带来创新变革。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 
@@ -50,7 +80,7 @@ MIT Tech Review报道，多位35岁以下青年在生物科技领域崭露头角
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-一群信徒因“上帝指示”投资加密货币，投资者损失惨重，数据AI在投资决策中的应用需谨慎。
+投资者听从“上帝旨意”投资加密货币，结果血本无归，AI分析揭示投资风险与信仰冲突。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
 
@@ -60,7 +90,7 @@ MIT Tech Review报道，多位35岁以下青年在生物科技领域崭露头角
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，医疗AI面临新挑战：与现有系统整合。
+MIT Tech Review报道称，医疗AI面临下一挑战：与现有医疗体系的集成。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
 
