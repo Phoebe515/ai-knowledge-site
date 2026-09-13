@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月12
+## 2026年09月13
+
+### OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI CEO Sam Altman在TechCrunch表示，预计在2026年上市将是“不明智”的选择。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+
+---
+
+### Anthropic CEO outlines plan to slow AI development
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic CEO提出减缓AI发展计划，旨在确保AI安全与可控。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+
+---
 
 ### Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Mecka AI在Sequoia领投的融资中估值接近5亿美元，机器人训练数据需求激增。
+Mecka AI在Sequoia领投的交易中估值接近5亿美元，机器人训练数据需求推动其发展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
 
@@ -30,7 +50,7 @@ Mecka AI在Sequoia领投的融资中估值接近5亿美元，机器人训练数�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Y Combinator合伙人Garry Tan呼吁美国开放重量级AI实验室也应“提炼”前沿模型。
+Y Combinator合伙人Garry Tan呼吁美国开放重量级AI实验室也应“提炼”前沿模型，以推动AI技术发展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
@@ -40,59 +60,39 @@ Y Combinator合伙人Garry Tan呼吁美国开放重量级AI实验室也应“提
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI与数学家的争执不断升级，双方在人工智能与数学领域的观点分歧日益显著。
+OpenAI与数学家的争执愈演愈烈，科技媒体TechCrunch报道，双方围绕算法争议持续升级。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
 
 ---
 
-### One week left to book your exhibit table at TechCrunch Disrupt 2026
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026展会预订倒计时一周，展位抢订从速。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
-
----
-
-### Final, final, final call for TechCrunch Disrupt 2026 Side Events
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026侧活动报名截止在即，错过不再！
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
-
----
-
-### AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践
+### AI的新用法，被这群 Builder 带到了外滩大会开发者日
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-快手柯南AI实践探讨AI Coding提速后的稳定性提升，关注如何补上“最后一公里”。
+AI新用法亮相外滩大会开发者日，Builder群体展示前沿技术应用。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz)
-
----
-
-### 怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Kotlin“J神”怒斥加密货币是旁氏骗局，认为AI将使工程师成为可替换齿轮，即使放弃80%就业机会也不愿AI写代码。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM)
+**来源：** [InfoQ](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL)
 
 ---
 
-### “我们在拿生命做赌注”：造AI的人为何开始密集预警？
+### Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI领域专家密集预警，称在拿生命做赌注，引发业界关注。
+Google推出基于智能代理的漏洞扫描框架Mantis，旨在减少误报，提升安全检测效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX)
+**来源：** [InfoQ](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku)
+
+---
+
+### 两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+前Google DeepMind研究员意外撞上大模型蒸馏疑云，仅两个Token令Kimi“变成”Claude。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT)
 
 ---
 
