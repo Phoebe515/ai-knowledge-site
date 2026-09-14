@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月13日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月14日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月13
+## 2026年09月14
+
+### What’s behind the AI industry’s latest warnings of doom?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch报道，AI行业再次发出末日警告，关注其潜在风险和挑战。专家呼吁加强监管和伦理建设。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
+
+---
+
+### Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+奥巴马敦促民主党制定清晰的人工智能安全计划。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+
+---
 
 ### OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI CEO Sam Altman在TechCrunch表示，预计在2026年上市将是“不明智”的选择。
+OpenAI CEO Sam Altman表示，2026年上市将“不明智”。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
 
@@ -40,59 +60,39 @@ Anthropic CEO提出减缓AI发展计划，旨在确保AI安全与可控。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Mecka AI在Sequoia领投的交易中估值接近5亿美元，机器人训练数据需求推动其发展。
+Mecka AI在Sequoia领投的融资中估值接近5亿美元，机器人训练数据需求推动其增长。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
 
 ---
 
-### Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Y Combinator合伙人Garry Tan呼吁美国开放重量级AI实验室也应“提炼”前沿模型，以推动AI技术发展。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
-
----
-
-### OpenAI’s feud with mathematicians is only escalating
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI与数学家的争执愈演愈烈，科技媒体TechCrunch报道，双方围绕算法争议持续升级。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
-
----
-
-### AI的新用法，被这群 Builder 带到了外滩大会开发者日
+### ‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI新用法亮相外滩大会开发者日，Builder群体展示前沿技术应用。
+FreeCORE发布TrueNAS衍生分支，深度整合虚拟化、Jails容器与OpenZFS文件系统，在FreeBSD系统上优化性能与稳定性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL)
-
----
-
-### Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Google推出基于智能代理的漏洞扫描框架Mantis，旨在减少误报，提升安全检测效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku)
+**来源：** [InfoQ](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI)
 
 ---
 
-### 两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云
+### Figma 如何利用 AI 代理提升安全性
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-前Google DeepMind研究员意外撞上大模型蒸馏疑云，仅两个Token令Kimi“变成”Claude。
+Figma通过AI代理强化安全性，提升设计协作平台的安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT)
+**来源：** [InfoQ](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye)
+
+---
+
+### Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+QCon上海研讨会提出重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线，推动大模型评估技术进步。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec)
 
 ---
 
