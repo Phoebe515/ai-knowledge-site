@@ -9,18 +9,48 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月13日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月14日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月13
+## 2026年09月14
+
+### Larry Ellison cancels $7.5 billion sale of Oracle stock
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+甲骨文CEO拉里·埃里森取消价值75亿美元的股票出售计划，对数据AI领域投资策略或产生影响。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
+
+---
+
+### The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Y Combinator最新Demo Day上，九大热门初创企业亮相，其中多款数据AI产品引发关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
+
+---
+
+### TechCrunch Mobility: Lyft has entered the robotaxi chat
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Lyft加入robotaxi领域讨论，探讨数据AI在自动驾驶中的应用。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
+
+---
 
 ### Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Y Combinator的Garry Tan呼吁美国开放重量级AI实验室也应“提炼”前沿模型，以促进数据AI领域的发展。
+Y Combinator的Garry Tan呼吁美国开放权重AI实验室也应提炼前沿模型，以促进AI技术发展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
@@ -30,29 +60,19 @@ Y Combinator的Garry Tan呼吁美国开放重量级AI实验室也应“提炼”
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-仅剩一周，速预订TechCrunch Disrupt 2026展位，聚焦数据AI前沿技术交流。
+TechCrunch Disrupt 2026展位预订仅剩一周，数据AI领域企业抓紧机会参展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
 
 ---
 
-### Final, final, final call for TechCrunch Disrupt 2026 Side Events
+### 欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-TechCrunch Disrupt 2026侧活动报名即将截止，聚焦数据AI前沿，邀您共襄盛举。
+欧洲核子研究组织（CERN）将放弃RHEL，转用Debian构建加速器控制基础设施，以优化数据AI处理能力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
-
----
-
-### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-好莱坞明星马克·沃尔伯格将出席TechCrunch Disrupt 2026，聚焦观众工作，探讨数据AI等前沿科技。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
+**来源：** [InfoQ](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco)
 
 ---
 
@@ -60,7 +80,7 @@ TechCrunch Disrupt 2026侧活动报名即将截止，聚焦数据AI前沿，邀�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，生物科技未来展望及低成本、环保钢材研发，数据AI在材料科学应用前景广阔。
+MIT Tech Review探讨生物科技未来趋势及低成本、清洁钢技术，数据AI技术助力产业升级。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 
@@ -70,7 +90,7 @@ MIT Tech Review报道，生物科技未来展望及低成本、环保钢材研�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，全球35岁以下青年在生物科技领域崭露头角，运用数据AI技术推动行业发展。
+MIT Tech Review报道，多位35岁以下的年轻生物科技人才正引领行业发展，其中数据AI技术成为关键驱动力。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 
@@ -80,7 +100,7 @@ MIT Tech Review报道，全球35岁以下青年在生物科技领域崭露头角
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-一群信徒根据“上帝旨意”投资加密货币，投资者损失惨重，AI在数据分析和风险评估中的应用需谨慎。
+一位信仰者声称上帝指示其出售加密货币，导致投资者损失惨重，AI分析揭示信仰与投资决策的潜在风险。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
 
@@ -90,7 +110,7 @@ MIT Tech Review报道，全球35岁以下青年在生物科技领域崭露头角
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review指出，医疗AI领域面临新的挑战：如何实现与现有医疗系统的有效整合。
+MIT Tech Review报道，医疗AI面临新挑战：如何有效整合。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
 
