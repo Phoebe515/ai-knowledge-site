@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月14
+## 2026年09月15
 
-### What’s behind the AI industry’s latest warnings of doom?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道，AI行业再次发出末日警告，关注其潜在风险和挑战。专家呼吁加强监管和伦理建设。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
-
----
-
-### Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+### Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-奥巴马敦促民主党制定清晰的人工智能安全计划。
+Nvidia CEO黄仁勋向特朗普保证，将采取措施避免AI发展放缓。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
 
 ---
 
-### OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
+### OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI CEO Sam Altman表示，2026年上市将“不明智”。
+OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging，据TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
 
 ---
 
-### Anthropic CEO outlines plan to slow AI development
+### With iOS 27, I’m actually using Siri again
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic CEO提出减缓AI发展计划，旨在确保AI安全与可控。
+苹果iOS 27升级后，Siri功能更强大，用户重新开始使用Siri。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
 
 ---
 
-### Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+### Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Mecka AI在Sequoia领投的融资中估值接近5亿美元，机器人训练数据需求推动其增长。
+时尚应用Daydream利用苹果智能技术，可识别用户相册中的服装，辅助购物。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
 
 ---
 
-### ‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌
+### Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+微软发布新AI“行为准则”，要求模型不得黑客攻击系统或欺骗人类。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
+
+---
+
+### AI 负责创造，人来干脏活，这事儿能否停一下？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-FreeCORE发布TrueNAS衍生分支，深度整合虚拟化、Jails容器与OpenZFS文件系统，在FreeBSD系统上优化性能与稳定性。
+AI被赋予创造任务，人类从事低级工作，这一现象引发讨论。业界呼吁平衡AI应用，关注人类价值。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI)
-
----
-
-### Figma 如何利用 AI 代理提升安全性
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Figma通过AI代理强化安全性，提升设计协作平台的安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye)
+**来源：** [InfoQ](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy)
 
 ---
 
-### Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海
+### Token账单异常，可能不只是成本失控
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-QCon上海研讨会提出重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线，推动大模型评估技术进步。
+Token账单异常，或不止成本失控，可能涉及更深层问题。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec)
+**来源：** [InfoQ](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6)
+
+---
+
+### 发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Dario在专访中回应AI风险预警，强调AI发展不能停，但需慢下来，以确保安全和可控。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F)
 
 ---
 
