@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月15日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月15日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-在TechCrunch Disrupt 2026，探讨AI如何助力自然恢复。聚焦数据AI技术，助力生态系统重建。
+在TechCrunch Disrupt 2026，探讨AI如何助力自然恢复。聚焦数据AI技术，助力生态工程创新。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/)
 
@@ -30,29 +30,29 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-距TechCrunch Disrupt 2026展期仅剩5天，聚焦数据AI前沿技术展示即将开启。
+距TechCrunch Disrupt 2026展会仅剩5天，数据AI领域创新项目即将亮相，不容错过。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/)
 
 ---
 
-### Larry Ellison cancels $7.5 billion sale of Oracle stock
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-甲骨文CEO拉里·埃里森取消价值75亿美元的股票出售计划，对数据AI领域投资策略或产生影响。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
-
----
-
-### 欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施
+### 什么样的数据库底座，能加速 Agent 从 Demo 走向生产？
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-欧洲核子研究组织（CERN）决定放弃RHEL，转用Debian构建加速器控制基础设施，以优化数据处理和AI应用性能。
+探讨如何构建高效数据库底座，助力Agent从Demo走向生产，实现数据AI应用落地。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco)
+**来源：** [InfoQ](https://www.infoq.cn/video/CNlXsz2yMZpLvdwMlhXY)
+
+---
+
+### AI models need more data about biology, and OpenAI is paying to create it
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+OpenAI投资创建更多生物学数据，以提升AI模型在生物学领域的应用效果。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 
 ---
 
@@ -60,7 +60,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研究显示，利用数据AI技术，捐赠的肝脏可被生物逆转年轻，有望改善移植成功率。
+麻省理工学院研究显示，通过数据AI技术，捐赠的肝脏可被“生物回春”，提升器官移植成功率。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
 
@@ -70,7 +70,7 @@ MIT研究显示，利用数据AI技术，捐赠的肝脏可被生物逆转年轻
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review展望生物科技未来，探讨降低成本、清洁生产钢材，数据AI技术将助力产业升级。
+MIT Tech Review报道，生物科技与清洁钢铁技术发展前景备受关注，数据AI在推动这两大领域创新中扮演关键角色。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
 
@@ -80,7 +80,7 @@ MIT Tech Review展望生物科技未来，探讨降低成本、清洁生产钢�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，多位35岁以下青年在生物科技领域崭露头角，运用数据AI技术推动创新，引领未来生物科技发展。
+MIT Tech Review报道，一批35岁以下的年轻科学家正在引领生物科技发展，其中多位结合数据AI技术，推动创新研究。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 
