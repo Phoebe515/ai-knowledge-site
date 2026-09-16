@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月15日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月16日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月15
+## 2026年09月16
 
-### Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia CEO黄仁勋向特朗普保证，将采取措施避免AI发展放缓。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
-
----
-
-### OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says
+### We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging，据TechCrunch报道。
+Nvidia创始人黄仁勋在TechCrunch表示，无需AI监管，企业自身会确保AI安全。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
 
 ---
 
-### With iOS 27, I’m actually using Siri again
+### The AI data center boom is colliding with cities scarred by big industry 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果iOS 27升级后，Siri功能更强大，用户重新开始使用Siri。
+人工智能数据中心热潮与工业重灾城市碰撞，城市面临新机遇与挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
 
 ---
 
-### Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll
+### Meta now lets AI agents handle the boring parts of WhatsApp Business setup
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-时尚应用Daydream利用苹果智能技术，可识别用户相册中的服装，辅助购物。
+Meta推出AI助手简化WhatsApp Business设置流程，让用户更便捷地完成账户配置。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
 
 ---
 
-### Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans
+### The AI graveyard: a running list of projects and startups that didn’t make it
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软发布新AI“行为准则”，要求模型不得黑客攻击系统或欺骗人类。
+TechCrunch发布《AI墓地》系列文章，记录众多AI项目和初创企业失败案例。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
 
 ---
 
-### AI 负责创造，人来干脏活，这事儿能否停一下？
+### US data centers could consume more natural gas than Germany and Japan combined by 2035
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+据TechCrunch报道，美国数据中心到2035年可能消耗的自然气将超过德国和日本总和。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)
+
+---
+
+### 129亿美元卖身英伟达之后，是时候重新理解Hugging Face了
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI被赋予创造任务，人类从事低级工作，这一现象引发讨论。业界呼吁平衡AI应用，关注人类价值。
+Hugging Face以129亿美元价格被英伟达收购，标志着AI领域的重大事件，需重新审视其在AI生态系统中的角色和影响。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy)
-
----
-
-### Token账单异常，可能不只是成本失控
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Token账单异常，或不止成本失控，可能涉及更深层问题。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6)
+**来源：** [InfoQ](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti)
 
 ---
 
-### 发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来
+### 缓存不该困在一台服务器里
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Dario在专访中回应AI风险预警，强调AI发展不能停，但需慢下来，以确保安全和可控。
+缓存技术应突破单服务器局限，实现分布式部署，提升系统性能和可扩展性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F)
+**来源：** [InfoQ](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4)
+
+---
+
+### Agent开始调用基础设施，Kubernetes准备好了吗？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Kubernetes迎来新挑战，Agent调用基础设施引发关注，其稳定性与安全性备受考验。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS)
 
 ---
 
