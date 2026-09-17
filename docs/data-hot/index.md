@@ -9,60 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月16日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月17日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月16
+## 2026年09月17
 
-### The AI data center boom is colliding with cities scarred by big industry 
+### Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI数据中心热潮与受损重工业城市碰撞，城市寻求转型机遇。
+Science Corp CEO Max Hodak在TechCrunch Disrupt 2026表示，屏幕时代即将结束，数据AI将引领未来。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
 
 ---
 
-### US data centers could consume more natural gas than Germany and Japan combined by 2035
+### May Mobility is going public in a $1.4B SPAC deal
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch报道，美国数据中心到2035年可能消耗的天然气量将超过德国和日本总和，数据AI行业需关注能源消耗问题。
+May Mobility与SPAC公司达成14亿美元合并协议，计划通过数据AI技术推动自动驾驶商业化。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/)
 
 ---
 
-### SpaceX will try to put Starship in orbit for the first time on September 22
+### Meet a mouse whose brain cortex is made up of human cells
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-SpaceX计划于9月22日首次尝试将Starship送入轨道，这将推动太空探索与数据AI技术融合，为未来太空任务提供支持。
+MIT研究团队成功将人类细胞植入小鼠大脑皮层，构建出首个“人脑鼠”，为数据AI领域研究提供了新模型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)
-
----
-
-### Health benefits platform Thatch reaches $1B valuation as healthcare costs surge
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Thatch平台凭借数据AI技术助力，估值达10亿美元，受益于医疗费用激增。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/)
 
 ---
 
-### OpenAI, Anthropic, Google have been in talks on AI safety for weeks
+### The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-OpenAI、Anthropic和谷歌就AI安全进行数周洽谈，旨在加强数据AI领域的安全合作。
+AI行业赌注高达万亿美元，OpenAI寻求生物数据合作。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 
 ---
 
@@ -70,7 +60,7 @@ OpenAI、Anthropic和谷歌就AI安全进行数周洽谈，旨在加强数据AI�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-OpenAI正投资创建更多生物数据，以提升AI模型在生物学领域的应用。
+OpenAI投资创建更多生物数据，以提升AI模型生物学领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 
@@ -80,29 +70,9 @@ OpenAI正投资创建更多生物数据，以提升AI模型在生物学领域的
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研究显示，通过数据AI技术，捐赠的肝脏可以逆转生物老化，延长使用寿命。
+MIT研究显示，通过AI技术，捐赠的肝脏可生物年轻化，为器官移植提供新途径。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/)
-
----
-
-### The Download: biotech’s future and cheaper, cleaner steel
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，生物科技未来发展趋势及低成本、清洁钢生产技术备受关注，数据AI在提升效率和优化流程中将发挥关键作用。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/)
-
----
-
-### Meet the under-35s shaping the future of biotech
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，多位35岁以下青年正引领生物科技未来，其中数据AI技术成为关键驱动力。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/)
 
 ---
 
