@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月16日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月17日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月16
+## 2026年09月17
 
-### We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia创始人黄仁勋在TechCrunch表示，无需AI监管，企业自身会确保AI安全。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
-
----
-
-### The AI data center boom is colliding with cities scarred by big industry 
+### Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-人工智能数据中心热潮与工业重灾城市碰撞，城市面临新机遇与挑战。
+Anthropic和OpenAI计划嵌入安全评估者，但其独立性存疑。TechCrunch报道，业界对这两大AI巨头能否确保评估者独立持谨慎态度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)
 
 ---
 
-### Meta now lets AI agents handle the boring parts of WhatsApp Business setup
+### After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta推出AI助手简化WhatsApp Business设置流程，让用户更便捷地完成账户配置。
+Meta因涉嫌销售“透视眼镜”而备受争议，现正准备推出不带摄像头的眼镜款型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/)
 
 ---
 
-### The AI graveyard: a running list of projects and startups that didn’t make it
+### AI labs want in-house auditors — but maybe they should shut the front door first
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch发布《AI墓地》系列文章，记录众多AI项目和初创企业失败案例。
+AI实验室寻求内部审计，但或许应先严格入口管理。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)
 
 ---
 
-### US data centers could consume more natural gas than Germany and Japan combined by 2035
+### Your AI agents can now control your Google Home devices
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch报道，美国数据中心到2035年可能消耗的自然气将超过德国和日本总和。
+谷歌智能助手可控制您的Google Home设备，实现更便捷的智能家居交互。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
 
 ---
 
-### 129亿美元卖身英伟达之后，是时候重新理解Hugging Face了
+### Anthropic merges Claude chat and Cowork in one interface
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic将Claude聊天和Cowork功能整合至同一界面，提升用户体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
+
+---
+
+### 亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Hugging Face以129亿美元价格被英伟达收购，标志着AI领域的重大事件，需重新审视其在AI生态系统中的角色和影响。
+亚马逊CTO即将访问中国，其演讲预计将比近期频繁的AI发布会更具价值。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti)
-
----
-
-### 缓存不该困在一台服务器里
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-缓存技术应突破单服务器局限，实现分布式部署，提升系统性能和可扩展性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4)
+**来源：** [InfoQ](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F)
 
 ---
 
-### Agent开始调用基础设施，Kubernetes准备好了吗？
+### 实测 Vibe Key：开口使唤 AI，真有当甲方的感觉
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Kubernetes迎来新挑战，Agent调用基础设施引发关注，其稳定性与安全性备受考验。
+实测Vibe Key，体验AI助手，操作流畅，宛如甲方体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS)
+**来源：** [InfoQ](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj)
+
+---
+
+### Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+阿里Qoder Cloud Agents助力Agent经济账计算，突破Token局限，提供更全面解决方案。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc)
 
 ---
 
