@@ -9,20 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月17日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月18日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月17
+## 2026年09月18
 
-### Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026
+### Roku’s new Labs hub brings experimental apps to the big screen
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Science Corp CEO Max Hodak在TechCrunch Disrupt 2026表示，屏幕时代即将结束，数据AI将引领未来。
+Roku推出新实验室中心，引入实验性应用至大屏，旨在利用数据AI技术优化用户体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/)
 
 ---
 
@@ -30,7 +30,7 @@ Science Corp CEO Max Hodak在TechCrunch Disrupt 2026表示，屏幕时代即将�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-麻省理工科技评论报道，研究人员将人类细胞植入小鼠大脑皮层，构建人脑小鼠模型，为神经科学研究提供新途径。
+MIT研究人员成功将人类细胞植入小鼠大脑皮质，实现人脑细胞在动物模型中的研究，为数据AI领域提供了新的实验平台。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/)
 
@@ -40,7 +40,7 @@ Science Corp CEO Max Hodak在TechCrunch Disrupt 2026表示，屏幕时代即将�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-AI行业面临万亿赌注，OpenAI投资生物数据领域。
+MIT Tech Review报道，AI领域投入千亿美元，OpenAI寻求获取生物数据以推进研究。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 
@@ -50,7 +50,7 @@ AI行业面临万亿赌注，OpenAI投资生物数据领域。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-OpenAI投入资金，旨在收集更多生物数据以提升AI模型性能，MIT Tech Review报道。
+OpenAI投资创建更多生物数据，以提升AI模型在生物学领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
 
