@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月18日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月18日 14:00</span>
 </div>
 
 ---
@@ -20,9 +20,19 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Roku推出新实验室中心，引入实验性应用至大屏，旨在利用数据AI技术优化用户体验。
+Roku新实验室中心推出实验性应用，将数据AI技术引入大屏体验，拓展智能家居娱乐市场。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/)
+
+---
+
+### The specter of AI-enabled bioweapons is a wake-up call for biotech
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+MIT Tech Review指出，AI赋能生物武器的威胁警醒生物科技行业，需加强数据AI监管。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/)
 
 ---
 
@@ -30,7 +40,7 @@ Roku推出新实验室中心，引入实验性应用至大屏，旨在利用数�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研究人员成功将人类细胞植入小鼠大脑皮质，实现人脑细胞在动物模型中的研究，为数据AI领域提供了新的实验平台。
+MIT研究发现，小鼠大脑皮层植入人类细胞，为数据AI领域提供新研究模型。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/)
 
@@ -40,7 +50,7 @@ MIT研究人员成功将人类细胞植入小鼠大脑皮质，实现人脑细�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，AI领域投入千亿美元，OpenAI寻求获取生物数据以推进研究。
+MIT Tech Review报道，AI领域投资达万亿，OpenAI寻求获取生物数据。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 
