@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月17
+## 2026年09月18
 
-### Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic和OpenAI计划嵌入安全评估者，但其独立性存疑。TechCrunch报道，业界对这两大AI巨头能否确保评估者独立持谨慎态度。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)
-
----
-
-### After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera
+### Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta因涉嫌销售“透视眼镜”而备受争议，现正准备推出不带摄像头的眼镜款型。
+Crusoe筹集39亿美元，投资建设大型数据中心和小型模块化“AI工厂”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
 
 ---
 
-### AI labs want in-house auditors — but maybe they should shut the front door first
+### Google DeepMind launches institute to widen the AGI debate
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI实验室寻求内部审计，但或许应先严格入口管理。
+Google DeepMind成立新机构，旨在拓展通用人工智能（AGI）讨论。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)
 
 ---
 
-### Your AI agents can now control your Google Home devices
+### PrismML hopes its tiny LLM will change how we all use AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌智能助手可控制您的Google Home设备，实现更便捷的智能家居交互。
+PrismML发布迷你LLM，旨在革新AI应用方式，引领行业发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
 
 ---
 
-### Anthropic merges Claude chat and Cowork in one interface
+### The FAA’s plan to fix air traffic? $875M worth of AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic将Claude聊天和Cowork功能整合至同一界面，提升用户体验。
+美国联邦航空管理局计划投资8.75亿美元，利用人工智能技术改善空中交通管理。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
 
 ---
 
-### 亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注
+### The fix for rogue AI agents could be more AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+解决流氓AI代理的方法可能是更多AI，TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
+
+---
+
+### 神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊CTO即将访问中国，其演讲预计将比近期频繁的AI发布会更具价值。
+神秘模型Union Alpha上线首日跑掉20亿Token，部分网友实测性能直逼Astra。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F)
-
----
-
-### 实测 Vibe Key：开口使唤 AI，真有当甲方的感觉
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-实测Vibe Key，体验AI助手，操作流畅，宛如甲方体验。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/joXcPA6XF1QWgik9OALj)
+**来源：** [InfoQ](https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC)
 
 ---
 
-### Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案
+### 百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-阿里Qoder Cloud Agents助力Agent经济账计算，突破Token局限，提供更全面解决方案。
+百度智能云发布产业智能体操作系统，旨在推动AI商业和技术发展，实现飞轮效应。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/8leHq71KkbQfo930ptvc)
+**来源：** [InfoQ](https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU)
+
+---
+
+### 硬件调试进入 Web 时代：浏览器成了新的工程师工作台
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+硬件调试进入Web时代，浏览器成为工程师新工作台，简化开发流程，提高效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT)
 
 ---
 
