@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月18日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月19日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月18
+## 2026年09月19
 
-### Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Crusoe筹集39亿美元，投资建设大型数据中心和小型模块化“AI工厂”。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
-
----
-
-### Google DeepMind launches institute to widen the AGI debate
+### A startup that builds other startups raised $100M, and is all-in on physical AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google DeepMind成立新机构，旨在拓展通用人工智能（AGI）讨论。
+初创公司“构建其他初创公司”的初创企业融资1亿美元，全力投入物理人工智能领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
 
 ---
 
-### PrismML hopes its tiny LLM will change how we all use AI
+### Anthropic is operating a lab that conducts biology experiments
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-PrismML发布迷你LLM，旨在革新AI应用方式，引领行业发展。
+Anthropic在运营一个进行生物学实验的实验室，专注于探索人工智能在生物领域的应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
 
 ---
 
-### The FAA’s plan to fix air traffic? $875M worth of AI
+### AI hallucination nearly triggers US military operation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国联邦航空管理局计划投资8.75亿美元，利用人工智能技术改善空中交通管理。
+美国军方差点因AI幻觉触发军事行动，TechCrunch报道，事件凸显AI技术风险。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
 
 ---
 
-### The fix for rogue AI agents could be more AI
+### Anthropic’s first embedded evaluator is … Accenture?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-解决流氓AI代理的方法可能是更多AI，TechCrunch报道。
+Anthropic与Accenture合作，推出首个嵌入式评估器，旨在提升AI产品性能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
 
 ---
 
-### 神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra
+### World model companies are keeping a lot of secrets
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+全球模型公司保留大量秘密，引发行业关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
+
+---
+
+### Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-神秘模型Union Alpha上线首日跑掉20亿Token，部分网友实测性能直逼Astra。
+Grab发布智能体框架LLM-Kit，助力AI智能体快速生产部署，推动行业智能化升级。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC)
-
----
-
-### 百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-百度智能云发布产业智能体操作系统，旨在推动AI商业和技术发展，实现飞轮效应。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU)
+**来源：** [InfoQ](https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK)
 
 ---
 
-### 硬件调试进入 Web 时代：浏览器成了新的工程师工作台
+### Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-硬件调试进入Web时代，浏览器成为工程师新工作台，简化开发流程，提高效率。
+Claude主导Anthropic 26%AI研发，3万Agent同运行，AI造AI趋势显现，头部AI公司RSI路线分化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT)
+**来源：** [InfoQ](https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq)
+
+---
+
+### 唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+唐杰、GLM团队发布长文，透露智谱RSI最新进展，GLM-5.3已接近门槛，正逐步取代人类。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI)
 
 ---
 
