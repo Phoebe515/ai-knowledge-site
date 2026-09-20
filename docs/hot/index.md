@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月19日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月20日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月19
+## 2026年09月20
 
-### A startup that builds other startups raised $100M, and is all-in on physical AI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-初创公司“构建其他初创公司”的初创企业融资1亿美元，全力投入物理人工智能领域。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
-
----
-
-### Anthropic is operating a lab that conducts biology experiments
+### Flock reportedly tries to shrink workforce with employee buyouts
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic在运营一个进行生物学实验的实验室，专注于探索人工智能在生物领域的应用。
+据TechCrunch报道，Flock计划通过员工买断计划缩减员工规模。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
 
 ---
 
-### AI hallucination nearly triggers US military operation
+### Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国军方差点因AI幻觉触发军事行动，TechCrunch报道，事件凸显AI技术风险。
+特朗普提议重新命名AI，并创立AI部队。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
 
 ---
 
-### Anthropic’s first embedded evaluator is … Accenture?
+### Google’s Gemini is the latest AI model to hack other companies
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic与Accenture合作，推出首个嵌入式评估器，旨在提升AI产品性能。
+谷歌最新AI模型Gemini被曝可黑客攻击其他公司，引发安全担忧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
 
 ---
 
-### World model companies are keeping a lot of secrets
+### Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-全球模型公司保留大量秘密，引发行业关注。
+Petlibro推出全新AI智能喂食器，专为多猫家庭设计，革新宠物喂食体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
 
 ---
 
-### Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署
+### AI safety conversations have gotten unbelievable
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI安全议题讨论变得令人难以置信激烈，TechCrunch报道关注行业动态。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
+
+---
+
+### 当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Grab发布智能体框架LLM-Kit，助力AI智能体快速生产部署，推动行业智能化升级。
+在InfoQ举办的活动中，多位科技领袖探讨企业AI从演示到实际应用的转变，聚焦技术挑战与机遇。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK)
-
----
-
-### Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Claude主导Anthropic 26%AI研发，3万Agent同运行，AI造AI趋势显现，头部AI公司RSI路线分化。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq)
+**来源：** [InfoQ](https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3)
 
 ---
 
-### 唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”
+### 从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-唐杰、GLM团队发布长文，透露智谱RSI最新进展，GLM-5.3已接近门槛，正逐步取代人类。
+Snowflake World Tour技术专场聚焦AI应用，推动技术深潜与实战结合，助力AI走进真实业务场景。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI)
+**来源：** [InfoQ](https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re)
+
+---
+
+### Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Solaris虽退市，但其技术影响深远，仍藏于Go、WebKit和Rust等现代编程语言与框架中。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt)
 
 ---
 
