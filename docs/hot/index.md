@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月20日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月21日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月20
+## 2026年09月21
 
-### Flock reportedly tries to shrink workforce with employee buyouts
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-据TechCrunch报道，Flock计划通过员工买断计划缩减员工规模。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
-
----
-
-### Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force
+### 6 days left to save up to $200 to TechCrunch Disrupt 2026
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普提议重新命名AI，并创立AI部队。
+TechCrunch Disrupt 2026倒计时6天，门票最高优惠200美元，抢购从速！
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
 
 ---
 
-### Google’s Gemini is the latest AI model to hack other companies
+### World model companies are keeping a lot of secrets
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌最新AI模型Gemini被曝可黑客攻击其他公司，引发安全担忧。
+全球模型公司保守众多秘密，引发关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
 
 ---
 
-### Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
+### Is the AI industry really ready to slow down?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Petlibro推出全新AI智能喂食器，专为多猫家庭设计，革新宠物喂食体验。
+AI行业是否真的准备好放缓发展步伐，成为业界关注焦点。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
 
 ---
 
-### AI safety conversations have gotten unbelievable
+### Vocci’s ring adds a new form factor to meeting note-taking
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI安全议题讨论变得令人难以置信激烈，TechCrunch报道关注行业动态。
+Vocci智能戒指推出，为会议笔记增添新形式，可实时捕捉语音和手势输入，提升会议记录效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
 
 ---
 
-### 当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？
+### ScrollEd wants to turn textbooks into TikTok
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+ScrollEd计划将教材内容转化为TikTok形式，旨在提升学习体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/)
+
+---
+
+### 瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-在InfoQ举办的活动中，多位科技领袖探讨企业AI从演示到实际应用的转变，聚焦技术挑战与机遇。
+国产AI模型在编程、金融等领域表现优异，单次成本仅为Opus 5的1/8，跻身AA榜单全球前三。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3)
-
----
-
-### 从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake World Tour技术专场聚焦AI应用，推动技术深潜与实战结合，助力AI走进真实业务场景。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re)
+**来源：** [InfoQ](https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW)
 
 ---
 
-### Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里
+### 比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Solaris虽退市，但其技术影响深远，仍藏于Go、WebKit和Rust等现代编程语言与框架中。
+智谱ZCode涉嫌“偷传代码”引发争议，企业发函追责，事件升级。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt)
+**来源：** [InfoQ](https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe)
+
+---
+
+### 从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI MediaKit实现视频字幕无痕擦除，从“看见文字”到“读懂画面”，提升视频字幕处理效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk)
 
 ---
 
