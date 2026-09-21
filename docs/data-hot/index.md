@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月21日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月21日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026门票倒计时6天，报名享最高200美元优惠，数据AI领域专家不容错过。
+距TechCrunch Disrupt 2026截止仅剩6天，报名优惠高达200美元，涵盖数据AI等领域创新项目展示。抓住机会，不容错过！
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
 
@@ -30,7 +30,7 @@ TechCrunch Disrupt 2026门票倒计时6天，报名享最高200美元优惠，�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Mobility探讨自动驾驶汽车安全性评估，聚焦数据AI在安全监测中的应用与挑战。
+TechCrunch Mobility探讨自动驾驶汽车安全性，通过数据分析与AI技术评估，确保自动驾驶汽车安全可靠。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/)
 
@@ -40,7 +40,7 @@ TechCrunch Mobility探讨自动驾驶汽车安全性评估，聚焦数据AI在�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Petlibro推出全新AI智能喂食器，专为多猫家庭设计，大幅提升养猫体验。
+Petlibro推出全新AI智能喂食器，专为多猫家庭设计，通过数据分析实现精准喂食，革新宠物智能设备市场。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
 
@@ -50,9 +50,29 @@ Petlibro推出全新AI智能喂食器，专为多猫家庭设计，大幅提升�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch报道，数据AI领域盛会Disrupt门票7天后涨价，抢购从速。
+TechCrunch报道，Disrupt门票7天内价格上涨，抓住数据AI领域盛会最后机会。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/)
+
+---
+
+### 国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 量子位</span>
+
+国产数据库OceanBase在AI领域取得突破，登顶国际Data Agent榜单，展现AI新能力。
+
+**来源：** [量子位](https://www.qbitai.com/2026/09/493231.html)
+
+---
+
+### The US spent billions on border surveillance. Why can’t it catch people before they die?
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+美国耗资数十亿美元于边境监控，却仍无法阻止人员死亡，凸显数据AI在预测和预防方面的不足。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/)
 
 ---
 
@@ -60,7 +80,7 @@ TechCrunch报道，数据AI领域盛会Disrupt门票7天后涨价，抢购从速
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review发表文章，探讨人工智能的灭绝风险与生物武器威胁，强调数据AI安全的重要性。
+MIT Tech Review报道，人工智能面临灭绝风险，同时生物武器威胁加剧。专家呼吁加强监管，防范潜在风险。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/)
 
@@ -70,7 +90,7 @@ MIT Tech Review发表文章，探讨人工智能的灭绝风险与生物武器�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review指出，AI赋能生物武器的威胁成为生物科技领域的警钟，需加强数据AI安全监管。
+MIT Tech Review指出，AI赋能生物武器的威胁成为生物科技领域的警钟，需加强数据AI在生物安全领域的监管和应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/)
 
@@ -80,19 +100,9 @@ MIT Tech Review指出，AI赋能生物武器的威胁成为生物科技领域的
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-美国麻省理工学院研究团队成功将人类细胞植入小鼠大脑皮质，为神经科学研究提供新模型。此项研究涉及数据分析和人工智能技术在神经生物学领域的应用。
+麻省理工学院研究发现，小鼠大脑皮层植入人类细胞，为数据AI领域提供新型实验模型。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/)
-
----
-
-### The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，AI领域投资规模达万亿，OpenAI布局生物数据。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
 
 ---
 
