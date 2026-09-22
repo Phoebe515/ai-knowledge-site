@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月21
+## 2026年09月22
 
-### 6 days left to save up to $200 to TechCrunch Disrupt 2026
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026倒计时6天，门票最高优惠200美元，抢购从速！
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
-
----
-
-### World model companies are keeping a lot of secrets
+### The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-全球模型公司保守众多秘密，引发关注。
+苹果零售店创始人对硅谷对AI购物押注持怀疑态度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)
 
 ---
 
-### Is the AI industry really ready to slow down?
+### OpenAI forms math advisory group as its AI resolves more than 100 open problems
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI行业是否真的准备好放缓发展步伐，成为业界关注焦点。
+OpenAI组建数学顾问团，其AI已解决超100个未解难题。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
 
 ---
 
-### Vocci’s ring adds a new form factor to meeting note-taking
+### Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Vocci智能戒指推出，为会议笔记增添新形式，可实时捕捉语音和手势输入，提升会议记录效率。
+TechCrunch Disrupt 2026门票最后5天，最高优惠200美元。速抢！
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/)
 
 ---
 
-### ScrollEd wants to turn textbooks into TikTok
+### Meta’s Muse is outpacing ChatGPT’s early mobile launch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ScrollEd计划将教材内容转化为TikTok形式，旨在提升学习体验。
+Meta的Muse在移动端发布速度上超越ChatGPT。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
 
 ---
 
-### 瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三
+### Meta’s AI agent has been blocked from using Amazon.com
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta的AI代理被禁止访问Amazon.com，因违反平台使用政策。TechCrunch报道。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
+
+---
+
+### Rustls 十周年：发展历程、基准测试与未来路线图
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-国产AI模型在编程、金融等领域表现优异，单次成本仅为Opus 5的1/8，跻身AA榜单全球前三。
+Rustls十周年庆典探讨其发展历程、基准测试及未来路线图，强调其在安全通信领域的贡献。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW)
-
----
-
-### 比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-智谱ZCode涉嫌“偷传代码”引发争议，企业发函追责，事件升级。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe)
+**来源：** [InfoQ](https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr)
 
 ---
 
-### 从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除
+### MiniMax H3 开源后，本地 AIGC 走到了哪里？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI MediaKit实现视频字幕无痕擦除，从“看见文字”到“读懂画面”，提升视频字幕处理效率。
+MiniMax H3开源后，本地AIGC技术发展迅速，国内企业积极布局，探索个性化生成内容新路径。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk)
+**来源：** [InfoQ](https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK)
+
+---
+
+### 70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+机器人技术迈向具身未来，关键在于实现动作与环境的互动，而非单纯动作完成。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo)
 
 ---
 
