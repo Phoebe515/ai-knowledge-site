@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月22
+## 2026年09月23
 
-### The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果零售店创始人对硅谷对AI购物押注持怀疑态度。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)
-
----
-
-### OpenAI forms math advisory group as its AI resolves more than 100 open problems
+### TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI组建数学顾问团，其AI已解决超100个未解难题。
+TechCrunch Founder Summit将于11月4日在波士顿举行，聚焦募资、招聘和AI洞察。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
 
 ---
 
-### Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
+### Snorkel AI triples valuation to $3.5B as demand for AI training data booms
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026门票最后5天，最高优惠200美元。速抢！
+Snorkel AI估值增至35亿美元，AI训练数据需求激增推动其增长。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
 
 ---
 
-### Meta’s Muse is outpacing ChatGPT’s early mobile launch
+### Qualcomm launches two new smartphone chips with emphasis on AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta的Muse在移动端发布速度上超越ChatGPT。
+高通发布两款新智能手机芯片，重点强化AI功能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)
 
 ---
 
-### Meta’s AI agent has been blocked from using Amazon.com
+### Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta的AI代理被禁止访问Amazon.com，因违反平台使用政策。TechCrunch报道。
+Meta承认Muse与OpenClaw相似非巧合，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
 
 ---
 
-### Rustls 十周年：发展历程、基准测试与未来路线图
+### OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI发布GPT-6 Sol和Luna，新模型降低成本并减少错误率。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
+
+---
+
+### 从生成内容到创造体验，多模态大模型如何改变内容生产？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Rustls十周年庆典探讨其发展历程、基准测试及未来路线图，强调其在安全通信领域的贡献。
+多模态大模型正从生成内容转向创造体验，革新内容生产方式，为用户带来全新互动体验。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr)
-
----
-
-### MiniMax H3 开源后，本地 AIGC 走到了哪里？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-MiniMax H3开源后，本地AIGC技术发展迅速，国内企业积极布局，探索个性化生成内容新路径。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK)
+**来源：** [InfoQ](https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq)
 
 ---
 
-### 70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作
+### 不受控的 Agent ，凭什么上生产系统？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-机器人技术迈向具身未来，关键在于实现动作与环境的互动，而非单纯动作完成。
+InfoQ报道，专家担忧不受控的Agent上生产系统可能带来风险，呼吁加强监管和评估。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo)
+**来源：** [InfoQ](https://www.infoq.cn/article/3TjH8fZziNB50Qzz9tJx)
+
+---
+
+### Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Jotai 3.0发布，仅支持ESM，摒弃旧版构建和已弃用API，带来现代化包体验。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk)
 
 ---
 
