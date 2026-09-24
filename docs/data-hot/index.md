@@ -9,50 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月23日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月24日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月23
+## 2026年09月24
 
-### Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-黑客组织ShinyHunters声称入侵FBI，窃取特工和申请者数据，涉及敏感个人信息及AI安全风险。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/)
-
----
-
-### Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda
+### Anthropic says its biology lab has already found something big
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026将举办五场AI安全研讨会，为创始人提供数据AI安全指导。
+Anthropic生物实验室已取得重大发现，涉及数据AI领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
 
 ---
 
-### Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026
+### Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026增设展台，最后机会展示数据AI初创项目。
+Enveda获得3.11亿美元投资，加速将更多源自自然的AI药物推进临床试验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
 
 ---
 
-### The US spent billions on border surveillance. Why can’t it catch people before they die?
+### ChatGPT mobile app gets voice-based agentic features
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国耗资数十亿美元于边境监控，却无法阻止人员死亡。数据AI技术未充分发挥作用，暴露监控体系漏洞。
+ChatGPT移动应用新增语音驱动的智能功能，强化了数据AI在交互领域的应用。
 
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/)
 
 ---
 
