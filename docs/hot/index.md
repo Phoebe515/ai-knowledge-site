@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月23
+## 2026年09月24
 
-### TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Founder Summit将于11月4日在波士顿举行，聚焦募资、招聘和AI洞察。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
-
----
-
-### Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+### Meta made a Tamagotchi-like wearable for its Muse AI agent
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Snorkel AI估值增至35亿美元，AI训练数据需求激增推动其增长。
+Meta推出类似Tamagotchi的穿戴设备，搭配Muse AI代理，旨在增强互动体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
 
 ---
 
-### Qualcomm launches two new smartphone chips with emphasis on AI
+### Meta introduces camera-free AI glasses
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-高通发布两款新智能手机芯片，重点强化AI功能。
+Meta推出无摄像头AI眼镜，采用新型技术，无需摄像头即可实现智能功能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
 
 ---
 
-### Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
+### Anthropic says its biology lab has already found something big
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta承认Muse与OpenClaw相似非巧合，TechCrunch报道。
+Anthropic生物学实验室已取得重大发现。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
 
 ---
 
-### OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
+### Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI发布GPT-6 Sol和Luna，新模型降低成本并减少错误率。
+Enveda获3.11亿美元融资，加速自然来源AI药物进入临床试验阶段。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
 
 ---
 
-### 从生成内容到创造体验，多模态大模型如何改变内容生产？
+### ChatGPT mobile app gets voice-based agentic features
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+ChatGPT移动应用新增语音驱动的智能功能，提升用户体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/)
+
+---
+
+### 从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-多模态大模型正从生成内容转向创造体验，革新内容生产方式，为用户带来全新互动体验。
+PrismAlign技术革新文档结构化提取，从单目感知提升至多视角立体对齐，重新定义精度上限。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq)
-
----
-
-### 不受控的 Agent ，凭什么上生产系统？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-InfoQ报道，专家担忧不受控的Agent上生产系统可能带来风险，呼吁加强监管和评估。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/3TjH8fZziNB50Qzz9tJx)
+**来源：** [InfoQ](https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk)
 
 ---
 
-### Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API
+### Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Jotai 3.0发布，仅支持ESM，摒弃旧版构建和已弃用API，带来现代化包体验。
+Claude Opus 5.5发布，一天内迁移68万行代码，单任务成本比GPT-6 Astra便宜80%。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk)
+**来源：** [InfoQ](https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov)
+
+---
+
+### 人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+HappyWorld-Bench发布统一考卷，旨在评估世界模型性能，推动AI领域发展。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8)
 
 ---
 
