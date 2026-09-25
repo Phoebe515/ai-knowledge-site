@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月24
+## 2026年09月25
 
-### Meta made a Tamagotchi-like wearable for its Muse AI agent
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta推出类似Tamagotchi的穿戴设备，搭配Muse AI代理，旨在增强互动体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
-
----
-
-### Meta introduces camera-free AI glasses
+### Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta推出无摄像头AI眼镜，采用新型技术，无需摄像头即可实现智能功能。
+TechCrunch Disrupt 2026推出优惠活动，携同创始人、合伙人或同事购票可享50%折扣。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
 
 ---
 
-### Anthropic says its biology lab has already found something big
+### PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic生物学实验室已取得重大发现。
+PrismML将小型LLMs引入Qualcomm驱动智能眼镜，增强眼镜智能交互功能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
 
 ---
 
-### Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
+### Oracle sends force majeure notice on its New Mexico Stargate data center
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Enveda获3.11亿美元融资，加速自然来源AI药物进入临床试验阶段。
+Oracle向其新墨西哥州Stargate数据中心发出不可抗力通知，影响数据中心运营。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
 
 ---
 
-### ChatGPT mobile app gets voice-based agentic features
+### Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT移动应用新增语音驱动的智能功能，提升用户体验。
+Meta推出新设备Muse Charm，外形类似Tamagotchi，却引领更前沿的互动潮流。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
 
 ---
 
-### 从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限
+### Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌照片推出《 clueless》风格虚拟衣橱，现已登陆Android和iOS平台。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/)
+
+---
+
+### 云栖之后，10+阿里AI实战派将亮相QCon上海站
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-PrismAlign技术革新文档结构化提取，从单目感知提升至多视角立体对齐，重新定义精度上限。
+QCon上海站迎来10+阿里AI实战派，分享云栖后最新AI技术与应用。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk)
-
----
-
-### Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Claude Opus 5.5发布，一天内迁移68万行代码，单任务成本比GPT-6 Astra便宜80%。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov)
+**来源：** [InfoQ](https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky)
 
 ---
 
-### 人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷
+### 世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-HappyWorld-Bench发布统一考卷，旨在评估世界模型性能，推动AI领域发展。
+世界人工智能开源大赛（GOAI）总决赛在杭州圆满落幕，颁发多项大奖，展示全球AI技术创新成果。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8)
+**来源：** [InfoQ](https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv)
+
+---
+
+### WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+WSO2推出Agent Manager，助力企业应对AI Agent泛滥挑战。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR)
 
 ---
 
