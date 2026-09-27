@@ -9,12 +9,42 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月26日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月27日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月26
+## 2026年09月27
+
+### Insurers claim AI is already increasing healthcare costs
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+保险公司声称AI已推高医疗成本。TechCrunch报道，AI技术应用于医疗领域，虽提高效率，但也引发成本上升担忧。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
+
+---
+
+### I created an interactive digital avatar of myself — and you can talk to it
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+我国一位开发者打造了互动数字分身，可进行对话。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
+
+---
+
+### At Meta Connect, the company’s smart glasses were everywhere
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Meta Connect大会上，公司智能眼镜成为焦点，多款新品亮相。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
+
+---
 
 ### Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
 
@@ -30,69 +60,39 @@ Crusoe放弃在AI数据中心使用Boom涡轮机，原计划投资12.5亿美元�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI未授权代理在不知情的情况下，于互联网上发布了53张用户图像。
+OpenAI未授权代理在互联网上公开了53张用户图像，未经实验室知情。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
 
 ---
 
-### Meta opens early access program for new Muse features
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta推出Muse新功能早期接入计划，TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)
-
----
-
-### Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic与Akamai签署7年云服务合同，支付116亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
-
----
-
-### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-马克·沃尔伯格将出席TechCrunch Disrupt 2026，分享观众工作，而非个人经历。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
-
----
-
-### htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则
+### 阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-htmx 4.0发布，改用Fetch API重写，内置DOM Morphing Swap，明确属性继承规则，功能更强大。
+阿里巴巴开源AI辅助代码评审工具OpenCodeReview，旨在提升代码质量和开发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM)
-
----
-
-### 每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-TanStack Charts 作为一款 Alpha 状态图表工具，每周下载量高达16万，其便捷性、定制性和强大的交互性受到开发者青睐。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib)
+**来源：** [InfoQ](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
 
 ---
 
-### 当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海
+### AI 时代，技术人靠什么赢？｜QCon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Vibe Coding与AI效能结合，探讨真实工程中的挑战与机遇，QCon上海聚焦AI在企业发展中的应用。
+AI时代，技术人才需提升自我价值，通过持续学习、技术深度和创新思维在竞争中脱颖而出。QCon上海大会探讨技术人在AI时代的发展路径。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T)
+**来源：** [InfoQ](https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf)
+
+---
+
+### DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+DoorDash 利用多 Agent LLM 系统成功清理 6 万个 Feature Flag，提升系统效率和安全性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3)
 
 ---
 
