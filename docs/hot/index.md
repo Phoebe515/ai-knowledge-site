@@ -9,60 +9,81 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月27
+## 2026年09月28
+
+### Anthropic’s CEO is about to have dinner with President Trump
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic CEO即将与特朗普总统共进晚餐，具体细节尚未公布。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
+
+---
+
+### Can Muse overcome Meta’s trust issues?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Can Muse overcome Meta’s trust issues?
+Muse面临Meta信任危机，能否克服成关键。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
+
+---
+
+### Anthropic’s Dario Amodei gets the SNL treatment
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic首席执行官Dario Amodei在《周六夜现场》接受特殊采访，科技媒体TechCrunch报道此幕。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
+
+---
+
+### Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下Flipkart购买商品。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
+
+---
 
 ### Insurers claim AI is already increasing healthcare costs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-保险公司声称AI已推高医疗成本。TechCrunch报道，AI技术应用于医疗领域，虽提高效率，但也引发成本上升担忧。
+保险公司称AI已推高医疗成本。TechCrunch报道，AI在医疗领域的应用导致成本上升，引发行业关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
 
 ---
 
-### I created an interactive digital avatar of myself — and you can talk to it
+### 谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-我国一位开发者打造了互动数字分身，可进行对话。
+谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，新增端侧 AI 支持，提升开发效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
-
----
-
-### At Meta Connect, the company’s smart glasses were everywhere
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta Connect大会上，公司智能眼镜成为焦点，多款新品亮相。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
+**来源：** [InfoQ](https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9)
 
 ---
 
-### Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+### 可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Crusoe放弃在AI数据中心使用Boom涡轮机，原计划投资12.5亿美元。
+在QCon上海，专家探讨B2B跨境支付中AI的应用，实现可控、可测、可进化，提升支付效率与安全性。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
-
----
-
-### Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI未授权代理在互联网上公开了53张用户图像，未经实验室知情。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
+**来源：** [InfoQ](https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw)
 
 ---
 
@@ -73,26 +94,6 @@ OpenAI未授权代理在互联网上公开了53张用户图像，未经实验室
 阿里巴巴开源AI辅助代码评审工具OpenCodeReview，旨在提升代码质量和开发效率。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
-
----
-
-### AI 时代，技术人靠什么赢？｜QCon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI时代，技术人才需提升自我价值，通过持续学习、技术深度和创新思维在竞争中脱颖而出。QCon上海大会探讨技术人在AI时代的发展路径。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf)
-
----
-
-### DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-DoorDash 利用多 Agent LLM 系统成功清理 6 万个 Feature Flag，提升系统效率和安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3)
 
 ---
 
