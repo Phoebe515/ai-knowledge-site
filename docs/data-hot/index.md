@@ -9,50 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月28日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月29日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月28
+## 2026年09月29
 
-### SpaceX’s Starship rocket reaches orbit for the first time
+### Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX的Starship火箭首次实现轨道飞行，标志着航天技术的重大突破，为未来太空探索和数据采集奠定基础。
+Peak XV将种子投资上限提升至500万美元，发布包含18家初创公司的最新投资组合，聚焦数据AI领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
 
 ---
 
-### TechCrunch Mobility: AV companies pick their lanes
+### AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-自动驾驶企业聚焦细分市场，利用数据AI技术优化路径选择。
+AMD以82亿美元收购Fei-Fei Li的World Labs，强化其在数据AI领域的布局。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
-
----
-
-### Insurers claim AI is already increasing healthcare costs
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-保险公司称AI已导致医疗成本上升，担忧技术滥用加剧经济负担。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
-
----
-
-### Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Crusoe放弃在AI数据中心使用Boom涡轮机，原计划投资12.5亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
 
 ---
 
@@ -60,7 +40,7 @@ Crusoe放弃在AI数据中心使用Boom涡轮机，原计划投资12.5亿美元�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review探讨AI领域“流氓代理”责任和AI炒作指数，强调数据AI安全与评估的重要性。
+MIT Tech Review探讨AI领域中的“恶意代理责任”问题，并提出AI炒作指数，揭示行业趋势。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/)
 
@@ -70,7 +50,7 @@ MIT Tech Review探讨AI领域“流氓代理”责任和AI炒作指数，强调�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review发表新研究，指出年轻器官移植可能并非对受体带来长寿。研究利用AI分析大量数据，揭示器官老化影响受体寿命。
+最新研究发现，年轻器官并非能为受体带来青春活力。AI数据分析揭示器官老化与受体健康关系复杂，需谨慎对待。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/)
 
@@ -80,7 +60,7 @@ MIT Tech Review发表新研究，指出年轻器官移植可能并非对受体�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，Climate Week期间，一项旨在取消虚拟墙的项目与人工智能技术结合，引发关注。
+MIT Tech Review报道，Climate Week期间，一项目旨在废弃虚拟墙，采用AI技术应对气候挑战。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/)
 
