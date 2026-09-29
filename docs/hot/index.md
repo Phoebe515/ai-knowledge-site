@@ -9,91 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月28
+## 2026年09月29
 
-### Anthropic’s CEO is about to have dinner with President Trump
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic CEO即将与特朗普总统共进晚餐，具体细节尚未公布。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
-
----
-
-### Can Muse overcome Meta’s trust issues?
+### Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Can Muse overcome Meta’s trust issues?
-Muse面临Meta信任危机，能否克服成关键。
+Peak XV将种子投资上限提升至500万美元，公布18家初创企业新成员。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
 
 ---
 
-### Anthropic’s Dario Amodei gets the SNL treatment
+### OpenAI reportedly ditches model over safety concerns
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic首席执行官Dario Amodei在《周六夜现场》接受特殊采访，科技媒体TechCrunch报道此幕。
+OpenAI因安全担忧弃用某模型，据TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
 
 ---
 
-### Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
+### Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下Flipkart购买商品。
+Modal Labs接近完成7.5亿美元融资，估值达157.5亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
 
 ---
 
-### Insurers claim AI is already increasing healthcare costs
+### AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-保险公司称AI已推高医疗成本。TechCrunch报道，AI在医疗领域的应用导致成本上升，引发行业关注。
+AMD宣布以82亿美元收购Fei-Fei Li的World Labs，拓展人工智能领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
 
 ---
 
-### 谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI
+### Shopify opens checkout to browser-based AI agents
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Shopify推出浏览器AI代理功能，扩展结账服务，提升用户体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
+
+---
+
+### AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，新增端侧 AI 支持，提升开发效率。
+AI助力复杂业务漏洞挖掘，涵盖业务规则建模与攻击路径验证，QCon上海会议探讨技术前沿。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9)
-
----
-
-### 可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在QCon上海，专家探讨B2B跨境支付中AI的应用，实现可控、可测、可进化，提升支付效率与安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw)
+**来源：** [InfoQ](https://www.infoq.cn/article/mDiczbGJpHNMU6e0qBX1)
 
 ---
 
-### 阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview
+### Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-阿里巴巴开源AI辅助代码评审工具OpenCodeReview，旨在提升代码质量和开发效率。
+Token价格持续下跌，边缘AI行业仍稳健发展，企业算力成本控制日益精细。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ)
+**来源：** [InfoQ](https://www.infoq.cn/article/XF5kZxV681STVDrzsstj)
+
+---
+
+### Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare发布智能体开发栈生命周期，旨在取代传统软件开发周期，简化开发流程。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/OooAe7xY816xAdLrkv8V)
 
 ---
 
