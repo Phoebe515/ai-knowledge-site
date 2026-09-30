@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年09月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月29
+## 2026年09月30
 
-### Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Peak XV将种子投资上限提升至500万美元，公布18家初创企业新成员。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
-
----
-
-### OpenAI reportedly ditches model over safety concerns
+### America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI因安全担忧弃用某模型，据TechCrunch报道。
+美国国务院官网在回答关于《我的世界》的问题时表现出异常，但并非故障。TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/)
 
 ---
 
-### Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
+### The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Modal Labs接近完成7.5亿美元融资，估值达157.5亿美元。
+互联网认为埃隆·马斯克的xAI在OpenAI的“Dots”发布上进行了恶作剧。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
 
 ---
 
-### AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion
+### a16z-backed EliseAI raises $350M, doubles valuation to $4B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AMD宣布以82亿美元收购Fei-Fei Li的World Labs，拓展人工智能领域。
+EliseAI获a16z投资3.5亿美元，估值翻倍至40亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
 
 ---
 
-### Shopify opens checkout to browser-based AI agents
+### OpenAI’s latest features take direct aim at the app store model
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Shopify推出浏览器AI代理功能，扩展结账服务，提升用户体验。
+OpenAI新功能直指应用商店模式，挑战传统应用分发渠道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/)
 
 ---
 
-### AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon上海
+### OpenAI reportedly in talks to raise $30B round at $1.4T valuation
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI正洽谈新一轮30亿美元融资，估值达1.4万亿美元。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
+
+---
+
+### Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI助力复杂业务漏洞挖掘，涵盖业务规则建模与攻击路径验证，QCon上海会议探讨技术前沿。
+Uber通过子集群优化M3DB分片策略，降低故障影响，提高系统稳定性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/mDiczbGJpHNMU6e0qBX1)
-
----
-
-### Token价格一降再降，但不会让边缘AI退场：企业算力账越来越细
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Token价格持续下跌，边缘AI行业仍稳健发展，企业算力成本控制日益精细。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/XF5kZxV681STVDrzsstj)
+**来源：** [InfoQ](https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8)
 
 ---
 
-### Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC
+### 亚马逊云科技无法恢复仅存储在受损的中东可用区的数据
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare发布智能体开发栈生命周期，旨在取代传统软件开发周期，简化开发流程。
+亚马逊云科技中东可用区数据受损，仅存储于此的数据无法恢复。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/OooAe7xY816xAdLrkv8V)
+**来源：** [InfoQ](https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0)
+
+---
+
+### Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Agent Sandbox在AI领域日益重要，不仅限于Token烧毁，其安全性、可控性及创新性成为关键。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP)
 
 ---
 
