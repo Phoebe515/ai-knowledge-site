@@ -9,30 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月29日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月30日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月29
+## 2026年09月30
 
-### Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
+### Your car and its mobile app are probably handing over all kinds of data to tech companies
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Peak XV将种子投资上限提升至500万美元，公布18家初创企业阵容，聚焦数据AI领域。
+研究发现，您的车辆及其移动应用可能正将各种数据泄露给科技公司，涉及数据AI领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
 
 ---
 
-### AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion
+### Dutch police arrest ShinyHunters hacker accused of planning two murders
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AMD宣布以82亿美元收购Fei-Fei Li的World Labs，强化其在数据AI领域的布局。
+荷兰警方逮捕涉嫌策划两起谋杀案的ShinyHunters黑客，其涉嫌利用数据AI技术进行犯罪。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
+
+---
+
+### AI-powered app maker Wabi pivots to a messaging experience
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Wabi从AI应用开发商转型为以消息体验为核心的应用，聚焦数据AI与用户互动。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
+
+---
+
+### After losing his voice to cancer, this founder is building ‘glasses for voice’
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+癌症导致失声的创始人正在开发“语音眼镜”，利用数据AI技术实现语音识别与输出。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/)
 
 ---
 
@@ -40,7 +60,7 @@ AMD宣布以82亿美元收购Fei-Fei Li的World Labs，强化其在数据AI领�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review发布《The Download》，探讨AI领域“恶意代理责任”及“AI炒作指数”，关注数据AI风险与市场动态。
+MIT Tech Review发布《The Download》报告，探讨AI领域“流氓代理责任”与“AI炒作指数”，分析AI行业风险与市场炒作现状。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/)
 
@@ -50,19 +70,9 @@ MIT Tech Review发布《The Download》，探讨AI领域“恶意代理责任”
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review最新研究显示，年轻器官移植可能无法显著延长受体寿命，数据AI分析揭示器官老化与寿命关联性。
+MIT Tech Review发表研究称，年轻器官对受者可能非青春源泉，数据AI分析揭示器官老化与受者健康间复杂关系。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/)
-
----
-
-### The Download: a bid to scrap the virtual wall and AI hits Climate Week
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，Climate Week期间，一项旨在取消虚拟墙的提议与人工智能技术结合，引发关注。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/)
 
 ---
 
