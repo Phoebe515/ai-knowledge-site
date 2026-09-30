@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月30日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月30日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-研究发现，您的车辆及其移动应用可能正将各种数据泄露给科技公司，涉及数据AI领域。
+汽车与移动应用可能正将大量数据提供给科技公司，涉及数据AI领域。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
 
@@ -30,7 +30,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-荷兰警方逮捕涉嫌策划两起谋杀案的ShinyHunters黑客，其涉嫌利用数据AI技术进行犯罪。
+荷兰警方逮捕了ShinyHunters黑客，其涉嫌策划两起谋杀案，此黑客曾利用数据AI技术入侵多家企业。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
 
@@ -40,19 +40,9 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Wabi从AI应用开发商转型为以消息体验为核心的应用，聚焦数据AI与用户互动。
+AI应用开发商Wabi转向提供即时通讯体验，利用AI技术优化用户体验。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
-
----
-
-### After losing his voice to cancer, this founder is building ‘glasses for voice’
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-癌症导致失声的创始人正在开发“语音眼镜”，利用数据AI技术实现语音识别与输出。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/)
 
 ---
 
@@ -60,19 +50,9 @@ Wabi从AI应用开发商转型为以消息体验为核心的应用，聚焦数�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review发布《The Download》报告，探讨AI领域“流氓代理责任”与“AI炒作指数”，分析AI行业风险与市场炒作现状。
+MIT Tech Review探讨AI领域代理责任与AI炒作指数，关注数据AI伦理与市场动态。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/)
-
----
-
-### Young organs may not be a fountain of youth for recipients
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review发表研究称，年轻器官对受者可能非青春源泉，数据AI分析揭示器官老化与受者健康间复杂关系。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/)
 
 ---
 
