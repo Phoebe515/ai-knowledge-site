@@ -9,40 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年09月30日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月01日 09:00</span>
 </div>
 
 ---
 
-## 2026年09月30
+## 2026年10月01
 
-### Your car and its mobile app are probably handing over all kinds of data to tech companies
+### Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-汽车与移动应用可能正将大量数据提供给科技公司，涉及数据AI领域。
+Spotify亿万富翁创立的Neko Health携其身体扫描技术登陆美国，引发数据AI领域关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
+**来源：** [TechCrunch](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
 
 ---
 
-### Dutch police arrest ShinyHunters hacker accused of planning two murders
+### FedEx orders 2,000 electric trucks from Harbinger in $300M deal
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-荷兰警方逮捕了ShinyHunters黑客，其涉嫌策划两起谋杀案，此黑客曾利用数据AI技术入侵多家企业。
+联邦快递（FedEx）与Harbinger签订3000万美元订单，购买2000辆电动卡车，推动物流行业绿色转型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/)
 
 ---
 
-### AI-powered app maker Wabi pivots to a messaging experience
+### Google launches Fitbit Air in India, though its high price might deter the masses
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI应用开发商Wabi转向提供即时通讯体验，利用AI技术优化用户体验。
+Google在印度推出Fitbit Air，但高昂价格可能阻碍大众购买。AI在智能穿戴设备市场分析中扮演关键角色，助力产品定价与市场策略。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/)
 
 ---
 
@@ -50,7 +50,7 @@ AI应用开发商Wabi转向提供即时通讯体验，利用AI技术优化用户
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review探讨AI领域代理责任与AI炒作指数，关注数据AI伦理与市场动态。
+MIT Tech Review探讨AI领域，分析“流氓代理”责任和AI炒作指数，揭示行业现状与挑战。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/)
 
