@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年09月30日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月01日 07:00</span>
 </div>
 
 ---
 
-## 2026年09月30
+## 2026年10月01
 
-### America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国国务院官网在回答关于《我的世界》的问题时表现出异常，但并非故障。TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/)
-
----
-
-### The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
+### Google releases Gemini 4 Argon, called its most powerful model yet
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-互联网认为埃隆·马斯克的xAI在OpenAI的“Dots”发布上进行了恶作剧。
+谷歌发布Gemini 4 Argon，称其为迄今为止最强大的模型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)
 
 ---
 
-### a16z-backed EliseAI raises $350M, doubles valuation to $4B
+### Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-EliseAI获a16z投资3.5亿美元，估值翻倍至40亿美元。
+AI初创公司Flow Engineering获 Valor、Atreides和Sequoia等投资，估值达7.5亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
 
 ---
 
-### OpenAI’s latest features take direct aim at the app store model
+### OpenAI’s Jev clone could help the frontier lab stop its swarming agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI新功能直指应用商店模式，挑战传统应用分发渠道。
+OpenAI的Jev克隆技术有望协助前沿实验室解决其集群智能体的问题。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
 
 ---
 
-### OpenAI reportedly in talks to raise $30B round at $1.4T valuation
+### AI voice startup ElevenLabs doubles valuation to $22B
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI正洽谈新一轮30亿美元融资，估值达1.4万亿美元。
+AI语音初创公司ElevenLabs估值翻倍至220亿美元，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
 
 ---
 
-### Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响
+### Reddit is killing RSS feeds and ending public API access because of AI bots
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Reddit宣布终止RSS订阅及公共API接入，以应对AI机器人滥用问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/)
+
+---
+
+### 谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Uber通过子集群优化M3DB分片策略，降低故障影响，提高系统稳定性。
+谷歌开源自主AI代理编排器AX，基于Kubernetes风格，助力AI应用部署与管理。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8)
-
----
-
-### 亚马逊云科技无法恢复仅存储在受损的中东可用区的数据
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-亚马逊云科技中东可用区数据受损，仅存储于此的数据无法恢复。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0)
+**来源：** [InfoQ](https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh)
 
 ---
 
-### Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？
+### GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Agent Sandbox在AI领域日益重要，不仅限于Token烧毁，其安全性、可控性及创新性成为关键。
+GitLab Duo宣布通过微软Foundry扩展自托管AI选项，增强开源代码管理平台的功能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP)
+**来源：** [InfoQ](https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv)
+
+---
+
+### DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+DeepSeek开源昇腾平台基础设施组件，包括TileLang、计算库与分布式通信库，以促进昇腾生态发展。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR)
 
 ---
 
