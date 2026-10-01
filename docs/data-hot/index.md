@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月01日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月01日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Spotify亿万富翁创立的Neko Health携其身体扫描技术登陆美国，引发数据AI领域关注。
+Spotify亿万富翁创办的Neko Health将体扫技术引入美国，其数据AI应用备受关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
 
@@ -30,7 +30,7 @@ Spotify亿万富翁创立的Neko Health携其身体扫描技术登陆美国，�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-联邦快递（FedEx）与Harbinger签订3000万美元订单，购买2000辆电动卡车，推动物流行业绿色转型。
+联邦快递与Harbinger签订3亿美元订单，订购2000辆电动卡车，推动物流行业向智能化、绿色化转型。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/)
 
@@ -40,19 +40,19 @@ Spotify亿万富翁创立的Neko Health携其身体扫描技术登陆美国，�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google在印度推出Fitbit Air，但高昂价格可能阻碍大众购买。AI在智能穿戴设备市场分析中扮演关键角色，助力产品定价与市场策略。
+谷歌在印度推出Fitbit Air，但高昂的价格可能令大众望而却步。此举可能推动智能穿戴设备市场发展，对数据AI技术需求增加。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/)
 
 ---
 
-### The Download: rogue agent liability and the AI Hype Index
+### An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review探讨AI领域，分析“流氓代理”责任和AI炒作指数，揭示行业现状与挑战。
+MIT研发的AI“读心”工具可基于脑部扫描重建观察者所视内容，标志着数据AI在神经科学领域的突破。
 
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 
 ---
 
