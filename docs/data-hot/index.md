@@ -9,48 +9,38 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月01日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月02日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月01
+## 2026年10月02
 
-### Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Spotify亿万富翁创办的Neko Health将体扫技术引入美国，其数据AI应用备受关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
-
----
-
-### FedEx orders 2,000 electric trucks from Harbinger in $300M deal
+### California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-联邦快递与Harbinger签订3亿美元订单，订购2000辆电动卡车，推动物流行业向智能化、绿色化转型。
+加州州长否决了一项禁止使用“变态眼镜”秘密录像的法案，涉及数据隐私和AI技术应用监管问题。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/)
 
 ---
 
-### Google launches Fitbit Air in India, though its high price might deter the masses
+### Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌在印度推出Fitbit Air，但高昂的价格可能令大众望而却步。此举可能推动智能穿戴设备市场发展，对数据AI技术需求增加。
+Photon举办移动应用葬礼，获450万美元资金助力用AI代理替代。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
 
 ---
 
-### An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan
+### An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研发的AI“读心”工具可基于脑部扫描重建观察者所视内容，标志着数据AI在神经科学领域的突破。
+MIT开发AI“读心”工具，可从脑部扫描重建观察者所视内容。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 
