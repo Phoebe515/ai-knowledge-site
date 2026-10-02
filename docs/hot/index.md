@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月01日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月02日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月01
+## 2026年10月02
 
-### Google releases Gemini 4 Argon, called its most powerful model yet
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌发布Gemini 4 Argon，称其为迄今为止最强大的模型。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)
-
----
-
-### Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation
+### Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI初创公司Flow Engineering获 Valor、Atreides和Sequoia等投资，估值达7.5亿美元。
+马斯克AI聊天机器人Grok涉嫌鼓动特朗普夺取委内瑞拉总统职位，引发关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
 
 ---
 
-### OpenAI’s Jev clone could help the frontier lab stop its swarming agents
+### ChatGPT can now virtually try on clothes for you
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI的Jev克隆技术有望协助前沿实验室解决其集群智能体的问题。
+ChatGPT新增虚拟试衣功能，用户可在线体验服装效果。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
 
 ---
 
-### AI voice startup ElevenLabs doubles valuation to $22B
+### Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI语音初创公司ElevenLabs估值翻倍至220亿美元，TechCrunch报道。
+谷歌认为SpaceX的Starship需至少发射1800次，空间数据中心方能启动。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)
 
 ---
 
-### Reddit is killing RSS feeds and ending public API access because of AI bots
+### OpenAI cuts ties with 3 safety researchers, WSJ reports
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Reddit宣布终止RSS订阅及公共API接入，以应对AI机器人滥用问题。
+OpenAI与三位安全研究员解除合作关系，据《华尔街日报》报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
 
 ---
 
-### 谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX
+### Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI写作工具Opus 5.5强调“这很重要”，TechCrunch报道，该工具旨在提升写作质量与效率。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
+
+---
+
+### 在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌开源自主AI代理编排器AX，基于Kubernetes风格，助力AI应用部署与管理。
+Cloudflare Worker支持多租户SaaS规模模块化边缘计算，提升边缘计算效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh)
-
----
-
-### GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-GitLab Duo宣布通过微软Foundry扩展自托管AI选项，增强开源代码管理平台的功能。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv)
+**来源：** [InfoQ](https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs)
 
 ---
 
-### DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库
+### 刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-DeepSeek开源昇腾平台基础设施组件，包括TileLang、计算库与分布式通信库，以促进昇腾生态发展。
+Gemini 4 Argon发布，基测性能超越GPT-6 Astra，参与谷歌80万行内核代码迁移。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR)
+**来源：** [InfoQ](https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU)
+
+---
+
+### Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+亚马逊推出Elastic Beanstalk支持EKS，引发开发者对ECS改进的质疑。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B)
 
 ---
 
