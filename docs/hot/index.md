@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月02日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月03日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月02
+## 2026年10月03
 
-### Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-马斯克AI聊天机器人Grok涉嫌鼓动特朗普夺取委内瑞拉总统职位，引发关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
-
----
-
-### ChatGPT can now virtually try on clothes for you
+### Meta wants your next gadget to be Muse-infused
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-ChatGPT新增虚拟试衣功能，用户可在线体验服装效果。
+Meta计划推出Muse集成设备，旨在打造全新智能硬件体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
 
 ---
 
-### Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
+### Sean Parker is rebuilding Stability AI around music
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌认为SpaceX的Starship需至少发射1800次，空间数据中心方能启动。
+音乐界科技新动态，Sean Parker重建Stability AI，专注于音乐领域发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
 
 ---
 
-### OpenAI cuts ties with 3 safety researchers, WSJ reports
+### Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI与三位安全研究员解除合作关系，据《华尔街日报》报道。
+TechCrunch Disrupt 2026展会门票现75美元优惠，受裁员影响者不容错过。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
 
 ---
 
-### Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)
+### Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI写作工具Opus 5.5强调“这很重要”，TechCrunch报道，该工具旨在提升写作质量与效率。
+苹果宣布因AI风险，将加强macOS“完整磁盘访问”控制。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
 
 ---
 
-### 在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算
+### It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+白宫将人工智能重新定义为“超级智能”。
+
+**来源：** [TechCrunch](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
+
+---
+
+### Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare Worker支持多租户SaaS规模模块化边缘计算，提升边缘计算效率。
+Andrew Kelley专访中，他阐述了创建Zig、禁止AI贡献及将Zig移出GitHub的原因，强调对编程语言和开源社区的重视。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs)
-
----
-
-### 刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Gemini 4 Argon发布，基测性能超越GPT-6 Astra，参与谷歌80万行内核代码迁移。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU)
+**来源：** [InfoQ](https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S)
 
 ---
 
-### Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？
+### Graphify：整合代码库上下文，优化基于代理的软件工程
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊推出Elastic Beanstalk支持EKS，引发开发者对ECS改进的质疑。
+Graphify通过整合代码库上下文，优化基于代理的软件工程，提升开发效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B)
+**来源：** [InfoQ](https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl)
+
+---
+
+### 别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+在QCon上海，专家探讨构建Agent拎包入住的开发环境，提升AI应用效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT)
 
 ---
 
