@@ -9,30 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月02日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月03日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月02
+## 2026年10月03
 
-### California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people
+### Sanders introduces bill to ban the federal government from using Flock
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-加州州长否决了一项禁止使用“透视眼镜”秘密录音的法案，此举可能影响数据AI在隐私保护方面的应用。
+美国参议员Sanders提出法案，禁止联邦政府使用Flock，旨在规范政府机构的数据AI应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
 
 ---
 
-### Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.
+### Sean Parker is rebuilding Stability AI around music
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Photon举办移动应用葬礼，获450万美元投资以打造替代“智能代理”。
+Sean Parker重启Stability AI，专注于音乐领域的数据AI发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
+
+---
+
+### Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Disrupt 2026展会+通行证现75美元优惠，适用于受裁员影响者，抓住AI领域盛会机遇。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
+
+---
+
+### Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+在TechCrunch Disrupt 2026展会，数据AI领域展位备受关注，吸引超万名技术领袖。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/)
 
 ---
 
@@ -40,7 +60,7 @@ Photon举办移动应用葬礼，获450万美元投资以打造替代“智能�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一场生物去老化竞赛引发关注，同时探讨为何大型语言模型缺乏推理能力。
+生物去老化竞赛吸引关注，同时MIT Tech Review探讨大型语言模型缺乏推理能力的问题。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/)
 
@@ -50,7 +70,7 @@ MIT Tech Review报道，一场生物去老化竞赛引发关注，同时探讨�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-麻省理工学院科技评论报道，一场以生物年轻化为目标的竞赛在全球展开，参赛者运用数据AI技术对抗衰老，争夺生物年轻化桂冠。
+一场以生物年轻化为目标的竞赛在MIT Tech Review上展开，参赛者通过数据AI技术竞速实现细胞年轻化。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/)
 
@@ -60,7 +80,7 @@ MIT Tech Review报道，一场生物去老化竞赛引发关注，同时探讨�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研发AI“读心”工具，可从脑扫描中重建观察对象。
+MIT研发的AI“读心”工具可从脑部扫描中重建观察对象，突破传统AI视觉识别技术。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 
