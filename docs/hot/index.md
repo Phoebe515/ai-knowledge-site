@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月03日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月04日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月03
+## 2026年10月04
+
+### Amazon responds to data center backlash, says it no longer uses NDAs
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+亚马逊回应数据中心争议，宣布不再使用保密协议。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
+
+---
+
+### OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI安全员工离职，指责公司文化“已破碎”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
+
+---
+
+### All the AI agents that can live in your text messages 
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch报道，多种AI代理可嵌入短信，实现个性化互动，提升用户体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/)
+
+---
 
 ### Meta wants your next gadget to be Muse-infused
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta计划推出Muse集成设备，旨在打造全新智能硬件体验。
+Meta计划将Muse技术融入下一代设备，旨在提升用户体验。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
 
@@ -30,39 +60,29 @@ Meta计划推出Muse集成设备，旨在打造全新智能硬件体验。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-音乐界科技新动态，Sean Parker重建Stability AI，专注于音乐领域发展。
+Sean Parker正围绕音乐重塑Stability AI，旨在提升音乐创作和制作效率。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
 
 ---
 
-### Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
+### Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-TechCrunch Disrupt 2026展会门票现75美元优惠，受裁员影响者不容错过。
+在QCon上海，专家探讨如何将企业数仓转化为可治理的共享语义记忆，提升Agent记忆在对话中的实用性。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
-
----
-
-### Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果宣布因AI风险，将加强macOS“完整磁盘访问”控制。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
+**来源：** [InfoQ](https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH)
 
 ---
 
-### It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
+### 企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-白宫将人工智能重新定义为“超级智能”。
+QCon上海探讨了企业级Agent Infra架构实践，涵盖安全沙箱、网络管控与身份治理，为构建高效、安全的智能系统提供参考。
 
-**来源：** [TechCrunch](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
+**来源：** [InfoQ](https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP)
 
 ---
 
@@ -70,29 +90,9 @@ TechCrunch Disrupt 2026展会门票现75美元优惠，受裁员影响者不容�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Andrew Kelley专访中，他阐述了创建Zig、禁止AI贡献及将Zig移出GitHub的原因，强调对编程语言和开源社区的重视。
+Andrew Kelley专访：他创建Zig、禁止AI贡献，并从GitHub移出，强调Zig的独立性和对安全性的重视。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S)
-
----
-
-### Graphify：整合代码库上下文，优化基于代理的软件工程
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Graphify通过整合代码库上下文，优化基于代理的软件工程，提升开发效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl)
-
----
-
-### 别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在QCon上海，专家探讨构建Agent拎包入住的开发环境，提升AI应用效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT)
 
 ---
 
