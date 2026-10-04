@@ -9,18 +9,38 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月03日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月04日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月03
+## 2026年10月04
+
+### Jack Dorsey’s Bitchat disappears from app stores in India after government order
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Jack Dorsey的Bitchat因政府命令在印度应用商店下架，涉及数据AI领域监管问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
+
+---
+
+### Spotify billionaire’s body scan startup has come to America
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Spotify亿万富翁创立的身体扫描初创公司已登陆美国，利用数据AI技术提供精准人体数据服务。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/)
+
+---
 
 ### Sanders introduces bill to ban the federal government from using Flock
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国参议员Sanders提出法案，禁止联邦政府使用Flock，以加强数据AI领域隐私保护。
+美国参议员Sanders提出法案，禁止联邦政府使用Flock，以保障数据安全和隐私。该法案涉及数据AI领域，旨在加强政府信息管理。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
 
@@ -30,7 +50,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技企业家Sean Parker正在重建Stability AI，专注于音乐领域的应用，以推动数据AI技术在音乐创作中的创新。
+Sean Parker正围绕音乐领域重建Stability AI，旨在利用数据AI技术推动音乐创作与生产。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
 
@@ -40,19 +60,9 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Disrupt 2026展会门票75美元优惠，为受裁员影响的技术人才提供数据AI行业交流机会。
+TechCrunch Disrupt 2026展会，数据AI专业人士可抓住75美元优惠购买门票，不容错过。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
-
----
-
-### Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026展会，数据AI展区吸引超10,000名科技领袖关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/)
 
 ---
 
@@ -60,7 +70,7 @@ TechCrunch Disrupt 2026展会，数据AI展区吸引超10,000名科技领袖关�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一场生物去老化竞赛正在进行，同时探讨大型语言模型（LLM）缺乏推理能力的原因。
+MIT Tech Review报道，一场生物去老化竞赛引发关注，同时探讨为何大型语言模型缺乏推理能力。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/)
 
@@ -70,7 +80,7 @@ MIT Tech Review报道，一场生物去老化竞赛正在进行，同时探讨�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一场比拼生物年龄的竞赛在数据AI领域展开，参赛者通过算法争夺“青春”。
+麻省理工学院科技评论报道，一场以生物年轻化为目标的竞赛在数据AI领域展开，参赛者通过算法比拼延缓衰老。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/)
 
@@ -80,7 +90,7 @@ MIT Tech Review报道，一场比拼生物年龄的竞赛在数据AI领域展开
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一项AI“读心”工具可从脑扫描中重构观察者所见画面，标志着数据AI技术在脑科学领域的突破。
+MIT研发的AI工具可从脑扫描中重建观察者所视景象，实现脑扫描到图像的直接转化。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 
