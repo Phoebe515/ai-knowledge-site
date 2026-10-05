@@ -9,18 +9,38 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月04日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月05日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月04
+## 2026年10月05
+
+### Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+探讨超级智能与安全协议能否解决AI形象问题，TechCrunch发表文章，从数据AI领域深入分析。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
+
+---
+
+### TechCrunch Mobility: Reining in robotaxis
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Mobility报道，业界正在采取措施规范机器人出租车，数据AI技术助力提高安全性，提升用户体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/)
+
+---
 
 ### Jack Dorsey’s Bitchat disappears from app stores in India after government order
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Jack Dorsey的Bitchat因政府命令在印度应用商店下架，涉及数据AI安全问题引发关注。
+Jack Dorsey的Bitchat因政府命令在印度应用商店下架，涉及数据AI隐私问题引发关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
 
@@ -30,7 +50,7 @@ Jack Dorsey的Bitchat因政府命令在印度应用商店下架，涉及数据AI
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Spotify亿万富翁创办的全身扫描初创公司进军美国市场，利用数据AI技术提供个性化医疗服务。
+Spotify亿万富翁创办的身体扫描初创公司进军美国，利用数据AI技术提供个性化医疗服务。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/)
 
@@ -40,29 +60,9 @@ Spotify亿万富翁创办的全身扫描初创公司进军美国市场，利用�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国参议员Sanders提出法案，禁止联邦政府使用Flock，旨在加强数据AI领域隐私保护。
+美国参议员桑德斯提案禁止联邦政府使用Flock，关注数据AI领域，旨在加强政府信息安全。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
-
----
-
-### Sean Parker is rebuilding Stability AI around music
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-音乐AI领域再迎新动向，Sean Parker重组Stability AI，聚焦音乐创作与数据分析。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
-
----
-
-### Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Disrupt 2026 Expo+ Pass现75美元优惠，面向受裁员影响者，涵盖数据AI领域最新趋势。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
 
 ---
 
@@ -70,7 +70,7 @@ TechCrunch Disrupt 2026 Expo+ Pass现75美元优惠，面向受裁员影响者�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-生物去老化竞赛引关注，MIT Tech Review探讨为何LLM无法推理。
+MIT Tech Review报道，一场生物去老化竞赛引发关注，同时探讨为何大型语言模型缺乏推理能力。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/)
 
@@ -80,7 +80,7 @@ TechCrunch Disrupt 2026 Expo+ Pass现75美元优惠，面向受裁员影响者�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-一场以生物年轻化为目标的竞赛在麻省理工学院举办，参赛者通过数据AI技术对抗，争夺青春活力。
+MIT Tech Review报道，一场以生物年轻化为目标的竞赛在数据AI领域展开，参赛者竞相通过AI技术延缓衰老。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/)
 
@@ -90,7 +90,7 @@ TechCrunch Disrupt 2026 Expo+ Pass现75美元优惠，面向受裁员影响者�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研发的AI“读心”工具可从脑部扫描中重构观察者所见，展现数据AI在脑科学领域的突破。
+MIT研发出AI“读心”工具，可从脑部扫描中重建观察者所见图像。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 
