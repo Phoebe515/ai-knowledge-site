@@ -9,12 +9,42 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月04日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月05日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月04
+## 2026年10月05
+
+### Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+谷歌因AI提交数量激增，暂停其开源漏洞赏金计划。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
+
+---
+
+### Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+探讨“超级智能”与非约束性安全协议能否解决人工智能的信任问题，TechCrunch最新报道引发行业关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
+
+---
+
+### Trump unveils his new Super Intelligence Force
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特朗普公布全新超级智能部队，旨在提升军事科技实力。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)
+
+---
 
 ### Amazon responds to data center backlash, says it no longer uses NDAs
 
@@ -30,39 +60,29 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI安全员工离职，指责公司文化“已破碎”。
+OpenAI安全员工离职，指责公司文化“已破裂”。TechCrunch报道，离职员工指出公司存在管理不善和文化问题。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
 
 ---
 
-### All the AI agents that can live in your text messages 
+### Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-TechCrunch报道，多种AI代理可嵌入短信，实现个性化互动，提升用户体验。
+Java领域迎来新动态，OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin等更新发布。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/)
-
----
-
-### Meta wants your next gadget to be Muse-infused
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta计划将Muse技术融入下一代设备，旨在提升用户体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
+**来源：** [InfoQ](https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA)
 
 ---
 
-### Sean Parker is rebuilding Stability AI around music
+### Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Sean Parker正围绕音乐重塑Stability AI，旨在提升音乐创作和制作效率。
+Java生态圈最新动态：GraalVM、Jakarta Data、JNoSQL等工具及框架更新，Azul Payara、WildFly、Quarkus和Atmosphere等平台发展活跃。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
+**来源：** [InfoQ](https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k)
 
 ---
 
@@ -70,29 +90,9 @@ Sean Parker正围绕音乐重塑Stability AI，旨在提升音乐创作和制作
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-在QCon上海，专家探讨如何将企业数仓转化为可治理的共享语义记忆，提升Agent记忆在对话中的实用性。
+在QCon上海，专家提出将企业数仓转化为共享语义记忆，实现Agent记忆不在对话中，提升数据治理与共享效率。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH)
-
----
-
-### 企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-QCon上海探讨了企业级Agent Infra架构实践，涵盖安全沙箱、网络管控与身份治理，为构建高效、安全的智能系统提供参考。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP)
-
----
-
-### Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Andrew Kelley专访：他创建Zig、禁止AI贡献，并从GitHub移出，强调Zig的独立性和对安全性的重视。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S)
 
 ---
 
