@@ -9,62 +9,12 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月05日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月06日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月05
-
-### Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技媒体TechCrunch探讨“超级智能”及非约束性安全协议如何解决AI的信任问题。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
-
----
-
-### TechCrunch Mobility: Reining in robotaxis
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Mobility报道，为规范机器人出租车行业，科技公司正利用数据AI技术加强监管，确保安全与效率。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/)
-
----
-
-### Jack Dorsey’s Bitchat disappears from app stores in India after government order
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Jack Dorsey的Bitchat因政府命令在印度应用商店下架，涉及数据AI隐私问题引发关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
-
----
-
-### Spotify billionaire’s body scan startup has come to America
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Spotify亿万富翁创办的体扫初创公司进军美国，利用数据AI技术提供精准身体评估。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/)
-
----
-
-### Sanders introduces bill to ban the federal government from using Flock
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-美国参议员Sanders提出法案，禁止联邦政府使用Flock等数据AI工具，以加强数据安全和隐私保护。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
-
----
+## 2026年10月06
 
 ### The Download: a biological de-aging contest and why LLMs don’t reason
 
@@ -80,19 +30,9 @@ MIT Tech Review报道，一场生物去老化竞赛引发关注，同时探讨�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-麻省理工学院科技评论报道，一场以生物年轻化为目标的竞赛在数据AI领域展开，参赛者通过技术竞赛争夺延缓衰老的秘密。
+MIT Tech Review报道，一项新竞赛挑战选手通过生物技术比拼青春活力，数据AI技术助力分析参赛者生理数据。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/)
-
----
-
-### An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT研发的AI“读心”工具可从脑部扫描中重建观察对象，实现脑电波与视觉信息关联。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)
 
 ---
 
