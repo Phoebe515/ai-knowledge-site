@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月05日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月06日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月05
+## 2026年10月06
 
-### Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-谷歌因AI提交数量激增，暂停其开源漏洞赏金计划。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
-
----
-
-### Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?
+### OpenAI will start watermarking ChatGPT’s text in the EU
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-探讨“超级智能”与非约束性安全协议能否解决人工智能的信任问题，TechCrunch最新报道引发行业关注。
+OpenAI将在欧盟对ChatGPT文本添加水印，以追踪内容来源。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/)
 
 ---
 
-### Trump unveils his new Super Intelligence Force
+### Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普公布全新超级智能部队，旨在提升军事科技实力。
+Reflection推出开源AI模型Beam，计算成本低于中国同类模型，挑战中国AI模型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/)
 
 ---
 
-### Amazon responds to data center backlash, says it no longer uses NDAs
+### Instinct brings its AI agent to group chats, even for friends without an account
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊回应数据中心争议，宣布不再使用保密协议。
+Instinct推出AI代理加入群聊功能，无需好友账户即可使用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/)
 
 ---
 
-### OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+### TikTok rolls out an AI shopping assistant and one-click checkout
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI安全员工离职，指责公司文化“已破裂”。TechCrunch报道，离职员工指出公司存在管理不善和文化问题。
+TikTok推出AI购物助手和一键结账功能，提升用户体验，优化购物流程。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/)
 
 ---
 
-### Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin
+### Hot Girl Hotline is like ‘Dear Abby’ for the AI era
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+“Hot Girl Hotline”如同AI时代的“亲爱的阿比”，提供现代社交建议。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/)
+
+---
+
+### AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Java领域迎来新动态，OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin等更新发布。
+AI与SRE结合并非简单叠加，QCon上海探讨AI如何融入生产运维闭环，实现高效运维。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA)
-
----
-
-### Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Java生态圈最新动态：GraalVM、Jakarta Data、JNoSQL等工具及框架更新，Azul Payara、WildFly、Quarkus和Atmosphere等平台发展活跃。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k)
+**来源：** [InfoQ](https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL)
 
 ---
 
-### Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海
+### 一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-在QCon上海，专家提出将企业数仓转化为共享语义记忆，实现Agent记忆不在对话中，提升数据治理与共享效率。
+Canvas UI发布35个组件，旨在突破浏览器垄断，同时推动WebGPU视觉革命。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH)
+**来源：** [InfoQ](https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D)
+
+---
+
+### C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+苹果将照片签名技术嵌入传感器，却依赖自家云服务确保可信度，引发外界对C2PA安全性的质疑。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE)
 
 ---
 
