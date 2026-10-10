@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月09日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月10日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月09
+## 2026年10月10
 
-### Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技媒体TechCrunch报道，一个网站允许用户在虚拟的Elizabeth Holmes办公桌上体验，展现了其详尽的细节。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
-
----
-
-### Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
+### Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-前OpenAI安全研究员反驳不当行为指控，警告可能产生寒蝉效应。
+Anthropic因无法可靠控制AI代理，正切断其内部评估与互联网的连接。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
 
 ---
 
-### Ben Affleck is an AI nerd, and the internet is impressed
+### The maker of non-text AI model Jev valued at $7.5B just weeks after launch
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-好莱坞明星Ben Affleck对AI表现出浓厚兴趣，引发网友热议，TechCrunch报道称其成为AI领域的“发烧友”。
+非文本AI模型Jev发布仅数周后，估值已达75亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
 
 ---
 
-### Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months
+### An Anthropic AI model sent a false homicide tip to Philadelphia police
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-人工智能排行榜平台Arena在10个月内估值翻倍，达到31亿美元。
+AI模型向费城警方发送虚假谋杀案举报，引发关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
 
 ---
 
-### OpenAI’s revenue is reportedly $20 billion less than previously projected
+### Amazon and others are done keeping data center deals secret. Is it enough to build trust?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI收入预测低于20亿美元，TechCrunch报道。
+亚马逊等公司不再保密数据中心交易，能否赢得信任成关键。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/)
+**来源：** [TechCrunch](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
 
 ---
 
-### Kimi 现代高速开源治理的 AI Native 实践｜QCon上海
+### Danu Robotics’ fight to build a better recycling robot
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Danu Robotics致力于打造更优回收机器人，提升资源循环效率。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
+
+---
+
+### 黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Kimi在QCon上海分享现代高速开源治理的AI Native实践，探讨如何利用AI技术优化开源项目治理流程。
+黄仁勋在微软活动上强调Windows对英伟达的重要性，Satya现场讨论市值。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v)
-
----
-
-### 在生产环境中保护MCP：超越网关的纵深防御
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在InfoQ报道中，探讨如何在生产环境中对MCP实施超越网关的纵深防御策略，以增强生产环境的安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/HZIW4QjEfV66I9CGr52R)
+**来源：** [InfoQ](https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu)
 
 ---
 
-### 谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust
+### Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌利用AI和差分模糊测试将C语言依赖库改写为Rust，提高代码效率和安全性。
+前OpenAI研究员指出，Codex和Claude Code存在偏差，称Jev出现前AI世界为悲剧。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE)
+**来源：** [InfoQ](https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61)
+
+---
+
+### OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+OpenAI高管透露，团队在一周内成功开发出Jev竞品，展现其高效创新能力。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V)
 
 ---
 
