@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月11日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月12日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月11
+## 2026年10月12
+
+### Will the HomeView be Apple’s first smart home success?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果新一代智能家居产品HomeView备受关注，有望成为其首个智能家居成功案例。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
+
+---
+
+### 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+距TechCrunch Disrupt 2026仅剩48小时，聆听构建未来科技的人们的声音。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
+
+---
+
+### Can the AI industry persuade data center opponents by getting rid of NDAs?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI行业试图通过废除保密协议（NDAs）来说服数据中心反对者，以推动行业进展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
+
+---
+
+### These execs think voice AI hasn’t reached its ChatGPT moment yet
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+多位业界高管认为，语音AI尚未达到ChatGPT的里程碑时刻。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
+
+---
 
 ### Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO纳德拉表示，AI模型需要“紧急制动”，以防止潜在风险。
+微软CEO纳德拉呼吁为AI模型安装“紧急制动”，以确保其安全与可控。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
 
 ---
 
-### Apple discloses deal to hire team and license tech from personalized podcast startup Huxe
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果宣布与个性化播客初创公司Huxe达成合作，将聘请其团队并授权其技术。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
-
----
-
-### 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-距TechCrunch Disrupt 2026开幕仅3天，众多初创企业即将亮相，提前领略科技前沿风采。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)
-
----
-
-### Here are the top AI agents that can live in your text messages 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch发布最新AI智能助手榜单，多款助手可嵌入短信，提升沟通效率。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)
-
----
-
-### Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic为防止AI失控，正切断内部评估与互联网连接。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
-
----
-
-### 亚马逊云科技在 Aurora DSQL 中引入外键约束
+### Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊云科技在Aurora DSQL中引入外键约束，提升数据库性能和安全性。
+Artifactory漏洞正被利用，可绕过身份验证获取管理员权限，安全风险需警惕。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/BjjSS0zaS5OpvRB2OcfF)
-
----
-
-### Linear 通过 1000 多次 PR 从 styled-components 迁移到 Meta 的 StyleX
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Linear成功将1000多次PR从styled-components迁移至Meta的StyleX，提升开发效率和组件兼容性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/YLOUT8CrDm0NPWgHL8LG)
+**来源：** [InfoQ](https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D)
 
 ---
 
-### 单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线
+### Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-小米发布MiMo-V2.6“规模化强化学习”路线，单次训练烧掉260万美元，每步37亿Token。
+Uber在Kubernetes平台实现扩容意图与执行操作解耦，提升资源调度效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK)
+**来源：** [InfoQ](https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ)
+
+---
+
+### 利用 AI 代码智能体优化软件架构的五种方法
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI代码智能体应用于软件架构优化，可采取代码分析、智能重构、架构搜索、模拟预测及持续集成等方法。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK)
 
 ---
 
