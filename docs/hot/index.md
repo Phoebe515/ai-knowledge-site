@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月12
+## 2026年10月13
 
-### Will the HomeView be Apple’s first smart home success?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果新一代智能家居产品HomeView备受关注，有望成为其首个智能家居成功案例。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
-
----
-
-### 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next
+### Meta releases its first frontier model, Muse Wonder
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-距TechCrunch Disrupt 2026仅剩48小时，聆听构建未来科技的人们的声音。
+Meta发布首款前沿模型Muse Wonder，旨在推动AI技术发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
 
 ---
 
-### Can the AI industry persuade data center opponents by getting rid of NDAs?
+### WindBorne wins a hefty US Air Force contract for its balloon data
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI行业试图通过废除保密协议（NDAs）来说服数据中心反对者，以推动行业进展。
+WindBorne获美国空军巨额气球数据合同，将提供气球数据服务。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 
 ---
 
-### These execs think voice AI hasn’t reached its ChatGPT moment yet
+### Honeyjar offers AI tools to improve PR and comms at every company
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-多位业界高管认为，语音AI尚未达到ChatGPT的里程碑时刻。
+Honeyjar推出AI工具，助力企业提升公关与沟通效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/)
 
 ---
 
-### Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+### Microsoft president says UK is best placed to drive AI regulation
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO纳德拉呼吁为AI模型安装“紧急制动”，以确保其安全与可控。
+微软总裁表示，英国处于推动AI监管的最佳位置。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)
 
 ---
 
-### Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限
+### This AI startup says it can generate permit-ready blueprints in minutes
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+一家AI初创公司称，其技术能在几分钟内生成可申请许可的蓝图。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
+
+---
+
+### 星尘智能完成新一轮融资，公司估值达150亿元
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Artifactory漏洞正被利用，可绕过身份验证获取管理员权限，安全风险需警惕。
+星尘智能完成新一轮融资，估值达150亿元，投资方未披露。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D)
-
----
-
-### Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Uber在Kubernetes平台实现扩容意图与执行操作解耦，提升资源调度效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ)
+**来源：** [InfoQ](https://www.infoq.cn/article/z9ORbE470QJDHDiBCC8S)
 
 ---
 
-### 利用 AI 代码智能体优化软件架构的五种方法
+### 高可用不等于弹性：云系统为何在关键时刻失效
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI代码智能体应用于软件架构优化，可采取代码分析、智能重构、架构搜索、模拟预测及持续集成等方法。
+云系统高可用性不等于弹性，关键时刻仍可能失效，需关注系统设计和应对策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK)
+**来源：** [InfoQ](https://www.infoq.cn/article/CNMCVLwkvFb120huYzr9)
+
+---
+
+### 小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+小影科技创始人韩晟将出席QCon上海，分享小影内容创作三次范式迁移经验。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/ZodVZ212r6LtMTycWw7w)
 
 ---
 
