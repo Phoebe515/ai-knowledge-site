@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月14
+## 2026年10月15
 
-### Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技巨头Science Corporation成功为首位Stargardt疾病患者植入视觉恢复芯片。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
-
----
-
-### Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home
+### Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Cerebras CEO表示，我们正接近一个每个人都能在家拥有个人AI助手的未来。
+Ricursive Intelligence押注AI设计芯片助力解决计算危机。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
 
 ---
 
-### Industrial Next wants factory robots to switch tasks in minutes, not weeks
+### Gudea leverages AI to help organizations prevent social media crises before they erupt
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-工业下一代公司致力于让工厂机器人实现分钟级任务切换，替代传统数周周期。
+Gudea利用AI技术，助力企业提前预防社交媒体危机，有效维护品牌形象。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
 
 ---
 
-### Cerebras CEO pushes back on AI doomsday warnings
+### Flock CEO says its microphones detect ‘just gunshots’ — its website says different
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Cerebras CEO反驳AI末日预警，称人工智能发展前景广阔。
+Flock CEO称其麦克风仅检测枪声，但官网信息却相悖。TechCrunch报道引发业界关注。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
 
 ---
 
-### Judge orders OpenAI to turn over hiring records in Apple trade secrets case
+### Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-法官下令OpenAI提交招聘记录，以协助苹果公司贸易机密案调查。
+Colossal Biosciences推出新AI平台，助力加速灭绝物种复育进程。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)
 
 ---
 
-### Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产
+### YouTube Music launches new labels as AI-generated music floods streaming platforms
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+YouTube Music推出新厂牌，AI生成音乐涌入流媒体平台。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/)
+
+---
+
+### 企业真正需要的，不是更聪明的 Agent ？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare推出Worker Previews，允许开发者测试新功能，虽隔离但可连接生产环境，提升开发效率。
+企业对智能Agent的需求并非仅限于更聪明，还需关注其与业务流程的融合和实际应用效果。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD)
-
----
-
-### 手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-阶跃星辰发布首款智能体手机，支持AI解锁，定价3999元，引领手机行业新趋势。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx)
+**来源：** [InfoQ](https://www.infoq.cn/video/Wss036X3C6APXsS41HwC)
 
 ---
 
-### 30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热
+### Spring 近期新闻：Boot、Framework、Data、Security 和 Integration 的第二个里程碑版本
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌高管反思产品开发狂热，承认30名工程师投入一个无真实需求的宏大愿景项目。
+Spring Boot、Framework、Data、Security 和 Integration 第二个里程碑版本发布，带来多项新特性和改进。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p)
+**来源：** [InfoQ](https://www.infoq.cn/article/bjowsAJHMwfAzRMqu4qJ)
+
+---
+
+### 千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+千问办公进军电商，降低开店成本至数百元，实现一个Agent多平台运营。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU)
 
 ---
 
