@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月15日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月16日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月15
+## 2026年10月16
 
-### Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Ricursive Intelligence押注AI设计芯片助力解决计算危机。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
-
----
-
-### Gudea leverages AI to help organizations prevent social media crises before they erupt
+### When it came to Cal AI’s viral success, a small army of influencers paid off
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Gudea利用AI技术，助力企业提前预防社交媒体危机，有效维护品牌形象。
+Cal AI借助众多网红推广取得病毒式传播，小规模网红团助力其成功。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
 
 ---
 
-### Flock CEO says its microphones detect ‘just gunshots’ — its website says different
+### Meta launches an open-weight AI model that runs on Macs
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Flock CEO称其麦克风仅检测枪声，但官网信息却相悖。TechCrunch报道引发业界关注。
+Meta推出可在Mac上运行的开放重量级AI模型。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
 
 ---
 
-### Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts
+### Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Colossal Biosciences推出新AI平台，助力加速灭绝物种复育进程。
+亚马逊设备负责人潘诺斯·帕纳伊预测，未来AI设备将取代应用需求。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
 
 ---
 
-### YouTube Music launches new labels as AI-generated music floods streaming platforms
+### Anthropic is letting METR researchers look under the hood with employee-level access
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-YouTube Music推出新厂牌，AI生成音乐涌入流媒体平台。
+Anthropic向METR研究人员提供员工级访问权限，以便深入了解其内部系统。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
 
 ---
 
-### 企业真正需要的，不是更聪明的 Agent ？
+### Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Bluesky推出AI辅助的Attie应用，用户可轻松构建网站、游戏等。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
+
+---
+
+### 拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-企业对智能Agent的需求并非仅限于更聪明，还需关注其与业务流程的融合和实际应用效果。
+千问AI眼镜发布新硬件，售价2218元起，主打上下文理解，挑战拍照翻译功能。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/Wss036X3C6APXsS41HwC)
-
----
-
-### Spring 近期新闻：Boot、Framework、Data、Security 和 Integration 的第二个里程碑版本
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Spring Boot、Framework、Data、Security 和 Integration 第二个里程碑版本发布，带来多项新特性和改进。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/bjowsAJHMwfAzRMqu4qJ)
+**来源：** [InfoQ](https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T)
 
 ---
 
-### 千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意
+### 阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-千问办公进军电商，降低开店成本至数百元，实现一个Agent多平台运营。
+阶跃星辰发布Step 5 Preview，聚焦长程Agent竞争，引入上下文管理与训练系统，推动AI技术进步。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU)
+**来源：** [InfoQ](https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c)
+
+---
+
+### 蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+蚂蚁百灵开源560B模型Ling-3.0-flash，实现0.19美元搞定复杂工作流，大幅降低AI应用成本。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8)
 
 ---
 
