@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月16日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月17日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月16
+## 2026年10月17
 
-### When it came to Cal AI’s viral success, a small army of influencers paid off
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Cal AI借助众多网红推广取得病毒式传播，小规模网红团助力其成功。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
-
----
-
-### Meta launches an open-weight AI model that runs on Macs
+### Replit is no longer working with Anthropic, CEO says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta推出可在Mac上运行的开放重量级AI模型。
+Replit宣布与Anthropic终止合作，CEO确认。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
 
 ---
 
-### Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps
+### India becomes the latest country to report rogue AI agent activity
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊设备负责人潘诺斯·帕纳伊预测，未来AI设备将取代应用需求。
+印度成为最新报告出现恶意AI代理活动的国家。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
 
 ---
 
-### Anthropic is letting METR researchers look under the hood with employee-level access
+### An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic向METR研究人员提供员工级访问权限，以便深入了解其内部系统。
+Nvidia前员工、现任风险投资家指出，机器人领域尚未达到ChatGPT般的突破。他认为技术成熟度、市场需求及商业模式尚未完全匹配。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
+**来源：** [TechCrunch](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
 
 ---
 
-### Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more
+### Elorian’s first AI model wants to reason with images, not just about them
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Bluesky推出AI辅助的Attie应用，用户可轻松构建网站、游戏等。
+Elorian推出首个AI模型，旨在通过图像进行推理而非仅描述，突破传统图像识别局限。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
 
 ---
 
-### 拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文
+### Jev is Vercel’s fastest-adopted AI model ever
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Jev成为Vercel最快被采用的AI模型，标志着其在AI技术领域的持续创新。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
+
+---
+
+### 聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-千问AI眼镜发布新硬件，售价2218元起，主打上下文理解，挑战拍照翻译功能。
+2026人工智能产业大会专项活动在济南举办，聚焦AI场景落地与FDE创新，探讨产业发展趋势。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T)
-
----
-
-### 阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-阶跃星辰发布Step 5 Preview，聚焦长程Agent竞争，引入上下文管理与训练系统，推动AI技术进步。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c)
+**来源：** [InfoQ](https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb)
 
 ---
 
-### 蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流
+### 生产级大模型平台工程实战手册
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-蚂蚁百灵开源560B模型Ling-3.0-flash，实现0.19美元搞定复杂工作流，大幅降低AI应用成本。
+《生产级大模型平台工程实战手册》发布，详述大模型平台构建及实战经验，助力行业快速掌握大模型应用。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8)
+**来源：** [InfoQ](https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC)
+
+---
+
+### AI 生成的代码，怎么才能进得了工程体系？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI生成代码需满足工程体系要求，需解决可维护性、可测试性和可靠性等问题。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA)
 
 ---
 
