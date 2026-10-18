@@ -9,20 +9,40 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月17
+## 2026年10月18
 
-### Replit is no longer working with Anthropic, CEO says
+### Meta removes language that raised scraping and AI training concerns
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Replit宣布与Anthropic终止合作，CEO确认。
+Meta移除引发抓取和AI训练担忧的语言。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
+
+---
+
+### Anthropic says its workforce has become less junior and is spending more time in meetings
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic表示，其员工构成趋向成熟，会议时间增加。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
+
+---
+
+### Replit makes OpenAI its default over Anthropic, CEO says
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Replit宣布将OpenAI设为默认AI，取代Anthropic，CEO透露此举旨在优化用户体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
 
 ---
 
@@ -40,59 +60,39 @@ Replit宣布与Anthropic终止合作，CEO确认。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia前员工、现任风险投资家指出，机器人领域尚未达到ChatGPT般的突破。他认为技术成熟度、市场需求及商业模式尚未完全匹配。
+Nvidia前内部人士、现风险投资家分析，机器人领域尚未迎来ChatGPT式的突破，原因在于技术挑战与市场需求尚存差距。
 
 **来源：** [TechCrunch](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
 
 ---
 
-### Elorian’s first AI model wants to reason with images, not just about them
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Elorian推出首个AI模型，旨在通过图像进行推理而非仅描述，突破传统图像识别局限。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
-
----
-
-### Jev is Vercel’s fastest-adopted AI model ever
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Jev成为Vercel最快被采用的AI模型，标志着其在AI技术领域的持续创新。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
-
----
-
-### 聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行
+### Akka 在 65 个开源项目中测试基于规格的 AI 交付
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-2026人工智能产业大会专项活动在济南举办，聚焦AI场景落地与FDE创新，探讨产业发展趋势。
+Akka在65个开源项目中测试基于规格的AI交付，旨在提升AI应用交付的准确性和效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb)
-
----
-
-### 生产级大模型平台工程实战手册
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-《生产级大模型平台工程实战手册》发布，详述大模型平台构建及实战经验，助力行业快速掌握大模型应用。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC)
+**来源：** [InfoQ](https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC)
 
 ---
 
-### AI 生成的代码，怎么才能进得了工程体系？
+### The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI生成代码需满足工程体系要求，需解决可维护性、可测试性和可靠性等问题。
+在QCon上海，专家强调构建从现实持续学习的AI系统，而非仅依赖数据集。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA)
+**来源：** [InfoQ](https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU)
+
+---
+
+### Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+JobRunr 9、OpenXava 8等Java相关项目近期更新，Quarkus、LangChain4j、JNoSQL、Lathe等工具也迎来新版本，聚焦性能优化与功能增强。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh)
 
 ---
 
