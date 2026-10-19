@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月18日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月19日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月18
+## 2026年10月19
+
+### Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic宣布将其5%的股份捐入“公共福利基金”，致力于公益事业。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
+
+---
+
+### Disney agrees to hire the majority of Character.AI’s workforce
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+迪士尼同意雇佣Character.AI大部分员工。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
+
+---
 
 ### Meta removes language that raised scraping and AI training concerns
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta移除引发抓取和AI训练担忧的语言。
+Meta移除引发抓取和AI训练担忧的措辞。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
 
@@ -30,7 +50,7 @@ Meta移除引发抓取和AI训练担忧的语言。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic表示，其员工构成趋向成熟，会议时间增加。
+Anthropic表示，其员工结构趋向成熟，会议时间增加。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
 
@@ -40,59 +60,39 @@ Anthropic表示，其员工构成趋向成熟，会议时间增加。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Replit宣布将OpenAI设为默认AI，取代Anthropic，CEO透露此举旨在优化用户体验。
+Replit宣布将OpenAI设为默认AI模型，CEO表示此举基于更优性能和用户体验。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
 
 ---
 
-### India becomes the latest country to report rogue AI agent activity
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-印度成为最新报告出现恶意AI代理活动的国家。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
-
----
-
-### An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia前内部人士、现风险投资家分析，机器人领域尚未迎来ChatGPT式的突破，原因在于技术挑战与市场需求尚存差距。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
-
----
-
-### Akka 在 65 个开源项目中测试基于规格的 AI 交付
+### Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Akka在65个开源项目中测试基于规格的AI交付，旨在提升AI应用交付的准确性和效率。
+Meta与苹果合作推出全美最强开源模型，在编码基准测试中输给智谱和Kimi。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC)
-
----
-
-### The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-在QCon上海，专家强调构建从现实持续学习的AI系统，而非仅依赖数据集。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU)
+**来源：** [InfoQ](https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk)
 
 ---
 
-### Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe
+### 17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-JobRunr 9、OpenXava 8等Java相关项目近期更新，Quarkus、LangChain4j、JNoSQL、Lathe等工具也迎来新版本，聚焦性能优化与功能增强。
+17岁Kimi架构核心参与者确认离职，将赴湾区，下一站去向成谜。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh)
+**来源：** [InfoQ](https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2)
+
+---
+
+### Cloudflare 修复了容器中的跨租户数据泄露问题
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare成功修复容器跨租户数据泄露问题，保障用户数据安全。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/YmllSwKbZXY0bcVjjw70)
 
 ---
 
