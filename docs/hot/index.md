@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月19日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月20日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月19
+## 2026年10月20
 
-### Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic宣布将其5%的股份捐入“公共福利基金”，致力于公益事业。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
-
----
-
-### Disney agrees to hire the majority of Character.AI’s workforce
+### Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-迪士尼同意雇佣Character.AI大部分员工。
+Nscale与Anthropic正洽谈一项价值450亿美元的算力交易。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)
 
 ---
 
-### Meta removes language that raised scraping and AI training concerns
+### Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta移除引发抓取和AI训练担忧的措辞。
+Hugging Face政策负责人表示，嵌入式AI评估器并非易解之题。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
 
 ---
 
-### Anthropic says its workforce has become less junior and is spending more time in meetings
+### Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic表示，其员工结构趋向成熟，会议时间增加。
+微软表示，AI代理如同内部威胁，前沿模型不可信。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
 
 ---
 
-### Replit makes OpenAI its default over Anthropic, CEO says
+### Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Replit宣布将OpenAI设为默认AI模型，CEO表示此举基于更优性能和用户体验。
+亚马逊推出新型TorchNeuron开发工具，剑指英伟达，力图在AI领域扩大市场份额。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)
 
 ---
 
-### Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi
+### Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+黑客攻击AI编程工具OpenCode，导致用户AI账户被恶意充值，引发安全问题。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)
+
+---
+
+### Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Meta与苹果合作推出全美最强开源模型，在编码基准测试中输给智谱和Kimi。
+Lyft宣布将流式计算集群迁移至Apache Flink Kubernetes Operator，优化资源管理，提升效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk)
-
----
-
-### 17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-17岁Kimi架构核心参与者确认离职，将赴湾区，下一站去向成谜。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2)
+**来源：** [InfoQ](https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL)
 
 ---
 
-### Cloudflare 修复了容器中的跨租户数据泄露问题
+### 大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare成功修复容器跨租户数据泄露问题，保障用户数据安全。
+OpenCode API账户遭黑客攻击，官方称系“蒸馏攻击”，质疑声不断。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/YmllSwKbZXY0bcVjjw70)
+**来源：** [InfoQ](https://www.infoq.cn/article/K5J7yb60djWKM6vUZqwq)
+
+---
+
+### Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+StartLux在决策模型榜单中击败Jev，展现中国挑战者实力，并掌握“拿不准再想”策略。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi)
 
 ---
 
