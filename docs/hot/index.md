@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月20日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月21日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月20
+## 2026年10月21
 
-### Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nscale与Anthropic正洽谈一项价值450亿美元的算力交易。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)
-
----
-
-### Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
+### Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Hugging Face政策负责人表示，嵌入式AI评估器并非易解之题。
+Anthropic提出AI安全法案，若模型可能导致50人以上死亡，将予以封禁。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
 
 ---
 
-### Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
+### Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软表示，AI代理如同内部威胁，前沿模型不可信。
+Hugging Face CEO指出Netflix的OpenAI黑客纪录片存在不准确之处。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
 
 ---
 
-### Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
+### Anthropic’s cloud partnerships are getting messy
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊推出新型TorchNeuron开发工具，剑指英伟达，力图在AI领域扩大市场份额。
+Anthropic云计算合作伙伴关系混乱，TechCrunch报道指出，其合作模式面临挑战，需调整策略以保持市场竞争力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
 
 ---
 
-### Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
+### SpaceX’s AI business is beating expectations
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-黑客攻击AI编程工具OpenCode，导致用户AI账户被恶意充值，引发安全问题。
+SpaceX的AI业务超出预期，表现强劲，成为公司亮点。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
 
 ---
 
-### Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator
+### OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI收购生物技术初创公司Orchestra Bio，强化其生物科技业务。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
+
+---
+
+### 北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Lyft宣布将流式计算集群迁移至Apache Flink Kubernetes Operator，优化资源管理，提升效率。
+北大博士黄文灏加入字节Seed两年后离职，下一步或投身创业。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL)
-
----
-
-### 大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-OpenCode API账户遭黑客攻击，官方称系“蒸馏攻击”，质疑声不断。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/K5J7yb60djWKM6vUZqwq)
+**来源：** [InfoQ](https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0)
 
 ---
 
-### Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”
+### 比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个  Agent 国模第一
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-StartLux在决策模型榜单中击败Jev，展现中国挑战者实力，并掌握“拿不准再想”策略。
+MiniMax M3.1 Flash价格仅为Opus 5.5的1/88，凭借高性能重返市场王座，同时夺得Agent国模第一。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi)
+**来源：** [InfoQ](https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK)
+
+---
+
+### 主题征文 ｜ 让鸿蒙应用，玩出新可能！
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+InfoQ举办主题征文活动，探索鸿蒙应用创新，激发开发者玩出新可能。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/D8uCYSG2Sf29ybwp4i2g)
 
 ---
 
