@@ -9,40 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月20日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月21日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月20
+## 2026年10月21
 
-### Walmart’s Flipkart is quietly building a food delivery challenger in India
+### Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-沃尔玛旗下Flipkart正秘密打造印度食品配送挑战者，利用数据AI技术提升配送效率。
+Anthropic提出AI安全法案，若模型可能导致50人以上死亡将予以封禁，以保障数据AI安全。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
 
 ---
 
-### Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
+### OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊推出TorchNeuron开发工具，挑战英伟达，旨在提升数据AI处理能力。
+OpenAI收购生物技术初创公司Orchestra Bio，强化其生物科技业务，拓展数据AI在生物领域的应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
 
 ---
 
-### Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago
+### Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Replika创始人打造了12年前在Disrupt上展示的AI助手，展现了数据AI领域的创新与前瞻性。
+近年来，数据库误删事件频发，传统防呆机制失效，数据AI领域需加强安全防护和智能管理。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/)
+**来源：** [InfoQ](https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ)
+
+---
+
+### It’s a bird, it’s a plane … it’s a robo-puffin?
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+麻省理工学院研发的机器人海燕成功模拟真实鸟类飞行，采用AI技术实现精确控制。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/)
 
 ---
 
