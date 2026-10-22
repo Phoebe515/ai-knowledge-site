@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月21
+## 2026年10月22
 
-### Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic提出AI安全法案，若模型可能导致50人以上死亡，将予以封禁。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
-
----
-
-### Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate
+### Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Hugging Face CEO指出Netflix的OpenAI黑客纪录片存在不准确之处。
+Blackstone投资长Jas Khaira表示，对AI扩张带来的债务担忧被夸大。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
 
 ---
 
-### Anthropic’s cloud partnerships are getting messy
+### Meta wants to pay for its broad AI buildout with a newly created class of stock
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic云计算合作伙伴关系混乱，TechCrunch报道指出，其合作模式面临挑战，需调整策略以保持市场竞争力。
+Meta计划通过发行新类别股票来支付其广泛的AI建设。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
 
 ---
 
-### SpaceX’s AI business is beating expectations
+### TechCrunch Founder Summit 2026: Everything you need to know 
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX的AI业务超出预期，表现强劲，成为公司亮点。
+2026年TechCrunch创始人峰会即将召开，汇聚全球科技创新力量，共话未来发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)
 
 ---
 
-### OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
+### Meta says Muse has over 10M users, with shopping a top activity
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI收购生物技术初创公司Orchestra Bio，强化其生物科技业务。
+Meta宣布Muse平台用户超过1000万，购物成为主要活动。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)
 
 ---
 
-### 北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业
+### Recursive launches Flint, a laptop coding model it says was largely built by AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Recursive推出Flint笔记本电脑编码模型，称其大部分由AI构建。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
+
+---
+
+### 对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-北大博士黄文灏加入字节Seed两年后离职，下一步或投身创业。
+亚马逊CTO透露持续招聘初级工程师，并关注中国开放模型发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0)
-
----
-
-### 比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个  Agent 国模第一
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-MiniMax M3.1 Flash价格仅为Opus 5.5的1/88，凭借高性能重返市场王座，同时夺得Agent国模第一。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK)
+**来源：** [InfoQ](https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE)
 
 ---
 
-### 主题征文 ｜ 让鸿蒙应用，玩出新可能！
+### 从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-InfoQ举办主题征文活动，探索鸿蒙应用创新，激发开发者玩出新可能。
+制造业领导者正推动AI应用规模化落地，通过试点项目赢得高管层支持，引领技术趋势。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/D8uCYSG2Sf29ybwp4i2g)
+**来源：** [InfoQ](https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM)
+
+---
+
+### 对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare用R2重做事件流，挑战对象存储在Kafka领域的地位。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe)
 
 ---
 
