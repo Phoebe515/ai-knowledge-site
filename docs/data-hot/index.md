@@ -9,20 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月22日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月22日 14:00</span>
 </div>
 
 ---
 
 ## 2026年10月22
 
-### Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？
+### AI’s hidden storage bill: What inference leaves behind
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-近年来，Agent删库事件频发，传统数据库防呆机制面临挑战。数据AI技术需加强，以应对日益复杂的数据安全风险。
+MIT Tech Review发表文章，揭示AI推理过程中的隐藏存储成本，强调数据AI领域需关注推理后的数据清理和存储问题。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)
 
 ---
 
@@ -30,19 +30,9 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-麻省理工学院研究人员开发新型药物，通过模拟运动刺激，实现“药片运动”，利用数据AI技术优化人体健康。
+麻省理工学院研究人员开发新型药物，可通过数据AI分析增强肌肉力量，模拟运动效果。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/)
-
----
-
-### It’s a bird, it’s a plane … it’s a robo-puffin?
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-麻省理工学院研发出仿生机器人“robo-puffin”，通过AI算法实现鸟类的飞行模式，有望推动数据AI在仿生领域的应用。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/)
 
 ---
 
