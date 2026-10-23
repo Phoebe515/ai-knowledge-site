@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月23日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月23日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-芬兰智能手环品牌Oura再次起诉竞争对手Ultrahuman，威胁其在美国市场的智能手环回归，涉及数据AI健康监测技术竞争。
+Oura再次起诉竞争对手Ultrahuman，威胁其美国智能戒指市场回归，涉及数据AI技术领域。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
 
@@ -30,7 +30,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Facebook CEO马克·扎克伯格计划通过创新方案支付加州拟议的富豪税，同时保持对Meta的控制，涉及数据AI应用以优化税收策略。
+Meta CEO马克·扎克伯格计划通过创新方式支付加州拟议的亿万富翁税，同时保持对公司的控制权，涉及数据AI策略。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
 
@@ -40,7 +40,7 @@ Facebook CEO马克·扎克伯格计划通过创新方案支付加州拟议的富
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Rivian收购全球模型初创公司，加速自动驾驶研发，强化数据AI应用。
+Rivian收购全球模型初创公司，加速自动驾驶技术发展，借助数据AI技术提升自动驾驶能力。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/)
 
@@ -50,7 +50,7 @@ Rivian收购全球模型初创公司，加速自动驾驶研发，强化数据AI
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软AI专家Mustafa Suleyman称，其AI在处理复杂病例上优于医生，正追求“医疗超级智能”。
+微软AI专家Mustafa Suleyman称，其AI在复杂病例上超越医生，正追求“医疗超级智能”。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
 
@@ -60,9 +60,29 @@ Rivian收购全球模型初创公司，加速自动驾驶研发，强化数据AI
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-前OpenAI科学负责人创立Warp Science，旨在利用机器人自动化湿实验室，提升数据AI在实验科学领域的应用。
+前OpenAI科学主管创立Warp Science，利用机器人自动化湿实验室，推动数据AI在实验领域的应用。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/)
+
+---
+
+### The Download: testing six tech promises and biotech’s blind spots
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+MIT Tech Review测试了六项科技承诺，揭示了生物科技领域的盲点，数据AI相关进展备受关注。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/)
+
+---
+
+### In the biotech world, you can’t see everything
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+MIT Tech Review报道，生物科技领域数据AI应用广泛，但并非所有内容都能被观察到，需深入挖掘数据以揭示隐藏规律。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/)
 
 ---
 
@@ -70,19 +90,9 @@ Rivian收购全球模型初创公司，加速自动驾驶研发，强化数据AI
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review发表文章，探讨AI推理过程中产生的隐藏存储费用，揭示数据AI领域潜在成本问题。
+AI推理过程产生的隐藏存储成本引关注，MIT Tech Review发文揭示其背后数据管理挑战。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)
-
----
-
-### Exercise in a pill
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-麻省理工学院研究人员开发新型药物，通过模拟运动锻炼，利用AI优化人体健康。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/)
 
 ---
 
