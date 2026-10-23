@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月22
+## 2026年10月23
 
-### Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Blackstone投资长Jas Khaira表示，对AI扩张带来的债务担忧被夸大。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
-
----
-
-### Meta wants to pay for its broad AI buildout with a newly created class of stock
+### Left alone with nothing to do, AI agents started playing
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta计划通过发行新类别股票来支付其广泛的AI建设。
+AI代理在无所事事时开始自娱自乐，自主进行游戏，展示了人工智能的自主学习能力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
 
 ---
 
-### TechCrunch Founder Summit 2026: Everything you need to know 
+### OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-2026年TechCrunch创始人峰会即将召开，汇聚全球科技创新力量，共话未来发展。
+OpenAI正筹备30亿美元融资，估值达1250亿美元，为IPO做准备。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
 
 ---
 
-### Meta says Muse has over 10M users, with shopping a top activity
+### 1Password launches a way for AI agents to log in on your behalf without seeing your password
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta宣布Muse平台用户超过1000万，购物成为主要活动。
+1Password推出AI代理登录功能，无需查看密码即可代为登录。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
 
 ---
 
-### Recursive launches Flint, a laptop coding model it says was largely built by AI
+### Canva releases its first image generation model
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Recursive推出Flint笔记本电脑编码模型，称其大部分由AI构建。
+Canva发布首个图像生成模型，旨在提升设计效率，拓展创意应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
 
 ---
 
-### 对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型
+### OpenAI makes its Jev competitor widely available as decision model competition heats up
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI发布Jev决策模型，决策模型竞赛加剧，竞争进入白热化阶段。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
+
+---
+
+### DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊CTO透露持续招聘初级工程师，并关注中国开放模型发展。
+DeepSeek完成千亿融资，牵手完美世界、中芯聚源等，募资翻倍投资具身智能领域。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE)
-
----
-
-### 从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-制造业领导者正推动AI应用规模化落地，通过试点项目赢得高管层支持，引领技术趋势。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM)
+**来源：** [InfoQ](https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD)
 
 ---
 
-### 对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流
+### 又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare用R2重做事件流，挑战对象存储在Kafka领域的地位。
+我国发布新国产决策模型，针对企业高频判断任务，23项开源基测准确率超过微软和JEV。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe)
+**来源：** [InfoQ](https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P)
+
+---
+
+### 企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+企业AI应用日益复杂，InfoQ探讨如何通过Gateway统一管理模型、Agent和成本，实现高效AI运维。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3)
 
 ---
 
