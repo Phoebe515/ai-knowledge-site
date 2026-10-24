@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月23
+## 2026年10月24
+
+### OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI宣布停止在实时互联网上训练AI模型，称存在重大风险。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
+
+---
+
+### Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia CEO展示可爱Microduck机器人，圣诞季热销20,000台。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
+
+---
+
+### From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+2026年TechCrunch创始人峰会，创始人将聆听从面包到贝塞麦钢厂的创业故事，汲取经验与灵感。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+
+---
+
+### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+inDrive计划与Pony AI和Nvidia合作，于2027年在中亚进行robotaxi测试，挑战Uber竞争对手地位。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
+
+---
 
 ### Left alone with nothing to do, AI agents started playing
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI代理在无所事事时开始自娱自乐，自主进行游戏，展示了人工智能的自主学习能力。
+AI在闲置时自主进行游戏活动，TechCrunch报道这一现象揭示了AI自我娱乐的潜力。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
 
 ---
 
-### OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI正筹备30亿美元融资，估值达1250亿美元，为IPO做准备。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
-
----
-
-### 1Password launches a way for AI agents to log in on your behalf without seeing your password
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-1Password推出AI代理登录功能，无需查看密码即可代为登录。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
-
----
-
-### Canva releases its first image generation model
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Canva发布首个图像生成模型，旨在提升设计效率，拓展创意应用。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
-
----
-
-### OpenAI makes its Jev competitor widely available as decision model competition heats up
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI发布Jev决策模型，决策模型竞赛加剧，竞争进入白热化阶段。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
-
----
-
-### DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能
+### 智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-DeepSeek完成千亿融资，牵手完美世界、中芯聚源等，募资翻倍投资具身智能领域。
+智源众智发布FlagOS 2.2，实现前沿模型与多元算力协同演进，推动AI技术创新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD)
-
----
-
-### 又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-我国发布新国产决策模型，针对企业高频判断任务，23项开源基测准确率超过微软和JEV。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P)
+**来源：** [InfoQ](https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs)
 
 ---
 
-### 企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势
+### 刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-企业AI应用日益复杂，InfoQ探讨如何通过Gateway统一管理模型、Agent和成本，实现高效AI运维。
+刘铁岩、诺奖得主等嘉宾探讨AI未来，Transformer引领后，AI下一张王牌待揭晓。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3)
+**来源：** [InfoQ](https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791)
+
+---
+
+### AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI Agent推动CPU价值重估，Token赋能行动，算力竞争转向AI时代。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok)
 
 ---
 
