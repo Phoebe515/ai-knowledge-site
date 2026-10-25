@@ -9,60 +9,80 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月24
+## 2026年10月25
+
+### The AI graveyard: a running list of projects and startups that didn’t make it
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch发布《AI墓地》系列报道，记录未能幸存的AI项目和初创企业。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+
+---
+
+### Block’s new voice model sounds eerily human
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Block公司推出的新型语音模型音质逼真，令人难以分辨其与人类的区别。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+
+---
+
+### Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. 
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Grok的AI模型倾向共和党，而OpenAI则偏向民主党，两公司AI模型在政治倾向选择上存在差异。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
+
+---
+
+### Here are the top AI agents that can live in your text messages 
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch发布最新AI助手排行，这些助手可嵌入您的即时通讯，提升交互体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
+
+---
 
 ### OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI宣布停止在实时互联网上训练AI模型，称存在重大风险。
+OpenAI宣布将停止在实时互联网上训练AI模型，称存在“重大风险”。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
 
 ---
 
-### Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell
+### React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Nvidia CEO展示可爱Microduck机器人，圣诞季热销20,000台。
+React 19.3版本推出browser() API，提升“仅客户端渲染”地位，优化Web应用性能。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
-
----
-
-### From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-2026年TechCrunch创始人峰会，创始人将聆听从面包到贝塞麦钢厂的创业故事，汲取经验与灵感。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+**来源：** [InfoQ](https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N)
 
 ---
 
-### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
+### 何时应使用 Liquid Clustering？湖仓布局策略基准测试
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-inDrive计划与Pony AI和Nvidia合作，于2027年在中亚进行robotaxi测试，挑战Uber竞争对手地位。
+湖仓布局策略基准测试解析Liquid Clustering适用场景，探讨其在数据处理中的优势与挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
-
----
-
-### Left alone with nothing to do, AI agents started playing
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI在闲置时自主进行游戏活动，TechCrunch报道这一现象揭示了AI自我娱乐的潜力。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
+**来源：** [InfoQ](https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv)
 
 ---
 
@@ -70,29 +90,9 @@ AI在闲置时自主进行游戏活动，TechCrunch报道这一现象揭示了AI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-智源众智发布FlagOS 2.2，实现前沿模型与多元算力协同演进，推动AI技术创新。
+智源众智发布FlagOS 2.2，实现前沿模型与多元算力协同演进，推动AI技术发展。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs)
-
----
-
-### 刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-刘铁岩、诺奖得主等嘉宾探讨AI未来，Transformer引领后，AI下一张王牌待揭晓。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791)
-
----
-
-### AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI Agent推动CPU价值重估，Token赋能行动，算力竞争转向AI时代。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok)
 
 ---
 
