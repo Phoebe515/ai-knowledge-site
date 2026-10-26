@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月25日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月26日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月25
+## 2026年10月26
+
+### Grok releases the first seven minutes of its AI-generated ‘Odyssey’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Grok发布AI生成《奥德赛》前七分钟片段，展示AI在影视创作领域的应用潜力。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+
+---
+
+### AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Apollo经济学家表示，AI对大多数公司来说“零财务回报”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+
+---
+
+### The hottest AI wearables and gadgets you should know about
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+最新AI可穿戴设备和智能配件盘点，科技巨头争相布局，功能创新令人瞩目。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
+
+---
 
 ### The AI graveyard: a running list of projects and startups that didn’t make it
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch发布《AI墓地》系列报道，记录未能幸存的AI项目和初创企业。
+TechCrunch发布《AI墓地》系列报道，追踪记录那些未能成功的AI项目和初创企业。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
 
@@ -30,69 +60,39 @@ TechCrunch发布《AI墓地》系列报道，记录未能幸存的AI项目和初
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Block公司推出的新型语音模型音质逼真，令人难以分辨其与人类的区别。
+Block推出全新语音模型，声音逼真似人类，引发业界关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
 
 ---
 
-### Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Grok的AI模型倾向共和党，而OpenAI则偏向民主党，两公司AI模型在政治倾向选择上存在差异。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
-
----
-
-### Here are the top AI agents that can live in your text messages 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch发布最新AI助手排行，这些助手可嵌入您的即时通讯，提升交互体验。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
-
----
-
-### OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI宣布将停止在实时互联网上训练AI模型，称存在“重大风险”。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
-
----
-
-### React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民
+### Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-React 19.3版本推出browser() API，提升“仅客户端渲染”地位，优化Web应用性能。
+Cloudflare的OHTTP网关拒绝解密通过其传入的请求，引发安全担忧。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N)
-
----
-
-### 何时应使用 Liquid Clustering？湖仓布局策略基准测试
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-湖仓布局策略基准测试解析Liquid Clustering适用场景，探讨其在数据处理中的优势与挑战。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv)
+**来源：** [InfoQ](https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx)
 
 ---
 
-### 智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进
+### 四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-智源众智发布FlagOS 2.2，实现前沿模型与多元算力协同演进，推动AI技术发展。
+Linux基金会报告称，四分之一PR为“AI垃圾”，AI写代码速度提升52%，却加重了开源维护者负担。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs)
+**来源：** [InfoQ](https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB)
+
+---
+
+### Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Java近期推出Grails 8、Open Liberty、GlassFish、Infinispan等新版本，同时LangChain4j、Spock等工具也更新。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg)
 
 ---
 
