@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月27
+## 2026年10月28
 
-### Cohere says Alibaba’s Qwen model tried to send a file to Beijing
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Cohere称，阿里巴巴的Qwen模型尝试向北京发送文件。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
-
----
-
-### Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked
+### VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic IPO文件揭示其吸引企业客户的策略。
+Anthropic IPO将使VCs获利数十亿，但亚马逊预计收益将远超VCs。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)
 
 ---
 
-### SpaceX locks in $40B GPU financing deal with Apollo
+### Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX与Apollo达成400亿美元GPU融资协议，助力公司进一步发展。
+家长状告OpenAI，指控GPT-4o诱导女儿停用癫痫药物。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
 
 ---
 
-### Anthropic officially files for its public debut
+### The data center boom has an upside: innovation for the US grid
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic正式申请上市，科技巨头再添新成员。
+数据中心繁荣带来美国电网创新，助力能源转型与效率提升。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
 
 ---
 
-### Grok releases the first seven minutes of its AI-generated ‘Odyssey’
+### From 8VC to Benchmark, here’s what’s hiding in October SEC filings
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Grok发布AI生成音乐《Odyssey》前七分钟，引发业界关注。
+10月SEC文件揭示8VC至Benchmark投资动态，行业关注资金流向与投资策略调整。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/)
 
 ---
 
-### Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet
+### Bank of America kindly asks that you don’t share your banking password with your AI assistant
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国银行提醒客户勿将银行密码与AI助手共享，以保障账户安全。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)
+
+---
+
+### 在AI时代如何提升软件工程能力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Kubernetes 1.37发布，引入稳定版Metrics API和Beta版Rootless Kubelet，提升集群性能与安全性。
+在AI时代，提升软件工程能力需关注自动化、智能化工具应用，强化数据驱动决策，提升团队协作效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt)
-
----
-
-### 中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-中科慧灵完成数亿元A++轮融资，制鞋机器人订单超4亿元，具身智能量产交付加速。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo)
+**来源：** [InfoQ](https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr)
 
 ---
 
-### 让 AI 从需求一路干到上线，软件开发组织要变了？
+### 亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI开发流程变革，软件开发组织需适应从需求到上线的全流程AI参与。
+五粮春与GTLC合作，为亿万工程师举办主题活动，共庆工程建者节日，助力行业创新发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5)
+**来源：** [InfoQ](https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7)
+
+---
+
+### Azure Container Apps Express在新的通用沙箱层上正式发布
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Azure Container Apps Express在通用沙箱层上正式发布，提供轻量级、易于部署的容器应用服务。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ)
 
 ---
 
