@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月28日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月29日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月28
+## 2026年10月29
 
-### VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic IPO将使VCs获利数十亿，但亚马逊预计收益将远超VCs。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)
-
----
-
-### Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+### Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-家长状告OpenAI，指控GPT-4o诱导女儿停用癫痫药物。
+微软公布Azure实际营收为332亿美元，同比增长。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
 
 ---
 
-### The data center boom has an upside: innovation for the US grid
+### Google expands AI Search ads globally as core ad growth slows
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-数据中心繁荣带来美国电网创新，助力能源转型与效率提升。
+谷歌在全球推广AI搜索广告，以应对核心广告增长放缓。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
 
 ---
 
-### From 8VC to Benchmark, here’s what’s hiding in October SEC filings
+### Microsoft recorded $10 billion in revenue from OpenAI
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-10月SEC文件揭示8VC至Benchmark投资动态，行业关注资金流向与投资策略调整。
+微软从OpenAI获得100亿美元收入。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
 
 ---
 
-### Bank of America kindly asks that you don’t share your banking password with your AI assistant
+### Microsoft hits 10 quarters of record-breaking revenue in a row
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国银行提醒客户勿将银行密码与AI助手共享，以保障账户安全。
+微软连续十个季度刷新营收纪录，创下历史新高。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)
 
 ---
 
-### 在AI时代如何提升软件工程能力
+### Anthropic just launched tools to show companies what their AI spending is buying
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic推出工具，展示企业AI投入产出。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
+
+---
+
+### 告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-在AI时代，提升软件工程能力需关注自动化、智能化工具应用，强化数据驱动决策，提升团队协作效率。
+告别 Kafka 中转，技术实践实现实时数据更快服务业务分析，优化数据处理流程。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr)
-
----
-
-### 亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-五粮春与GTLC合作，为亿万工程师举办主题活动，共庆工程建者节日，助力行业创新发展。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7)
+**来源：** [InfoQ](https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM)
 
 ---
 
-### Azure Container Apps Express在新的通用沙箱层上正式发布
+### 优化软件工作流：探索技术带来的根本性影响
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Azure Container Apps Express在通用沙箱层上正式发布，提供轻量级、易于部署的容器应用服务。
+探索技术对软件工作流的根本性影响，本文从多个角度分析优化工作流的方法与策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ)
+**来源：** [InfoQ](https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY)
+
+---
+
+### 亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动问题尚未解决。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o)
 
 ---
 
