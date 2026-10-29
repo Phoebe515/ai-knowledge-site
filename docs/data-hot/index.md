@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月29日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月29日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软公布Azure实际收入达332亿美元，AI云服务增长显著，助力公司业绩增长。
+微软公布Azure实际营收达332亿美元，其中数据AI服务贡献显著。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
 
@@ -30,19 +30,19 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软从OpenAI获得100亿美元收入，数据AI业务表现强劲。
+微软从OpenAI获得100亿美元收入，AI领域合作成果显著。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
 
 ---
 
-### The Download: testing six tech promises and biotech’s blind spots
+### Our climate models have a big, dangerous blind spot
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review测试了六项科技承诺，并探讨了生物技术的盲点，涉及数据AI在科技发展中的应用与挑战。
+MIT Tech Review指出，现有气候模型存在重大盲点，影响对未来气候变化预测的准确性，对数据AI在气候预测中的应用提出挑战。
 
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/)
 
 ---
 
