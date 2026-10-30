@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月29日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月30日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月29
+## 2026年10月30
 
-### Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-微软公布Azure实际营收为332亿美元，同比增长。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
-
----
-
-### Google expands AI Search ads globally as core ad growth slows
+### You don’t need to believe in a god to get a religious exemption from using AI at work
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-谷歌在全球推广AI搜索广告，以应对核心广告增长放缓。
+工作场所使用AI时，即使不信教也能获得宗教豁免权。TechCrunch报道，部分企业允许员工因宗教信仰拒绝使用AI系统。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
 
 ---
 
-### Microsoft recorded $10 billion in revenue from OpenAI
+### AWS will be a $1T business, Jassy says. But first, it will spend big.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软从OpenAI获得100亿美元收入。
+亚马逊云服务（AWS）CEO表示，AWS将成为价值1万亿美元的业务，但首先将加大投资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
 
 ---
 
-### Microsoft hits 10 quarters of record-breaking revenue in a row
+### As search traffic dries up, Reddit announces it’s shifting to a logged-in experience
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软连续十个季度刷新营收纪录，创下历史新高。
+Reddit宣布，因搜索流量减少，将转向登录体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
 
 ---
 
-### Anthropic just launched tools to show companies what their AI spending is buying
+### Rivian expands joint venture with VW to include AI assistant
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic推出工具，展示企业AI投入产出。
+Rivian与VW扩大合作，将AI助手纳入合资项目。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
 
 ---
 
-### 告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践
+### OpenAI-backed Thrive Holdings acquires ADT
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI投资的Thrive Holdings收购ADT，强化智能家居市场布局。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
+
+---
+
+### 腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-告别 Kafka 中转，技术实践实现实时数据更快服务业务分析，优化数据处理流程。
+腾讯AI Lab前“王者绝悟”技术负责人叶德珩确认加入字节Seed。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM)
-
----
-
-### 优化软件工作流：探索技术带来的根本性影响
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-探索技术对软件工作流的根本性影响，本文从多个角度分析优化工作流的方法与策略。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY)
+**来源：** [InfoQ](https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW)
 
 ---
 
-### 亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决
+### 希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动问题尚未解决。
+DuckLabs被收购，社区反应复杂，既期待创新又担忧变化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o)
+**来源：** [InfoQ](https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS)
+
+---
+
+### Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Chainguard发布AI编码智能体安全工作区与安全校验能力，加强AI编码安全防护。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya)
 
 ---
 
