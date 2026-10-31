@@ -9,50 +9,60 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月30日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年10月31日 09:00</span>
 </div>
 
 ---
 
-## 2026年10月30
+## 2026年10月31
 
-### Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’
+### Cracks are emerging in the AI spending boom
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊CEO Andy Jassy表示，Prime Video有望实现“数百亿美元”的收益，数据AI技术助力内容推荐与优化，推动业绩增长。
+AI领域投资热潮出现裂痕，行业增长放缓，市场谨慎观望。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)
 
 ---
 
-### AWS will be a $1T business, Jassy says — but first, it will spend big
+### AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊云服务（AWS）CEO Jassy表示，AWS将成长为价值1000亿美元的业务，但首先将加大投资，特别是在数据AI领域。
+AI律师事务所Crosby寻求收购陷入困境的知名律所Weil Gotshal，涉及数据AI领域法律服务整合。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
 
 ---
 
-### Binance pauses withdrawals as hackers suspected of stealing billions in crypto
+### North Korean hackers blamed for stealing record $6.3B in Binance breach
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-币安暂停提现，疑遭黑客窃取数十亿加密货币，数据AI领域面临潜在安全挑战。
+朝鲜黑客涉嫌入侵币安，盗取6.3亿美元，数据AI安全面临严峻挑战。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)
 
 ---
 
-### Meta quietly launches an AI fashion app called Style Sketch
+### Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Meta悄然推出AI时尚应用Style Sketch，利用人工智能技术帮助用户设计个性化服装。
+TechCrunch Founder Summit推出Braindate，通过游戏化方式打破寒暄，助力参会者建立有影响力的数据AI领域联系。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/)
+
+---
+
+### 5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Founder Summit 2026倒计时5天，聚焦数据AI创新，把握最后机会连接、扩展和节省资源。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
 
 ---
 
@@ -60,7 +70,7 @@ Meta悄然推出AI时尚应用Style Sketch，利用人工智能技术帮助用�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-一项MIT Tech Review的研究显示，GLP-1s药物可能加剧进食障碍，需警惕数据AI在药物研发中的应用风险。
+据MIT Tech Review，进食障碍病例上升，GLP-1s药物可能加剧病情。数据AI研究揭示潜在风险。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/)
 
@@ -70,7 +80,7 @@ Meta悄然推出AI时尚应用Style Sketch，利用人工智能技术帮助用�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研究揭示气候模型存在重大盲点，影响数据AI应用准确度。
+MIT研究指出，气候模型存在重大盲点，可能高估了极端气候事件的风险，数据AI技术需进一步完善以提升模型准确性。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/)
 
