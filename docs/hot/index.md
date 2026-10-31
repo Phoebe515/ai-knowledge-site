@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月30日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年10月31日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月30
+## 2026年10月31
 
-### You don’t need to believe in a god to get a religious exemption from using AI at work
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-工作场所使用AI时，即使不信教也能获得宗教豁免权。TechCrunch报道，部分企业允许员工因宗教信仰拒绝使用AI系统。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
-
----
-
-### AWS will be a $1T business, Jassy says. But first, it will spend big.
+### Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-亚马逊云服务（AWS）CEO表示，AWS将成为价值1万亿美元的业务，但首先将加大投资。
+Nvidia考虑成为Nscale西弗吉尼亚州AI数据中心的项目担保人。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
 
 ---
 
-### As search traffic dries up, Reddit announces it’s shifting to a logged-in experience
+### Ollie, a privacy-focused AI assistant, is shutting down
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Reddit宣布，因搜索流量减少，将转向登录体验。
+隐私专注型AI助手Ollie宣布关闭，标志着隐私保护型AI产品市场的一处变动。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/)
 
 ---
 
-### Rivian expands joint venture with VW to include AI assistant
+### Intel’s stock crashes, knocking $12B from government’s stake
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Rivian与VW扩大合作，将AI助手纳入合资项目。
+英特尔股价暴跌，政府持股价值蒸发120亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
 
 ---
 
-### OpenAI-backed Thrive Holdings acquires ADT
+### Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI投资的Thrive Holdings收购ADT，强化智能家居市场布局。
+据FT报道，Anthropic IPO后预计将获得信用评级机构的高“垃圾”评级。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
 
 ---
 
-### 腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed
+### Last-minute Halloween costumes for tech nerds
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch报道，临近万圣节，科技爱好者可挑选最后一刻的科技主题服装。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/)
+
+---
+
+### 终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯AI Lab前“王者绝悟”技术负责人叶德珩确认加入字节Seed。
+Lambda可直接运行Express，挑战API Gateway传统角色，引发行业对API网关必要性的讨论。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW)
-
----
-
-### 希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-DuckLabs被收购，社区反应复杂，既期待创新又担忧变化。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS)
+**来源：** [InfoQ](https://www.infoq.cn/article/fcdAAd69U452t9b39rLU)
 
 ---
 
-### Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力
+### 27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Chainguard发布AI编码智能体安全工作区与安全校验能力，加强AI编码安全防护。
+27岁程序员获无限Token，挑战两个月内重写思科98%遗留代码，旨在提升系统性能与安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya)
+**来源：** [InfoQ](https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ)
+
+---
+
+### AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+贝联珠贯创始人毕玄指出，仅依靠AI和垂类Agent的长期竞争力不足，需深化工具使用和任务执行能力。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY)
 
 ---
 
