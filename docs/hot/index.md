@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年10月31日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月01日 07:00</span>
 </div>
 
 ---
 
-## 2026年10月31
+## 2026年11月01
+
+### Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果CEO表示，公司不“为了AI而开发AI”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+
+---
+
+### 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+距TechCrunch创始人峰会落幕仅剩4天，大会助力创业者拓展人脉，实现业务增长。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
+
+---
+
+### Judge allows NAACP lawsuit over xAI data center pollution to move forward
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+法官批准NAACP针对xAI数据中心污染的诉讼继续进行。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
+
+---
+
+### OpenAI reportedly lowers funding target for new round
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI据称降低新轮融资目标。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
+
+---
 
 ### Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia考虑成为Nscale西弗吉尼亚州AI数据中心的项目担保人。
+Nvidia考虑成为Nscale在西弗吉尼亚州AI数据中心的项目担保人，科技界关注此举进展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
 
 ---
 
-### Ollie, a privacy-focused AI assistant, is shutting down
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-隐私专注型AI助手Ollie宣布关闭，标志着隐私保护型AI产品市场的一处变动。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/)
-
----
-
-### Intel’s stock crashes, knocking $12B from government’s stake
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-英特尔股价暴跌，政府持股价值蒸发120亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
-
----
-
-### Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-据FT报道，Anthropic IPO后预计将获得信用评级机构的高“垃圾”评级。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
-
----
-
-### Last-minute Halloween costumes for tech nerds
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道，临近万圣节，科技爱好者可挑选最后一刻的科技主题服装。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/)
-
----
-
-### 终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？
+### AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Lambda可直接运行Express，挑战API Gateway传统角色，引发行业对API网关必要性的讨论。
+AI编程导师突破性技术，无需服务器，Python和SQL代码可直接在低端Android手机浏览器中运行，提升编程教育便捷性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fcdAAd69U452t9b39rLU)
-
----
-
-### 27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-27岁程序员获无限Token，挑战两个月内重写思科98%遗留代码，旨在提升系统性能与安全性。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ)
+**来源：** [InfoQ](https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS)
 
 ---
 
-### AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享
+### 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-贝联珠贯创始人毕玄指出，仅依靠AI和垂类Agent的长期竞争力不足，需深化工具使用和任务执行能力。
+Agent Sandbox每天上千万次创建，成为新算力形态，引领AI应用创新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY)
+**来源：** [InfoQ](https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI)
+
+---
+
+### 一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Helidon宣布开启双轨发布，同时支持JDK 27和JDK 21，以兼容不同版本的Java生态系统。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8)
 
 ---
 
