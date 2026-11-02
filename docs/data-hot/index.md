@@ -9,40 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月01日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月02日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月01
+## 2026年11月02
+
+### TechCrunch Mobility: A new, bigger AV boom is here
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+据TechCrunch报道，新一轮更大规模的自动驾驶汽车（AV）热潮来临，数据AI技术成为推动力。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)
+
+---
+
+### Binance resumes withdrawals following $6.3 billion breach
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+币安完成6.3亿美元黑客攻击后的提现恢复，数据AI领域需关注加密货币安全防护。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+
+---
 
 ### 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Founder Summit倒计时4天，聚焦数据AI，助力企业拓展人脉，实现业务增长。
+距TechCrunch Founder Summit落幕仅剩4天，活动聚焦数据AI，助力创业者拓展人脉、实现业务规模增长。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
-
----
-
-### Cracks are emerging in the AI spending boom
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI行业投资热潮出现裂痕，市场担忧加剧，行业前景待定。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)
-
----
-
-### AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI律师事务所Crosby竞购知名律所Weil Gotshal，后者业务萎缩，寻求转型。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
 
 ---
 
@@ -50,7 +50,7 @@ AI律师事务所Crosby竞购知名律所Weil Gotshal，后者业务萎缩，寻
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-据MIT Tech Review报道，GLP-1s药物可能加剧进食障碍，需警惕其潜在风险。
+最新研究显示，GLP-1s药物可能加剧进食障碍，需警惕其潜在风险。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/)
 
@@ -60,7 +60,7 @@ AI律师事务所Crosby竞购知名律所Weil Gotshal，后者业务萎缩，寻
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，现有气候模型存在重大盲点，可能低估极端气候事件风险，需加强数据AI技术以提升模型准确性。
+MIT Tech Review报道，气候模型存在重大盲点，影响预测准确性，需借助数据AI技术改进。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/)
 
