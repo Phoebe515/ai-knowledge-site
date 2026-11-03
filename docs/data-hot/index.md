@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月03日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月03日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google将AI生成故事工具Dreambeans引入印度，旨在普及人工智能创作个人故事。
+Google将AI生成故事工具Dreambeans引入印度，旨在普及人工智能生成个性化故事。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
 
@@ -40,7 +40,7 @@ Y Combinator合伙人Garry Tan大量使用AI代理，每年花费高达20万美�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic警告称，其AI项目接近实现自我构建能力。
+Anthropic警告，其接近实现自我构建AI（RSI）能力，标志着数据AI领域又一重要进展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
 
@@ -50,7 +50,7 @@ Anthropic警告称，其AI项目接近实现自我构建能力。
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX计划收购Boost Mobile，与AT&T、T-Mobile和Verizon竞争，旨在拓展数据通信市场。
+SpaceX计划收购Boost Mobile，以在通信领域与AT&T、T-Mobile和Verizon竞争。此举或利用数据AI优化服务，提升市场竞争力。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
 
@@ -60,19 +60,9 @@ SpaceX计划收购Boost Mobile，与AT&T、T-Mobile和Verizon竞争，旨在拓�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-据MIT Tech Review，全球饮食失调病例激增，GLP-1药物可能加剧病情，数据AI研究需关注药物副作用。
+研究发现，GLP-1s可能加剧进食障碍，而进食障碍发病率上升趋势不容忽视。AI技术在分析相关数据，助力探索干预方法。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/)
-
----
-
-### Our climate models have a big, dangerous blind spot
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-最新研究发现，气候模型存在重大盲点，可能导致对未来气候变化预测的准确性产生严重影响，数据AI在处理和优化模型方面面临挑战。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/)
 
 ---
 
