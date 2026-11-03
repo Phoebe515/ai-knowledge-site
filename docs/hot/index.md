@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月02日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月03日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月02
+## 2026年11月03
 
-### OpenAI might rebrand its data centers as ‘AI compute campuses’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI或将对其数据中心进行“AI计算园区”的重新命名，以强调其在人工智能计算领域的地位。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
-
----
-
-### AI can make tech CEOs’ lives easier. What about everyone else?
+### Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI技术可简化科技CEO生活，但对其他人影响尚不明朗。TechCrunch报道引发行业关注。
+Google将AI生成故事工具Dreambeans引入印度，旨在普及人工智能个人故事创作。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
 
 ---
 
-### Data centers are now a midterm issue, even in Brooklyn
+### Apple may try to increase revenue by doing…something with third-party AI apps
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-纽约布鲁克林也将数据中心问题纳入中期议题，关注其环境影响和社区影响。
+苹果可能通过整合第三方AI应用来提升收入。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
 
 ---
 
-### Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+### Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果CEO表示，公司不“仅仅为了AI而推出AI”。
+Y Combinator合伙人Garry Tan重度依赖AI代理，年花费高达20万美元购买代币。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
 
 ---
 
-### 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
+### Trajectory raises $45M to make AI model training accessible to nontechnical experts
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-距TechCrunch Founder Summit仅剩4天，此次峰会助你拓展人脉，实现企业规模增长。
+Trajectory获4500万美元融资，旨在让非技术专家也能进行AI模型训练。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
 
 ---
 
-### CI 出错后，谁来把关？Buildkite 的智能体新思路
+### Anthropic warns that it’s very close to RSI capability, aka self-building AI
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Anthropic警告，其AI技术即将实现自我构建能力，即RSI。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+
+---
+
+### 致敬每一份专业与热爱！QCon 上海 2026 优秀出品人与明星讲师揭晓
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Buildkite提出新思路，应对CI出错问题，通过智能体技术确保代码审查和构建流程的可靠性。
+QCon 上海 2026 优秀出品人与明星讲师名单揭晓，致敬每一位专业与热爱者，共襄盛举。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX)
-
----
-
-### ChatGPT Pro 额度翻倍：是让步，不是福利？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-ChatGPT Pro额度翻倍引发热议，业界猜测其是让步而非福利。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/WpTNht7guarWEyejJFV6)
+**来源：** [InfoQ](https://www.infoq.cn/article/NIXfxPlElNVwNtbYZPz2)
 
 ---
 
-### 百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI
+### Spring Security 7 中的服务端 DPoP 和令牌交换
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-百度推出AI API，千次调用仅需4.9元，价格低于DeepSeek；同时搜索业务启动RSI功能。
+Spring Security 7 引入服务端 DPoP 和令牌交换，强化安全防护，提升系统性能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj)
+**来源：** [InfoQ](https://www.infoq.cn/article/xt0ovZNNw9HEAOv59Mcj)
+
+---
+
+### 谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+谷歌CEO皮查伊访谈中透露，为支持Gemini项目，谷歌宁愿减少云算力销售，强调AI自我改进与算力争夺的重要性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu)
 
 ---
 
