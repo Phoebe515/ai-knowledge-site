@@ -9,50 +9,60 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月03日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月04日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月03
+## 2026年11月04
 
-### Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
+### Orbital Matter 3D-printed the first rigid beam in the vacuum of space
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Google将AI生成故事工具Dreambeans引入印度，旨在普及人工智能生成个性化故事。
+Orbital Matter在太空中3D打印出首个刚性梁，标志着空间制造业的重大突破，数据AI技术助力精密制造迈向新高度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
 
 ---
 
-### Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
+### Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Y Combinator合伙人Garry Tan大量使用AI代理，每年花费高达20万美元购买代币。
+研究人员多年前已警告朝鲜黑客技术，但Binance 6.3亿美元被盗事件才被揭露，凸显数据AI安全风险。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
 
 ---
 
-### Anthropic warns that it’s very close to RSI capability, aka self-building AI
+### Rivian spinout Also was working on an e-moto project in Kenya — until it walked away
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic警告，其接近实现自我构建AI（RSI）能力，标志着数据AI领域又一重要进展。
+Rivian子公司Also曾参与肯尼亚电动摩托车项目，后因故退出。项目涉及数据AI技术，具体进展未知。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
 
 ---
 
-### SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon
+### The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-SpaceX计划收购Boost Mobile，以在通信领域与AT&T、T-Mobile和Verizon竞争。此举或利用数据AI优化服务，提升市场竞争力。
+11月4日，TechCrunch Founder Summit将在波士顿举行，聚焦数据AI前沿，探讨创新趋势。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/)
+
+---
+
+### Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch Founder Summit将于波士顿举行，聚焦科技创业与创新，探讨数据AI领域发展及通过提升通过率促进科技发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
 
 ---
 
@@ -60,7 +70,7 @@ SpaceX计划收购Boost Mobile，以在通信领域与AT&T、T-Mobile和Verizon�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-研究发现，GLP-1s可能加剧进食障碍，而进食障碍发病率上升趋势不容忽视。AI技术在分析相关数据，助力探索干预方法。
+据MIT Tech Review，全球饮食失调病例上升，GLP-1s药物可能加剧问题，数据AI技术需关注相关药物影响。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/)
 
