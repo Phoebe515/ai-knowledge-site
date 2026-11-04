@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月03日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月04日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月03
+## 2026年11月04
 
-### Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Google将AI生成故事工具Dreambeans引入印度，旨在普及人工智能个人故事创作。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
-
----
-
-### Apple may try to increase revenue by doing…something with third-party AI apps
+### Anthropic is working on a system to prove AI models’ identity
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果可能通过整合第三方AI应用来提升收入。
+Anthropic致力于开发验证AI模型身份的系统，以提升AI安全性和透明度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
 
 ---
 
-### Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
+### Data centers are turning to old jet engines as the wait for power grows
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Y Combinator合伙人Garry Tan重度依赖AI代理，年花费高达20万美元购买代币。
+数据中心为缓解电力短缺，正转向使用旧喷气发动机。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
 
 ---
 
-### Trajectory raises $45M to make AI model training accessible to nontechnical experts
+### Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Trajectory获4500万美元融资，旨在让非技术专家也能进行AI模型训练。
+Ballistic Ventures计划筹集4.9亿美元新基金，乘AI驱动网络安全热潮。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
 
 ---
 
-### Anthropic warns that it’s very close to RSI capability, aka self-building AI
+### Hiding inside Palantir’s skyrocketing quarter is a foreboding signal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic警告，其AI技术即将实现自我构建能力，即RSI。
+Palantir财报亮眼，但隐藏其中的是令人担忧的信号。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
 
 ---
 
-### 致敬每一份专业与热爱！QCon 上海 2026 优秀出品人与明星讲师揭晓
+### AI inference startup Fal doubles its valuation to $16B as demand surges
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI推理初创公司Fal估值翻倍至160亿美元，需求激增。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
+
+---
+
+### 给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-QCon 上海 2026 优秀出品人与明星讲师名单揭晓，致敬每一位专业与热爱者，共襄盛举。
+帆软在AICon北京大会上分享AI业务布局策略，重新调整事、人和组织，以适应AI业务发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/NIXfxPlElNVwNtbYZPz2)
-
----
-
-### Spring Security 7 中的服务端 DPoP 和令牌交换
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Spring Security 7 引入服务端 DPoP 和令牌交换，强化安全防护，提升系统性能。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/xt0ovZNNw9HEAOv59Mcj)
+**来源：** [InfoQ](https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ)
 
 ---
 
-### 谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕
+### AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌CEO皮查伊访谈中透露，为支持Gemini项目，谷歌宁愿减少云算力销售，强调AI自我改进与算力争夺的重要性。
+百度发布Apollo World世界模型，AI教AI开车，突破无人驾驶“不可能三角”，引领技术新突破。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu)
+**来源：** [InfoQ](https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu)
+
+---
+
+### AI 改变的是数据接口，而不是查询引擎
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI技术正逐步改变数据接口，而非查询引擎，这一转变将深刻影响数据处理和交互方式。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi)
 
 ---
 
