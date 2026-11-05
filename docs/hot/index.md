@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月04日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月05日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月04
+## 2026年11月05
 
-### Anthropic is working on a system to prove AI models’ identity
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic致力于开发验证AI模型身份的系统，以提升AI安全性和透明度。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
-
----
-
-### Data centers are turning to old jet engines as the wait for power grows
+### Apple is reportedly cutting budgets for its internal AI usage
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-数据中心为缓解电力短缺，正转向使用旧喷气发动机。
+苹果据称正在削减内部AI预算，以优化资源分配。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)
 
 ---
 
-### Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom
+### After the midterms, a bigger clash over data centers could be coming
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Ballistic Ventures计划筹集4.9亿美元新基金，乘AI驱动网络安全热潮。
+美国中期选举后，数据中心建设可能引发更大争议。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
 
 ---
 
-### Hiding inside Palantir’s skyrocketing quarter is a foreboding signal
+### AI PACs spent millions trying to shape Congress — here’s how they fared
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Palantir财报亮眼，但隐藏其中的是令人担忧的信号。
+AI政治行动委员会投入数百万试图影响国会，其效果如何？TechCrunch报道分析了其表现。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
 
 ---
 
-### AI inference startup Fal doubles its valuation to $16B as demand surges
+### Nothing CEO says company’s mysterious AI-first device is dropping next month
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI推理初创公司Fal估值翻倍至160亿美元，需求激增。
+Nothing CEO宣布，神秘AI-first设备将于下月发布。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
 
 ---
 
-### 给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京
+### Almost no one uses AI agents to book their Uber, company says
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Uber表示，几乎没有用户使用AI代理进行叫车服务。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+
+---
+
+### AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-帆软在AICon北京大会上分享AI业务布局策略，重新调整事、人和组织，以适应AI业务发展。
+AICon北京会议探讨AI Coding增量风险管控，Skill门禁与Harness落地实践，推动AI技术安全发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ)
-
----
-
-### AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-百度发布Apollo World世界模型，AI教AI开车，突破无人驾驶“不可能三角”，引领技术新突破。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu)
+**来源：** [InfoQ](https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle)
 
 ---
 
-### AI 改变的是数据接口，而不是查询引擎
+### 混元 Hy4 实测：腾讯的产品基因，模型继承了几分？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI技术正逐步改变数据接口，而非查询引擎，这一转变将深刻影响数据处理和交互方式。
+混元Hy4模型测试：继承腾讯产品基因，表现如何？
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi)
+**来源：** [InfoQ](https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV)
+
+---
+
+### Cloudflare 通过优化一致性哈希节省了 100 TB 内存
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare通过优化一致性哈希，节省了100TB内存，提升系统性能。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2)
 
 ---
 
