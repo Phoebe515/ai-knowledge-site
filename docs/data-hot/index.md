@@ -9,50 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月04日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月05日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月04
+## 2026年11月05
+
+### After the midterms, a bigger clash over data centers could be coming
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+中期选举后，数据中心之争可能加剧，AI领域将面临更大挑战。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
+
+---
 
 ### TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch Founder Summit 2026于美东时间9点在波士顿开幕，聚焦数据AI领域创新趋势。
+TechCrunch Founder Summit 2026于美国东部时间上午9点在波士顿举行，聚焦数据AI创新与趋势。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/)
-
----
-
-### Orbital Matter 3D-printed the first rigid beam in the vacuum of space
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Orbital Matter成功在太空真空环境中3D打印出首根刚性梁，标志着数据AI在航天领域的应用迈出新步伐。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
-
----
-
-### Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-研究人员早在记录的6.3亿美元Binance黑客事件前几年就警告了朝鲜黑客战术，涉及数据AI安全风险。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
-
----
-
-### Rivian spinout Also was working on an e-moto project in Kenya — until it walked away
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Rivian子公司Also曾参与肯尼亚电动摩托车项目，后退出。项目涉及数据AI技术，具体进展及原因未明。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
 
 ---
 
@@ -60,9 +40,19 @@ Rivian子公司Also曾参与肯尼亚电动摩托车项目，后退出。项目�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯云通过AI技术，让Agent成为数据库新用户，有效解决“未知”难题，提升数据库智能化水平。
+腾讯云通过AI技术，成功解决Agent作为数据库新用户时遇到的“未知”难题，提升数据库智能管理能力。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2)
+
+---
+
+### Roundtables: Inside the Quest for Cognitive Immortality
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+MIT Tech Review报道，专家在圆桌会议中探讨数据AI在认知永生领域的应用和挑战。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
 
 ---
 
