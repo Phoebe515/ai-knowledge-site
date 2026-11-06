@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月06日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月06日 14:00</span>
 </div>
 
 ---
@@ -20,7 +20,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Harbinger完成2.4亿美元融资，拓展至国防领域，数据AI技术助力业务增长。
+Harbinger完成2.4亿美元融资，拓展至国防领域，强化数据AI应用。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/)
 
@@ -30,19 +30,9 @@ Harbinger完成2.4亿美元融资，拓展至国防领域，数据AI技术助力
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-食品外卖初创公司Wonder申请IPO，探索AI驱动增长新机遇。
+食品配送初创公司Wonder申请IPO，探索数据AI驱动增长。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/)
-
----
-
-### TikTok quietly launches a stand-alone TikTok Shop app
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TikTok悄然推出独立电商应用“TikTok Shop”，借助数据AI技术优化购物体验，拓展电商版图。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/)
 
 ---
 
@@ -50,7 +40,7 @@ TikTok悄然推出独立电商应用“TikTok Shop”，借助数据AI技术优�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-美国新法案或将重塑能源基础设施建设，数据AI技术有望在规划与优化中发挥关键作用。
+美国新法案拟调整能源基础设施建设，或促进数据AI在能源领域应用与优化。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/)
 
@@ -60,7 +50,7 @@ TikTok悄然推出独立电商应用“TikTok Shop”，借助数据AI技术优�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一场关于认知永生的圆桌讨论揭示了数据AI在实现这一目标中的关键作用，探讨了前沿技术挑战与伦理考量。
+麻省理工科技评论报道，全球专家在探讨认知永生技术，人工智能与生物信息学成为关键。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
 
