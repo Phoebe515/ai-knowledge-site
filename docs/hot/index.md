@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月05日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月06日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月05
+## 2026年11月06
 
-### Apple is reportedly cutting budgets for its internal AI usage
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果据称正在削减内部AI预算，以优化资源分配。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)
-
----
-
-### After the midterms, a bigger clash over data centers could be coming
+### Airbnb says it’s launching an AI travel agent in the first half of 2027
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国中期选举后，数据中心建设可能引发更大争议。
+Airbnb计划于2027年上半年推出AI旅行代理。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
 
 ---
 
-### AI PACs spent millions trying to shape Congress — here’s how they fared
+### Meta says US users can now video chat with their Muse AI avatar
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-AI政治行动委员会投入数百万试图影响国会，其效果如何？TechCrunch报道分析了其表现。
+Meta宣布，美国用户现在可通过Muse AI头像进行视频聊天。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/)
 
 ---
 
-### Nothing CEO says company’s mysterious AI-first device is dropping next month
+### Meta warns that election backlash against data centers could make AI expansion harder
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nothing CEO宣布，神秘AI-first设备将于下月发布。
+Meta警告，选举期间对数据中心的反感可能加剧AI扩张难度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)
 
 ---
 
-### Almost no one uses AI agents to book their Uber, company says
+### OpenAI released a new cybersecurity model. Is that enough?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Uber表示，几乎没有用户使用AI代理进行叫车服务。
+OpenAI发布新型网络安全模型，能否满足需求待考。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)
 
 ---
 
-### AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京
+### OpenAI president Greg Brockman says company could be IPO ready in 2027
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI总裁Greg Brockman表示，公司可能在2027年准备上市。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)
+
+---
+
+### AI Native 企业研发工具链：架构重构与持续演进｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon北京会议探讨AI Coding增量风险管控，Skill门禁与Harness落地实践，推动AI技术安全发展。
+AICon北京上，AI Native企业展示研发工具链架构重构与持续演进，推动AI开发效率提升。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle)
-
----
-
-### 混元 Hy4 实测：腾讯的产品基因，模型继承了几分？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-混元Hy4模型测试：继承腾讯产品基因，表现如何？
-
-**来源：** [InfoQ](https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV)
+**来源：** [InfoQ](https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2)
 
 ---
 
-### Cloudflare 通过优化一致性哈希节省了 100 TB 内存
+### AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare通过优化一致性哈希，节省了100TB内存，提升系统性能。
+谷歌因AI投资2000亿美元，全球启动自愿买断计划，最高补偿12个月工资。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2)
+**来源：** [InfoQ](https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7)
+
+---
+
+### 当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+LoopForge开源自进化研发平台，助力研发团队提升效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv)
 
 ---
 
