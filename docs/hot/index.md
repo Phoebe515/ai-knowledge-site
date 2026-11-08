@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月07日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月08日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月07
+## 2026年11月08
+
+### After the midterms, things are looking rocky for Elon Musk and data centers
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国中期选举后，埃隆·马斯克的数据中心业务面临挑战，前景堪忧。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+
+---
+
+### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国情报文件显示，Megaspeed高管被招募监视英伟达CEO。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
+
+---
+
+### From the front row to the hot seat — what the midterms mean for Big Tech
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+美国中期选举对科技巨头影响深远，从监管到政策，科技行业面临重大变革。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
+
+---
 
 ### Crusoe sells troubled Wyoming data center project to Google
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌，标志着公司战略调整。
+Crusoe将其陷入困境的怀俄明州数据中心项目出售给谷歌，以寻求资金和运营支持。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
 
@@ -30,39 +60,29 @@ Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌，标志�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI完成11亿美元融资，估值达1.25万亿美元，再创新高。
+OpenAI融资11亿美元，估值达1.25万亿美元，创历史新高。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
 
 ---
 
-### Hundreds of Artex AI hacking tools found publicly exposed to the web
+### 自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-数百款Artex AI黑客工具被公开暴露在互联网上，存在安全风险。
+自动路由技术在便宜模型出错时，可能导致人工修复成本更高，引发对自动路由经济性的质疑。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
-
----
-
-### Meta introduces Spaces, a new way to collaborate with your Muse agent
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta推出Spaces，新型协作工具，可通过Muse代理与伙伴高效合作。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
+**来源：** [InfoQ](https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ)
 
 ---
 
-### After the midterms, is the AI industry in for a rough two years?
+### 不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-美国中期选举后，AI行业面临两年不确定性，发展前景堪忧。
+CSIRO重构基因组分析架构，实现不复制海量数据直接查询S3，提升分析效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
+**来源：** [InfoQ](https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW)
 
 ---
 
@@ -70,29 +90,9 @@ Meta推出Spaces，新型协作工具，可通过Muse代理与伙伴高效合作
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon北京探讨CyberwIIOS大模型在OT侧应用，解决“幻觉”与“失控”问题，助力工业互联网安全。
+在AICon北京，专家探讨如何在大模型应用于OT侧时避免“幻觉”与“失控”，实现有效驾驭。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr)
-
----
-
-### 线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Cloudflare推出火焰图功能，让开发者可直观查看线上Worker运行情况，解决线上变慢但本地复现困难的问题。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU)
-
----
-
-### Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Cloudflare与VoidZero联合推出由AI生成的TypeScript编译器Rust移植版tsrs。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl)
 
 ---
 
