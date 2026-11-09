@@ -9,18 +9,28 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月08日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月09日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月08
+## 2026年11月09
+
+### Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia将调查CEO黄仁勋与中国间谍的潜在关系。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
+
+---
 
 ### After the midterms, things are looking rocky for Elon Musk and data centers
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国中期选举后，埃隆·马斯克的数据中心业务面临挑战，前景堪忧。
+美国中期选举后，马斯克的数据中心业务面临挑战，前景堪忧。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
 
@@ -30,7 +40,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国情报文件显示，Megaspeed高管被招募监视英伟达CEO。
+据TechCrunch报道，美国情报备忘录显示，Megaspeed高管被招募监视英伟达CEO。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
 
@@ -40,7 +50,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国中期选举对科技巨头影响深远，从监管到政策，科技行业面临重大变革。
+美国中期选举对大型科技公司影响深远，从监管到市场策略，科技巨头将面临更多挑战。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
 
@@ -50,49 +60,39 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Crusoe将其陷入困境的怀俄明州数据中心项目出售给谷歌，以寻求资金和运营支持。
+Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌，标志着该公司在数据中心领域的战略调整。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
 
 ---
 
-### OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI融资11亿美元，估值达1.25万亿美元，创历史新高。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
-
----
-
-### 自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵
+### 从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-自动路由技术在便宜模型出错时，可能导致人工修复成本更高，引发对自动路由经济性的质疑。
+腾讯轻量云LoopForge在AICon北京分享多Agent编排实践，实现从代码编写到交付的智能化升级。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ)
-
----
-
-### 不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-CSIRO重构基因组分析架构，实现不复制海量数据直接查询S3，提升分析效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW)
+**来源：** [InfoQ](https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp)
 
 ---
 
-### CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京
+### Agent 越用越多，企业为何仍不够 AI Native？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-在AICon北京，专家探讨如何在大模型应用于OT侧时避免“幻觉”与“失控”，实现有效驾驭。
+企业虽广泛应用AI Agent，但离AI Native仍有一定距离，需深入挖掘AI潜力以实现智能化转型。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr)
+**来源：** [InfoQ](https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo)
+
+---
+
+### AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+AI生成视频面临“抽卡”问题，高效生成背后隐藏返工与成本难题，行业亟待突破。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG)
 
 ---
 
