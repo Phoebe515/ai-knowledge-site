@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月09日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月10日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月09
+## 2026年11月10
 
-### Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia将调查CEO黄仁勋与中国间谍的潜在关系。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
-
----
-
-### After the midterms, things are looking rocky for Elon Musk and data centers
+### Anthropic reportedly plans to move forward with IPO plans
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国中期选举后，马斯克的数据中心业务面临挑战，前景堪忧。
+Anthropic计划推进IPO进程，据TechCrunch报道，该公司计划公开上市。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)
 
 ---
 
-### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
+### Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据TechCrunch报道，美国情报备忘录显示，Megaspeed高管被招募监视英伟达CEO。
+据报道，NVIDIA创始人黄仁勋一年前聘请了一家曾处理过高调性丑闻的公关公司。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/)
 
 ---
 
-### From the front row to the hot seat — what the midterms mean for Big Tech
+### A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国中期选举对大型科技公司影响深远，从监管到市场策略，科技巨头将面临更多挑战。
+短期卖空者六个月前就指出英伟达CEO与中国间谍嫌疑有关，引发丑闻。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)
 
 ---
 
-### Crusoe sells troubled Wyoming data center project to Google
+### The race is on to sue Nvidia
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌，标志着该公司在数据中心领域的战略调整。
+全球诉讼潮涌向英伟达，针对其产品和服务展开法律行动。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)
 
 ---
 
-### 从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京
+### Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+英伟达CEO黄仁勋因争议退出ElevenLabs峰会。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)
+
+---
+
+### openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯轻量云LoopForge在AICon北京分享多Agent编排实践，实现从代码编写到交付的智能化升级。
+openJiuwen发布Agent Device Foundation，旨在重新定义Agent与物理世界的交互方式，推动智能设备发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp)
-
----
-
-### Agent 越用越多，企业为何仍不够 AI Native？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-企业虽广泛应用AI Agent，但离AI Native仍有一定距离，需深入挖掘AI潜力以实现智能化转型。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo)
+**来源：** [InfoQ](https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7)
 
 ---
 
-### AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题
+### 硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI生成视频面临“抽卡”问题，高效生成背后隐藏返工与成本难题，行业亟待突破。
+硅谷AI自我进化炒作过热，李飞飞、Jeff Dean警告：无限加速不可信。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG)
+**来源：** [InfoQ](https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo)
+
+---
+
+### Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Anthropic重做源代码管理系统，提交量增长12倍，传统架构面临失效挑战。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy)
 
 ---
 
