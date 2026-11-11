@@ -9,30 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月10日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月11日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月10
+## 2026年11月11
 
-### California’s proposed ‘billionaire tax’ fails to pass
+### Proximal Ventures raises debut fund to back startups bringing AI to drug development
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-加州拟议的“亿万富翁税”未获通过，对数据AI领域潜在税收政策产生影响。
+Proximal Ventures成立首支基金，投资AI赋能药物研发初创企业。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)
 
 ---
 
-### YouTube streaming data returns to Billboard charts, ending major disagreement
+### OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-YouTube流媒体数据重返Billboard排行榜，解决重大争议，标志着数据AI在音乐行业应用的突破。
+OpenAI推出新商业档案，ChatGPT功能更接近谷歌，强化AI在商业领域的应用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
+
+---
+
+### Apple TV makes sign language interpretation a built-in accessibility feature
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果电视新增内置手语翻译功能，利用数据AI技术实现无障碍交流。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
 
 ---
 
@@ -40,7 +50,7 @@ YouTube流媒体数据重返Billboard排行榜，解决重大争议，标志着�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-腾讯云数据库DBTalk探讨面向AI Native的数据库技术演进，聚焦AI与数据库融合趋势。
+腾讯云数据库DBTalk探讨AI Native数据库技术演进，聚焦数据AI融合趋势，助力企业智能化转型。
 
 **来源：** [InfoQ](https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4)
 
