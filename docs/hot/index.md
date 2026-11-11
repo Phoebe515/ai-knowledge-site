@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月10日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月11日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月10
+## 2026年11月11
 
-### Anthropic reportedly plans to move forward with IPO plans
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic计划推进IPO进程，据TechCrunch报道，该公司计划公开上市。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)
-
----
-
-### Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago
+### OpenAI acquires Odessia, travel startup created by Sonder founder
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-据报道，NVIDIA创始人黄仁勋一年前聘请了一家曾处理过高调性丑闻的公关公司。
+OpenAI收购由Sonder创始人创立的旅行初创公司Odessia。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
 
 ---
 
-### A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal
+### OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-短期卖空者六个月前就指出英伟达CEO与中国间谍嫌疑有关，引发丑闻。
+纽约AI安全法生效，OpenAI和Anthropic面临新的监管。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
 
 ---
 
-### The race is on to sue Nvidia
+### All 7 Anthropic founders will each cash out about $250M in IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-全球诉讼潮涌向英伟达，针对其产品和服务展开法律行动。
+Anthropic七位创始人将在IPO中每人套现约2.5亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
 
 ---
 
-### Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy
+### Oura to acquire AI-native primary care startup Counsel Health for $625M
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-英伟达CEO黄仁勋因争议退出ElevenLabs峰会。
+Oura宣布以6.25亿美元收购AI原生初级护理初创公司Counsel Health。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)
 
 ---
 
-### openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式
+### PSI is trying to make a business out of AI-driven scientific discovery
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+PSI正尝试将AI驱动科学发现商业化，利用人工智能技术加速科研成果转化。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
+
+---
+
+### 基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-openJiuwen发布Agent Device Foundation，旨在重新定义Agent与物理世界的交互方式，推动智能设备发展。
+AICon北京探讨基于AgentKit的研发协作创新，实现编码提效和组织效能跃迁。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7)
-
----
-
-### 硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-硅谷AI自我进化炒作过热，李飞飞、Jeff Dean警告：无限加速不可信。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo)
+**来源：** [InfoQ](https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3)
 
 ---
 
-### Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效
+### 微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic重做源代码管理系统，提交量增长12倍，传统架构面临失效挑战。
+微软10月安全更新修复1400余个漏洞，其中一漏洞已遭利用，涉及多个产品线。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy)
+**来源：** [InfoQ](https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY)
+
+---
+
+### 接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+火山引擎IGA Pages全新发布，实现大模型接入一步到位，无需用户自行配置Key或搭建代理。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB)
 
 ---
 
