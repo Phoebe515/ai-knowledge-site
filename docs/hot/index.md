@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月11日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月12日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月11
+## 2026年11月12
 
-### OpenAI acquires Odessia, travel startup created by Sonder founder
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI收购由Sonder创始人创立的旅行初创公司Odessia。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
-
----
-
-### OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+### Who could replace Jensen Huang? A highly unscientific list of possible successors
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-纽约AI安全法生效，OpenAI和Anthropic面临新的监管。
+TechCrunch发布文章，探讨可能接替黄仁勋的NVIDIA接班人，列出多位候选人。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)
 
 ---
 
-### All 7 Anthropic founders will each cash out about $250M in IPO
+### The unfolding Jensen Huang scandal: a timeline
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Anthropic七位创始人将在IPO中每人套现约2.5亿美元。
+科技界大佬黄仁勋涉嫌丑闻，TechCrunch发布事件时间线，揭露事件发展过程。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 
 ---
 
-### Oura to acquire AI-native primary care startup Counsel Health for $625M
+### Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Oura宣布以6.25亿美元收购AI原生初级护理初创公司Counsel Health。
+英伟达股价下跌，传闻董事会计划罢免CEO黄仁勋。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
 
 ---
 
-### PSI is trying to make a business out of AI-driven scientific discovery
+### Jensen Huang accused of having another affair — with an Nvidia exec
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-PSI正尝试将AI驱动科学发现商业化，利用人工智能技术加速科研成果转化。
+Nvidia CEO黄仁勋被指控与公司高管有婚外情，TechCrunch报道。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)
 
 ---
 
-### 基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京
+### Why the data center you dread might never even be built
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+数据中心建设受阻，TechCrunch分析可能项目无法落成原因。
+
+**来源：** [TechCrunch](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
+
+---
+
+### 谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon北京探讨基于AgentKit的研发协作创新，实现编码提效和组织效能跃迁。
+谷歌发布首款决策模型Gemini Decision 1，在9项测试中获7项第一，准确率高达92.2%。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3)
-
----
-
-### 微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-微软10月安全更新修复1400余个漏洞，其中一漏洞已遭利用，涉及多个产品线。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY)
+**来源：** [InfoQ](https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii)
 
 ---
 
-### 接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定
+### Token越烧越多，利润却没涨：李彦宏要重新设计企业组织
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-火山引擎IGA Pages全新发布，实现大模型接入一步到位，无需用户自行配置Key或搭建代理。
+李彦宏面对Token增长与利润不匹配，计划重新设计企业组织以提升效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB)
+**来源：** [InfoQ](https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo)
+
+---
+
+### InfoQ 2026 年趋势报告：AI、ML与数据工程
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+InfoQ 2026年趋势报告指出，AI、ML与数据工程成为未来技术发展重点，推动产业智能化升级。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm)
 
 ---
 
