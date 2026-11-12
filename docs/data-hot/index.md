@@ -9,50 +9,20 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月11日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月12日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月11
+## 2026年11月12
 
 ### Proximal Ventures raises debut fund to back startups bringing AI to drug development
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Proximal Ventures成立首支基金，投资AI赋能药物研发初创企业。
+Proximal Ventures成立首支基金，支持将AI应用于药物研发的初创企业。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)
-
----
-
-### OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-OpenAI推出新商业用户画像功能，ChatGPT功能进一步拓展，向谷歌靠拢。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
-
----
-
-### Apple TV makes sign language interpretation a built-in accessibility feature
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果推出Apple TV，内置手语翻译功能，利用AI技术实现无障碍访问。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
-
----
-
-### 面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-腾讯云数据库DBTalk探讨面向AI Native的数据库技术演进，聚焦数据AI融合趋势。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4)
 
 ---
 
