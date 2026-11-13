@@ -9,20 +9,30 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月12日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月13日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月12
+## 2026年11月13
 
-### Who could replace Jensen Huang? A highly unscientific list of possible successors
+### Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-TechCrunch发布文章，探讨可能接替黄仁勋的NVIDIA接班人，列出多位候选人。
+民主党对英伟达展开调查，致信批评黄仁勋与特朗普的“阴谋”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
+
+---
+
+### Muse can now place calls to US businesses — if you pay
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Muse现可向美企拨打电话，但需付费。TechCrunch报道，此举旨在拓展其语音服务市场。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
 
 ---
 
@@ -30,69 +40,59 @@ TechCrunch发布文章，探讨可能接替黄仁勋的NVIDIA接班人，列出�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-科技界大佬黄仁勋涉嫌丑闻，TechCrunch发布事件时间线，揭露事件发展过程。
+NVIDIA创始人黄仁勋涉嫌丑闻，TechCrunch发布事件时间线。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 
 ---
 
-### Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang
+### Nebius tests the neocloud playbook with $40 billion in planned spending
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-英伟达股价下跌，传闻董事会计划罢免CEO黄仁勋。
+Nebius计划投入400亿美元测试neocloud战略，探索云计算新领域。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
 
 ---
 
-### Jensen Huang accused of having another affair — with an Nvidia exec
+### Jensen Huang was having a third affair, Reuters reports
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia CEO黄仁勋被指控与公司高管有婚外情，TechCrunch报道。
+据路透社报道，英伟达CEO黄仁勋被爆出轨，这是他的第三段婚外情。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)
-
----
-
-### Why the data center you dread might never even be built
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-数据中心建设受阻，TechCrunch分析可能项目无法落成原因。
-
-**来源：** [TechCrunch](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
 
 ---
 
-### 谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%
+### GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌发布首款决策模型Gemini Decision 1，在9项测试中获7项第一，准确率高达92.2%。
+AICon北京，GFlow展示面向游戏设计的多Agent协作与验证实践，探讨游戏AI技术发展。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii)
-
----
-
-### Token越烧越多，利润却没涨：李彦宏要重新设计企业组织
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-李彦宏面对Token增长与利润不匹配，计划重新设计企业组织以提升效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo)
+**来源：** [InfoQ](https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx)
 
 ---
 
-### InfoQ 2026 年趋势报告：AI、ML与数据工程
+### 谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-InfoQ 2026年趋势报告指出，AI、ML与数据工程成为未来技术发展重点，推动产业智能化升级。
+谷歌发布LiteRT Tensor API，助力端侧机器学习模型构建、定制与优化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm)
+**来源：** [InfoQ](https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje)
+
+---
+
+### LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+LinkedIn利用OpenTelemetry实现用户动作全链路追踪，涵盖前端点击至后端服务。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe)
 
 ---
 
