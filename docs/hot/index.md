@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月14日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月15日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月14
+## 2026年11月15
+
+### Where was Nvidia’s security team?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia安全团队在关键时期缺席，引发TechCrunch关注。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
+
+---
+
+### Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Elon Musk等科技高管签署请愿书，呼吁Nvidia恢复Jensen Huang职务。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
+
+---
+
+### The AI graveyard: a running list of projects and startups that didn’t make it
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch发布《AI墓地》系列文章，记录众多AI项目和初创企业未能成功的案例。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+
+---
+
+### Asian governments react to Nvidia CEO Jensen Huang’s exit
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+亚洲各国政府就英伟达CEO黄仁勋离职作出反应。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
+
+---
 
 ### Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Jensen Huang离职引发AI初创企业资金紧张，投资人和创始人担忧。
+Jensen Huang离职引发AI初创企业融资困境，投资人和创始人担忧。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
 
 ---
 
-### AI agent startup LangChain hits $3B valuation
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-AI代理初创公司LangChain估值达30亿美元，TechCrunch报道。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
-
----
-
-### Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-中国最强大AI模型背后，禁止出口的Nvidia芯片成关键，引发业界关注。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
-
----
-
-### ChatGPT’s new Wallet lets AI agents shop and check out for you
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-ChatGPT推出新功能，智能钱包让AI代理帮你购物结账。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
-
----
-
-### The unfolding Jensen Huang scandal: a timeline
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-英特尔CEO科再奇涉嫌性骚扰丑闻持续发酵，TechCrunch发布事件时间线。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-
----
-
-### AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突
+### 闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Inkitt应对AI自动写PR挑战，通过优化模型、管理Webhook和解决CI失败与合并冲突，确保高效协作。
+AICon北京探讨闭环AI自我进化，涵盖Skill、Harness到模型训练与评估，推动AI技术进步。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D)
-
----
-
-### 从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AICon北京探讨AI驱动小团队能力突破与组织演进，从提效到扩能，展现AI在小团队中的重要作用。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa)
+**来源：** [InfoQ](https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G)
 
 ---
 
-### 从快速部署到记忆共享，数据库如何支撑 Agent 应用？
+### GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-数据库在Agent应用中，从快速部署到记忆共享，发挥着关键作用，支持其高效运行。
+GitLab 19.5版发布，新增智能体开发功能，增强DevOps平台治理能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN)
+**来源：** [InfoQ](https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1)
+
+---
+
+### GitHub Actions 锁文件功能正式可用，保障工作流依赖安全
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+GitHub Actions锁文件功能正式推出，强化工作流依赖安全性，有效防止文件篡改。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc)
 
 ---
 
