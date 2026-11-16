@@ -9,30 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月15日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月16日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月15
+## 2026年11月16
+
+### TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia为应对中国市场自动驾驶挑战，制定备用计划，强化数据AI应用，助力行业稳定发展。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)
+
+---
 
 ### Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-黄仁勋离职引发AI初创企业融资困境，投资人和创始人表示担忧。
+黄仁勋离职引发AI初创企业融资困境，风险投资家和创始人表示担忧。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
-
----
-
-### ElevenLabs’ new app combines meeting note-taking and dictation for teams
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-ElevenLabs推出新应用，融合会议笔记与语音转写功能，助力团队高效协作。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
 
 ---
 
@@ -40,7 +40,7 @@ ElevenLabs推出新应用，融合会议笔记与语音转写功能，助力团�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-数据库技术正助力Agent应用，通过快速部署和记忆共享，实现智能化数据处理与交互。
+数据库技术正从快速部署扩展至支持Agent应用的记忆共享，为数据AI领域带来新机遇。
 
 **来源：** [InfoQ](https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN)
 
@@ -50,7 +50,7 @@ ElevenLabs推出新应用，融合会议笔记与语音转写功能，助力团�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，脑植入试验志愿者提出更多自主权与减少保密协议要求。数据AI技术在临床试验中得到进一步应用。
+志愿者对脑植入试验提出更多自主权和减少保密协议要求，关注数据AI在脑科学领域的应用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/)
 
@@ -60,7 +60,7 @@ MIT Tech Review报道，脑植入试验志愿者提出更多自主权与减少�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-Nvidia私下确认可追踪芯片打击走私，尽管业界对可行性存疑。
+Nvidia私下确认可追踪芯片打击走私，尽管业界对可行性存疑。此举涉及数据AI技术，旨在提升供应链安全。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
 
