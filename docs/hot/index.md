@@ -9,60 +9,80 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月15日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月16日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月15
+## 2026年11月16
+
+### Apple launches new app to study how people use AI for health
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+苹果推出新应用研究人们如何使用AI进行健康管理。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
+
+---
+
+### Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+印度芯片初创公司Bharat Semi完成2400万美元种子轮融资，瞄准全球AI传感器市场。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
+
+---
+
+### Is bad news for Jensen Huang also bad news for the AI industry?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+英伟达CEO黄仁勋面临挑战，可能影响AI行业发展。TechCrunch报道，其业务困境或引发行业动荡。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
+
+---
+
+### SNL gathers all the tech tycoons for a lesson in dating and spycraft
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+《SNL》集结科技巨头，探讨约会与间谍技巧。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
+
+---
 
 ### Where was Nvidia’s security team?
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia安全团队在关键时期缺席，引发TechCrunch关注。
+Nvidia安全团队在处理安全漏洞时缺席，引发关注。TechCrunch报道，此次事件凸显了企业安全管理的挑战。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
 
 ---
 
-### Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang
+### Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Elon Musk等科技高管签署请愿书，呼吁Nvidia恢复Jensen Huang职务。
+“数字人队长”加入今年11.11，成为主动协助的智能客服，提升购物体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
-
----
-
-### The AI graveyard: a running list of projects and startups that didn’t make it
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch发布《AI墓地》系列文章，记录众多AI项目和初创企业未能成功的案例。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+**来源：** [InfoQ](https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ)
 
 ---
 
-### Asian governments react to Nvidia CEO Jensen Huang’s exit
+### Yelp AI 助手融合原生 UI 与服务端驱动 UI
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚洲各国政府就英伟达CEO黄仁勋离职作出反应。
+Yelp AI助手集成原生UI与服务端驱动UI，提升用户体验。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
-
----
-
-### Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Jensen Huang离职引发AI初创企业融资困境，投资人和创始人担忧。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
+**来源：** [InfoQ](https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy)
 
 ---
 
@@ -70,29 +90,9 @@ Jensen Huang离职引发AI初创企业融资困境，投资人和创始人担忧
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon北京探讨闭环AI自我进化，涵盖Skill、Harness到模型训练与评估，推动AI技术进步。
+AICon北京探讨闭环AI自我进化，涵盖Skill、Harness、模型训练与评估，推动AI技术发展。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G)
-
----
-
-### GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-GitLab 19.5版发布，新增智能体开发功能，增强DevOps平台治理能力。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1)
-
----
-
-### GitHub Actions 锁文件功能正式可用，保障工作流依赖安全
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-GitHub Actions锁文件功能正式推出，强化工作流依赖安全性，有效防止文件篡改。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc)
 
 ---
 
