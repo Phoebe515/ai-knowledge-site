@@ -9,20 +9,50 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月17日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月17日 14:00</span>
 </div>
 
 ---
 
 ## 2026年11月17
 
-### FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’
+### Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-FBI揭露Artex AI开源工具助黑客三小时内攻破网络，凸显AI在网络安全领域的风险。
+Isomorphic Labs获50亿美元融资，将利用数据AI技术推进药物候选者进入临床试验阶段。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/)
+
+---
+
+### Science Corporation’s brain tech is worth $3.5 billion after new funding
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Science Corporation获得新一轮融资，其脑科技估值达35亿美元，涉及数据AI领域。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/)
+
+---
+
+### Nvidia’s first big move after Jensen Huang’s exit targets national security
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia继黄仁勋离职后首度重大举措，瞄准国家安全领域，涉数据AI技术。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/)
+
+---
+
+### Upside Foods can now make a million pounds of chicken a year without killing any animals
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Upside Foods实现年产百万磅鸡肉，无需宰杀动物，利用数据AI技术优化生产流程。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/)
 
 ---
 
@@ -30,7 +60,7 @@ FBI揭露Artex AI开源工具助黑客三小时内攻破网络，凸显AI在网�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-志愿者在脑植入试验中要求更多自主权，减少保密协议限制，以促进数据AI领域研究进展。
+志愿者在脑植入试验中要求更多自主权，减少保密协议限制。MIT Tech Review报道，此举旨在推动脑机接口技术发展。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/)
 
@@ -40,7 +70,7 @@ FBI揭露Artex AI开源工具助黑客三小时内攻破网络，凸显AI在网�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-Nvidia私下确认可追踪芯片打击走私，尽管业界公开质疑可行性。数据AI技术应用于芯片追踪，提升供应链安全。
+Nvidia私下确认可追踪芯片打击走私，尽管业界对可行性存疑。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
 
