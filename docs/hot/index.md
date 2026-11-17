@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月16日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月17日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月16
+## 2026年11月17
 
-### Apple launches new app to study how people use AI for health
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果推出新应用研究人们如何使用AI进行健康管理。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
-
----
-
-### Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market
+### Cybersecurity AI startup Corma reaches $1B valuation in about 3 months
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-印度芯片初创公司Bharat Semi完成2400万美元种子轮融资，瞄准全球AI传感器市场。
+Corma网络安全AI初创公司估值三个月内达10亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
 
 ---
 
-### Is bad news for Jensen Huang also bad news for the AI industry?
+### All the questions Nvidia should answer on Tuesday — but probably won’t
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-英伟达CEO黄仁勋面临挑战，可能影响AI行业发展。TechCrunch报道，其业务困境或引发行业动荡。
+Nvidia将于周二举行发布会，但可能不会解答所有疑问。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
 
 ---
 
-### SNL gathers all the tech tycoons for a lesson in dating and spycraft
+### California state AG sues OpenAI over rogue agent incidents
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-《SNL》集结科技巨头，探讨约会与间谍技巧。
+加州州检察长因OpenAI违规代理事件对其提起诉讼。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
 
 ---
 
-### Where was Nvidia’s security team?
+### Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia安全团队在处理安全漏洞时缺席，引发关注。TechCrunch报道，此次事件凸显了企业安全管理的挑战。
+特朗普表示，前英伟达CEO黄仁勋与一名涉嫌中国间谍的婚外情未威胁国家安全。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)
 
 ---
 
-### Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”
+### Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Sam Altman表示，Jensen Huang离任后，Nvidia行业前景“依然乐观”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)
+
+---
+
+### Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-“数字人队长”加入今年11.11，成为主动协助的智能客服，提升购物体验。
+Spring Boot、Framework、Data、Security、Modulith 和 AI 首个候选版本发布，引入新特性和改进。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ)
-
----
-
-### Yelp AI 助手融合原生 UI 与服务端驱动 UI
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Yelp AI助手集成原生UI与服务端驱动UI，提升用户体验。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy)
+**来源：** [InfoQ](https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj)
 
 ---
 
-### 闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京
+### Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon北京探讨闭环AI自我进化，涵盖Skill、Harness、模型训练与评估，推动AI技术发展。
+Vitest 5升级，优化性能保障，通过共享服务器、视图跟踪及严格测试设置提升效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G)
+**来源：** [InfoQ](https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH)
+
+---
+
+### File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+亚马逊云科技发布开源工具File Mover Express，助力S3文件高效传输。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF)
 
 ---
 
