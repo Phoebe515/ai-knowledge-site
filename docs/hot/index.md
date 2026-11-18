@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月17日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月18日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月17
+## 2026年11月18
 
-### Cybersecurity AI startup Corma reaches $1B valuation in about 3 months
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Corma网络安全AI初创公司估值三个月内达10亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
-
----
-
-### All the questions Nvidia should answer on Tuesday — but probably won’t
+### Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia将于周二举行发布会，但可能不会解答所有疑问。
+Nvidia投资初创企业规模增至650亿美元，但黄仁勋离职或影响未来投资。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
 
 ---
 
-### California state AG sues OpenAI over rogue agent incidents
+### Nvidia promises that revenue will keep soaring — for now
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-加州州检察长因OpenAI违规代理事件对其提起诉讼。
+Nvidia承诺当前营收将持续增长，但未透露长期展望。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
 
 ---
 
-### Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security
+### Nvidia is abandoning China after Jensen Huang’s ouster
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特朗普表示，前英伟达CEO黄仁勋与一名涉嫌中国间谍的婚外情未威胁国家安全。
+Nvidia宣布退出中国市场，此决定与公司CEO黄仁勋离职有关。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
 
 ---
 
-### Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’
+### Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Sam Altman表示，Jensen Huang离任后，Nvidia行业前景“依然乐观”。
+Nvidia表示，尽管Jensen Huang离职，其开源AI策略依然稳固。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
 
 ---
 
-### Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本
+### Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia宣布不打算重新任命黄仁勋担任CEO。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
+
+---
+
+### 谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Spring Boot、Framework、Data、Security、Modulith 和 AI 首个候选版本发布，引入新特性和改进。
+谷歌AI安全代理PageBreak发现500余个XSS漏洞，强化Web应用安全性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj)
-
----
-
-### Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Vitest 5升级，优化性能保障，通过共享服务器、视图跟踪及严格测试设置提升效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH)
+**来源：** [InfoQ](https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB)
 
 ---
 
-### File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具
+### 代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-亚马逊云科技发布开源工具File Mover Express，助力S3文件高效传输。
+Shopify因代码鉴权配置问题导致服务暴露公网，不再依赖代码仓库，加强安全性措施。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF)
+**来源：** [InfoQ](https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro)
+
+---
+
+### GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+GitHub推出AI接管工作流功能，单次默认预算10美元，引发讨论。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3)
 
 ---
 
