@@ -9,30 +9,40 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月18日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月18日 14:00</span>
 </div>
 
 ---
 
 ## 2026年11月18
 
+### Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Felicis领投7.5百万美元投资Unsiloed AI，旨在使企业文档可被AI代理利用。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/)
+
+---
+
+### 业务本体：面向 AI 与数据分析，统一规范业务概念与指标口径 ｜ 技术趋势
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+业务本体技术助力AI与数据分析，统一规范业务概念与指标口径，推动数据治理与智能应用发展。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy)
+
+---
+
 ### Roundtables: Inside the Quest for Cognitive Immortality
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，业界专家在圆桌会议上探讨认知永生，数据AI技术成为关键驱动力，助力实现人类记忆与智慧的长期保存。
+MIT Tech Review报道，认知不朽追求研讨会探讨数据AI在延长人类认知寿命中的作用。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
-
----
-
-### More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，脑植入试验志愿者要求更多自主权，减少保密协议限制，以促进数据AI研究。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/)
 
 ---
 
