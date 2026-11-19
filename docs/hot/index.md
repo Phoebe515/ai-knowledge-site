@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月18日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月19日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月18
+## 2026年11月19
 
-### Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Nvidia投资初创企业规模增至650亿美元，但黄仁勋离职或影响未来投资。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
-
----
-
-### Nvidia promises that revenue will keep soaring — for now
+### Microsoft CEO Satya Nadella explains why he asked 60K employees to quit
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia承诺当前营收将持续增长，但未透露长期展望。
+微软CEO萨蒂亚·纳德拉解释为何要求6万名员工离职，称旨在优化团队结构，提升公司竞争力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)
 
 ---
 
-### Nvidia is abandoning China after Jensen Huang’s ouster
+### Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia宣布退出中国市场，此决定与公司CEO黄仁勋离职有关。
+微软CEO Satya Nadella表示，许多关键基础设施难以修复，面临AI网络攻击风险。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
 
 ---
 
-### Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit
+### Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia表示，尽管Jensen Huang离职，其开源AI策略依然稳固。
+特斯拉CEO马斯克比喻罢免英伟达CEO黄仁勋如同“开除迈克尔·乔丹”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
 
 ---
 
-### Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO
+### Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia宣布不打算重新任命黄仁勋担任CEO。
+微软CEO萨提亚·纳德拉对黄仁勋离职后仍对英伟达持信心。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)
 
 ---
 
-### 谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak
+### Satya Nadella predicts AI agents will reshuffle the economics of the web
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+微软CEO萨蒂亚·纳德拉预测，AI代理将重塑网络经济。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)
+
+---
+
+### 老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌AI安全代理PageBreak发现500余个XSS漏洞，强化Web应用安全性。
+老黄离职后，英伟达全员大会宣布提前涨薪发股票，强调不寻找“黄仁勋的克隆人”。贝索斯表示外部CEO难成功。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB)
-
----
-
-### 代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Shopify因代码鉴权配置问题导致服务暴露公网，不再依赖代码仓库，加强安全性措施。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro)
+**来源：** [InfoQ](https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP)
 
 ---
 
-### GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？
+### Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-GitHub推出AI接管工作流功能，单次默认预算10美元，引发讨论。
+Bug0推出QA Agent，借助缓存Playwright回放，实现回归测试自动化，提升测试效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3)
+**来源：** [InfoQ](https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j)
+
+---
+
+### 微软将停用 Azure 部署环境，而且不会推出替代产品
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+微软宣布停用Azure部署环境，不再推出替代产品。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r)
 
 ---
 
