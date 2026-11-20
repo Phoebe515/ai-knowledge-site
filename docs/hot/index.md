@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月19日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月20日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月19
+## 2026年11月20
 
-### Microsoft CEO Satya Nadella explains why he asked 60K employees to quit
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-微软CEO萨蒂亚·纳德拉解释为何要求6万名员工离职，称旨在优化团队结构，提升公司竞争力。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)
-
----
-
-### Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’
+### Apple may be developing its own AI agent that runs your Mac
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO Satya Nadella表示，许多关键基础设施难以修复，面临AI网络攻击风险。
+苹果可能正在开发一款运行于Mac的AI代理。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
 
 ---
 
-### Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’
+### Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-特斯拉CEO马斯克比喻罢免英伟达CEO黄仁勋如同“开除迈克尔·乔丹”。
+Anthropic七位创始人通过破纪录的IPO套现近20亿美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)
 
 ---
 
-### Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit
+### Meta’s new Muse Charm device may cost $300
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO萨提亚·纳德拉对黄仁勋离职后仍对英伟达持信心。
+Meta即将推出新设备Muse Charm，售价或达300美元。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
 
 ---
 
-### Satya Nadella predicts AI agents will reshuffle the economics of the web
+### These tech outages are giving Y2K, AI agent style
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-微软CEO萨蒂亚·纳德拉预测，AI代理将重塑网络经济。
+近期科技故障引发对Y2K和AI代理时代的担忧，专家呼吁加强系统稳定性保障。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
 
 ---
 
-### 老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功
+### The unfolding Jensen Huang scandal: a timeline
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+科技媒体TechCrunch发布了英伟达CEO黄仁勋涉嫌丑闻的时间线，揭露了事件的来龙去脉。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+
+---
+
+### 谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-老黄离职后，英伟达全员大会宣布提前涨薪发股票，强调不寻找“黄仁勋的克隆人”。贝索斯表示外部CEO难成功。
+谷歌发布Gemini 4 Argon，用于机器人控制、仿真和策略优化，旨在提升机器人智能水平。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP)
-
----
-
-### Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Bug0推出QA Agent，借助缓存Playwright回放，实现回归测试自动化，提升测试效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j)
+**来源：** [InfoQ](https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR)
 
 ---
 
-### 微软将停用 Azure 部署环境，而且不会推出替代产品
+### Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-微软宣布停用Azure部署环境，不再推出替代产品。
+Snowflake Expedition大会展示多项新能力，包括数据集成、实时分析、AI赋能等，为用户带来更强大的数据处理和分析能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r)
+**来源：** [InfoQ](https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd)
+
+---
+
+### Cloudflare 重构 D1 控制平面，支持数百万数据库规模
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Cloudflare重构D1控制平面，实现数百万数据库规模支持，提升性能与可扩展性。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6)
 
 ---
 
