@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月20日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月21日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月20
+## 2026年11月21
+
+### Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+瑞典企业家Daniel Ek支持AI研究员创办的融合能源初创公司，该公司致力于研发新型能源技术。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
+
+---
+
+### AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+AI和人类学者分别提出解决167年Riemann猜想方案，引发数学界热议。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
+
+---
+
+### Chips can survive the space environment — can their financing?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+芯片能在太空环境中生存，但其融资前景堪忧。TechCrunch报道，尽管技术突破，芯片产业融资面临挑战。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
+
+---
+
+### Six AI-powered gadgets that could make your home office smarter
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch报道，六款AI家居办公设备助您打造更智能的工作环境。产品涵盖智能音箱、摄像头和照明等，提升工作效率和生活品质。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
+
+---
 
 ### Apple may be developing its own AI agent that runs your Mac
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-苹果可能正在开发一款运行于Mac的AI代理。
+苹果可能正在开发一款运行在Mac上的AI代理。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
 
 ---
 
-### Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic七位创始人通过破纪录的IPO套现近20亿美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)
-
----
-
-### Meta’s new Muse Charm device may cost $300
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Meta即将推出新设备Muse Charm，售价或达300美元。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
-
----
-
-### These tech outages are giving Y2K, AI agent style
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-近期科技故障引发对Y2K和AI代理时代的担忧，专家呼吁加强系统稳定性保障。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
-
----
-
-### The unfolding Jensen Huang scandal: a timeline
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-科技媒体TechCrunch发布了英伟达CEO黄仁勋涉嫌丑闻的时间线，揭露了事件的来龙去脉。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-
----
-
-### 谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon
+### 智能体 AI 架构：当前挑战与未来机遇
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌发布Gemini 4 Argon，用于机器人控制、仿真和策略优化，旨在提升机器人智能水平。
+智能体AI架构面临挑战，如算法复杂性和数据隐私，但未来机遇巨大，有望推动AI技术革新。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR)
-
----
-
-### Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Snowflake Expedition大会展示多项新能力，包括数据集成、实时分析、AI赋能等，为用户带来更强大的数据处理和分析能力。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd)
+**来源：** [InfoQ](https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX)
 
 ---
 
-### Cloudflare 重构 D1 控制平面，支持数百万数据库规模
+### TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare重构D1控制平面，实现数百万数据库规模支持，提升性能与可扩展性。
+TaoDesign在AICon北京分享知识工程实践，实现设计资产到Agent的持续进化，推动设计智能化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6)
+**来源：** [InfoQ](https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ)
+
+---
+
+### Entire Git Forge：面向编码智能体重构 Git 协作方式
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Entire Git Forge重构Git协作方式，提供编码智能体重建，优化团队协作效率。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc)
 
 ---
 
