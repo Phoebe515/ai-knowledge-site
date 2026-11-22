@@ -9,60 +9,80 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月21日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月22日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月21
+## 2026年11月22
+
+### Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Signal限制移动端截图功能，应对AI监控的“生存威胁”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+
+---
+
+### A tale of two Nvidias
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+两家NVIDIA：一家专注高性能计算，一家聚焦人工智能，技术路径差异显著。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+
+---
+
+### Here are the top AI agents that can live in your text messages 
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+TechCrunch报道，多款AI助手可融入短信，提供个性化互动服务。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
+
+---
+
+### Is selling an AI version of your face to this microdrama startup the future of Hollywood?
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+好莱坞未来可能转向以面部AI技术为基础的新模式，TechCrunch报道一家初创公司正探索出售面部数据的新方式。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
+
+---
 
 ### Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-瑞典企业家Daniel Ek支持AI研究员创办的融合能源初创公司，该公司致力于研发新型能源技术。
+瑞典企业家Daniel Ek支持AI研究员创立的融合能源初创公司，该公司正在研发新型能源技术。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
 
 ---
 
-### AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
+### 智能体身份国际标准化：体系布局与研制实践｜AICon北京
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI和人类学者分别提出解决167年Riemann猜想方案，引发数学界热议。
+AICon北京探讨智能体身份国际标准化，聚焦体系布局与研制实践，推动智能体身份技术发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
-
----
-
-### Chips can survive the space environment — can their financing?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-芯片能在太空环境中生存，但其融资前景堪忧。TechCrunch报道，尽管技术突破，芯片产业融资面临挑战。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
+**来源：** [InfoQ](https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C)
 
 ---
 
-### Six AI-powered gadgets that could make your home office smarter
+### 亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改
 
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-TechCrunch报道，六款AI家居办公设备助您打造更智能的工作环境。产品涵盖智能音箱、摄像头和照明等，提升工作效率和生活品质。
+亚马逊云科技发布TorchNeuron，PyTorch模型可直接在AWS Trainium上运行，无需修改。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
-
----
-
-### Apple may be developing its own AI agent that runs your Mac
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-苹果可能正在开发一款运行在Mac上的AI代理。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
+**来源：** [InfoQ](https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY)
 
 ---
 
@@ -70,29 +90,9 @@ TechCrunch报道，六款AI家居办公设备助您打造更智能的工作环�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-智能体AI架构面临挑战，如算法复杂性和数据隐私，但未来机遇巨大，有望推动AI技术革新。
+AI架构面临当前挑战，如可扩展性、可维护性和安全性，未来机遇在于技术创新和行业应用拓展。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX)
-
----
-
-### TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-TaoDesign在AICon北京分享知识工程实践，实现设计资产到Agent的持续进化，推动设计智能化。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ)
-
----
-
-### Entire Git Forge：面向编码智能体重构 Git 协作方式
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-Entire Git Forge重构Git协作方式，提供编码智能体重建，优化团队协作效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc)
 
 ---
 
