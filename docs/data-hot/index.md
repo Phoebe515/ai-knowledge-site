@@ -9,18 +9,38 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月21日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月22日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月21
+## 2026年11月22
+
+### Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Signal加强移动端截图限制，应对AI监控带来的“生存威胁”。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+
+---
+
+### Trump says reported FBI database hack is ‘not good’
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+特朗普表示，据报FBI数据库遭黑客攻击“不太妙”，涉及数据AI安全。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
+
+---
 
 ### Cloudflare 重构 D1 控制平面，支持数百万数据库规模
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Cloudflare重构D1控制平面，实现数百万数据库规模支持，提升数据AI处理能力。
+Cloudflare重构D1控制平面，实现数百万数据库规模支持，提升数据AI处理效率。
 
 **来源：** [InfoQ](https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6)
 
@@ -30,7 +50,7 @@ Cloudflare重构D1控制平面，实现数百万数据库规模支持，提升�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，科学家成功培育活体肝脏，达成百亿电池交易，AI行业泡沫引发关注。
+MIT Tech Review报道，科学家培育出活体肝细胞，达成百亿电池交易，AI领域炒作盛行。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/)
 
@@ -40,7 +60,7 @@ MIT Tech Review报道，科学家成功培育活体肝脏，达成百亿电池�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-人类肝脏在体外存活时间刷新至七周纪录，MIT Tech Review报道，此项突破得益于数据AI在生物医学领域的应用。
+MIT Tech Review报道，人类肝脏在体外存活时间刷新至七周，标志着器官移植领域重大突破，数据AI技术助力精准监测与维护。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/)
 
@@ -50,7 +70,7 @@ MIT Tech Review报道，科学家成功培育活体肝脏，达成百亿电池�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一项百亿美元交易揭示美国电池市场潜力，数据AI技术助力产业升级。
+MIT Tech Review报道，一笔十亿美元的交易揭示了美国电池市场对数据AI技术的依赖，预示着行业发展趋势。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/)
 
@@ -60,7 +80,7 @@ MIT Tech Review报道，一项百亿美元交易揭示美国电池市场潜力�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，探讨认知不朽的圆桌会议聚焦数据AI技术，探索通过人工智能实现人类认知能力持久化。
+MIT Tech Review报道，专家在探索认知永生，利用数据AI技术模拟人类大脑，以期实现脑信息数字化存储与传输。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
 
