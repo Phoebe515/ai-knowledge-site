@@ -9,18 +9,48 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月22日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月23日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月22
+## 2026年11月23
+
+### How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+知名投资机构Notable Capital、GIC和Baillie Gifford在Anthropic IPO前重金押注，看好其发展前景。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
+
+---
+
+### OpenAI’s chief scientist has thoughts on how to limit AI development
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+OpenAI首席科学家分享了对限制AI发展的看法，强调需平衡创新与风险。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+
+---
+
+### Why data centers are at the center of the Big Tech backlash
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+大数据中心成为科技巨头反感的焦点，TechCrunch分析其背后原因。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
+
+---
 
 ### Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Signal限制移动端截图功能，应对AI监控的“生存威胁”。
+Signal为应对AI监控的“存亡威胁”，限制移动端截图功能。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
 
@@ -30,69 +60,39 @@ Signal限制移动端截图功能，应对AI监控的“生存威胁”。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-两家NVIDIA：一家专注高性能计算，一家聚焦人工智能，技术路径差异显著。
+两家Nvidia分道扬镳，一家专注AI芯片，一家聚焦数据中心。市场前景各异，未来发展引人关注。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
 
 ---
 
-### Here are the top AI agents that can live in your text messages 
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch报道，多款AI助手可融入短信，提供个性化互动服务。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
-
----
-
-### Is selling an AI version of your face to this microdrama startup the future of Hollywood?
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-好莱坞未来可能转向以面部AI技术为基础的新模式，TechCrunch报道一家初创公司正探索出售面部数据的新方式。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
-
----
-
-### Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-瑞典企业家Daniel Ek支持AI研究员创立的融合能源初创公司，该公司正在研发新型能源技术。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
-
----
-
-### 智能体身份国际标准化：体系布局与研制实践｜AICon北京
+### JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AICon北京探讨智能体身份国际标准化，聚焦体系布局与研制实践，推动智能体身份技术发展。
+JDK 24引入虚拟线程，Java生产环境迎来重大变化，简化并发编程，提升性能。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C)
-
----
-
-### 亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-亚马逊云科技发布TorchNeuron，PyTorch模型可直接在AWS Trainium上运行，无需修改。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY)
+**来源：** [InfoQ](https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ)
 
 ---
 
-### 智能体 AI 架构：当前挑战与未来机遇
+### 具身智能进入大浪淘沙阶段，企业需要怎样的人才？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI架构面临当前挑战，如可扩展性、可维护性和安全性，未来机遇在于技术创新和行业应用拓展。
+具身智能产业进入淘汰赛，企业需培养具备跨学科背景、创新思维和强大工程能力的复合型人才。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX)
+**来源：** [InfoQ](https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z)
+
+---
+
+### Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Anthropic IPO首日遭遇性能问题，AI市场持续悲观，万亿估值引发关注，需警惕行业风险。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA)
 
 ---
 
