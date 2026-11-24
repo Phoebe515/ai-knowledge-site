@@ -9,18 +9,18 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月23日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月24日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月23
+## 2026年11月24
 
 ### CrowdStrike to acquire Zscaler for $44 billion
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-CrowdStrike宣布以440亿美元收购Zscaler，加强网络安全和数据AI技术整合。
+网络安全公司CrowdStrike宣布以440亿美元收购Zscaler，拓展数据安全与AI防御能力。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/)
 
@@ -30,39 +30,19 @@ CrowdStrike宣布以440亿美元收购Zscaler，加强网络安全和数据AI技
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-知名投资机构Notable Capital、GIC和Baillie Gifford在Anthropic IPO前重金押注，看好其数据AI技术发展前景。
+知名投资机构Notable Capital、GIC和Baillie Gifford在Anthropic IPO前重注，押注其数据AI技术发展。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
 
 ---
 
-### Why data centers are at the center of the Big Tech backlash
+### 数据分析的下一站：智能体分析
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-大数据中心成为科技巨头反感的中心，其AI数据处理能力引发隐私和环境影响担忧。
+数据分析领域迎来新趋势，智能体分析成为研究焦点，推动数据AI技术发展。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
-
----
-
-### TechCrunch Mobility: A/B testing robots vs. humans
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-TechCrunch Mobility报道，A/B测试对比机器人和人类效率，数据AI技术助力优化劳动力分配。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
-
----
-
-### Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Signal限制移动截图以应对AI监控的“生存威胁”，强化隐私保护。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+**来源：** [InfoQ](https://www.infoq.cn/video/Q0rXqh3OmSAhcePiDjh2)
 
 ---
 
@@ -70,7 +50,7 @@ Signal限制移动截图以应对AI监控的“生存威胁”，强化隐私保
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，科学家成功培育活体肝细胞，达成百亿电池交易，同时AI领域过度炒作引发关注。
+MIT Tech Review报道，科学家培养出活体肝细胞，达成百亿电池交易，AI行业过度炒作。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/)
 
@@ -80,7 +60,7 @@ MIT Tech Review报道，科学家成功培育活体肝细胞，达成百亿电�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-研究人员成功将人体肝脏在体外维持活性达七周，为器官移植技术带来突破，AI技术在数据分析与模拟中发挥关键作用。
+人类肝脏在体外存活时间创纪录，达七周，此项研究有望推动器官移植领域的AI辅助发展。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/)
 
@@ -90,7 +70,7 @@ MIT Tech Review报道，科学家成功培育活体肝细胞，达成百亿电�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，一笔十亿美元的交易揭示了美国电池市场对数据AI技术的依赖，预示着数据在电池行业的重要性日益凸显。
+美国电池市场迎来百亿级交易，AI技术助力提升电池性能与市场竞争力。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/)
 
