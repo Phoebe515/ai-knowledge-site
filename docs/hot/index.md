@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月23日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月24日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月23
+## 2026年11月24
 
-### How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-知名投资机构Notable Capital、GIC和Baillie Gifford在Anthropic IPO前重金押注，看好其发展前景。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
-
----
-
-### OpenAI’s chief scientist has thoughts on how to limit AI development
+### Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI首席科学家分享了对限制AI发展的看法，强调需平衡创新与风险。
+Anthropic推出Claude Ship，AI代理可审查、修复和批准代码变更，提升软件开发效率。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
 
 ---
 
-### Why data centers are at the center of the Big Tech backlash
+### Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-大数据中心成为科技巨头反感的焦点，TechCrunch分析其背后原因。
+Supertake获20M美元融资，推出AI预测市场并构建股票组合。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
 
 ---
 
-### Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
+### Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Signal为应对AI监控的“存亡威胁”，限制移动端截图功能。
+Nvidia在丑闻中恢复Jensen Huang职位，Elon Musk等业界人士表示喜悦。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/)
 
 ---
 
-### A tale of two Nvidias
+### Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-两家Nvidia分道扬镳，一家专注AI芯片，一家聚焦数据中心。市场前景各异，未来发展引人关注。
+Megaspeed涉嫌黄仁勋丑闻，可能被列入美国黑名单。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
 
 ---
 
-### JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化
+### Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia员工热烈欢迎创始人黄仁勋重返公司总部，场面如英雄归来。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/)
+
+---
+
+### 当 AI 改变一切，下一步如何构建？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-JDK 24引入虚拟线程，Java生产环境迎来重大变化，简化并发编程，提升性能。
+AI技术正深刻改变世界，未来如何构建成为关键议题。InfoQ探讨AI发展趋势与构建策略。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ)
-
----
-
-### 具身智能进入大浪淘沙阶段，企业需要怎样的人才？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-具身智能产业进入淘汰赛，企业需培养具备跨学科背景、创新思维和强大工程能力的复合型人才。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z)
+**来源：** [InfoQ](https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO)
 
 ---
 
-### Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了
+### 技术债务具有社会性：它是边做边学的代价
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Anthropic IPO首日遭遇性能问题，AI市场持续悲观，万亿估值引发关注，需警惕行业风险。
+技术债务具有社会性，是边做边学的代价，需重视其管理。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA)
+**来源：** [InfoQ](https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs)
+
+---
+
+### 谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+谷歌研究发现，技术债务导致编码智能体“智能体分心”，偏离正轨。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr)
 
 ---
 
