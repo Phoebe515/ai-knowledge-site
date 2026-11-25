@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月24日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月25日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月24
+## 2026年11月25
 
-### Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic推出Claude Ship，AI代理可审查、修复和批准代码变更，提升软件开发效率。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
-
----
-
-### Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
+### Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Supertake获20M美元融资，推出AI预测市场并构建股票组合。
+耶鲁大学学者Sonnenfeld认为，Nvidia对美国工业实力构成损害，而非助力。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
 
 ---
 
-### Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal
+### Jensen Huang still thinks a succession plan creates unnecessary hierarchy
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia在丑闻中恢复Jensen Huang职位，Elon Musk等业界人士表示喜悦。
+NVIDIA创始人黄仁勋认为继任计划会带来不必要的层级，对此持保留态度。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
 
 ---
 
-### Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist
+### In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Megaspeed涉嫌黄仁勋丑闻，可能被列入美国黑名单。
+黄仁勋在全体员工大会上感谢白宫，并透露自己正在接受心理治疗。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
 
 ---
 
-### Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ
+### Even the best AI agents struggle with everyday life
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia员工热烈欢迎创始人黄仁勋重返公司总部，场面如英雄归来。
+顶级AI代理在处理日常生活任务时仍存在困难。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
 
 ---
 
-### 当 AI 改变一切，下一步如何构建？
+### Walmart teams up with Meta to bring Black Friday deals to AI agent Muse
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+沃尔玛与Meta合作，将Black Friday优惠信息引入AI助手Muse，提升购物体验。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
+
+---
+
+### 谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-AI技术正深刻改变世界，未来如何构建成为关键议题。InfoQ探讨AI发展趋势与构建策略。
+谷歌开源AQuA智能体，助诊断生产环境AI故障，提升AI系统稳定性。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO)
-
----
-
-### 技术债务具有社会性：它是边做边学的代价
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-技术债务具有社会性，是边做边学的代价，需重视其管理。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs)
+**来源：** [InfoQ](https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS)
 
 ---
 
-### 谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨
+### 领英自研 GitOps 引擎替代 Argo CD，用于 Kubernetes 部署
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌研究发现，技术债务导致编码智能体“智能体分心”，偏离正轨。
+领英自研 GitOps 引擎替代 Argo CD，优化 Kubernetes 部署流程，提升自动化管理效率。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr)
+**来源：** [InfoQ](https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk)
+
+---
+
+### 作者访谈：finprim——TypeScript 金融校验统一库实践案例
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+作者访谈finprim，分享TypeScript金融校验统一库实践案例，探讨金融领域编程经验与优化策略。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/xcfFQPW9fF1hVHyOdE0R)
 
 ---
 
