@@ -9,90 +9,90 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月25日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月26日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月25
+## 2026年11月26
 
-### Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-耶鲁大学学者Sonnenfeld认为，Nvidia对美国工业实力构成损害，而非助力。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
-
----
-
-### Jensen Huang still thinks a succession plan creates unnecessary hierarchy
+### S&P considers Nvidia credit downgrade over governance and ‘key man’ risks
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-NVIDIA创始人黄仁勋认为继任计划会带来不必要的层级，对此持保留态度。
+标准普尔考虑下调英伟达信用评级，因治理问题和“关键人物”风险。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
 
 ---
 
-### In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy
+### OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-黄仁勋在全体员工大会上感谢白宫，并透露自己正在接受心理治疗。
+OpenAI宣布，随着Chat和Work合并，ChatGPT的重度使用者可能更早遇到使用限制。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
 ---
 
-### Even the best AI agents struggle with everyday life
+### Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-顶级AI代理在处理日常生活任务时仍存在困难。
+Nvidia CEO黄仁勋违反公司行为准则，员工可能难以忘怀。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
 
 ---
 
-### Walmart teams up with Meta to bring Black Friday deals to AI agent Muse
+### Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-沃尔玛与Meta合作，将Black Friday优惠信息引入AI助手Muse，提升购物体验。
+Anthropic首席执行官Dario Amodei反驳将公司AI发展视为放弃人类控制的指控，称其为“荒谬”。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
 
 ---
 
-### 谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障
+### Want to buy your kid an AI toy this Christmas? Not in New York
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+纽约禁止在圣诞节销售AI玩具，科技媒体TechCrunch报道，此禁令旨在保护儿童隐私。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
+
+---
+
+### Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-谷歌开源AQuA智能体，助诊断生产环境AI故障，提升AI系统稳定性。
+Siri AI开发者预览版支持iOS、iPadOS和macOS应用集成，增强应用智能交互能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS)
-
----
-
-### 领英自研 GitOps 引擎替代 Argo CD，用于 Kubernetes 部署
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-领英自研 GitOps 引擎替代 Argo CD，优化 Kubernetes 部署流程，提升自动化管理效率。
-
-**来源：** [InfoQ](https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk)
+**来源：** [InfoQ](https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ)
 
 ---
 
-### 作者访谈：finprim——TypeScript 金融校验统一库实践案例
+### AI写代码，谁来交付？
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-作者访谈finprim，分享TypeScript金融校验统一库实践案例，探讨金融领域编程经验与优化策略。
+AI生成代码引发交付责任问题，行业探讨如何界定责任与归属。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/xcfFQPW9fF1hVHyOdE0R)
+**来源：** [InfoQ](https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW)
+
+---
+
+### 前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+前苹果空间智能首席科学家权龙创立Envision AI，专注于研发空间物理基础模型。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb)
 
 ---
 
