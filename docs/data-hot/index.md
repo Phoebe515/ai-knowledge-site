@@ -9,40 +9,30 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月25日 14:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月26日 09:00</span>
 </div>
 
 ---
 
-## 2026年11月25
+## 2026年11月26
 
-### Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank
+### DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-电动车初创公司Harbinger获Palmer Luckey银行融资支持，助力其AI技术在物流领域应用发展。
+美国司法部指控前网络高管通过秘密支付黑客，欺诈勒索软件受害者，涉及数据安全与AI技术滥用。
 
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/)
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
 
 ---
 
-### 做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？
+### 开源数据库 DocumentDB 正式发布 1.0 版本
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-蚂蚁OceanBase推出AI数据平台，旨在通过AI技术优化数据库性能，提升数据处理能力，推动数据AI领域发展。
+开源数据库DocumentDB正式发布1.0版本，支持数据AI应用，提供高效、灵活的数据库服务。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/2YvROKs0CHz1yR4Wi02o)
-
----
-
-### The Download: a living liver, a billion-dollar battery deal, and AI hype
-
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
-
-MIT Tech Review报道，科学家成功培育活体肝脏，达成百亿级电池交易，同时AI领域过度炒作引发关注。
-
-**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/)
+**来源：** [InfoQ](https://www.infoq.cn/article/k2Q7xBBucwOwxVoyq4LG)
 
 ---
 
