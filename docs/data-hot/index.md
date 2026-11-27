@@ -9,7 +9,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #e3f2fd; border-radius: 8px; font-size: 13px; color: #1976d2; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月27日 09:00</span>
+  <span>每日更新两次（早9点、下午14点）| 最近更新：2026年11月27日 14:00</span>
 </div>
 
 ---
@@ -20,19 +20,29 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-美国司法部指控前网络安全高管通过秘密支付黑客，欺诈勒索软件受害者，涉及数据安全与AI技术应用问题。
+美国司法部指控前网络高管通过秘密支付黑客，诈骗勒索软件受害者，涉及数据AI安全领域。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
 
 ---
 
-### 开源数据库 DocumentDB 正式发布 1.0 版本
+### The Download: Innovators Under 35 nominations are open, and a bionic window into the mind
 
-<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-开源数据库DocumentDB 1.0版本正式发布，支持自动扩缩容和跨区域复制，为数据AI应用提供高效、可靠的存储解决方案。
+MIT Tech Review宣布，Innovators Under 35提名活动开启，聚焦年轻创新者，涵盖数据AI等前沿科技领域。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/k2Q7xBBucwOwxVoyq4LG)
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/)
+
+---
+
+### How cutting-edge prosthetics can help probe the human mind
+
+<span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
+
+先进假肢技术助力探索人脑奥秘，数据AI分析揭示神经机制，为脑科学研究提供新工具。
+
+**来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/)
 
 ---
 
@@ -40,7 +50,7 @@ description: 盘点全网最新数据方向AI应用热点，涵盖数据分析�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT Tech Review报道，人工智能在天然气行业爆发，同时生物机械手技术取得突破。
+MIT Tech Review报道，新研发的仿生手提升手部功能，同时AI助力天然气勘探效率提高。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/)
 
@@ -50,7 +60,7 @@ MIT Tech Review报道，人工智能在天然气行业爆发，同时生物机�
 
 <span class="difficulty-beginner">数据AI热点</span> <span style="color: #999; font-size: 13px;">📖 MIT Tech Review</span>
 
-MIT研发新一代仿生手，具备触觉感知功能，利用数据AI技术实现更自然的人机交互。
+MIT研发新一代仿生手，具备触觉感知功能，利用数据AI技术提升用户体验。
 
 **来源：** [MIT Tech Review](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/)
 
