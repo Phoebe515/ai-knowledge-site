@@ -9,18 +9,38 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月26日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月27日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月26
+## 2026年11月27
+
+### Nvidia hits pause on chip shipments to Southeast Asia
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+Nvidia暂停向东南亚出货芯片，影响地区供应链。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
+
+---
+
+### Grand Theft Auto VI proves why efficiency isn’t a virtue
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
+
+《侠盗猎车手VI》证明效率并非优点，TechCrunch报道该游戏因优化不足引发争议。
+
+**来源：** [TechCrunch](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
+
+---
 
 ### S&P considers Nvidia credit downgrade over governance and ‘key man’ risks
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-标准普尔考虑下调英伟达信用评级，因治理问题和“关键人物”风险。
+标普考虑下调英伟达信用评级，因治理和“关键人物”风险。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
 
@@ -30,7 +50,7 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI宣布，随着Chat和Work合并，ChatGPT的重度使用者可能更早遇到使用限制。
+OpenAI宣布，随着Chat和Work合并，ChatGPT重度用户可能更早触及使用限制。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
@@ -40,59 +60,39 @@ OpenAI宣布，随着Chat和Work合并，ChatGPT的重度使用者可能更早�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia CEO黄仁勋违反公司行为准则，员工可能难以忘怀。
+Nvidia创始人黄仁勋违反公司行为准则，或影响员工对其看法。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
 
 ---
 
-### Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-Anthropic首席执行官Dario Amodei反驳将公司AI发展视为放弃人类控制的指控，称其为“荒谬”。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
-
----
-
-### Want to buy your kid an AI toy this Christmas? Not in New York
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
-
-纽约禁止在圣诞节销售AI玩具，科技媒体TechCrunch报道，此禁令旨在保护儿童隐私。
-
-**来源：** [TechCrunch](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
-
----
-
-### Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成
+### PingCAP数据泄露事件暴露客户记录与源代码
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Siri AI开发者预览版支持iOS、iPadOS和macOS应用集成，增强应用智能交互能力。
+PingCAP数据泄露事件曝光客户记录及源代码，引发安全担忧。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ)
-
----
-
-### AI写代码，谁来交付？
-
-<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
-
-AI生成代码引发交付责任问题，行业探讨如何界定责任与归属。
-
-**来源：** [InfoQ](https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW)
+**来源：** [InfoQ](https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW)
 
 ---
 
-### 前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型
+### JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-前苹果空间智能首席科学家权龙创立Envision AI，专注于研发空间物理基础模型。
+JEP 543在JDK 28中完成七轮预览，结构化并发功能正式定稿，将增强Java多线程编程能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb)
+**来源：** [InfoQ](https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe)
+
+---
+
+### 如何在Postgres上实现无需外部编排器的持久化工作流
+
+<span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
+
+Postgres支持无需外部编排器的持久化工作流，实现方式涉及自定义函数和触发器，可优化数据处理流程。
+
+**来源：** [InfoQ](https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3)
 
 ---
 
