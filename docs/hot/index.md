@@ -9,18 +9,18 @@ description: 追踪AI领域最新动态，了解前沿技术与行业趋势
 
 <div style="margin: 20px 0; padding: 12px 16px; background: #fff3e0; border-radius: 8px; font-size: 13px; color: #f57c00; display: inline-flex; align-items: center; gap: 8px;">
   <span>⏰</span>
-  <span>每日早7点自动更新 | 最近更新：2026年11月27日 07:00</span>
+  <span>每日早7点自动更新 | 最近更新：2026年11月28日 07:00</span>
 </div>
 
 ---
 
-## 2026年11月27
+## 2026年11月28
 
 ### Nvidia hits pause on chip shipments to Southeast Asia
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia暂停向东南亚出货芯片，影响地区供应链。
+Nvidia暂停向东南亚地区运送芯片，具体原因及影响尚待进一步了解。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
 
@@ -30,7 +30,7 @@ Nvidia暂停向东南亚出货芯片，影响地区供应链。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-《侠盗猎车手VI》证明效率并非优点，TechCrunch报道该游戏因优化不足引发争议。
+《侠盗猎车手VI》证明效率并非美德，TechCrunch报道该游戏因效率问题备受争议。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
 
@@ -40,7 +40,7 @@ Nvidia暂停向东南亚出货芯片，影响地区供应链。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-标普考虑下调英伟达信用评级，因治理和“关键人物”风险。
+标普考虑下调英伟达信用评级，因治理和关键人物风险。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
 
@@ -50,7 +50,7 @@ Nvidia暂停向东南亚出货芯片，影响地区供应链。
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-OpenAI宣布，随着Chat和Work合并，ChatGPT重度用户可能更早触及使用限制。
+OpenAI宣布，随着Chat和Work合并，ChatGPT的重度用户可能更早触及使用限制。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
@@ -60,39 +60,39 @@ OpenAI宣布，随着Chat和Work合并，ChatGPT重度用户可能更早触及�
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 TechCrunch</span>
 
-Nvidia创始人黄仁勋违反公司行为准则，或影响员工对其看法。
+Nvidia创始人黄仁勋违反公司行为准则，或影响员工记忆。TechCrunch报道。
 
 **来源：** [TechCrunch](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
 
 ---
 
-### PingCAP数据泄露事件暴露客户记录与源代码
+### 技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-PingCAP数据泄露事件曝光客户记录及源代码，引发安全担忧。
+2027年，技术变革虽未如期而至，但行业趋势悄然兴起。InfoQ与Werner探讨2027技术趋势，揭示技术发展的新动向。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW)
+**来源：** [InfoQ](https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK)
 
 ---
 
-### JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能
+### 十年：谷歌更新 SRE 著作，拥抱 AI 时代
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-JEP 543在JDK 28中完成七轮预览，结构化并发功能正式定稿，将增强Java多线程编程能力。
+谷歌更新SRE著作，融入AI新理念，引领运维领域迈向智能化。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe)
+**来源：** [InfoQ](https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds)
 
 ---
 
-### 如何在Postgres上实现无需外部编排器的持久化工作流
+### 华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力
 
 <span class="difficulty-beginner">热点</span> <span style="color: #999; font-size: 13px;">📖 InfoQ</span>
 
-Postgres支持无需外部编排器的持久化工作流，实现方式涉及自定义函数和触发器，可优化数据处理流程。
+华映资本李岩将出席AICon北京，分享AI落地所需持续积累的能力。
 
-**来源：** [InfoQ](https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3)
+**来源：** [InfoQ](https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT)
 
 ---
 
